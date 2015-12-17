@@ -100,7 +100,7 @@ class ZenginCLI < Thor
 
   private
 
-  def dowload_archive
+  def download_archive
     puts "Download: #{SOURCE_ARCHIVE_URL}"
     pb = ProgressBar.create(title: 'Downloading', total: nil, format: '%t: |%B| %E')
     open(
