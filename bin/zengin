@@ -104,9 +104,8 @@ class ZenginCLI < Thor
         run("git push #{remote} master")
         run("git push -f --tags #{remote}")
 
+        CircleCi::Project.build_branch('zengin-code', 'zengin-rb', 'master', 'RELEASE_BUILD' => 'TRUE')
       end
-
-      p CircleCi::Project.build_branch('zengin-code', 'zengin-rb', 'master', 'RELEASE' => 'TRUE')
     end
   end
 
