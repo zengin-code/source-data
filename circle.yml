@@ -1,0 +1,20 @@
+machine:
+  timezone:
+    Asia/Tokyo
+  ruby:
+    version: 2.2.3
+
+dependencies:
+  pre:
+    - gem update bundler
+
+test:
+  override:
+    - ./bin/zengin update
+
+deployment:
+  release:
+    branch: master
+    commands:
+      - ./bin/zengin git
+      - ./bin/zengin ci

@@ -84,8 +84,19 @@ class ZenginCLI < Thor
     inside(ROOT_DIR) do
       run('git add .')
       run(%Q{git commit -m "Update: #{now.strftime('%Y / %m / %d')}"})
-      run(%Q{git tag #{now.strftime('%Y-%m-%d')}})
-      run('git push --all')
+      run(%Q{git tag -f #{now.strftime('%Y-%m-%d')}})
+    end
+  end
+
+  desc 'ci', 'ci job'
+  def ci
+    inside(ROOT_DIR) do
+      run('git config user.email "zeny-man@zeny.io"')
+      run('git config user.name "zeny-man"')
+
+      remote = "git@github.com:#{ENV['CIRCLE_PROJECT_USERNAME']}/#{ENV['CIRCLE_PROJECT_REPONAME']}.git"
+      run("git push #{remote} master")
+      run("git push -f --tags #{remote}")
     end
   end
 
