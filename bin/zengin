@@ -15,6 +15,11 @@ require 'moji'
 require 'romaji'
 require 'oj'
 require 'yaml'
+require 'circleci'
+
+CircleCi.configure do |config|
+  config.token = ENV['ZENGINCI_TOKEN']
+end
 
 class ZenginCLI < Thor
   include Thor::Invocation
@@ -86,17 +91,23 @@ class ZenginCLI < Thor
   def ci
     now = Time.now
 
+    return
+
     inside(ROOT_DIR) do
       run('git config user.email "zeny-man@zeny.io"')
       run('git config user.name "zeny-man"')
 
       run('git add data')
-      run(%Q{git commit -m "Update: #{now.strftime('%Y / %m / %d')}"})
-      run(%Q{git tag -f #{now.strftime('%Y-%m-%d')}})
+      changed = run(%Q{git commit -m "Update: #{now.strftime('%Y / %m / %d')}"})
+      if changed
+        run(%Q{git tag -f #{now.strftime('%Y-%m-%d')}})
 
-      remote = "git@github.com:#{ENV['CIRCLE_PROJECT_USERNAME']}/#{ENV['CIRCLE_PROJECT_REPONAME']}.git"
-      run("git push #{remote} master")
-      run("git push -f --tags #{remote}")
+        remote = "git@github.com:#{ENV['CIRCLE_PROJECT_USERNAME']}/#{ENV['CIRCLE_PROJECT_REPONAME']}.git"
+        run("git push #{remote} master")
+        run("git push -f --tags #{remote}")
+
+        CircleCi::Project.build_branch('zengin-code', 'zengin-rb', 'master', 'RELEASE' => 'TRUE')
+      end
     end
   end
 

@@ -1,19 +1,35 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    circleci (0.2.0)
+      rest-client (~> 1.8)
+    domain_name (0.5.25)
+      unf (>= 0.0.5, < 1.0.0)
+    http-cookie (1.0.2)
+      domain_name (~> 0.5)
+    mime-types (2.99)
     moji (1.6)
+    netrc (0.11.0)
     oj (2.14.1)
     rake (10.4.2)
+    rest-client (1.8.0)
+      http-cookie (>= 1.0.2, < 2.0)
+      mime-types (>= 1.16, < 3.0)
+      netrc (~> 0.7)
     romaji (0.2.2)
       rake (>= 0.8.0)
     ruby-progressbar (1.7.5)
     rubyzip (1.1.7)
     thor (0.19.1)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  circleci
   moji
   oj
   romaji
