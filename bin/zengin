@@ -85,7 +85,7 @@ class ZenginCLI < Thor
       run('git config user.email "zeny-man@zeny.io"')
       run('git config user.name "zeny-man"')
 
-      run('git add .')
+      run('git add data')
       run(%Q{git commit -m "Update: #{now.strftime('%Y / %m / %d')}"})
       run(%Q{git tag -f #{now.strftime('%Y-%m-%d')}})
     end
