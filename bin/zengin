@@ -84,6 +84,8 @@ class ZenginCLI < Thor
 
   desc 'ci', 'ci job'
   def ci
+    now = Time.now
+
     inside(ROOT_DIR) do
       run('git config user.email "zeny-man@zeny.io"')
       run('git config user.name "zeny-man"')
