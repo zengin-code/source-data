@@ -1,0 +1,16 @@
+{
+  "001":{
+    "code":"001",
+    "name":"東京",
+    "kana":"トウキヨウ",
+    "hira":"とうきよう",
+    "roma":"toukiyou"
+  },
+  "002":{
+    "code":"002",
+    "name":"大阪駐在員事務所",
+    "kana":"オオサカチユウザイインジム",
+    "hira":"おおさかちゆうざいいんじむ",
+    "roma":"oosakachiyuuzaiinjimu"
+  }
+}

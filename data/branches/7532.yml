@@ -1,0 +1,139 @@
+---
+'011':
+  code: '011'
+  name: "加太"
+  kana: "カダ"
+  hira: "かだ"
+  roma: kada
+'022':
+  code: '022'
+  name: "かせい"
+  kana: "カセイ"
+  hira: "かせい"
+  roma: kasei
+'023':
+  code: '023'
+  name: "貴志"
+  kana: "キシ"
+  hira: "きし"
+  roma: kishi
+'025':
+  code: '025'
+  name: "かほく"
+  kana: "カホク"
+  hira: "かほく"
+  roma: kahoku
+'026':
+  code: '026'
+  name: "楠見"
+  kana: "クスミ"
+  hira: "くすみ"
+  roma: kusumi
+'027':
+  code: '027'
+  name: "楠見南部"
+  kana: "クスミナンブ"
+  hira: "くすみなんぶ"
+  roma: kusuminambu
+'031':
+  code: '031'
+  name: "有功"
+  kana: "イサオ"
+  hira: "いさお"
+  roma: isao
+'032':
+  code: '032'
+  name: "直川"
+  kana: "ノオガワ"
+  hira: "のおがわ"
+  roma: noogawa
+'033':
+  code: '033'
+  name: "紀伊"
+  kana: "キイ"
+  hira: "きい"
+  roma: kii
+'035':
+  code: '035'
+  name: "かわなべ"
+  kana: "カワナベ"
+  hira: "かわなべ"
+  roma: kawanabe
+'041':
+  code: '041'
+  name: "四ケ郷中之島"
+  kana: "シカゴナカノシマ"
+  hira: "しかごなかのしま"
+  roma: shikagonakanoshima
+'042':
+  code: '042'
+  name: "ひがし"
+  kana: "ヒガシ"
+  hira: "ひがし"
+  roma: higashi
+'046':
+  code: '046'
+  name: "高積"
+  kana: "タカツミ"
+  hira: "たかつみ"
+  roma: takatsumi
+'047':
+  code: '047'
+  name: "ＪＡビル"
+  kana: "ＪＡビル"
+  hira: "ＪＡびる"
+  roma: jabiru
+'052':
+  code: '052'
+  name: "和田川"
+  kana: "ワダガワ"
+  hira: "わだがわ"
+  roma: wadagawa
+'054':
+  code: '054'
+  name: "名草"
+  kana: "ナグサ"
+  hira: "なぐさ"
+  roma: nagusa
+'055':
+  code: '055'
+  name: "宮前"
+  kana: "ミヤマエ"
+  hira: "みやまえ"
+  roma: miyamae
+'057':
+  code: '057'
+  name: "雑賀"
+  kana: "サイカ"
+  hira: "さいか"
+  roma: saika
+'062':
+  code: '062'
+  name: "岡崎"
+  kana: "オカザキ"
+  hira: "おかざき"
+  roma: okazaki
+'063':
+  code: '063'
+  name: "西山東"
+  kana: "ニシサンドウ"
+  hira: "にしさんどう"
+  roma: nishisandou
+'064':
+  code: '064'
+  name: "東山東"
+  kana: "ヒガシサンドウ"
+  hira: "ひがしさんどう"
+  roma: higashisandou
+'065':
+  code: '065'
+  name: "安原"
+  kana: "ヤスハラ"
+  hira: "やすはら"
+  roma: yasuhara
+'100':
+  code: '100'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten

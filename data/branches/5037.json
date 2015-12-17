@@ -1,0 +1,37 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"小作",
+    "kana":"オザク",
+    "hira":"おざく",
+    "roma":"ozaku"
+  },
+  "005":{
+    "code":"005",
+    "name":"福生",
+    "kana":"フツサ",
+    "hira":"ふつさ",
+    "roma":"futsusa"
+  },
+  "007":{
+    "code":"007",
+    "name":"瑞穂",
+    "kana":"ミズホ",
+    "hira":"みずほ",
+    "roma":"mizuho"
+  },
+  "009":{
+    "code":"009",
+    "name":"元狭山",
+    "kana":"モトサヤマ",
+    "hira":"もとさやま",
+    "roma":"motosayama"
+  }
+}

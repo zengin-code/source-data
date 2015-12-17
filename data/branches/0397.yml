@@ -1,0 +1,193 @@
+---
+'400':
+  code: '400'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'430':
+  code: '430'
+  name: "津田沼"
+  kana: "ツダヌマ"
+  hira: "つだぬま"
+  roma: tsudanuma
+'440':
+  code: '440'
+  name: "二子玉川"
+  kana: "フタコタマガワ"
+  hira: "ふたこたまがわ"
+  roma: futakotamagawa
+'450':
+  code: '450'
+  name: "柏"
+  kana: "カシワ"
+  hira: "かしわ"
+  roma: kashiwa
+'460':
+  code: '460'
+  name: "町田"
+  kana: "マチダ"
+  hira: "まちだ"
+  roma: machida
+'470':
+  code: '470'
+  name: "銀座"
+  kana: "ギンザ"
+  hira: "ぎんざ"
+  roma: ginza
+'490':
+  code: '490'
+  name: "八王子"
+  kana: "ハチオウジ"
+  hira: "はちおうじ"
+  roma: hachiouji
+'500':
+  code: '500'
+  name: "シオ"
+  kana: "シオ"
+  hira: "しお"
+  roma: shio
+'510':
+  code: '510'
+  name: "ヒロオ"
+  kana: "ヒロオ"
+  hira: "ひろお"
+  roma: hiroo
+'520':
+  code: '520'
+  name: "東京"
+  kana: "トウキヨウ"
+  hira: "とうきよう"
+  roma: toukiyou
+'530':
+  code: '530'
+  name: "池袋"
+  kana: "イケブクロ"
+  hira: "いけぶくろ"
+  roma: ikebukuro
+'540':
+  code: '540'
+  name: "上野"
+  kana: "ウエノ"
+  hira: "うえの"
+  roma: ueno
+'550':
+  code: '550'
+  name: "新宿"
+  kana: "シンジユク"
+  hira: "しんじゆく"
+  roma: shinjiyuku
+'560':
+  code: '560'
+  name: "吉祥寺"
+  kana: "キチジヨウジ"
+  hira: "きちじようじ"
+  roma: kichijiyouji
+'570':
+  code: '570'
+  name: "シブ"
+  kana: "シブ"
+  hira: "しぶ"
+  roma: shibu
+'580':
+  code: '580'
+  name: "六本木ヒルズ"
+  kana: "ロツポンギヒルズ"
+  hira: "ろつぽんぎひるず"
+  roma: rotsupongihiruzu
+'590':
+  code: '590'
+  name: "メグロ"
+  kana: "メグロ"
+  hira: "めぐろ"
+  roma: meguro
+'610':
+  code: '610'
+  name: "札幌"
+  kana: "サツポロ"
+  hira: "さつぽろ"
+  roma: satsuporo
+'630':
+  code: '630'
+  name: "仙台"
+  kana: "センダイ"
+  hira: "せんだい"
+  roma: sendai
+'650':
+  code: '650'
+  name: "金沢"
+  kana: "カナザワ"
+  hira: "かなざわ"
+  roma: kanazawa
+'660':
+  code: '660'
+  name: "大宮"
+  kana: "オオミヤ"
+  hira: "おおみや"
+  roma: oomiya
+'670':
+  code: '670'
+  name: "横浜"
+  kana: "ヨコハマ"
+  hira: "よこはま"
+  roma: yokohama
+'680':
+  code: '680'
+  name: "藤沢"
+  kana: "フジサワ"
+  hira: "ふじさわ"
+  roma: fujisawa
+'700':
+  code: '700'
+  name: "名古屋"
+  kana: "ナゴヤ"
+  hira: "なごや"
+  roma: nagoya
+'730':
+  code: '730'
+  name: "京都"
+  kana: "キヨウト"
+  hira: "きようと"
+  roma: kiyouto
+'770':
+  code: '770'
+  name: "梅田"
+  kana: "ウメダ"
+  hira: "うめだ"
+  roma: umeda
+'780':
+  code: '780'
+  name: "難波"
+  kana: "ナンバ"
+  hira: "なんば"
+  roma: namba
+'800':
+  code: '800'
+  name: "大阪"
+  kana: "オオサカ"
+  hira: "おおさか"
+  roma: oosaka
+'900':
+  code: '900'
+  name: "神戸"
+  kana: "コウベ"
+  hira: "こうべ"
+  roma: koube
+'920':
+  code: '920'
+  name: "広島"
+  kana: "ヒロシマ"
+  hira: "ひろしま"
+  roma: hiroshima
+'930':
+  code: '930'
+  name: "高松"
+  kana: "タカマツ"
+  hira: "たかまつ"
+  roma: takamatsu
+'950':
+  code: '950'
+  name: "福岡"
+  kana: "フクオカ"
+  hira: "ふくおか"
+  roma: fukuoka

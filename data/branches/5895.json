@@ -1,0 +1,37 @@
+{
+  "201":{
+    "code":"201",
+    "name":"大沢野",
+    "kana":"オオサワノ",
+    "hira":"おおさわの",
+    "roma":"oosawano"
+  },
+  "211":{
+    "code":"211",
+    "name":"大山",
+    "kana":"オオヤマ",
+    "hira":"おおやま",
+    "roma":"ooyama"
+  },
+  "308":{
+    "code":"308",
+    "name":"婦中",
+    "kana":"フチユウ",
+    "hira":"ふちゆう",
+    "roma":"fuchiyuu"
+  },
+  "331":{
+    "code":"331",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "340":{
+    "code":"340",
+    "name":"八尾",
+    "kana":"ヤツオ",
+    "hira":"やつお",
+    "roma":"yatsuo"
+  }
+}

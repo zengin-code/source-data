@@ -1,0 +1,127 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "菊水元町"
+  kana: "キクスイモトマチ"
+  hira: "きくすいもとまち"
+  roma: kikusuimotomachi
+'004':
+  code: '004'
+  name: "南"
+  kana: "ミナミ"
+  hira: "みなみ"
+  roma: minami
+'005':
+  code: '005'
+  name: "平岸"
+  kana: "ヒラギシ"
+  hira: "ひらぎし"
+  roma: hiragishi
+'006':
+  code: '006'
+  name: "白石"
+  kana: "シロイシ"
+  hira: "しろいし"
+  roma: shiroishi
+'007':
+  code: '007'
+  name: "琴似"
+  kana: "コトニ"
+  hira: "ことに"
+  roma: kotoni
+'010':
+  code: '010'
+  name: "東白石"
+  kana: "ヒガシシロイシ"
+  hira: "ひがししろいし"
+  roma: higashishiroishi
+'011':
+  code: '011'
+  name: "手稲"
+  kana: "テイネ"
+  hira: "ていね"
+  roma: teine
+'012':
+  code: '012'
+  name: "西町"
+  kana: "ニシマチ"
+  hira: "にしまち"
+  roma: nishimachi
+'014':
+  code: '014'
+  name: "発寒"
+  kana: "ハツサム"
+  hira: "はつさむ"
+  roma: hatsusamu
+'016':
+  code: '016'
+  name: "川沿"
+  kana: "カワゾエ"
+  hira: "かわぞえ"
+  roma: kawazoe
+018:
+  code: 018
+  name: "中央"
+  kana: "チユウオウ"
+  hira: "ちゆうおう"
+  roma: chiyuuou
+'020':
+  code: '020'
+  name: "月寒"
+  kana: "ツキサム"
+  hira: "つきさむ"
+  roma: tsukisamu
+'021':
+  code: '021'
+  name: "清田"
+  kana: "キヨタ"
+  hira: "きよた"
+  roma: kiyota
+'024':
+  code: '024'
+  name: "厚別"
+  kana: "アツベツ"
+  hira: "あつべつ"
+  roma: atsubetsu
+'026':
+  code: '026'
+  name: "川下"
+  kana: "カワシモ"
+  hira: "かわしも"
+  roma: kawashimo
+'027':
+  code: '027'
+  name: "北札幌"
+  kana: "キタサツポロ"
+  hira: "きたさつぽろ"
+  roma: kitasatsuporo
+029:
+  code: 029
+  name: "篠路"
+  kana: "シノロ"
+  hira: "しのろ"
+  roma: shinoro
+'030':
+  code: '030'
+  name: "新琴似"
+  kana: "シンコトニ"
+  hira: "しんことに"
+  roma: shinkotoni
+'031':
+  code: '031'
+  name: "屯田"
+  kana: "トンデン"
+  hira: "とんでん"
+  roma: tonden
+'032':
+  code: '032'
+  name: "丘珠"
+  kana: "オカダマ"
+  hira: "おかだま"
+  roma: okadama

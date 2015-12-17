@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"尼崎",
+    "kana":"アマガサキ",
+    "hira":"あまがさき",
+    "roma":"amagasaki"
+  },
+  "003":{
+    "code":"003",
+    "name":"姫路",
+    "kana":"ヒメジ",
+    "hira":"ひめじ",
+    "roma":"himeji"
+  },
+  "004":{
+    "code":"004",
+    "name":"西宮",
+    "kana":"ニシノミヤ",
+    "hira":"にしのみや",
+    "roma":"nishinomiya"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"中湧別",
+    "kana":"ナカユウベツ",
+    "hira":"なかゆうべつ",
+    "roma":"nakayuubetsu"
+  },
+  "003":{
+    "code":"003",
+    "name":"遠軽",
+    "kana":"エンガル",
+    "hira":"えんがる",
+    "roma":"engaru"
+  },
+  "004":{
+    "code":"004",
+    "name":"丸瀬布",
+    "kana":"マルセツプ",
+    "hira":"まるせつぷ",
+    "roma":"marusetsupu"
+  },
+  "006":{
+    "code":"006",
+    "name":"生田原",
+    "kana":"イクタハラ",
+    "hira":"いくたはら",
+    "roma":"ikutahara"
+  }
+}

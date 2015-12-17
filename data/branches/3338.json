@@ -1,0 +1,23 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"釧路",
+    "kana":"クシロ",
+    "hira":"くしろ",
+    "roma":"kushiro"
+  },
+  "003":{
+    "code":"003",
+    "name":"新橋",
+    "kana":"シンバシ",
+    "hira":"しんばし",
+    "roma":"shimbashi"
+  }
+}

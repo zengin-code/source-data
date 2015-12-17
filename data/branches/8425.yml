@@ -1,0 +1,283 @@
+---
+'001':
+  code: '001'
+  name: "本所"
+  kana: "ホンシヨ"
+  hira: "ほんしよ"
+  roma: honshiyo
+'002':
+  code: '002'
+  name: "拓南"
+  kana: "タクナン"
+  hira: "たくなん"
+  roma: takunan
+'003':
+  code: '003'
+  name: "浮穴"
+  kana: "ウケナ"
+  hira: "うけな"
+  roma: ukena
+'004':
+  code: '004'
+  name: "石井"
+  kana: "イシイ"
+  hira: "いしい"
+  roma: ishii
+'005':
+  code: '005'
+  name: "余土"
+  kana: "ヨド"
+  hira: "よど"
+  roma: yodo
+'006':
+  code: '006'
+  name: "朝美"
+  kana: "アサミ"
+  hira: "あさみ"
+  roma: asami
+'007':
+  code: '007'
+  name: "東雄郡"
+  kana: "ヒガシユウグン"
+  hira: "ひがしゆうぐん"
+  roma: higashiyuugun
+008:
+  code: 008
+  name: "西雄郡"
+  kana: "ニシユウグン"
+  hira: "にしゆうぐん"
+  roma: nishiyuugun
+009:
+  code: 009
+  name: "味生"
+  kana: "ミブ"
+  hira: "みぶ"
+  roma: mibu
+'010':
+  code: '010'
+  name: "久枝"
+  kana: "ヒサエダ"
+  hira: "ひさえだ"
+  roma: hisaeda
+'011':
+  code: '011'
+  name: "和気"
+  kana: "ワケ"
+  hira: "わけ"
+  roma: wake
+'012':
+  code: '012'
+  name: "三津"
+  kana: "ミツ"
+  hira: "みつ"
+  roma: mitsu
+'013':
+  code: '013'
+  name: "新浜"
+  kana: "シンハマ"
+  hira: "しんはま"
+  roma: shinhama
+'015':
+  code: '015'
+  name: "湯山"
+  kana: "ユヤマ"
+  hira: "ゆやま"
+  roma: yuyama
+'016':
+  code: '016'
+  name: "河中"
+  kana: "カワナカ"
+  hira: "かわなか"
+  roma: kawanaka
+'017':
+  code: '017'
+  name: "久米"
+  kana: "クメ"
+  hira: "くめ"
+  roma: kume
+018:
+  code: 018
+  name: "椿"
+  kana: "ツバキ"
+  hira: "つばき"
+  roma: tsubaki
+019:
+  code: 019
+  name: "和泉出張所"
+  kana: "イズミ"
+  hira: "いずみ"
+  roma: izumi
+'020':
+  code: '020'
+  name: "安城寺出張所"
+  kana: "アンジヨウジ"
+  hira: "あんじようじ"
+  roma: anjiyouji
+'021':
+  code: '021'
+  name: "南部出張所"
+  kana: "ナンブ"
+  hira: "なんぶ"
+  roma: nambu
+'022':
+  code: '022'
+  name: "斉院出張所"
+  kana: "サヤ"
+  hira: "さや"
+  roma: saya
+'023':
+  code: '023'
+  name: "朝生田出張所"
+  kana: "アソダ"
+  hira: "あそだ"
+  roma: asoda
+'024':
+  code: '024'
+  name: "高井出張所"
+  kana: "タカイ"
+  hira: "たかい"
+  roma: takai
+'025':
+  code: '025'
+  name: "福音寺出張所"
+  kana: "フクオンジ"
+  hira: "ふくおんじ"
+  roma: fukuonji
+'026':
+  code: '026'
+  name: "衣山出張所"
+  kana: "キヌヤマ"
+  hira: "きぬやま"
+  roma: kinuyama
+'027':
+  code: '027'
+  name: "高浜出張所"
+  kana: "タカハマ"
+  hira: "たかはま"
+  roma: takahama
+028:
+  code: 028
+  name: "古川出張所"
+  kana: "フルカワ"
+  hira: "ふるかわ"
+  roma: furukawa
+029:
+  code: 029
+  name: "鷹子出張所"
+  kana: "タカノコ"
+  hira: "たかのこ"
+  roma: takanoko
+'030':
+  code: '030'
+  name: "西余戸出張所"
+  kana: "ニシヨウゴ"
+  hira: "にしようご"
+  roma: nishiyougo
+'033':
+  code: '033'
+  name: "興居島"
+  kana: "ゴゴシマ"
+  hira: "ごごしま"
+  roma: gogoshima
+'034':
+  code: '034'
+  name: "小野"
+  kana: "オノ"
+  hira: "おの"
+  roma: ono
+'035':
+  code: '035'
+  name: "梅本出張所"
+  kana: "ウメモト"
+  hira: "うめもと"
+  roma: umemoto
+'037':
+  code: '037'
+  name: "北伊予"
+  kana: "キタイヨ"
+  hira: "きたいよ"
+  roma: kitaiyo
+038:
+  code: 038
+  name: "永田出張所"
+  kana: "ナガタ"
+  hira: "ながた"
+  roma: nagata
+039:
+  code: 039
+  name: "岡田"
+  kana: "オカダ"
+  hira: "おかだ"
+  roma: okada
+'040':
+  code: '040'
+  name: "松前"
+  kana: "マサキ"
+  hira: "まさき"
+  roma: masaki
+'041':
+  code: '041'
+  name: "川上"
+  kana: "カワカミ"
+  hira: "かわかみ"
+  roma: kawakami
+'043':
+  code: '043'
+  name: "明神"
+  kana: "ミヨウジン"
+  hira: "みようじん"
+  roma: miyoujin
+'044':
+  code: '044'
+  name: "久万"
+  kana: "クマ"
+  hira: "くま"
+  roma: kuma
+'045':
+  code: '045'
+  name: "父二峰"
+  kana: "フジミネ"
+  hira: "ふじみね"
+  roma: fujimine
+'046':
+  code: '046'
+  name: "畑野川"
+  kana: "ハタノカワ"
+  hira: "はたのかわ"
+  roma: hatanokawa
+'047':
+  code: '047'
+  name: "直瀬"
+  kana: "ナオセ"
+  hira: "なおせ"
+  roma: naose
+048:
+  code: 048
+  name: "面河"
+  kana: "オモゴ"
+  hira: "おもご"
+  roma: omogo
+049:
+  code: 049
+  name: "美川"
+  kana: "ミカワ"
+  hira: "みかわ"
+  roma: mikawa
+'050':
+  code: '050'
+  name: "御三戸"
+  kana: "ミミド"
+  hira: "みみど"
+  roma: mimido
+'051':
+  code: '051'
+  name: "柳谷"
+  kana: "ヤナダニ"
+  hira: "やなだに"
+  roma: yanadani
+'052':
+  code: '052'
+  name: "堀江"
+  kana: "ホリエ"
+  hira: "ほりえ"
+  roma: horie

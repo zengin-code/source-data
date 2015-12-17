@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"西春別",
+    "kana":"ニシシユンベツ",
+    "hira":"にししゆんべつ",
+    "roma":"nishishiyumbetsu"
+  },
+  "003":{
+    "code":"003",
+    "name":"上春別",
+    "kana":"カミシユンベツ",
+    "hira":"かみしゆんべつ",
+    "roma":"kamishiyumbetsu"
+  },
+  "004":{
+    "code":"004",
+    "name":"根室",
+    "kana":"ネムロ",
+    "hira":"ねむろ",
+    "roma":"nemuro"
+  }
+}

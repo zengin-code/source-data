@@ -1,0 +1,37 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"南",
+    "kana":"ミナミ",
+    "hira":"みなみ",
+    "roma":"minami"
+  },
+  "006":{
+    "code":"006",
+    "name":"東",
+    "kana":"ヒガシ",
+    "hira":"ひがし",
+    "roma":"higashi"
+  },
+  "011":{
+    "code":"011",
+    "name":"西",
+    "kana":"ニシ",
+    "hira":"にし",
+    "roma":"nishi"
+  },
+  "012":{
+    "code":"012",
+    "name":"中",
+    "kana":"ナカ",
+    "hira":"なか",
+    "roma":"naka"
+  }
+}

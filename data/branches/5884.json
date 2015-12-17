@@ -1,0 +1,30 @@
+{
+  "081":{
+    "code":"081",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "082":{
+    "code":"082",
+    "name":"三日市",
+    "kana":"ミツカイチ",
+    "hira":"みつかいち",
+    "roma":"mitsukaichi"
+  },
+  "083":{
+    "code":"083",
+    "name":"生地",
+    "kana":"イクヂ",
+    "hira":"いくぢ",
+    "roma":"ikudi"
+  },
+  "086":{
+    "code":"086",
+    "name":"新三島",
+    "kana":"シンミシマ",
+    "hira":"しんみしま",
+    "roma":"shimmishima"
+  }
+}

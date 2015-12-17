@@ -1,0 +1,37 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"新富",
+    "kana":"シントミ",
+    "hira":"しんとみ",
+    "roma":"shintomi"
+  },
+  "004":{
+    "code":"004",
+    "name":"木城",
+    "kana":"キジヨウ",
+    "hira":"きじよう",
+    "roma":"kijiyou"
+  },
+  "005":{
+    "code":"005",
+    "name":"新田出張所",
+    "kana":"ニユウタ",
+    "hira":"にゆうた",
+    "roma":"niyuuta"
+  },
+  "006":{
+    "code":"006",
+    "name":"上新田出張所",
+    "kana":"カミニユウタ",
+    "hira":"かみにゆうた",
+    "roma":"kaminiyuuta"
+  }
+}

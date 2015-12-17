@@ -1,0 +1,23 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "020":{
+    "code":"020",
+    "name":"川島",
+    "kana":"カワシマ",
+    "hira":"かわしま",
+    "roma":"kawashima"
+  },
+  "030":{
+    "code":"030",
+    "name":"山川",
+    "kana":"ヤマカワ",
+    "hira":"やまかわ",
+    "roma":"yamakawa"
+  }
+}

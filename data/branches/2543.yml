@@ -1,0 +1,73 @@
+---
+'001':
+  code: '001'
+  name: "神戸営業部"
+  kana: "コウベ"
+  hira: "こうべ"
+  roma: koube
+'002':
+  code: '002'
+  name: "西宮"
+  kana: "ニシノミヤ"
+  hira: "にしのみや"
+  roma: nishinomiya
+'003':
+  code: '003'
+  name: "明石"
+  kana: "アカシ"
+  hira: "あかし"
+  roma: akashi
+'004':
+  code: '004'
+  name: "加古川"
+  kana: "カコガワ"
+  hira: "かこがわ"
+  roma: kakogawa
+'731':
+  code: '731'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'732':
+  code: '732'
+  name: "扇橋"
+  kana: "オオギバシ"
+  hira: "おおぎばし"
+  roma: oogibashi
+'733':
+  code: '733'
+  name: "住吉"
+  kana: "スミヨシ"
+  hira: "すみよし"
+  roma: sumiyoshi
+'734':
+  code: '734'
+  name: "阿倍野"
+  kana: "アベノ"
+  hira: "あべの"
+  roma: abeno
+'735':
+  code: '735'
+  name: "城東"
+  kana: "ジヨウトウ"
+  hira: "じようとう"
+  roma: jiyoutou
+'736':
+  code: '736'
+  name: "新大阪"
+  kana: "シンオオサカ"
+  hira: "しんおおさか"
+  roma: shinoosaka
+'737':
+  code: '737'
+  name: "豊中"
+  kana: "トヨナカ"
+  hira: "とよなか"
+  roma: toyonaka
+'738':
+  code: '738'
+  name: "東大阪"
+  kana: "ヒガシオオサカ"
+  hira: "ひがしおおさか"
+  roma: higashioosaka

@@ -1,0 +1,23 @@
+{
+  "001":{
+    "code":"001",
+    "name":"大津",
+    "kana":"オオツ",
+    "hira":"おおつ",
+    "roma":"ootsu"
+  },
+  "002":{
+    "code":"002",
+    "name":"松茂",
+    "kana":"マツシゲ",
+    "hira":"まつしげ",
+    "roma":"matsushige"
+  },
+  "300":{
+    "code":"300",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  }
+}

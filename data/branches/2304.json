@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"川崎",
+    "kana":"カワサキ",
+    "hira":"かわさき",
+    "roma":"kawasaki"
+  },
+  "003":{
+    "code":"003",
+    "name":"相模原",
+    "kana":"サガミハラ",
+    "hira":"さがみはら",
+    "roma":"sagamihara"
+  },
+  "004":{
+    "code":"004",
+    "name":"平塚",
+    "kana":"ヒラツカ",
+    "hira":"ひらつか",
+    "roma":"hiratsuka"
+  }
+}

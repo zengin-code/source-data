@@ -1,0 +1,67 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "矢野崎出張所"
+  kana: "ヤノザキ"
+  hira: "やのざき"
+  roma: yanozaki
+'003':
+  code: '003'
+  name: "神山出張所"
+  kana: "カミヤマ"
+  hira: "かみやま"
+  roma: kamiyama
+'005':
+  code: '005'
+  name: "八幡浜"
+  kana: "ヤワタハマ"
+  hira: "やわたはま"
+  roma: yawatahama
+'007':
+  code: '007'
+  name: "大島出張所"
+  kana: "オオシマ"
+  hira: "おおしま"
+  roma: ooshima
+'012':
+  code: '012'
+  name: "日土出張所"
+  kana: "ヒヅチ"
+  hira: "ひづち"
+  roma: hiduchi
+'020':
+  code: '020'
+  name: "三瓶"
+  kana: "ミカメ"
+  hira: "みかめ"
+  roma: mikame
+'030':
+  code: '030'
+  name: "保内"
+  kana: "ホナイ"
+  hira: "ほない"
+  roma: honai
+'040':
+  code: '040'
+  name: "伊方"
+  kana: "イカタ"
+  hira: "いかた"
+  roma: ikata
+'050':
+  code: '050'
+  name: "瀬戸出張所"
+  kana: "セト"
+  hira: "せと"
+  roma: seto
+'060':
+  code: '060'
+  name: "三崎出張所"
+  kana: "ミサキ"
+  hira: "みさき"
+  roma: misaki

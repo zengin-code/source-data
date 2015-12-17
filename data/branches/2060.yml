@@ -1,0 +1,103 @@
+---
+'001':
+  code: '001'
+  name: "本店営業部"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "上野"
+  kana: "ウエノ"
+  hira: "うえの"
+  roma: ueno
+'004':
+  code: '004'
+  name: "恵比寿"
+  kana: "エビス"
+  hira: "えびす"
+  roma: ebisu
+'005':
+  code: '005'
+  name: "立川"
+  kana: "タチカワ"
+  hira: "たちかわ"
+  roma: tachikawa
+'006':
+  code: '006'
+  name: "錦糸町"
+  kana: "キンシチヨウ"
+  hira: "きんしちよう"
+  roma: kinshichiyou
+'007':
+  code: '007'
+  name: "池袋"
+  kana: "イケブクロ"
+  hira: "いけぶくろ"
+  roma: ikebukuro
+008:
+  code: 008
+  name: "足立"
+  kana: "アダチ"
+  hira: "あだち"
+  roma: adachi
+009:
+  code: 009
+  name: "蒲田"
+  kana: "カマタ"
+  hira: "かまた"
+  roma: kamata
+'017':
+  code: '017'
+  name: "浦和"
+  kana: "ウラワ"
+  hira: "うらわ"
+  roma: urawa
+018:
+  code: 018
+  name: "熊谷"
+  kana: "クマガヤ"
+  hira: "くまがや"
+  roma: kumagaya
+'021':
+  code: '021'
+  name: "仙台"
+  kana: "センダイ"
+  hira: "せんだい"
+  roma: sendai
+'022':
+  code: '022'
+  name: "札幌"
+  kana: "サツポロ"
+  hira: "さつぽろ"
+  roma: satsuporo
+'023':
+  code: '023'
+  name: "旭川"
+  kana: "アサヒカワ"
+  hira: "あさひかわ"
+  roma: asahikawa
+'025':
+  code: '025'
+  name: "青森"
+  kana: "アオモリ"
+  hira: "あおもり"
+  roma: aomori
+'027':
+  code: '027'
+  name: "秋田"
+  kana: "アキタ"
+  hira: "あきた"
+  roma: akita
+028:
+  code: 028
+  name: "盛岡"
+  kana: "モリオカ"
+  hira: "もりおか"
+  roma: morioka
+029:
+  code: 029
+  name: "郡山"
+  kana: "コオリヤマ"
+  hira: "こおりやま"
+  roma: kooriyama

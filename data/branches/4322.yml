@@ -1,0 +1,61 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "江戸崎"
+  kana: "エドサキ"
+  hira: "えどさき"
+  roma: edosaki
+'007':
+  code: '007'
+  name: "安中"
+  kana: "アンジユウ"
+  hira: "あんじゆう"
+  roma: anjiyuu
+008:
+  code: 008
+  name: "新利根"
+  kana: "シントネ"
+  hira: "しんとね"
+  roma: shintone
+'012':
+  code: '012'
+  name: "東"
+  kana: "アズマ"
+  hira: "あずま"
+  roma: azuma
+'013':
+  code: '013'
+  name: "福田"
+  kana: "フクダ"
+  hira: "ふくだ"
+  roma: fukuda
+'016':
+  code: '016'
+  name: "桜川"
+  kana: "サクラガワ"
+  hira: "さくらがわ"
+  roma: sakuragawa
+'017':
+  code: '017'
+  name: "浮島"
+  kana: "ウキシマ"
+  hira: "うきしま"
+  roma: ukishima
+019:
+  code: 019
+  name: "金江津"
+  kana: "カナエツ"
+  hira: "かなえつ"
+  roma: kanaetsu
+'021':
+  code: '021'
+  name: "河内"
+  kana: "カワチ"
+  hira: "かわち"
+  roma: kawachi

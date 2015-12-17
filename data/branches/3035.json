@@ -1,0 +1,23 @@
+{
+  "010":{
+    "code":"010",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "011":{
+    "code":"011",
+    "name":"美祢市役所内",
+    "kana":"ミネシヤクシヨナイ",
+    "hira":"みねしやくしよない",
+    "roma":"mineshiyakushiyonai"
+  },
+  "050":{
+    "code":"050",
+    "name":"県庁内",
+    "kana":"ケンチヨウナイ",
+    "hira":"けんちようない",
+    "roma":"kenchiyounai"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"田代",
+    "kana":"タシロ",
+    "hira":"たしろ",
+    "roma":"tashiro"
+  },
+  "004":{
+    "code":"004",
+    "name":"干俣",
+    "kana":"ホシマタ",
+    "hira":"ほしまた",
+    "roma":"hoshimata"
+  },
+  "005":{
+    "code":"005",
+    "name":"三原",
+    "kana":"ミハラ",
+    "hira":"みはら",
+    "roma":"mihara"
+  }
+}

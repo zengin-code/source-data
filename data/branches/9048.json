@@ -1,0 +1,37 @@
+{
+  "740":{
+    "code":"740",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "753":{
+    "code":"753",
+    "name":"人吉",
+    "kana":"ヒトヨシ",
+    "hira":"ひとよし",
+    "roma":"hitoyoshi"
+  },
+  "767":{
+    "code":"767",
+    "name":"錦",
+    "kana":"ニシキ",
+    "hira":"にしき",
+    "roma":"nishiki"
+  },
+  "776":{
+    "code":"776",
+    "name":"あさぎり",
+    "kana":"アサギリ",
+    "hira":"あさぎり",
+    "roma":"asagiri"
+  },
+  "787":{
+    "code":"787",
+    "name":"上球磨",
+    "kana":"カミクマ",
+    "hira":"かみくま",
+    "roma":"kamikuma"
+  }
+}

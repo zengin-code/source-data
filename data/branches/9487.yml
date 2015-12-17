@@ -1,0 +1,19 @@
+---
+'001':
+  code: '001'
+  name: "本所"
+  kana: "ホンシヨ"
+  hira: "ほんしよ"
+  roma: honshiyo
+'003':
+  code: '003'
+  name: "今治"
+  kana: "イマバリ"
+  hira: "いまばり"
+  roma: imabari
+'004':
+  code: '004'
+  name: "宇和島"
+  kana: "ウワジマ"
+  hira: "うわじま"
+  roma: uwajima

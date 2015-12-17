@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"麻生津",
+    "kana":"アソウヅ",
+    "hira":"あそうづ",
+    "roma":"asoudu"
+  },
+  "003":{
+    "code":"003",
+    "name":"文殊",
+    "kana":"モンジユ",
+    "hira":"もんじゆ",
+    "roma":"monjiyu"
+  },
+  "004":{
+    "code":"004",
+    "name":"上文殊",
+    "kana":"カミモンジユ",
+    "hira":"かみもんじゆ",
+    "roma":"kamimonjiyu"
+  }
+}

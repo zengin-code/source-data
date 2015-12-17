@@ -1,0 +1,30 @@
+{
+  "002":{
+    "code":"002",
+    "name":"美津島",
+    "kana":"ミツシマ",
+    "hira":"みつしま",
+    "roma":"mitsushima"
+  },
+  "004":{
+    "code":"004",
+    "name":"中対馬",
+    "kana":"ナカツシマ",
+    "hira":"なかつしま",
+    "roma":"nakatsushima"
+  },
+  "007":{
+    "code":"007",
+    "name":"上対馬",
+    "kana":"カミツシマ",
+    "hira":"かみつしま",
+    "roma":"kamitsushima"
+  },
+  "100":{
+    "code":"100",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  }
+}

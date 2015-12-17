@@ -1,0 +1,109 @@
+---
+'213':
+  code: '213'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'214':
+  code: '214'
+  name: "廿日市"
+  kana: "ハツカイチ"
+  hira: "はつかいち"
+  roma: hatsukaichi
+'215':
+  code: '215'
+  name: "平良"
+  kana: "ヘラ"
+  hira: "へら"
+  roma: hera
+'217':
+  code: '217'
+  name: "宮内"
+  kana: "ミヤウチ"
+  hira: "みやうち"
+  roma: miyauchi
+'218':
+  code: '218'
+  name: "串戸"
+  kana: "クシド"
+  hira: "くしど"
+  roma: kushido
+'219':
+  code: '219'
+  name: "地御前"
+  kana: "ジゴゼン"
+  hira: "じごぜん"
+  roma: jigozen
+'220':
+  code: '220'
+  name: "深江"
+  kana: "フカエ"
+  hira: "ふかえ"
+  roma: fukae
+'221':
+  code: '221'
+  name: "別府"
+  kana: "ベフ"
+  hira: "べふ"
+  roma: befu
+'222':
+  code: '222'
+  name: "浜"
+  kana: "ハマ"
+  hira: "はま"
+  roma: hama
+'225':
+  code: '225'
+  name: "友和"
+  kana: "ユウワ"
+  hira: "ゆうわ"
+  roma: yuuwa
+'227':
+  code: '227'
+  name: "津田"
+  kana: "ツタ"
+  hira: "つた"
+  roma: tsuta
+'245':
+  code: '245'
+  name: "晴海"
+  kana: "ハルミ"
+  hira: "はるみ"
+  roma: harumi
+'248':
+  code: '248'
+  name: "栗谷"
+  kana: "クリタニ"
+  hira: "くりたに"
+  roma: kuritani
+'251':
+  code: '251'
+  name: "大竹"
+  kana: "オオタケ"
+  hira: "おおたけ"
+  roma: ootake
+'253':
+  code: '253'
+  name: "吉和"
+  kana: "ヨシワ"
+  hira: "よしわ"
+  roma: yoshiwa
+'815':
+  code: '815'
+  name: "阿品"
+  kana: "アジナ"
+  hira: "あじな"
+  roma: ajina
+'822':
+  code: '822'
+  name: "宮園"
+  kana: "ミヤゾノ"
+  hira: "みやぞの"
+  roma: miyazono
+'823':
+  code: '823'
+  name: "四季が丘"
+  kana: "シキガオカ"
+  hira: "しきがおか"
+  roma: shikigaoka

@@ -1,0 +1,37 @@
+{
+  "001":{
+    "code":"001",
+    "name":"萩野",
+    "kana":"ハギノ",
+    "hira":"はぎの",
+    "roma":"hagino"
+  },
+  "002":{
+    "code":"002",
+    "name":"昭和",
+    "kana":"シヨウワ",
+    "hira":"しようわ",
+    "roma":"shiyouwa"
+  },
+  "003":{
+    "code":"003",
+    "name":"舟形",
+    "kana":"フナガタ",
+    "hira":"ふながた",
+    "roma":"funagata"
+  },
+  "006":{
+    "code":"006",
+    "name":"最上",
+    "kana":"モガミ",
+    "hira":"もがみ",
+    "roma":"mogami"
+  },
+  "010":{
+    "code":"010",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  }
+}

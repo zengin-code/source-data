@@ -1,0 +1,37 @@
+{
+  "010":{
+    "code":"010",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "101":{
+    "code":"101",
+    "name":"中種子",
+    "kana":"ナカタネ",
+    "hira":"なかたね",
+    "roma":"nakatane"
+  },
+  "105":{
+    "code":"105",
+    "name":"南種子",
+    "kana":"ミナミタネ",
+    "hira":"みなみたね",
+    "roma":"minamitane"
+  },
+  "106":{
+    "code":"106",
+    "name":"屋久",
+    "kana":"ヤク",
+    "hira":"やく",
+    "roma":"yaku"
+  },
+  "107":{
+    "code":"107",
+    "name":"上屋久",
+    "kana":"カミヤク",
+    "hira":"かみやく",
+    "roma":"kamiyaku"
+  }
+}

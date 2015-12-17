@@ -1,0 +1,253 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "銀座"
+  kana: "ギンザ"
+  hira: "ぎんざ"
+  roma: ginza
+'003':
+  code: '003'
+  name: "北星"
+  kana: "ホクセイ"
+  hira: "ほくせい"
+  roma: hokusei
+'004':
+  code: '004'
+  name: "神楽"
+  kana: "カグラ"
+  hira: "かぐら"
+  roma: kagura
+'005':
+  code: '005'
+  name: "東"
+  kana: "ヒガシ"
+  hira: "ひがし"
+  roma: higashi
+'006':
+  code: '006'
+  name: "末広"
+  kana: "スエヒロ"
+  hira: "すえひろ"
+  roma: suehiro
+'007':
+  code: '007'
+  name: "新旭川"
+  kana: "シンアサヒカワ"
+  hira: "しんあさひかわ"
+  roma: shinasahikawa
+008:
+  code: 008
+  name: "西"
+  kana: "ニシ"
+  hira: "にし"
+  roma: nishi
+009:
+  code: 009
+  name: "東旭川"
+  kana: "ヒガシアサヒカワ"
+  hira: "ひがしあさひかわ"
+  roma: higashiasahikawa
+'010':
+  code: '010'
+  name: "豊岡"
+  kana: "トヨオカ"
+  hira: "とよおか"
+  roma: toyooka
+'011':
+  code: '011'
+  name: "比布"
+  kana: "ピツプ"
+  hira: "ぴつぷ"
+  roma: pitsupu
+'012':
+  code: '012'
+  name: "西神楽特別"
+  kana: "ニシカグラ"
+  hira: "にしかぐら"
+  roma: nishikagura
+'013':
+  code: '013'
+  name: "永山"
+  kana: "ナガヤマ"
+  hira: "ながやま"
+  roma: nagayama
+'014':
+  code: '014'
+  name: "近文"
+  kana: "チカブミ"
+  hira: "ちかぶみ"
+  roma: chikabumi
+'015':
+  code: '015'
+  name: "愛別"
+  kana: "アイベツ"
+  hira: "あいべつ"
+  roma: aibetsu
+'016':
+  code: '016'
+  name: "上川"
+  kana: "カミカワ"
+  hira: "かみかわ"
+  roma: kamikawa
+'017':
+  code: '017'
+  name: "当麻"
+  kana: "トウマ"
+  hira: "とうま"
+  roma: touma
+018:
+  code: 018
+  name: "駅前"
+  kana: "エキマエ"
+  hira: "えきまえ"
+  roma: ekimae
+019:
+  code: 019
+  name: "神居"
+  kana: "カムイ"
+  hira: "かむい"
+  roma: kamui
+'020':
+  code: '020'
+  name: "東光"
+  kana: "トウコウ"
+  hira: "とうこう"
+  roma: toukou
+'022':
+  code: '022'
+  name: "あたご"
+  kana: "アタゴ"
+  hira: "あたご"
+  roma: atago
+'023':
+  code: '023'
+  name: "流通団地"
+  kana: "リユウツウダンチ"
+  hira: "りゆうつうだんち"
+  roma: riyuutsuudanchi
+'024':
+  code: '024'
+  name: "南出張所"
+  kana: "ミナミ"
+  hira: "みなみ"
+  roma: minami
+'025':
+  code: '025'
+  name: "札幌"
+  kana: "サツポロ"
+  hira: "さつぽろ"
+  roma: satsuporo
+'026':
+  code: '026'
+  name: "緑が丘"
+  kana: "ミドリガオカ"
+  hira: "みどりがおか"
+  roma: midorigaoka
+'027':
+  code: '027'
+  name: "忠和"
+  kana: "チユウワ"
+  hira: "ちゆうわ"
+  roma: chiyuuwa
+028:
+  code: 028
+  name: "平岸"
+  kana: "ヒラギシ"
+  hira: "ひらぎし"
+  roma: hiragishi
+'030':
+  code: '030'
+  name: "南六条出張所"
+  kana: "ミナミロクジヨウ"
+  hira: "みなみろくじよう"
+  roma: minamirokujiyou
+'031':
+  code: '031'
+  name: "東北通"
+  kana: "トウホクドオリ"
+  hira: "とうほくどおり"
+  roma: touhokudoori
+'032':
+  code: '032'
+  name: "東光東"
+  kana: "トウコウヒガシ"
+  hira: "とうこうひがし"
+  roma: toukouhigashi
+'033':
+  code: '033'
+  name: "末広北"
+  kana: "スエヒロキタ"
+  hira: "すえひろきた"
+  roma: suehirokita
+'034':
+  code: '034'
+  name: "栄町"
+  kana: "サカエマチ"
+  hira: "さかえまち"
+  roma: sakaemachi
+'035':
+  code: '035'
+  name: "春光出張所"
+  kana: "シユンコウ"
+  hira: "しゆんこう"
+  roma: shiyunkou
+'036':
+  code: '036'
+  name: "永山南"
+  kana: "ナガヤマミナミ"
+  hira: "ながやまみなみ"
+  roma: nagayamaminami
+'037':
+  code: '037'
+  name: "琴似"
+  kana: "コトニ"
+  hira: "ことに"
+  roma: kotoni
+038:
+  code: 038
+  name: "富良野"
+  kana: "フラノ"
+  hira: "ふらの"
+  roma: furano
+039:
+  code: 039
+  name: "上富良野"
+  kana: "カミフラノ"
+  hira: "かみふらの"
+  roma: kamifurano
+'040':
+  code: '040'
+  name: "美瑛"
+  kana: "ビエイ"
+  hira: "びえい"
+  roma: biei
+'043':
+  code: '043'
+  name: "中富良野"
+  kana: "ナカフラノ"
+  hira: "なかふらの"
+  roma: nakafurano
+'044':
+  code: '044'
+  name: "南富良野出張所"
+  kana: "ミナミフラノ"
+  hira: "みなみふらの"
+  roma: minamifurano
+'047':
+  code: '047'
+  name: "一条出張所"
+  kana: "イチジヨウ"
+  hira: "いちじよう"
+  roma: ichijiyou
+'054':
+  code: '054'
+  name: "占冠出張所"
+  kana: "シムカツプ"
+  hira: "しむかつぷ"
+  roma: shimukatsupu

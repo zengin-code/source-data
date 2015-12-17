@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "004":{
+    "code":"004",
+    "name":"荻川",
+    "kana":"オギカワ",
+    "hira":"おぎかわ",
+    "roma":"ogikawa"
+  },
+  "006":{
+    "code":"006",
+    "name":"新津",
+    "kana":"ニイツ",
+    "hira":"にいつ",
+    "roma":"niitsu"
+  },
+  "010":{
+    "code":"010",
+    "name":"小須戸町",
+    "kana":"コスドマチ",
+    "hira":"こすどまち",
+    "roma":"kosudomachi"
+  }
+}

@@ -1,0 +1,85 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'003':
+  code: '003'
+  name: "海上"
+  kana: "ウナカミ"
+  hira: "うなかみ"
+  roma: unakami
+'004':
+  code: '004'
+  name: "養老"
+  kana: "ヨウロウ"
+  hira: "ようろう"
+  roma: yourou
+'006':
+  code: '006'
+  name: "八幡"
+  kana: "ヤワタ"
+  hira: "やわた"
+  roma: yawata
+009:
+  code: 009
+  name: "五井"
+  kana: "ゴイ"
+  hira: "ごい"
+  roma: goi
+'011':
+  code: '011'
+  name: "東海"
+  kana: "トウカイ"
+  hira: "とうかい"
+  roma: toukai
+'012':
+  code: '012'
+  name: "市東"
+  kana: "シトウ"
+  hira: "しとう"
+  roma: shitou
+'013':
+  code: '013'
+  name: "湿津"
+  kana: "ウルツ"
+  hira: "うるつ"
+  roma: urutsu
+'014':
+  code: '014'
+  name: "南総"
+  kana: "ナンソウ"
+  hira: "なんそう"
+  roma: nansou
+018:
+  code: 018
+  name: "戸田"
+  kana: "トダ"
+  hira: "とだ"
+  roma: toda
+019:
+  code: 019
+  name: "高滝"
+  kana: "タカタキ"
+  hira: "たかたき"
+  roma: takataki
+'021':
+  code: '021'
+  name: "月崎"
+  kana: "ツキザキ"
+  hira: "つきざき"
+  roma: tsukizaki
+'024':
+  code: '024'
+  name: "姉崎"
+  kana: "アネサキ"
+  hira: "あねさき"
+  roma: anesaki
+'025':
+  code: '025'
+  name: "桜台"
+  kana: "サクラダイ"
+  hira: "さくらだい"
+  roma: sakuradai

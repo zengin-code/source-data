@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"寺島",
+    "kana":"テラジマ",
+    "hira":"てらじま",
+    "roma":"terajima"
+  },
+  "003":{
+    "code":"003",
+    "name":"葛飾",
+    "kana":"カツシカ",
+    "hira":"かつしか",
+    "roma":"katsushika"
+  },
+  "004":{
+    "code":"004",
+    "name":"本所",
+    "kana":"ホンジヨ",
+    "hira":"ほんじよ",
+    "roma":"honjiyo"
+  }
+}

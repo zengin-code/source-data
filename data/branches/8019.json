@@ -1,0 +1,30 @@
+{
+  "473":{
+    "code":"473",
+    "name":"内浦",
+    "kana":"ウチウラ",
+    "hira":"うちうら",
+    "roma":"uchiura"
+  },
+  "478":{
+    "code":"478",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "484":{
+    "code":"484",
+    "name":"明石",
+    "kana":"アカシ",
+    "hira":"あかし",
+    "roma":"akashi"
+  },
+  "818":{
+    "code":"818",
+    "name":"中野",
+    "kana":"ナカノ",
+    "hira":"なかの",
+    "roma":"nakano"
+  }
+}

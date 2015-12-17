@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    moji (1.6)
+    oj (2.14.1)
+    rake (10.4.2)
+    romaji (0.2.2)
+      rake (>= 0.8.0)
+    ruby-progressbar (1.7.5)
+    rubyzip (1.1.7)
+    thor (0.19.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  moji
+  oj
+  romaji
+  ruby-progressbar
+  rubyzip
+  thor
+
+BUNDLED WITH
+   1.11.2

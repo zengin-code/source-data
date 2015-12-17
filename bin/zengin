@@ -1,0 +1,154 @@
+#!/usr/bin/env ruby
+# vim: ft=ruby
+
+ROOT_DIR = File.expand_path('../..', __FILE__)
+
+ENV['BUNDLE_GEMFILE'] = File.join(ROOT_DIR, 'Gemfile')
+require 'bundler/setup'
+require 'thor'
+require 'ruby-progressbar'
+require 'open-uri'
+require 'fileutils'
+require 'zip'
+require 'csv'
+require 'moji'
+require 'romaji'
+require 'oj'
+require 'yaml'
+
+class ZenginCLI < Thor
+  include Thor::Invocation
+  include Thor::Actions
+
+  SOURCE_ARCHIVE_URL = 'http://ykaku.com/ginkokensaku/ginkositen.zip'
+  ARCHIVE_PATH = File.join(ROOT_DIR, 'data', 'src.zip')
+  CSV_PATH = File.join(ROOT_DIR, 'data', 'src.csv')
+  JSON_OPTIONS = { mode: :compat, indent: 2 }
+
+  desc 'update', 'update a soruce data'
+  def update
+    dowload_archive
+    extract_archive
+    invoke :checksum, [CSV_PATH]
+    invoke :convert, [CSV_PATH]
+  end
+
+  desc 'checksum CSV', 'make checksum file'
+  def checksum(csv)
+    puts "Generate Checksum"
+    md5_path = File.join(ROOT_DIR, 'data/md5')
+
+    src = File.read(csv)
+    old_md5 = File.exists?(md5_path) ? File.read(md5_path).strip : ''
+    now_md5 = Digest::MD5.hexdigest(src)
+
+    if old_md5 != now_md5
+      open(md5_path, 'w') { |f| f.write(now_md5) }
+      open(File.join(ROOT_DIR, 'data/updated_at'), 'w') { |f| f.write(Time.now.strftime('%Y%m%d')) }
+    end
+  end
+
+  desc 'convert CSV', 'convert source csv to json'
+  def convert(csv = CSV_PATH)
+    puts "Convert #{csv} to json and yaml"
+    banks = {}
+    branches = Hash.new { |hash, key| hash[key] = {} }
+
+    CSV.foreach(csv) do |row|
+      bank_code = row[0].strip
+      branch_code = row[1].strip
+      kana = Moji.han_to_zen(row[2].strip)
+      name = row[3].strip
+      hira = Moji.kata_to_hira(kana)
+      roma = Romaji.kana2romaji(kana)
+      is_bank = row[4].to_i == 1
+
+      if is_bank
+        banks[bank_code] = { code: bank_code, name: name, kana: kana, hira: hira, roma: roma }
+      else
+        branches[bank_code][branch_code] = { code: branch_code, name: name, kana: kana, hira: hira, roma: roma }
+      end
+    end
+
+    dump_json(File.join(ROOT_DIR, 'data', 'banks.json'), banks)
+    dump_yaml(File.join(ROOT_DIR, 'data', 'banks.yml'), banks)
+    branches.each_pair do |bank, bank_branches|
+      dump_json(File.join(ROOT_DIR, 'data', 'branches', "#{bank}.json"), bank_branches)
+      dump_yaml(File.join(ROOT_DIR, 'data', 'branches', "#{bank}.yml"), bank_branches)
+    end
+  end
+
+  desc 'git', 'git commit diffs'
+  def git
+    now = Time.now
+    inside(ROOT_DIR) do
+      run('git add .')
+      run(%Q{git commit -m "Update: #{now.strftime('%Y / %m / %d')}"})
+      run(%Q{git tag #{now.strftime('%Y-%m-%d')}})
+      run('git push --all')
+    end
+  end
+
+  private
+
+  def dowload_archive
+    puts "Download: #{SOURCE_ARCHIVE_URL}"
+    pb = ProgressBar.create(title: 'Downloading', total: nil, format: '%t: |%B| %E')
+    open(
+      SOURCE_ARCHIVE_URL,
+      content_length_proc: proc { |total| pb.total = total  if total.to_i > 0 },
+      progress_proc: proc { |step| pb.progress = step }
+    ) do |src|
+      FileUtils.mkdir_p(File.dirname(ARCHIVE_PATH))
+      open(ARCHIVE_PATH, 'w') do |archive|
+        archive.write(src.read)
+      end
+      pb.finish
+      puts 'Successfully downloaded'
+    end
+  rescue OpenURI::HTTPError => e
+    pb.total = 10
+    pb.progress = 10
+    pb.finish
+
+    puts "Error: #{e.message}"
+  end
+
+  def extract_archive
+    puts "Extract: #{ARCHIVE_PATH}"
+    Zip::File.open(ARCHIVE_PATH) do |zip|
+      zip.each do |entry|
+        if entry.to_s == 'ginkositen.txt'
+          open(CSV_PATH, 'w') do |src|
+            src.write(entry.get_input_stream.read.encode('UTF-8', 'Shift_JIS'))
+          end
+        end
+      end
+    end
+    puts "Successfully extracted"
+  end
+
+  def dump_json(path, obj)
+    FileUtils.mkdir_p(File.dirname(path))
+    open(path, 'w') do |file|
+      file.write(Oj.dump(obj, JSON_OPTIONS))
+    end
+  end
+
+  def dump_yaml(path, obj)
+    FileUtils.mkdir_p(File.dirname(path))
+    open(path, 'w') do |file|
+      YAML.dump(stringify_keys(obj), file)
+    end
+  end
+
+  def stringify_keys(hash)
+    strigified = {}
+    hash.each_pair do |k, v|
+      strigified[k.to_s] = v.is_a?(Hash) ? stringify_keys(v) : v
+    end
+    strigified
+  end
+end
+
+ZenginCLI.start(ARGV)

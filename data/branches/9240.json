@@ -1,0 +1,23 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "003":{
+    "code":"003",
+    "name":"笹貫",
+    "kana":"ササヌキ",
+    "hira":"ささぬき",
+    "roma":"sasanuki"
+  },
+  "004":{
+    "code":"004",
+    "name":"薬師堂",
+    "kana":"ヤクシドウ",
+    "hira":"やくしどう",
+    "roma":"yakushidou"
+  }
+}

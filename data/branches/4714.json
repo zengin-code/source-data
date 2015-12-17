@@ -1,0 +1,37 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"鴻巣",
+    "kana":"コウノス",
+    "hira":"こうのす",
+    "roma":"kounosu"
+  },
+  "005":{
+    "code":"005",
+    "name":"箕田",
+    "kana":"ミダ",
+    "hira":"みだ",
+    "roma":"mida"
+  },
+  "007":{
+    "code":"007",
+    "name":"常光",
+    "kana":"ジヨウコウ",
+    "hira":"じようこう",
+    "roma":"jiyoukou"
+  },
+  "008":{
+    "code":"008",
+    "name":"吹上",
+    "kana":"フキアゲ",
+    "hira":"ふきあげ",
+    "roma":"fukiage"
+  }
+}

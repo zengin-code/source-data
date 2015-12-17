@@ -1,0 +1,37 @@
+{
+  "101":{
+    "code":"101",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "102":{
+    "code":"102",
+    "name":"岩戸",
+    "kana":"イワト",
+    "hira":"いわと",
+    "roma":"iwato"
+  },
+  "103":{
+    "code":"103",
+    "name":"玄武山",
+    "kana":"ゲンブザン",
+    "hira":"げんぶざん",
+    "roma":"gembuzan"
+  },
+  "110":{
+    "code":"110",
+    "name":"日之影",
+    "kana":"ヒノカゲ",
+    "hira":"ひのかげ",
+    "roma":"hinokage"
+  },
+  "120":{
+    "code":"120",
+    "name":"五ヶ瀬",
+    "kana":"ゴカセ",
+    "hira":"ごかせ",
+    "roma":"gokase"
+  }
+}

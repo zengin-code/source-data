@@ -1,0 +1,37 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "101":{
+    "code":"101",
+    "name":"色麻",
+    "kana":"シカマ",
+    "hira":"しかま",
+    "roma":"shikama"
+  },
+  "103":{
+    "code":"103",
+    "name":"中新田",
+    "kana":"ナカニイダ",
+    "hira":"なかにいだ",
+    "roma":"nakaniida"
+  },
+  "107":{
+    "code":"107",
+    "name":"宮崎",
+    "kana":"ミヤザキ",
+    "hira":"みやざき",
+    "roma":"miyazaki"
+  },
+  "108":{
+    "code":"108",
+    "name":"小野田",
+    "kana":"オノダ",
+    "hira":"おのだ",
+    "roma":"onoda"
+  }
+}

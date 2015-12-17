@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"継立出張所",
+    "kana":"ツギタテ",
+    "hira":"つぎたて",
+    "roma":"tsugitate"
+  },
+  "003":{
+    "code":"003",
+    "name":"由仁",
+    "kana":"ユニ",
+    "hira":"ゆに",
+    "roma":"yuni"
+  },
+  "004":{
+    "code":"004",
+    "name":"三川出張所",
+    "kana":"ミカワ",
+    "hira":"みかわ",
+    "roma":"mikawa"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "003":{
+    "code":"003",
+    "name":"高千帆",
+    "kana":"タカチホ",
+    "hira":"たかちほ",
+    "roma":"takachiho"
+  },
+  "005":{
+    "code":"005",
+    "name":"西宇部",
+    "kana":"ニシウベ",
+    "hira":"にしうべ",
+    "roma":"nishiube"
+  },
+  "006":{
+    "code":"006",
+    "name":"厚狭",
+    "kana":"アサ",
+    "hira":"あさ",
+    "roma":"asa"
+  }
+}

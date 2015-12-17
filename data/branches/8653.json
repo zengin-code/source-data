@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "004":{
+    "code":"004",
+    "name":"吉井",
+    "kana":"ヨシイ",
+    "hira":"よしい",
+    "roma":"yoshii"
+  },
+  "012":{
+    "code":"012",
+    "name":"浮羽",
+    "kana":"ウキハ",
+    "hira":"うきは",
+    "roma":"ukiha"
+  },
+  "023":{
+    "code":"023",
+    "name":"田主丸",
+    "kana":"タヌシマル",
+    "hira":"たぬしまる",
+    "roma":"tanushimaru"
+  }
+}

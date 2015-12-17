@@ -1,0 +1,37 @@
+{
+  "001":{
+    "code":"001",
+    "name":"東押立",
+    "kana":"ヒガシオシタテ",
+    "hira":"ひがしおしたて",
+    "roma":"higashioshitate"
+  },
+  "002":{
+    "code":"002",
+    "name":"西押立",
+    "kana":"ニシオシタテ",
+    "hira":"にしおしたて",
+    "roma":"nishioshitate"
+  },
+  "003":{
+    "code":"003",
+    "name":"豊椋",
+    "kana":"トヨクラ",
+    "hira":"とよくら",
+    "roma":"toyokura"
+  },
+  "005":{
+    "code":"005",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "011":{
+    "code":"011",
+    "name":"愛東",
+    "kana":"アイトウ",
+    "hira":"あいとう",
+    "roma":"aitou"
+  }
+}

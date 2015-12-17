@@ -1,0 +1,97 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'003':
+  code: '003'
+  name: "だいいち"
+  kana: "ダイイチ"
+  hira: "だいいち"
+  roma: daiichi
+'004':
+  code: '004'
+  name: "苗代"
+  kana: "ノシロ"
+  hira: "のしろ"
+  roma: noshiro
+'005':
+  code: '005'
+  name: "今江"
+  kana: "イマエ"
+  hira: "いまえ"
+  roma: imae
+'006':
+  code: '006'
+  name: "みゆき"
+  kana: "ミユキ"
+  hira: "みゆき"
+  roma: miyuki
+008:
+  code: 008
+  name: "月津"
+  kana: "ツキヅ"
+  hira: "つきづ"
+  roma: tsukidu
+009:
+  code: 009
+  name: "矢田野"
+  kana: "ヤタノ"
+  hira: "やたの"
+  roma: yatano
+'010':
+  code: '010'
+  name: "那谷"
+  kana: "ナタ"
+  hira: "なた"
+  roma: nata
+'013':
+  code: '013'
+  name: "国府"
+  kana: "コクフ"
+  hira: "こくふ"
+  roma: kokufu
+'014':
+  code: '014'
+  name: "中海"
+  kana: "ナカウミ"
+  hira: "なかうみ"
+  roma: nakaumi
+'017':
+  code: '017'
+  name: "松東"
+  kana: "シヨウトウ"
+  hira: "しようとう"
+  roma: shiyoutou
+018:
+  code: 018
+  name: "牧"
+  kana: "マキ"
+  hira: "まき"
+  roma: maki
+019:
+  code: 019
+  name: "板津"
+  kana: "イタヅ"
+  hira: "いたづ"
+  roma: itadu
+'020':
+  code: '020'
+  name: "粟津"
+  kana: "アワヅ"
+  hira: "あわづ"
+  roma: awadu
+'026':
+  code: '026'
+  name: "浮柳出張所"
+  kana: "ウキヤナギ"
+  hira: "うきやなぎ"
+  roma: ukiyanagi
+028:
+  code: 028
+  name: "能美出張所"
+  kana: "ノミ"
+  hira: "のみ"
+  roma: nomi

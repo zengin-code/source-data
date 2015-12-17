@@ -1,0 +1,23 @@
+{
+  "101":{
+    "code":"101",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "102":{
+    "code":"102",
+    "name":"林",
+    "kana":"ハヤシ",
+    "hira":"はやし",
+    "roma":"hayashi"
+  },
+  "104":{
+    "code":"104",
+    "name":"久勝",
+    "kana":"ヒサカツ",
+    "hira":"ひさかつ",
+    "roma":"hisakatsu"
+  }
+}

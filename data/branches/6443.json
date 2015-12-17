@@ -1,0 +1,23 @@
+{
+  "010":{
+    "code":"010",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "028":{
+    "code":"028",
+    "name":"徳重",
+    "kana":"トクシゲ",
+    "hira":"とくしげ",
+    "roma":"tokushige"
+  },
+  "036":{
+    "code":"036",
+    "name":"桶狭間",
+    "kana":"オケハザマ",
+    "hira":"おけはざま",
+    "roma":"okehazama"
+  }
+}

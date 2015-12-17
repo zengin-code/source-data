@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"気仙沼総合",
+    "kana":"ケセンヌマソウゴウ",
+    "hira":"けせんぬまそうごう",
+    "roma":"kesennumasougou"
+  },
+  "004":{
+    "code":"004",
+    "name":"塩釜総合",
+    "kana":"シオガマソウゴウ",
+    "hira":"しおがまそうごう",
+    "roma":"shiogamasougou"
+  },
+  "220":{
+    "code":"220",
+    "name":"石巻総合",
+    "kana":"イシノマキソウゴウ",
+    "hira":"いしのまきそうごう",
+    "roma":"ishinomakisougou"
+  }
+}

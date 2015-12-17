@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"美原",
+    "kana":"ミハラ",
+    "hira":"みはら",
+    "roma":"mihara"
+  },
+  "003":{
+    "code":"003",
+    "name":"本通",
+    "kana":"ホンドオリ",
+    "hira":"ほんどおり",
+    "roma":"hondoori"
+  },
+  "004":{
+    "code":"004",
+    "name":"桔梗",
+    "kana":"キキヨウ",
+    "hira":"ききよう",
+    "roma":"kikiyou"
+  }
+}

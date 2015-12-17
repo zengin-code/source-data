@@ -1,0 +1,37 @@
+{
+  "301":{
+    "code":"301",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "302":{
+    "code":"302",
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
+  },
+  "303":{
+    "code":"303",
+    "name":"北星",
+    "kana":"ホクセイ",
+    "hira":"ほくせい",
+    "roma":"hokusei"
+  },
+  "307":{
+    "code":"307",
+    "name":"西南",
+    "kana":"セイナン",
+    "hira":"せいなん",
+    "roma":"seinan"
+  },
+  "311":{
+    "code":"311",
+    "name":"松南",
+    "kana":"シヨウナン",
+    "hira":"しようなん",
+    "roma":"shiyounan"
+  }
+}

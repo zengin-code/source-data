@@ -1,0 +1,67 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'011':
+  code: '011'
+  name: "寺泊"
+  kana: "テラドマリ"
+  hira: "てらどまり"
+  roma: teradomari
+'012':
+  code: '012'
+  name: "寺泊西"
+  kana: "テラドマリニシ"
+  hira: "てらどまりにし"
+  roma: teradomarinishi
+'021':
+  code: '021'
+  name: "北部中央"
+  kana: "ホクブチユウオウ"
+  hira: "ほくぶちゆうおう"
+  roma: hokubuchiyuuou
+'031':
+  code: '031'
+  name: "出雲崎"
+  kana: "イズモザキ"
+  hira: "いずもざき"
+  roma: izumozaki
+'051':
+  code: '051'
+  name: "中部中央"
+  kana: "チユウブチユウオウ"
+  hira: "ちゆうぶちゆうおう"
+  roma: chiyuubuchiyuuou
+058:
+  code: 058
+  name: "与板"
+  kana: "ヨイタ"
+  hira: "よいた"
+  roma: yoita
+059:
+  code: 059
+  name: "三島"
+  kana: "ミシマ"
+  hira: "みしま"
+  roma: mishima
+'071':
+  code: '071'
+  name: "こしじ中央"
+  kana: "コシジチユウオウ"
+  hira: "こしじちゆうおう"
+  roma: koshijichiyuuou
+'076':
+  code: '076'
+  name: "塚山"
+  kana: "ツカヤマ"
+  hira: "つかやま"
+  roma: tsukayama
+'077':
+  code: '077'
+  name: "岩塚"
+  kana: "イワツカ"
+  hira: "いわつか"
+  roma: iwatsuka

@@ -1,0 +1,151 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "滝山"
+  kana: "タキヤマ"
+  hira: "たきやま"
+  roma: takiyama
+'005':
+  code: '005'
+  name: "宮浦"
+  kana: "ミヤウラ"
+  hira: "みやうら"
+  roma: miyaura
+'007':
+  code: '007'
+  name: "西部"
+  kana: "セイブ"
+  hira: "せいぶ"
+  roma: seibu
+009:
+  code: 009
+  name: "南金井"
+  kana: "ミナミカナイ"
+  hira: "みなみかない"
+  roma: minamikanai
+'010':
+  code: '010'
+  name: "鈴川"
+  kana: "スズカワ"
+  hira: "すずかわ"
+  roma: suzukawa
+'011':
+  code: '011'
+  name: "楯山"
+  kana: "タテヤマ"
+  hira: "たてやま"
+  roma: tateyama
+'012':
+  code: '012'
+  name: "高瀬"
+  kana: "タカセ"
+  hira: "たかせ"
+  roma: takase
+'013':
+  code: '013'
+  name: "千歳"
+  kana: "チトセ"
+  hira: "ちとせ"
+  roma: chitose
+'016':
+  code: '016'
+  name: "東金井"
+  kana: "ヒガシカナイ"
+  hira: "ひがしかない"
+  roma: higashikanai
+'017':
+  code: '017'
+  name: "天神"
+  kana: "テンジン"
+  hira: "てんじん"
+  roma: tenjin
+'020':
+  code: '020'
+  name: "南館"
+  kana: "ミナミダテ"
+  hira: "みなみだて"
+  roma: minamidate
+'023':
+  code: '023'
+  name: "さくら"
+  kana: "サクラ"
+  hira: "さくら"
+  roma: sakura
+'027':
+  code: '027'
+  name: "本沢"
+  kana: "モトサワ"
+  hira: "もとさわ"
+  roma: motosawa
+'031':
+  code: '031'
+  name: "成沢"
+  kana: "ナリサワ"
+  hira: "なりさわ"
+  roma: narisawa
+'032':
+  code: '032'
+  name: "蔵王"
+  kana: "ザオウ"
+  hira: "ざおう"
+  roma: zaou
+'036':
+  code: '036'
+  name: "上山"
+  kana: "カミノヤマ"
+  hira: "かみのやま"
+  roma: kaminoyama
+'037':
+  code: '037'
+  name: "宮川"
+  kana: "ミヤカワ"
+  hira: "みやかわ"
+  roma: miyakawa
+'043':
+  code: '043'
+  name: "西郷"
+  kana: "ニシゴウ"
+  hira: "にしごう"
+  roma: nishigou
+'045':
+  code: '045'
+  name: "中川"
+  kana: "ナカガワ"
+  hira: "なかがわ"
+  roma: nakagawa
+'047':
+  code: '047'
+  name: "長崎"
+  kana: "ナガサキ"
+  hira: "ながさき"
+  roma: nagasaki
+'050':
+  code: '050'
+  name: "豊田"
+  kana: "トヨダ"
+  hira: "とよだ"
+  roma: toyoda
+'052':
+  code: '052'
+  name: "山辺"
+  kana: "ヤマノベ"
+  hira: "やまのべ"
+  roma: yamanobe
+'056':
+  code: '056'
+  name: "作谷沢"
+  kana: "サクヤザワ"
+  hira: "さくやざわ"
+  roma: sakuyazawa
+'057':
+  code: '057'
+  name: "七日町ふれあい"
+  kana: "ナノカマチフレアイ"
+  hira: "なのかまちふれあい"
+  roma: nanokamachifureai

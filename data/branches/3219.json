@@ -1,0 +1,23 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"旭川",
+    "kana":"アサヒカワ",
+    "hira":"あさひかわ",
+    "roma":"asahikawa"
+  },
+  "004":{
+    "code":"004",
+    "name":"西神楽",
+    "kana":"ニシカグラ",
+    "hira":"にしかぐら",
+    "roma":"nishikagura"
+  }
+}

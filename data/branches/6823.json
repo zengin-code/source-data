@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"東",
+    "kana":"ヒガシ",
+    "hira":"ひがし",
+    "roma":"higashi"
+  },
+  "004":{
+    "code":"004",
+    "name":"大石",
+    "kana":"オオイシ",
+    "hira":"おおいし",
+    "roma":"ooishi"
+  },
+  "005":{
+    "code":"005",
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
+  }
+}

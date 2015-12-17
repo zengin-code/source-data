@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "002":{
+    "code":"002",
+    "name":"幌呂",
+    "kana":"ホロロ",
+    "hira":"ほろろ",
+    "roma":"hororo"
+  },
+  "003":{
+    "code":"003",
+    "name":"白糠",
+    "kana":"シラヌカ",
+    "hira":"しらぬか",
+    "roma":"shiranuka"
+  },
+  "004":{
+    "code":"004",
+    "name":"音別",
+    "kana":"オンベツ",
+    "hira":"おんべつ",
+    "roma":"ombetsu"
+  }
+}

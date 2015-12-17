@@ -1,0 +1,37 @@
+{
+  "009":{
+    "code":"009",
+    "name":"井上",
+    "kana":"イノウエ",
+    "hira":"いのうえ",
+    "roma":"inoue"
+  },
+  "010":{
+    "code":"010",
+    "name":"仁礼",
+    "kana":"ニレイ",
+    "hira":"にれい",
+    "roma":"nirei"
+  },
+  "012":{
+    "code":"012",
+    "name":"高山",
+    "kana":"タカヤマ",
+    "hira":"たかやま",
+    "roma":"takayama"
+  },
+  "014":{
+    "code":"014",
+    "name":"小布施",
+    "kana":"オブセ",
+    "hira":"おぶせ",
+    "roma":"obuse"
+  },
+  "100":{
+    "code":"100",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  }
+}

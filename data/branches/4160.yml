@@ -1,0 +1,61 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "喜多方中央"
+  kana: "キタカタチユウオウ"
+  hira: "きたかたちゆうおう"
+  roma: kitakatachiyuuou
+'003':
+  code: '003'
+  name: "喜多方総合"
+  kana: "キタカタソウゴウ"
+  hira: "きたかたそうごう"
+  roma: kitakatasougou
+'010':
+  code: '010'
+  name: "熱塩加納"
+  kana: "アツシオカノウ"
+  hira: "あつしおかのう"
+  roma: atsushiokanou
+'011':
+  code: '011'
+  name: "北塩原"
+  kana: "キタシオバラ"
+  hira: "きたしおばら"
+  roma: kitashiobara
+'013':
+  code: '013'
+  name: "塩川総合"
+  kana: "シオカワソウゴウ"
+  hira: "しおかわそうごう"
+  roma: shiokawasougou
+'017':
+  code: '017'
+  name: "山都総合"
+  kana: "ヤマトソウゴウ"
+  hira: "やまとそうごう"
+  roma: yamatosougou
+018:
+  code: 018
+  name: "西会津総合"
+  kana: "ニシアイヅソウゴウ"
+  hira: "にしあいづそうごう"
+  roma: nishiaidusougou
+'021':
+  code: '021'
+  name: "奥川出張所"
+  kana: "オクガワ"
+  hira: "おくがわ"
+  roma: okugawa
+'023':
+  code: '023'
+  name: "高郷"
+  kana: "タカサト"
+  hira: "たかさと"
+  roma: takasato

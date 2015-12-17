@@ -1,0 +1,235 @@
+---
+'001':
+  code: '001'
+  name: "ガーネット"
+  kana: "ガ－ネツト"
+  hira: "が－ねつと"
+  roma: ga-netsuto
+'002':
+  code: '002'
+  name: "アメシスト"
+  kana: "アメシスト"
+  hira: "あめしすと"
+  roma: ameshisuto
+'003':
+  code: '003'
+  name: "アクアマリン"
+  kana: "アクアマリン"
+  hira: "あくあまりん"
+  roma: akuamarin
+'004':
+  code: '004'
+  name: "ダイヤモンド"
+  kana: "ダイヤモンド"
+  hira: "だいやもんど"
+  roma: daiyamondo
+'005':
+  code: '005'
+  name: "エメラルド"
+  kana: "エメラルド"
+  hira: "えめらるど"
+  roma: emerarudo
+'006':
+  code: '006'
+  name: "パール"
+  kana: "パ－ル"
+  hira: "ぱ－る"
+  roma: pa-ru
+'007':
+  code: '007'
+  name: "ルビー"
+  kana: "ルビ－"
+  hira: "るび－"
+  roma: rubi-
+008:
+  code: 008
+  name: "ペリドット"
+  kana: "ペリドツト"
+  hira: "ぺりどつと"
+  roma: peridotsuto
+009:
+  code: 009
+  name: "サファイア"
+  kana: "サフアイア"
+  hira: "さふあいあ"
+  roma: safuaia
+'010':
+  code: '010'
+  name: "オパール"
+  kana: "オパ－ル"
+  hira: "おぱ－る"
+  roma: opa-ru
+'011':
+  code: '011'
+  name: "トパーズ"
+  kana: "トパ－ズ"
+  hira: "とぱ－ず"
+  roma: topa-zu
+'012':
+  code: '012'
+  name: "ターコイズ"
+  kana: "タ－コイズ"
+  hira: "た－こいず"
+  roma: ta-koizu
+'031':
+  code: '031'
+  name: "イオンカード"
+  kana: "イオンカ－ド"
+  hira: "いおんか－ど"
+  roma: ionka-do
+'032':
+  code: '032'
+  name: "振込一号"
+  kana: "フリコミイチゴウ"
+  hira: "ふりこみいちごう"
+  roma: furikomiichigou
+'051':
+  code: '051'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'104':
+  code: '104'
+  name: "新宿出張所"
+  kana: "シンジユク"
+  hira: "しんじゆく"
+  roma: shinjiyuku
+'119':
+  code: '119'
+  name: "横浜出張所"
+  kana: "ヨコハマ"
+  hira: "よこはま"
+  roma: yokohama
+'120':
+  code: '120'
+  name: "大宮出張所"
+  kana: "オオミヤ"
+  hira: "おおみや"
+  roma: oomiya
+'127':
+  code: '127'
+  name: "千葉出張所"
+  kana: "チバ"
+  hira: "ちば"
+  roma: chiba
+'130':
+  code: '130'
+  name: "神戸出張所"
+  kana: "コウベ"
+  hira: "こうべ"
+  roma: koube
+'132':
+  code: '132'
+  name: "梅田出張所"
+  kana: "ウメダ"
+  hira: "うめだ"
+  roma: umeda
+'134':
+  code: '134'
+  name: "宇都宮出張所"
+  kana: "ウツノミヤ"
+  hira: "うつのみや"
+  roma: utsunomiya
+'140':
+  code: '140'
+  name: "郡山出張所"
+  kana: "コオリヤマ"
+  hira: "こおりやま"
+  roma: kooriyama
+'142':
+  code: '142'
+  name: "甲府出張所"
+  kana: "コウフ"
+  hira: "こうふ"
+  roma: koufu
+'144':
+  code: '144'
+  name: "札幌出張所"
+  kana: "サツポロ"
+  hira: "さつぽろ"
+  roma: satsuporo
+'145':
+  code: '145'
+  name: "仙台出張所"
+  kana: "センダイ"
+  hira: "せんだい"
+  roma: sendai
+'146':
+  code: '146'
+  name: "広島出張所"
+  kana: "ヒロシマ"
+  hira: "ひろしま"
+  roma: hiroshima
+'147':
+  code: '147'
+  name: "福岡出張所"
+  kana: "フクオカ"
+  hira: "ふくおか"
+  roma: fukuoka
+'149':
+  code: '149'
+  name: "新潟出張所"
+  kana: "ニイガタ"
+  hira: "にいがた"
+  roma: niigata
+'150':
+  code: '150'
+  name: "静岡出張所"
+  kana: "シズオカ"
+  hira: "しずおか"
+  roma: shizuoka
+'152':
+  code: '152'
+  name: "長野出張所"
+  kana: "ナガノ"
+  hira: "ながの"
+  roma: nagano
+'154':
+  code: '154'
+  name: "熊本出張所"
+  kana: "クマモト"
+  hira: "くまもと"
+  roma: kumamoto
+'156':
+  code: '156'
+  name: "金沢出張所"
+  kana: "カナザワ"
+  hira: "かなざわ"
+  roma: kanazawa
+'157':
+  code: '157'
+  name: "岡山出張所"
+  kana: "オカヤマ"
+  hira: "おかやま"
+  roma: okayama
+'158':
+  code: '158'
+  name: "盛岡出張所"
+  kana: "モリオカ"
+  hira: "もりおか"
+  roma: morioka
+'160':
+  code: '160'
+  name: "高松出張所"
+  kana: "タカマツ"
+  hira: "たかまつ"
+  roma: takamatsu
+'161':
+  code: '161'
+  name: "鹿児島出張所"
+  kana: "カゴシマ"
+  hira: "かごしま"
+  roma: kagoshima
+'162':
+  code: '162'
+  name: "水戸出張所"
+  kana: "ミト"
+  hira: "みと"
+  roma: mito
+'199':
+  code: '199'
+  name: "秋田出張所"
+  kana: "アキタ"
+  hira: "あきた"
+  roma: akita

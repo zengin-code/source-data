@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"福町",
+    "kana":"フクマチ",
+    "hira":"ふくまち",
+    "roma":"fukumachi"
+  },
+  "003":{
+    "code":"003",
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
+  },
+  "004":{
+    "code":"004",
+    "name":"金沢",
+    "kana":"カナザワ",
+    "hira":"かなざわ",
+    "roma":"kanazawa"
+  }
+}

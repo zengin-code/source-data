@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  },
+  "021":{
+    "code":"021",
+    "name":"北浦",
+    "kana":"キタウラ",
+    "hira":"きたうら",
+    "roma":"kitaura"
+  },
+  "091":{
+    "code":"091",
+    "name":"庵川",
+    "kana":"イオリガワ",
+    "hira":"いおりがわ",
+    "roma":"iorigawa"
+  },
+  "211":{
+    "code":"211",
+    "name":"南郷",
+    "kana":"ナンゴウ",
+    "hira":"なんごう",
+    "roma":"nangou"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "004":{
+    "code":"004",
+    "name":"若狭",
+    "kana":"ワカサ",
+    "hira":"わかさ",
+    "roma":"wakasa"
+  },
+  "060":{
+    "code":"060",
+    "name":"越前",
+    "kana":"エチゼン",
+    "hira":"えちぜん",
+    "roma":"echizen"
+  },
+  "170":{
+    "code":"170",
+    "name":"敦賀",
+    "kana":"ツルガ",
+    "hira":"つるが",
+    "roma":"tsuruga"
+  }
+}

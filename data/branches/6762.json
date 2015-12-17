@@ -1,0 +1,30 @@
+{
+  "014":{
+    "code":"014",
+    "name":"名張東",
+    "kana":"ナバリヒガシ",
+    "hira":"なばりひがし",
+    "roma":"nabarihigashi"
+  },
+  "015":{
+    "code":"015",
+    "name":"名張西",
+    "kana":"ナバリニシ",
+    "hira":"なばりにし",
+    "roma":"nabarinishi"
+  },
+  "016":{
+    "code":"016",
+    "name":"青山",
+    "kana":"アオヤマ",
+    "hira":"あおやま",
+    "roma":"aoyama"
+  },
+  "100":{
+    "code":"100",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "002":{
+    "code":"002",
+    "name":"京極",
+    "kana":"キヨウゴク",
+    "hira":"きようごく",
+    "roma":"kiyougoku"
+  },
+  "005":{
+    "code":"005",
+    "name":"真狩",
+    "kana":"マツカリ",
+    "hira":"まつかり",
+    "roma":"matsukari"
+  },
+  "007":{
+    "code":"007",
+    "name":"蘭越",
+    "kana":"ランコシ",
+    "hira":"らんこし",
+    "roma":"rankoshi"
+  },
+  "100":{
+    "code":"100",
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
+  }
+}

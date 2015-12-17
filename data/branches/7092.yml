@@ -1,0 +1,145 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "中央"
+  kana: "チユウオウ"
+  hira: "ちゆうおう"
+  roma: chiyuuou
+'003':
+  code: '003'
+  name: "土生郷"
+  kana: "ハブゴウ"
+  hira: "はぶごう"
+  roma: habugou
+'004':
+  code: '004'
+  name: "有真香"
+  kana: "アリマカ"
+  hira: "ありまか"
+  roma: arimaka
+'005':
+  code: '005'
+  name: "東葛城"
+  kana: "ヒガシカツラギ"
+  hira: "ひがしかつらぎ"
+  roma: higashikatsuragi
+'006':
+  code: '006'
+  name: "山滝"
+  kana: "ヤマタキ"
+  hira: "やまたき"
+  roma: yamataki
+'007':
+  code: '007'
+  name: "山直上"
+  kana: "ヤマダイカミ"
+  hira: "やまだいかみ"
+  roma: yamadaikami
+008:
+  code: 008
+  name: "八木"
+  kana: "ヤギ"
+  hira: "やぎ"
+  roma: yagi
+009:
+  code: 009
+  name: "南掃守"
+  kana: "ミナミカモリ"
+  hira: "みなみかもり"
+  roma: minamikamori
+'010':
+  code: '010'
+  name: "城北"
+  kana: "ジヨウホク"
+  hira: "じようほく"
+  roma: jiyouhoku
+'011':
+  code: '011'
+  name: "山直下"
+  kana: "ヤマダイシモ"
+  hira: "やまだいしも"
+  roma: yamadaishimo
+'012':
+  code: '012'
+  name: "春木"
+  kana: "ハルキ"
+  hira: "はるき"
+  roma: haruki
+'013':
+  code: '013'
+  name: "泉大津"
+  kana: "イズミオオツ"
+  hira: "いずみおおつ"
+  roma: izumiootsu
+'014':
+  code: '014'
+  name: "あびこ"
+  kana: "アビコ"
+  hira: "あびこ"
+  roma: abiko
+'015':
+  code: '015'
+  name: "上條"
+  kana: "カミジヨウ"
+  hira: "かみじよう"
+  roma: kamijiyou
+'017':
+  code: '017'
+  name: "取石"
+  kana: "トリイシ"
+  hira: "とりいし"
+  roma: toriishi
+018:
+  code: 018
+  name: "高石"
+  kana: "タカイシ"
+  hira: "たかいし"
+  roma: takaishi
+019:
+  code: 019
+  name: "忠岡"
+  kana: "タダオカ"
+  hira: "ただおか"
+  roma: tadaoka
+'021':
+  code: '021'
+  name: "くずのは"
+  kana: "クズノハ"
+  hira: "くずのは"
+  roma: kuzunoha
+'022':
+  code: '022'
+  name: "和泉"
+  kana: "イズミ"
+  hira: "いずみ"
+  roma: izumi
+'023':
+  code: '023'
+  name: "北池田"
+  kana: "キタイケダ"
+  hira: "きたいけだ"
+  roma: kitaikeda
+'024':
+  code: '024'
+  name: "南池田"
+  kana: "ミナミイケダ"
+  hira: "みなみいけだ"
+  roma: minamiikeda
+'025':
+  code: '025'
+  name: "横山"
+  kana: "ヨコヤマ"
+  hira: "よこやま"
+  roma: yokoyama
+'026':
+  code: '026'
+  name: "南松尾"
+  kana: "ミナミマツオ"
+  hira: "みなみまつお"
+  roma: minamimatsuo

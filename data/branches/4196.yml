@@ -1,0 +1,115 @@
+---
+'001':
+  code: '001'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "神谷"
+  kana: "カベヤ"
+  hira: "かべや"
+  roma: kabeya
+'003':
+  code: '003'
+  name: "飯野"
+  kana: "イイノ"
+  hira: "いいの"
+  roma: iino
+'004':
+  code: '004'
+  name: "高久"
+  kana: "タカク"
+  hira: "たかく"
+  roma: takaku
+'006':
+  code: '006'
+  name: "夏井"
+  kana: "ナツイ"
+  hira: "なつい"
+  roma: natsui
+'007':
+  code: '007'
+  name: "草野"
+  kana: "クサノ"
+  hira: "くさの"
+  roma: kusano
+008:
+  code: 008
+  name: "平窪"
+  kana: "ヒラクボ"
+  hira: "ひらくぼ"
+  roma: hirakubo
+'014':
+  code: '014'
+  name: "内郷"
+  kana: "ウチゴウ"
+  hira: "うちごう"
+  roma: uchigou
+'017':
+  code: '017'
+  name: "好間"
+  kana: "ヨシマ"
+  hira: "よしま"
+  roma: yoshima
+018:
+  code: 018
+  name: "小川"
+  kana: "オガワ"
+  hira: "おがわ"
+  roma: ogawa
+019:
+  code: 019
+  name: "三和"
+  kana: "ミワ"
+  hira: "みわ"
+  roma: miwa
+'020':
+  code: '020'
+  name: "大野"
+  kana: "オオノ"
+  hira: "おおの"
+  roma: oono
+'021':
+  code: '021'
+  name: "川前"
+  kana: "カワマエ"
+  hira: "かわまえ"
+  roma: kawamae
+'022':
+  code: '022'
+  name: "久之浜"
+  kana: "ヒサノハマ"
+  hira: "ひさのはま"
+  roma: hisanohama
+'023':
+  code: '023'
+  name: "大浦"
+  kana: "オオウラ"
+  hira: "おおうら"
+  roma: ooura
+'024':
+  code: '024'
+  name: "菊田"
+  kana: "キクタ"
+  hira: "きくた"
+  roma: kikuta
+'027':
+  code: '027'
+  name: "勿来"
+  kana: "ナコソ"
+  hira: "なこそ"
+  roma: nakoso
+'030':
+  code: '030'
+  name: "田人"
+  kana: "タビト"
+  hira: "たびと"
+  roma: tabito
+081:
+  code: 081
+  name: "遠野"
+  kana: "トオノ"
+  hira: "とおの"
+  roma: toono

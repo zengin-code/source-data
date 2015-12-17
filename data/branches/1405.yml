@@ -1,0 +1,85 @@
+---
+'001':
+  code: '001'
+  name: "本店営業部"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'002':
+  code: '002'
+  name: "桜井"
+  kana: "サクライ"
+  hira: "さくらい"
+  roma: sakurai
+'003':
+  code: '003'
+  name: "生地"
+  kana: "イクジ"
+  hira: "いくじ"
+  roma: ikuji
+'004':
+  code: '004'
+  name: "入善"
+  kana: "ニユウゼン"
+  hira: "にゆうぜん"
+  roma: niyuuzen
+'005':
+  code: '005'
+  name: "泊"
+  kana: "トマリ"
+  hira: "とまり"
+  roma: tomari
+'006':
+  code: '006'
+  name: "魚津駅前"
+  kana: "ウオヅエキマエ"
+  hira: "うおづえきまえ"
+  roma: uoduekimae
+'007':
+  code: '007'
+  name: "北部"
+  kana: "ホクブ"
+  hira: "ほくぶ"
+  roma: hokubu
+'011':
+  code: '011'
+  name: "水橋"
+  kana: "ミズハシ"
+  hira: "みずはし"
+  roma: mizuhashi
+'012':
+  code: '012'
+  name: "西部"
+  kana: "セイブ"
+  hira: "せいぶ"
+  roma: seibu
+'013':
+  code: '013'
+  name: "新庄"
+  kana: "シンジヨウ"
+  hira: "しんじよう"
+  roma: shinjiyou
+'014':
+  code: '014'
+  name: "富山"
+  kana: "トヤマ"
+  hira: "とやま"
+  roma: toyama
+'021':
+  code: '021'
+  name: "滑川営業部"
+  kana: "ナメリカワ"
+  hira: "なめりかわ"
+  roma: namerikawa
+'022':
+  code: '022'
+  name: "田中"
+  kana: "タナカ"
+  hira: "たなか"
+  roma: tanaka
+'023':
+  code: '023'
+  name: "中加積"
+  kana: "ナカカヅミ"
+  hira: "なかかづみ"
+  roma: nakakadumi

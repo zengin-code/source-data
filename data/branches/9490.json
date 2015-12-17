@@ -1,0 +1,30 @@
+{
+  "001":{
+    "code":"001",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"唐津",
+    "kana":"カラツ",
+    "hira":"からつ",
+    "roma":"karatsu"
+  },
+  "050":{
+    "code":"050",
+    "name":"南川副",
+    "kana":"ミナミカワソエ",
+    "hira":"みなみかわそえ",
+    "roma":"minamikawasoe"
+  },
+  "170":{
+    "code":"170",
+    "name":"鹿島",
+    "kana":"カシマ",
+    "hira":"かしま",
+    "roma":"kashima"
+  }
+}

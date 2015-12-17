@@ -1,0 +1,37 @@
+{
+  "101":{
+    "code":"101",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "102":{
+    "code":"102",
+    "name":"石打",
+    "kana":"イシウチ",
+    "hira":"いしうち",
+    "roma":"ishiuchi"
+  },
+  "103":{
+    "code":"103",
+    "name":"五日町",
+    "kana":"イツカマチ",
+    "hira":"いつかまち",
+    "roma":"itsukamachi"
+  },
+  "104":{
+    "code":"104",
+    "name":"津南",
+    "kana":"ツナン",
+    "hira":"つなん",
+    "roma":"tsunan"
+  },
+  "105":{
+    "code":"105",
+    "name":"小出郷",
+    "kana":"コイデゴウ",
+    "hira":"こいでごう",
+    "roma":"koidegou"
+  }
+}

@@ -1,0 +1,241 @@
+---
+'001':
+  code: '001'
+  name: "追手町"
+  kana: "オウテマチ"
+  hira: "おうてまち"
+  roma: outemachi
+'002':
+  code: '002'
+  name: "安西"
+  kana: "アンザイ"
+  hira: "あんざい"
+  roma: anzai
+'003':
+  code: '003'
+  name: "駅南"
+  kana: "エキナン"
+  hira: "えきなん"
+  roma: ekinan
+'004':
+  code: '004'
+  name: "長谷"
+  kana: "ハセ"
+  hira: "はせ"
+  roma: hase
+'005':
+  code: '005'
+  name: "新富"
+  kana: "シントミ"
+  hira: "しんとみ"
+  roma: shintomi
+'006':
+  code: '006'
+  name: "清水"
+  kana: "シミズ"
+  hira: "しみず"
+  roma: shimizu
+'007':
+  code: '007'
+  name: "横内"
+  kana: "ヨコウチ"
+  hira: "よこうち"
+  roma: yokouchi
+008:
+  code: 008
+  name: "駒形"
+  kana: "コマガタ"
+  hira: "こまがた"
+  roma: komagata
+009:
+  code: 009
+  name: "興津"
+  kana: "オキツ"
+  hira: "おきつ"
+  roma: okitsu
+'010':
+  code: '010'
+  name: "清水駅前"
+  kana: "シミズエキマエ"
+  hira: "しみずえきまえ"
+  roma: shimizuekimae
+'011':
+  code: '011'
+  name: "麻機"
+  kana: "アサバタ"
+  hira: "あさばた"
+  roma: asabata
+'012':
+  code: '012'
+  name: "石田"
+  kana: "イシダ"
+  hira: "いしだ"
+  roma: ishida
+'013':
+  code: '013'
+  name: "小鹿"
+  kana: "オシカ"
+  hira: "おしか"
+  roma: oshika
+'014':
+  code: '014'
+  name: "丸子"
+  kana: "マリコ"
+  hira: "まりこ"
+  roma: mariko
+'015':
+  code: '015'
+  name: "籠上"
+  kana: "カゴウエ"
+  hira: "かごうえ"
+  roma: kagoue
+'016':
+  code: '016'
+  name: "吉原"
+  kana: "ヨシワラ"
+  hira: "よしわら"
+  roma: yoshiwara
+'017':
+  code: '017'
+  name: "藤枝"
+  kana: "フジエダ"
+  hira: "ふじえだ"
+  roma: fujieda
+018:
+  code: 018
+  name: "八千代"
+  kana: "ヤチヨ"
+  hira: "やちよ"
+  roma: yachiyo
+019:
+  code: 019
+  name: "美和"
+  kana: "ミワ"
+  hira: "みわ"
+  roma: miwa
+'020':
+  code: '020'
+  name: "竜南"
+  kana: "リユウナン"
+  hira: "りゆうなん"
+  roma: riyuunan
+'021':
+  code: '021'
+  name: "瀬名"
+  kana: "セナ"
+  hira: "せな"
+  roma: sena
+'022':
+  code: '022'
+  name: "押切"
+  kana: "オシキリ"
+  hira: "おしきり"
+  roma: oshikiri
+'023':
+  code: '023'
+  name: "富士"
+  kana: "フジ"
+  hira: "ふじ"
+  roma: fuji
+'024':
+  code: '024'
+  name: "高松"
+  kana: "タカマツ"
+  hira: "たかまつ"
+  roma: takamatsu
+'025':
+  code: '025'
+  name: "松富"
+  kana: "マツドミ"
+  hira: "まつどみ"
+  roma: matsudomi
+'026':
+  code: '026'
+  name: "小黒"
+  kana: "オグロ"
+  hira: "おぐろ"
+  roma: oguro
+'027':
+  code: '027'
+  name: "志太"
+  kana: "シダ"
+  hira: "しだ"
+  roma: shida
+028:
+  code: 028
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+029:
+  code: 029
+  name: "古庄"
+  kana: "フルシヨウ"
+  hira: "ふるしよう"
+  roma: furushiyou
+'030':
+  code: '030'
+  name: "焼津"
+  kana: "ヤイヅ"
+  hira: "やいづ"
+  roma: yaidu
+'031':
+  code: '031'
+  name: "登呂"
+  kana: "トロ"
+  hira: "とろ"
+  roma: toro
+'033':
+  code: '033'
+  name: "長田南"
+  kana: "オサダミナミ"
+  hira: "おさだみなみ"
+  roma: osadaminami
+'035':
+  code: '035'
+  name: "新川"
+  kana: "シンカワ"
+  hira: "しんかわ"
+  roma: shinkawa
+'036':
+  code: '036'
+  name: "西脇"
+  kana: "ニシワキ"
+  hira: "にしわき"
+  roma: nishiwaki
+'037':
+  code: '037'
+  name: "羽鳥"
+  kana: "ハトリ"
+  hira: "はとり"
+  roma: hatori
+038:
+  code: 038
+  name: "御門台"
+  kana: "ミカドダイ"
+  hira: "みかどだい"
+  roma: mikadodai
+'041':
+  code: '041'
+  name: "西奈"
+  kana: "ニシナ"
+  hira: "にしな"
+  roma: nishina
+'042':
+  code: '042'
+  name: "道原"
+  kana: "ドウバラ"
+  hira: "どうばら"
+  roma: doubara
+'043':
+  code: '043'
+  name: "東新田"
+  kana: "トウシンデン"
+  hira: "とうしんでん"
+  roma: toushinden
+'044':
+  code: '044'
+  name: "西焼津"
+  kana: "ニシヤイヅ"
+  hira: "にしやいづ"
+  roma: nishiyaidu

@@ -1,0 +1,193 @@
+---
+'011':
+  code: '011'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'013':
+  code: '013'
+  name: "三江"
+  kana: "ミエ"
+  hira: "みえ"
+  roma: mie
+'014':
+  code: '014'
+  name: "豊岡北"
+  kana: "トヨオカキタ"
+  hira: "とよおかきた"
+  roma: toyookakita
+018:
+  code: 018
+  name: "豊岡南"
+  kana: "トヨオカミナミ"
+  hira: "とよおかみなみ"
+  roma: toyookaminami
+'021':
+  code: '021'
+  name: "港"
+  kana: "ミナト"
+  hira: "みなと"
+  roma: minato
+'022':
+  code: '022'
+  name: "城崎"
+  kana: "キノサキ"
+  hira: "きのさき"
+  roma: kinosaki
+'024':
+  code: '024'
+  name: "竹野"
+  kana: "タケノ"
+  hira: "たけの"
+  roma: takeno
+'026':
+  code: '026'
+  name: "さづ"
+  kana: "サヅ"
+  hira: "さづ"
+  roma: sadu
+029:
+  code: 029
+  name: "香住"
+  kana: "カスミ"
+  hira: "かすみ"
+  roma: kasumi
+'032':
+  code: '032'
+  name: "日高"
+  kana: "ヒダカ"
+  hira: "ひだか"
+  roma: hidaka
+'037':
+  code: '037'
+  name: "日高西"
+  kana: "ヒダカニシ"
+  hira: "ひだかにし"
+  roma: hidakanishi
+038:
+  code: 038
+  name: "出石"
+  kana: "イズシ"
+  hira: "いずし"
+  roma: izushi
+'040':
+  code: '040'
+  name: "但東"
+  kana: "タントウ"
+  hira: "たんとう"
+  roma: tantou
+'051':
+  code: '051'
+  name: "村岡"
+  kana: "ムラオカ"
+  hira: "むらおか"
+  roma: muraoka
+'052':
+  code: '052'
+  name: "兎塚"
+  kana: "ウヅカ"
+  hira: "うづか"
+  roma: uduka
+'053':
+  code: '053'
+  name: "射添"
+  kana: "イソウ"
+  hira: "いそう"
+  roma: isou
+'054':
+  code: '054'
+  name: "美方"
+  kana: "ミカタ"
+  hira: "みかた"
+  roma: mikata
+'055':
+  code: '055'
+  name: "温泉"
+  kana: "オンセン"
+  hira: "おんせん"
+  roma: onsen
+'056':
+  code: '056'
+  name: "照来"
+  kana: "テラギ"
+  hira: "てらぎ"
+  roma: teragi
+'057':
+  code: '057'
+  name: "八田"
+  kana: "ハツタ"
+  hira: "はつた"
+  roma: hatsuta
+058:
+  code: 058
+  name: "浜坂"
+  kana: "ハマサカ"
+  hira: "はまさか"
+  roma: hamasaka
+'061':
+  code: '061'
+  name: "八鹿"
+  kana: "ヨウカ"
+  hira: "ようか"
+  roma: youka
+'062':
+  code: '062'
+  name: "八鹿北"
+  kana: "ヨウカキタ"
+  hira: "ようかきた"
+  roma: youkakita
+'063':
+  code: '063'
+  name: "広谷"
+  kana: "ヒロタニ"
+  hira: "ひろたに"
+  roma: hirotani
+'066':
+  code: '066'
+  name: "大屋"
+  kana: "オオヤ"
+  hira: "おおや"
+  roma: ooya
+'067':
+  code: '067'
+  name: "関宮"
+  kana: "セキノミヤ"
+  hira: "せきのみや"
+  roma: sekinomiya
+'071':
+  code: '071'
+  name: "生野"
+  kana: "イクノ"
+  hira: "いくの"
+  roma: ikuno
+'072':
+  code: '072'
+  name: "朝来"
+  kana: "アサゴ"
+  hira: "あさご"
+  roma: asago
+'074':
+  code: '074'
+  name: "和田山"
+  kana: "ワダヤマ"
+  hira: "わだやま"
+  roma: wadayama
+'075':
+  code: '075'
+  name: "竹田"
+  kana: "タケダ"
+  hira: "たけだ"
+  roma: takeda
+078:
+  code: 078
+  name: "和田山北"
+  kana: "ワダヤマキタ"
+  hira: "わだやまきた"
+  roma: wadayamakita
+080:
+  code: 080
+  name: "山東"
+  kana: "サントウ"
+  hira: "さんとう"
+  roma: santou
