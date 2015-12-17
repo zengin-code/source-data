@@ -25,9 +25,13 @@ class ZenginCLI < Thor
   CSV_PATH = File.join(ROOT_DIR, 'data', 'src.csv')
   JSON_OPTIONS = { mode: :compat, indent: 2 }
 
+  desc 'download', 'download src archive'
+  def download
+    download_archive
+  end
+
   desc 'update', 'update a soruce data'
   def update
-    dowload_archive
     extract_archive
     invoke :checksum, [CSV_PATH]
     invoke :convert, [CSV_PATH]
@@ -78,9 +82,8 @@ class ZenginCLI < Thor
     end
   end
 
-  desc 'git', 'git commit diffs'
-  def git
-    now = Time.now
+  desc 'ci', 'ci job'
+  def ci
     inside(ROOT_DIR) do
       run('git config user.email "zeny-man@zeny.io"')
       run('git config user.name "zeny-man"')
@@ -88,12 +91,7 @@ class ZenginCLI < Thor
       run('git add data')
       run(%Q{git commit -m "Update: #{now.strftime('%Y / %m / %d')}"})
       run(%Q{git tag -f #{now.strftime('%Y-%m-%d')}})
-    end
-  end
 
-  desc 'ci', 'ci job'
-  def ci
-    inside(ROOT_DIR) do
       remote = "git@github.com:#{ENV['CIRCLE_PROJECT_USERNAME']}/#{ENV['CIRCLE_PROJECT_REPONAME']}.git"
       run("git push #{remote} master")
       run("git push -f --tags #{remote}")
