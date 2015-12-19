@@ -126,7 +126,7 @@ class ZenginCLI < Thor
       pb.finish
       puts 'Successfully downloaded'
     end
-  rescue OpenURI::HTTPError => e
+  rescue StandardError => e
     pb.total = 10
     pb.progress = 10
     pb.finish
