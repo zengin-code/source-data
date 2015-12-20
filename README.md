@@ -1,5 +1,7 @@
 # ZenginCode source data
 
+[![Circle CI](https://img.shields.io/circleci/project/zengin-code/source-data.svg)](https://circleci.com/gh/zengin-code/source-data)
+
 Bank codes and Branch codes for Japanese.
 
 ## Usage for any language
