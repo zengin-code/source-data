@@ -121,7 +121,7 @@
   roma: misato
 '130':
   code: '130'
-  name: "長野"
+  name: "長野営業部"
   kana: "ナガノ"
   hira: "ながの"
   roma: nagano
@@ -317,9 +317,3 @@
   kana: "トウキヨウ"
   hira: "とうきよう"
   roma: toukiyou
-'200':
-  code: '200'
-  name: "長野法人営業部"
-  kana: "ナガノホウジン"
-  hira: "ながのほうじん"
-  roma: naganohoujin

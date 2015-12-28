@@ -107,12 +107,6 @@
   kana: "クラガノ"
   hira: "くらがの"
   roma: kuragano
-'031':
-  code: '031'
-  name: "新屋"
-  kana: "ニイヤ"
-  hira: "にいや"
-  roma: niiya
 '032':
   code: '032'
   name: "群馬町"
@@ -287,24 +281,12 @@
   kana: "オオママ"
   hira: "おおまま"
   roma: oomama
-'064':
-  code: '064'
-  name: "東前橋"
-  kana: "ヒガシマエバシ"
-  hira: "ひがしまえばし"
-  roma: higashimaebashi
 '065':
   code: '065'
   name: "桐生"
   kana: "キリユウ"
   hira: "きりゆう"
   roma: kiriyuu
-'066':
-  code: '066'
-  name: "表町"
-  kana: "オモテチヨウ"
-  hira: "おもてちよう"
-  roma: omotechiyou
 '067':
   code: '067'
   name: "若宮"

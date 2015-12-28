@@ -516,5 +516,12 @@
     "kana":"ナゴヤ",
     "hira":"なごや",
     "roma":"nagoya"
+  },
+  "076":{
+    "code":"076",
+    "name":"ナゴヤドーム前",
+    "kana":"ナゴヤド－ムマエ",
+    "hira":"なごやど－むまえ",
+    "roma":"nagoyado-mumae"
   }
 }
