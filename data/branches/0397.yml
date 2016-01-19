@@ -35,6 +35,12 @@
   kana: "ギンザ"
   hira: "ぎんざ"
   roma: ginza
+'480':
+  code: '480'
+  name: "渋谷"
+  kana: "シブヤ"
+  hira: "しぶや"
+  roma: shibuya
 '490':
   code: '490'
   name: "八王子"
@@ -91,7 +97,7 @@
   roma: shibu
 '580':
   code: '580'
-  name: "六本木ヒルズ"
+  name: "ロッポンギヒルズ"
   kana: "ロツポンギヒルズ"
   hira: "ろつぽんぎひるず"
   roma: rotsupongihiruzu

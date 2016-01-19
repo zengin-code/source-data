@@ -91,10 +91,10 @@
   roma: daitou
 018:
   code: 018
-  name: "木次"
-  kana: "キスキ"
-  hira: "きすき"
-  roma: kisuki
+  name: "雲南"
+  kana: "ウンナン"
+  hira: "うんなん"
+  roma: unnan
 019:
   code: 019
   name: "三成"
@@ -107,12 +107,6 @@
   kana: "ヨコタ"
   hira: "よこた"
   roma: yokota
-'021':
-  code: '021'
-  name: "三刀屋"
-  kana: "ミトヤ"
-  hira: "みとや"
-  roma: mitoya
 '022':
   code: '022'
   name: "掛合"

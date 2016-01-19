@@ -2311,10 +2311,10 @@
   },
   "1531":{
     "code":"1531",
-    "name":"大垣信金",
-    "kana":"オオガキシンキン",
-    "hira":"おおがきしんきん",
-    "roma":"oogakishinkin"
+    "name":"大垣西濃信金",
+    "kana":"オオガキセイノウシンキン",
+    "hira":"おおがきせいのうしんきん",
+    "roma":"oogakiseinoushinkin"
   },
   "1532":{
     "code":"1532",
@@ -2343,13 +2343,6 @@
     "kana":"ハチマンシンキン",
     "hira":"はちまんしんきん",
     "roma":"hachimanshinkin"
-  },
-  "1540":{
-    "code":"1540",
-    "name":"西濃信金",
-    "kana":"セイノウシンキン",
-    "hira":"せいのうしんきん",
-    "roma":"seinoushinkin"
   },
   "1550":{
     "code":"1550",

@@ -992,5 +992,12 @@
     "kana":"サツポロ",
     "hira":"さつぽろ",
     "roma":"satsuporo"
+  },
+  "985":{
+    "code":"985",
+    "name":"振込専用",
+    "kana":"フリコミセンヨウ",
+    "hira":"ふりこみせんよう",
+    "roma":"furikomisenyou"
   }
 }

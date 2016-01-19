@@ -155,6 +155,12 @@
   kana: "ササヌキ"
   hira: "ささぬき"
   roma: sasanuki
+'128':
+  code: '128'
+  name: "向陽"
+  kana: "コウヨウ"
+  hira: "こうよう"
+  roma: kouyou
 '130':
   code: '130'
   name: "草牟田"
