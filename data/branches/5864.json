@@ -61,5 +61,19 @@
     "kana":"トヤノミナミ",
     "hira":"とやのみなみ",
     "roma":"toyanominami"
+  },
+  "015":{
+    "code":"015",
+    "name":"豊栄",
+    "kana":"トヨサカ",
+    "hira":"とよさか",
+    "roma":"toyosaka"
+  },
+  "016":{
+    "code":"016",
+    "name":"木崎",
+    "kana":"キザキ",
+    "hira":"きざき",
+    "roma":"kizaki"
   }
 }

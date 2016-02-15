@@ -29,12 +29,6 @@
   kana: "イカワ"
   hira: "いかわ"
   roma: ikawa
-'016':
-  code: '016'
-  name: "立根"
-  kana: "タツコン"
-  hira: "たつこん"
-  roma: tatsukon
 '017':
   code: '017'
   name: "日頃市"
@@ -59,24 +53,12 @@
   kana: "サンリク"
   hira: "さんりく"
   roma: sanriku
-029:
-  code: 029
-  name: "吉浜"
-  kana: "ヨシハマ"
-  hira: "よしはま"
-  roma: yoshihama
 '101':
   code: '101'
   name: "高田"
   kana: "タカタ"
   hira: "たかた"
   roma: takata
-'102':
-  code: '102'
-  name: "広田"
-  kana: "ヒロタ"
-  hira: "ひろた"
-  roma: hirota
 '103':
   code: '103'
   name: "竹駒"

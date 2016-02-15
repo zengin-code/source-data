@@ -71,12 +71,6 @@
   kana: "ヒガシ"
   hira: "ひがし"
   roma: higashi
-'013':
-  code: '013'
-  name: "富山"
-  kana: "トミヤマ"
-  hira: "とみやま"
-  roma: tomiyama
 '014':
   code: '014'
   name: "富浦"

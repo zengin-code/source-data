@@ -13,13 +13,6 @@
     "hira":"かせい",
     "roma":"kasei"
   },
-  "023":{
-    "code":"023",
-    "name":"貴志",
-    "kana":"キシ",
-    "hira":"きし",
-    "roma":"kishi"
-  },
   "025":{
     "code":"025",
     "name":"かほく",
@@ -29,17 +22,10 @@
   },
   "026":{
     "code":"026",
-    "name":"楠見",
-    "kana":"クスミ",
-    "hira":"くすみ",
-    "roma":"kusumi"
-  },
-  "027":{
-    "code":"027",
-    "name":"楠見南部",
-    "kana":"クスミナンブ",
-    "hira":"くすみなんぶ",
-    "roma":"kusuminambu"
+    "name":"きのかわ",
+    "kana":"キノカワ",
+    "hira":"きのかわ",
+    "roma":"kinokawa"
   },
   "031":{
     "code":"031",

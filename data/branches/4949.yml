@@ -5,12 +5,6 @@
   kana: "ホンテン"
   hira: "ほんてん"
   roma: honten
-'003':
-  code: '003'
-  name: "海上"
-  kana: "ウナカミ"
-  hira: "うなかみ"
-  roma: unakami
 '004':
   code: '004'
   name: "養老"
@@ -29,12 +23,6 @@
   kana: "ゴイ"
   hira: "ごい"
   roma: goi
-'011':
-  code: '011'
-  name: "東海"
-  kana: "トウカイ"
-  hira: "とうかい"
-  roma: toukai
 '012':
   code: '012'
   name: "市東"
@@ -53,12 +41,6 @@
   kana: "ナンソウ"
   hira: "なんそう"
   roma: nansou
-018:
-  code: 018
-  name: "戸田"
-  kana: "トダ"
-  hira: "とだ"
-  roma: toda
 019:
   code: 019
   name: "高滝"

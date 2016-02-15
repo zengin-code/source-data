@@ -77,6 +77,12 @@
   kana: "タカサキ"
   hira: "たかさき"
   roma: takasaki
+'320':
+  code: '320'
+  name: "成城"
+  kana: "セイジヨウ"
+  hira: "せいじよう"
+  roma: seijiyou
 '321':
   code: '321'
   name: "宇都宮"

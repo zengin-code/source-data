@@ -2197,13 +2197,6 @@
     "hira":"つるがしんきん",
     "roma":"tsurugashinkin"
   },
-  "1472":{
-    "code":"1472",
-    "name":"武生信金",
-    "kana":"タケフシンキン",
-    "hira":"たけふしんきん",
-    "roma":"takefushinkin"
-  },
   "1473":{
     "code":"1473",
     "name":"小浜信金",
@@ -6880,13 +6873,6 @@
     "hira":"ささかみのうきよう",
     "roma":"sasakaminoukiyou"
   },
-  "5550":{
-    "code":"5550",
-    "name":"豊栄農協",
-    "kana":"トヨサカノウキヨウ",
-    "hira":"とよさかのうきよう",
-    "roma":"toyosakanoukiyou"
-  },
   "5554":{
     "code":"5554",
     "name":"北越後農協",
@@ -7050,17 +7036,10 @@
   },
   "5883":{
     "code":"5883",
-    "name":"黒部農協",
-    "kana":"クロベノウキヨウ",
-    "hira":"くろべのうきよう",
-    "roma":"kurobenoukiyou"
-  },
-  "5884":{
-    "code":"5884",
-    "name":"黒部市信用農協",
-    "kana":"クロベシシンヨウノウキヨウ",
-    "hira":"くろべししんようのうきよう",
-    "roma":"kurobeshishinyounoukiyou"
+    "name":"黒部市農協",
+    "kana":"クロベシノウキヨウ",
+    "hira":"くろべしのうきよう",
+    "roma":"kurobeshinoukiyou"
   },
   "5885":{
     "code":"5885",

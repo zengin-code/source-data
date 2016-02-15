@@ -53,6 +53,12 @@
   kana: "アキツ"
   hira: "あきつ"
   roma: akitsu
+'013':
+  code: '013'
+  name: "西部"
+  kana: "セイブ"
+  hira: "せいぶ"
+  roma: seibu
 '014':
   code: '014'
   name: "江津"

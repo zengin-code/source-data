@@ -31,10 +31,10 @@
   roma: morita
 '013':
   code: '013'
-  name: "武生"
-  kana: "タケフ"
-  hira: "たけふ"
-  roma: takefu
+  name: "武生北"
+  kana: "タケフキタ"
+  hira: "たけふきた"
+  roma: takefukita
 '015':
   code: '015'
   name: "松岡"
@@ -263,3 +263,75 @@
   kana: "カミナカ"
   hira: "かみなか"
   roma: kaminaka
+'301':
+  code: '301'
+  name: "武生営業部"
+  kana: "タケフ"
+  hira: "たけふ"
+  roma: takefu
+'302':
+  code: '302'
+  name: "大山"
+  kana: "オオヤマ"
+  hira: "おおやま"
+  roma: ooyama
+'304':
+  code: '304'
+  name: "西"
+  kana: "ニシ"
+  hira: "にし"
+  roma: nishi
+'305':
+  code: '305'
+  name: "味真野"
+  kana: "アジマノ"
+  hira: "あじまの"
+  roma: ajimano
+'306':
+  code: '306'
+  name: "粟田部"
+  kana: "アワタベ"
+  hira: "あわたべ"
+  roma: awatabe
+'307':
+  code: '307'
+  name: "池田"
+  kana: "イケダ"
+  hira: "いけだ"
+  roma: ikeda
+'308':
+  code: '308'
+  name: "福井東"
+  kana: "フクイヒガシ"
+  hira: "ふくいひがし"
+  roma: fukuihigashi
+'309':
+  code: '309'
+  name: "村国"
+  kana: "ムラクニ"
+  hira: "むらくに"
+  roma: murakuni
+'311':
+  code: '311'
+  name: "立待"
+  kana: "タチマチ"
+  hira: "たちまち"
+  roma: tachimachi
+'312':
+  code: '312'
+  name: "王子保"
+  kana: "オウシオ"
+  hira: "おうしお"
+  roma: oushio
+'314':
+  code: '314'
+  name: "神山"
+  kana: "カミヤマ"
+  hira: "かみやま"
+  roma: kamiyama
+'315':
+  code: '315'
+  name: "吉野"
+  kana: "ヨシノ"
+  hira: "よしの"
+  roma: yoshino

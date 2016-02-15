@@ -11,12 +11,6 @@
   kana: "アイカワ"
   hira: "あいかわ"
   roma: aikawa
-008:
-  code: 008
-  name: "高千出張所"
-  kana: "タカチ"
-  hira: "たかち"
-  roma: takachi
 '010':
   code: '010'
   name: "佐和田"
@@ -29,12 +23,6 @@
   kana: "カナイ"
   hira: "かない"
   roma: kanai
-'020':
-  code: '020'
-  name: "吉井出張所"
-  kana: "ヨシイ"
-  hira: "よしい"
-  roma: yoshii
 '022':
   code: '022'
   name: "新穂"
@@ -71,9 +59,3 @@
   kana: "リヨウツ"
   hira: "りようつ"
   roma: riyoutsu
-048:
-  code: 048
-  name: "加茂出張所"
-  kana: "カモ"
-  hira: "かも"
-  roma: kamo

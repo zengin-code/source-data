@@ -79,10 +79,16 @@
   roma: matsumoto
 '032':
   code: '032'
-  name: "東部町"
-  kana: "トウブマチ"
-  hira: "とうぶまち"
-  roma: toubumachi
+  name: "上田"
+  kana: "ウエダ"
+  hira: "うえだ"
+  roma: ueda
+'033':
+  code: '033'
+  name: "諏訪"
+  kana: "スワ"
+  hira: "すわ"
+  roma: suwa
 '035':
   code: '035'
   name: "前橋"

@@ -85,10 +85,10 @@
   },
   "026":{
     "code":"026",
-    "name":"長滝",
-    "kana":"ナガタキ",
-    "hira":"ながたき",
-    "roma":"nagataki"
+    "name":"泉佐野南",
+    "kana":"イズミサノミナミ",
+    "hira":"いずみさのみなみ",
+    "roma":"izumisanominami"
   },
   "027":{
     "code":"027",
@@ -96,13 +96,6 @@
     "kana":"カミノゴウ",
     "hira":"かみのごう",
     "roma":"kaminogou"
-  },
-  "028":{
-    "code":"028",
-    "name":"南中",
-    "kana":"ミナミナカ",
-    "hira":"みなみなか",
-    "roma":"minaminaka"
   },
   "029":{
     "code":"029",

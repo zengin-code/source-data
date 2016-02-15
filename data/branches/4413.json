@@ -1,38 +1,10 @@
 {
-  "002":{
-    "code":"002",
-    "name":"上妻",
-    "kana":"カミツマ",
-    "hira":"かみつま",
-    "roma":"kamitsuma"
-  },
-  "003":{
-    "code":"003",
-    "name":"騰波の江",
-    "kana":"トバノエ",
-    "hira":"とばのえ",
-    "roma":"tobanoe"
-  },
-  "004":{
-    "code":"004",
-    "name":"大宝",
-    "kana":"ダイホウ",
-    "hira":"だいほう",
-    "roma":"daihou"
-  },
   "005":{
     "code":"005",
     "name":"豊加美",
     "kana":"トヨカミ",
     "hira":"とよかみ",
     "roma":"toyokami"
-  },
-  "006":{
-    "code":"006",
-    "name":"高道祖",
-    "kana":"タカサイ",
-    "hira":"たかさい",
-    "roma":"takasai"
   },
   "007":{
     "code":"007",
@@ -50,38 +22,10 @@
   },
   "010":{
     "code":"010",
-    "name":"西豊田",
-    "kana":"ニシトヨダ",
-    "hira":"にしとよだ",
-    "roma":"nishitoyoda"
-  },
-  "011":{
-    "code":"011",
-    "name":"安静",
-    "kana":"アンジヨウ",
-    "hira":"あんじよう",
-    "roma":"anjiyou"
-  },
-  "012":{
-    "code":"012",
-    "name":"下結城",
-    "kana":"シモユウキ",
-    "hira":"しもゆうき",
-    "roma":"shimoyuuki"
-  },
-  "013":{
-    "code":"013",
-    "name":"中結城",
-    "kana":"ナカユウキ",
-    "hira":"なかゆうき",
-    "roma":"nakayuuki"
-  },
-  "014":{
-    "code":"014",
-    "name":"川西",
-    "kana":"カワニシ",
-    "hira":"かわにし",
-    "roma":"kawanishi"
+    "name":"八千代",
+    "kana":"ヤチヨ",
+    "hira":"やちよ",
+    "roma":"yachiyo"
   },
   "016":{
     "code":"016",
@@ -111,61 +55,12 @@
     "hira":"いしげ",
     "roma":"ishige"
   },
-  "021":{
-    "code":"021",
-    "name":"豊田",
-    "kana":"トヨダ",
-    "hira":"とよだ",
-    "roma":"toyoda"
-  },
-  "022":{
-    "code":"022",
-    "name":"玉",
-    "kana":"タマ",
-    "hira":"たま",
-    "roma":"tama"
-  },
-  "024":{
-    "code":"024",
-    "name":"石下西",
-    "kana":"イシゲニシ",
-    "hira":"いしげにし",
-    "roma":"ishigenishi"
-  },
   "025":{
     "code":"025",
-    "name":"水海道中央",
-    "kana":"ミツカイドウチユウオウ",
-    "hira":"みつかいどうちゆうおう",
-    "roma":"mitsukaidouchiyuuou"
-  },
-  "026":{
-    "code":"026",
-    "name":"水海道",
-    "kana":"ミツカイドウ",
-    "hira":"みつかいどう",
-    "roma":"mitsukaidou"
-  },
-  "027":{
-    "code":"027",
-    "name":"大生",
-    "kana":"オオノ",
-    "hira":"おおの",
-    "roma":"oono"
-  },
-  "028":{
-    "code":"028",
-    "name":"五箇",
-    "kana":"ゴカ",
-    "hira":"ごか",
-    "roma":"goka"
-  },
-  "029":{
-    "code":"029",
-    "name":"三妻",
-    "kana":"ミツマ",
-    "hira":"みつま",
-    "roma":"mitsuma"
+    "name":"水海道東",
+    "kana":"ミツカイドウヒガシ",
+    "hira":"みつかいどうひがし",
+    "roma":"mitsukaidouhigashi"
   },
   "030":{
     "code":"030",
