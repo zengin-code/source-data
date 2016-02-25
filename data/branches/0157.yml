@@ -785,6 +785,12 @@
   kana: "オオガキ"
   hira: "おおがき"
   roma: oogaki
+'980':
+  code: '980'
+  name: "三重"
+  kana: "ミエ"
+  hira: "みえ"
+  roma: mie
 '988':
   code: '988'
   name: "桂"
