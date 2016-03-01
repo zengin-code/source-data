@@ -485,6 +485,12 @@
   kana: "アライ"
   hira: "あらい"
   roma: arai
+'777':
+  code: '777'
+  name: "インターネット"
+  kana: "インタ－ネツト"
+  hira: "いんた－ねつと"
+  roma: inta-netsuto
 '831':
   code: '831'
   name: "提携エーテイーエム"
