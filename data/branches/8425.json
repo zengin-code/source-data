@@ -97,13 +97,6 @@
     "hira":"ゆやま",
     "roma":"yuyama"
   },
-  "016":{
-    "code":"016",
-    "name":"河中",
-    "kana":"カワナカ",
-    "hira":"かわなか",
-    "roma":"kawanaka"
-  },
   "017":{
     "code":"017",
     "name":"久米",
@@ -173,13 +166,6 @@
     "kana":"キヌヤマ",
     "hira":"きぬやま",
     "roma":"kinuyama"
-  },
-  "027":{
-    "code":"027",
-    "name":"高浜出張所",
-    "kana":"タカハマ",
-    "hira":"たかはま",
-    "roma":"takahama"
   },
   "028":{
     "code":"028",
@@ -292,20 +278,6 @@
     "kana":"ナオセ",
     "hira":"なおせ",
     "roma":"naose"
-  },
-  "048":{
-    "code":"048",
-    "name":"面河",
-    "kana":"オモゴ",
-    "hira":"おもご",
-    "roma":"omogo"
-  },
-  "049":{
-    "code":"049",
-    "name":"美川",
-    "kana":"ミカワ",
-    "hira":"みかわ",
-    "roma":"mikawa"
   },
   "050":{
     "code":"050",

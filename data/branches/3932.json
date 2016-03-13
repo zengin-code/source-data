@@ -43,17 +43,10 @@
   },
   "011":{
     "code":"011",
-    "name":"楯山",
-    "kana":"タテヤマ",
-    "hira":"たてやま",
-    "roma":"tateyama"
-  },
-  "012":{
-    "code":"012",
-    "name":"高瀬",
-    "kana":"タカセ",
-    "hira":"たかせ",
-    "roma":"takase"
+    "name":"高楯",
+    "kana":"タカダテ",
+    "hira":"たかだて",
+    "roma":"takadate"
   },
   "013":{
     "code":"013",
@@ -113,31 +106,17 @@
   },
   "036":{
     "code":"036",
-    "name":"上山",
-    "kana":"カミノヤマ",
-    "hira":"かみのやま",
-    "roma":"kaminoyama"
+    "name":"上山北",
+    "kana":"カミノヤマキタ",
+    "hira":"かみのやまきた",
+    "roma":"kaminoyamakita"
   },
   "037":{
     "code":"037",
-    "name":"宮川",
-    "kana":"ミヤカワ",
-    "hira":"みやかわ",
-    "roma":"miyakawa"
-  },
-  "043":{
-    "code":"043",
-    "name":"西郷",
-    "kana":"ニシゴウ",
-    "hira":"にしごう",
-    "roma":"nishigou"
-  },
-  "045":{
-    "code":"045",
-    "name":"中川",
-    "kana":"ナカガワ",
-    "hira":"なかがわ",
-    "roma":"nakagawa"
+    "name":"上山南",
+    "kana":"カミノヤマミナミ",
+    "hira":"かみのやまみなみ",
+    "roma":"kaminoyamaminami"
   },
   "047":{
     "code":"047",

@@ -4897,106 +4897,34 @@
   roma: sakatashisodeuranoukiyou
 '4047':
   code: '4047'
-  name: "新ふくしま農協"
-  kana: "シンフクシマノウキヨウ"
-  hira: "しんふくしまのうきよう"
-  roma: shinfukushimanoukiyou
-'4064':
-  code: '4064'
-  name: "伊達みらい農協"
-  kana: "ダテミライノウキヨウ"
-  hira: "だてみらいのうきよう"
-  roma: datemirainoukiyou
-'4069':
-  code: '4069'
-  name: "みちのく安達農協"
-  kana: "ミチノクアダチノウキヨウ"
-  hira: "みちのくあだちのうきよう"
-  roma: michinokuadachinoukiyou
-'4076':
-  code: '4076'
-  name: "郡山市農協"
-  kana: "コオリヤマシノウキヨウ"
-  hira: "こおりやましのうきよう"
-  roma: kooriyamashinoukiyou
+  name: "ふくしま未来農協"
+  kana: "フクシマミライノウキヨウ"
+  hira: "ふくしまみらいのうきよう"
+  roma: fukushimamirainoukiyou
 '4091':
   code: '4091'
-  name: "すかがわ岩瀬農協"
-  kana: "スカガワイワセノウキヨウ"
-  hira: "すかがわいわせのうきよう"
-  roma: sukagawaiwasenoukiyou
-'4104':
-  code: '4104'
-  name: "あぶくま石川農協"
-  kana: "アブクマイシカワノウキヨウ"
-  hira: "あぶくまいしかわのうきよう"
-  roma: abukumaishikawanoukiyou
-'4125':
-  code: '4125'
-  name: "たむら農協"
-  kana: "タムラノウキヨウ"
-  hira: "たむらのうきよう"
-  roma: tamuranoukiyou
-'4130':
-  code: '4130'
-  name: "白河農協"
-  kana: "シラカワノウキヨウ"
-  hira: "しらかわのうきよう"
-  roma: shirakawanoukiyou
+  name: "夢みなみ農協"
+  kana: "ユメミナミノウキヨウ"
+  hira: "ゆめみなみのうきよう"
+  roma: yumeminaminoukiyou
 '4132':
   code: '4132'
   name: "東西しらかわ農協"
   kana: "トウザイシラカワノウキヨウ"
   hira: "とうざいしらかわのうきよう"
   roma: touzaishirakawanoukiyou
-'4148':
-  code: '4148'
-  name: "あいづ農協"
-  kana: "アイヅノウキヨウ"
-  hira: "あいづのうきよう"
-  roma: aidunoukiyou
 '4160':
   code: '4160'
-  name: "会津いいで農協"
-  kana: "アイヅイイデノウキヨウ"
-  hira: "あいづいいでのうきよう"
-  roma: aiduiidenoukiyou
-'4175':
-  code: '4175'
-  name: "会津みどり農協"
-  kana: "アイヅミドリノウキヨウ"
-  hira: "あいづみどりのうきよう"
-  roma: aidumidorinoukiyou
-'4189':
-  code: '4189'
-  name: "会津みなみ農協"
-  kana: "アイヅミナミノウキヨウ"
-  hira: "あいづみなみのうきよう"
-  roma: aiduminaminoukiyou
+  name: "会津よつば農協"
+  kana: "アイヅヨツバノウキヨウ"
+  hira: "あいづよつばのうきよう"
+  roma: aiduyotsubanoukiyou
 '4196':
   code: '4196'
-  name: "いわき市農協"
-  kana: "イワキシノウキヨウ"
-  hira: "いわきしのうきよう"
-  roma: iwakishinoukiyou
-'4197':
-  code: '4197'
-  name: "いわき中部農協"
-  kana: "イワキチユウブノウキヨウ"
-  hira: "いわきちゆうぶのうきよう"
-  roma: iwakichiyuubunoukiyou
-'4220':
-  code: '4220'
-  name: "ふたば農協"
-  kana: "フタバノウキヨウ"
-  hira: "ふたばのうきよう"
-  roma: futabanoukiyou
-'4230':
-  code: '4230'
-  name: "そうま農協"
-  kana: "ソウマノウキヨウ"
-  hira: "そうまのうきよう"
-  roma: soumanoukiyou
+  name: "福島さくら農協"
+  kana: "フクシマサクラノウキヨウ"
+  hira: "ふくしまさくらのうきよう"
+  roma: fukushimasakuranoukiyou
 '4238':
   code: '4238'
   name: "水戸農協"

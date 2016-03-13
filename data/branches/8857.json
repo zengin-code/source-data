@@ -13,13 +13,6 @@
     "hira":"はりお",
     "roma":"hario"
   },
-  "008":{
-    "code":"008",
-    "name":"柚木",
-    "kana":"ユノキ",
-    "hira":"ゆのき",
-    "roma":"yunoki"
-  },
   "009":{
     "code":"009",
     "name":"北部中央",
@@ -76,13 +69,6 @@
     "hira":"おぢか",
     "roma":"odika"
   },
-  "023":{
-    "code":"023",
-    "name":"小佐々",
-    "kana":"コサザ",
-    "hira":"こさざ",
-    "roma":"kosaza"
-  },
   "024":{
     "code":"024",
     "name":"吉井",
@@ -90,26 +76,12 @@
     "hira":"よしい",
     "roma":"yoshii"
   },
-  "025":{
-    "code":"025",
-    "name":"世知原",
-    "kana":"セチバル",
-    "hira":"せちばる",
-    "roma":"sechibaru"
-  },
   "026":{
     "code":"026",
     "name":"江迎鹿町",
     "kana":"エムカエシカマチ",
     "hira":"えむかえしかまち",
     "roma":"emukaeshikamachi"
-  },
-  "030":{
-    "code":"030",
-    "name":"田平",
-    "kana":"タビラ",
-    "hira":"たびら",
-    "roma":"tabira"
   },
   "031":{
     "code":"031",
@@ -125,33 +97,12 @@
     "hira":"まつうら",
     "roma":"matsuura"
   },
-  "033":{
-    "code":"033",
-    "name":"上志佐",
-    "kana":"カミシサ",
-    "hira":"かみしさ",
-    "roma":"kamishisa"
-  },
-  "035":{
-    "code":"035",
-    "name":"今福",
-    "kana":"イマフク",
-    "hira":"いまふく",
-    "roma":"imafuku"
-  },
   "036":{
     "code":"036",
     "name":"福島",
     "kana":"フクシマ",
     "hira":"ふくしま",
     "roma":"fukushima"
-  },
-  "037":{
-    "code":"037",
-    "name":"鷹島",
-    "kana":"タカシマ",
-    "hira":"たかしま",
-    "roma":"takashima"
   },
   "039":{
     "code":"039",
@@ -160,13 +111,6 @@
     "hira":"いきつき",
     "roma":"ikitsuki"
   },
-  "040":{
-    "code":"040",
-    "name":"山田",
-    "kana":"ヤマダ",
-    "hira":"やまだ",
-    "roma":"yamada"
-  },
   "041":{
     "code":"041",
     "name":"平戸",
@@ -174,19 +118,12 @@
     "hira":"ひらど",
     "roma":"hirado"
   },
-  "042":{
-    "code":"042",
-    "name":"紐差",
-    "kana":"ヒモサシ",
-    "hira":"ひもさし",
-    "roma":"himosashi"
-  },
   "043":{
     "code":"043",
-    "name":"津吉",
-    "kana":"ツヨシ",
-    "hira":"つよし",
-    "roma":"tsuyoshi"
+    "name":"平戸中南部",
+    "kana":"ヒラドチユウナンブ",
+    "hira":"ひらどちゆうなんぶ",
+    "roma":"hiradochiyuunambu"
   },
   "044":{
     "code":"044",

@@ -62,26 +62,12 @@
     "hira":"あかつか",
     "roma":"akatsuka"
   },
-  "012":{
-    "code":"012",
-    "name":"高島平",
-    "kana":"タカシマダイラ",
-    "hira":"たかしまだいら",
-    "roma":"takashimadaira"
-  },
   "013":{
     "code":"013",
     "name":"石神井",
     "kana":"シヤクジイ",
     "hira":"しやくじい",
     "roma":"shiyakujii"
-  },
-  "014":{
-    "code":"014",
-    "name":"石神井公園",
-    "kana":"シヤクジイコウエン",
-    "hira":"しやくじいこうえん",
-    "roma":"shiyakujiikouen"
   },
   "015":{
     "code":"015",
