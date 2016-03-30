@@ -13,13 +13,6 @@
     "hira":"やまさき",
     "roma":"yamasaki"
   },
-  "003":{
-    "code":"003",
-    "name":"佐志",
-    "kana":"サシ",
-    "hira":"さし",
-    "roma":"sashi"
-  },
   "005":{
     "code":"005",
     "name":"鶴田",
@@ -36,17 +29,17 @@
   },
   "014":{
     "code":"014",
-    "name":"求名",
-    "kana":"グミヨウ",
-    "hira":"ぐみよう",
-    "roma":"gumiyou"
+    "name":"薩摩",
+    "kana":"サツマ",
+    "hira":"さつま",
+    "roma":"satsuma"
   },
   "017":{
     "code":"017",
-    "name":"大村",
-    "kana":"オオムラ",
-    "hira":"おおむら",
-    "roma":"oomura"
+    "name":"祁答院",
+    "kana":"ケドウイン",
+    "hira":"けどういん",
+    "roma":"kedouin"
   },
   "100":{
     "code":"100",

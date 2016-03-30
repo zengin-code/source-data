@@ -451,7 +451,7 @@
   roma: souza
 '424':
   code: '424'
-  name: "清水"
+  name: "清水出張所"
   kana: "シミズ"
   hira: "しみず"
   roma: shimizu
@@ -839,6 +839,12 @@
   kana: "タカサキ"
   hira: "たかさき"
   roma: takasaki
+'644':
+  code: '644'
+  name: "太田"
+  kana: "オオタ"
+  hira: "おおた"
+  roma: oota
 '711':
   code: '711'
   name: "名古屋"

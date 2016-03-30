@@ -258,19 +258,12 @@
     "hira":"うぬま",
     "roma":"unuma"
   },
-  "054":{
-    "code":"054",
-    "name":"鵜沼西部",
-    "kana":"ウヌマセイブ",
-    "hira":"うぬませいぶ",
-    "roma":"unumaseibu"
-  },
   "055":{
     "code":"055",
-    "name":"朝日",
-    "kana":"アサヒ",
-    "hira":"あさひ",
-    "roma":"asahi"
+    "name":"鵜沼西",
+    "kana":"ウヌマニシ",
+    "hira":"うぬまにし",
+    "roma":"unumanishi"
   },
   "056":{
     "code":"056",

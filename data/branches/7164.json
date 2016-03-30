@@ -27,13 +27,6 @@
     "hira":"やおえきまえ",
     "roma":"yaoekimae"
   },
-  "006":{
-    "code":"006",
-    "name":"龍華",
-    "kana":"リユウゲ",
-    "hira":"りゆうげ",
-    "roma":"riyuuge"
-  },
   "009":{
     "code":"009",
     "name":"南高安",
@@ -50,10 +43,10 @@
   },
   "013":{
     "code":"013",
-    "name":"久宝寺",
-    "kana":"キユウホウジ",
-    "hira":"きゆうほうじ",
-    "roma":"kiyuuhouji"
+    "name":"龍華久宝寺",
+    "kana":"リユウゲキユウホウジ",
+    "hira":"りゆうげきゆうほうじ",
+    "roma":"riyuugekiyuuhouji"
   },
   "015":{
     "code":"015",
@@ -201,12 +194,5 @@
     "kana":"ナガセエキマエ",
     "hira":"ながせえきまえ",
     "roma":"nagaseekimae"
-  },
-  "044":{
-    "code":"044",
-    "name":"大蓮",
-    "kana":"オオハス",
-    "hira":"おおはす",
-    "roma":"oohasu"
   }
 }

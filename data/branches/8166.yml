@@ -23,12 +23,6 @@
   kana: "ウベ"
   hira: "うべ"
   roma: ube
-'017':
-  code: '017'
-  name: "恩田"
-  kana: "オンダ"
-  hira: "おんだ"
-  roma: onda
 '020':
   code: '020'
   name: "小野"
@@ -53,12 +47,6 @@
   kana: "コウナン"
   hira: "こうなん"
   roma: kounan
-'043':
-  code: '043'
-  name: "原"
-  kana: "ハラ"
-  hira: "はら"
-  roma: hara
 '045':
   code: '045'
   name: "小野田出張所"

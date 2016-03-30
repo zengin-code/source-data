@@ -53,12 +53,6 @@
   kana: "イズミサノキタ"
   hira: "いずみさのきた"
   roma: izumisanokita
-'020':
-  code: '020'
-  name: "西"
-  kana: "ニシ"
-  hira: "にし"
-  roma: nishi
 '024':
   code: '024'
   name: "日根野"
@@ -85,10 +79,10 @@
   roma: kaminogou
 029:
   code: 029
-  name: "田尻"
-  kana: "タジリ"
-  hira: "たじり"
-  roma: tajiri
+  name: "りんくう"
+  kana: "リンクウ"
+  hira: "りんくう"
+  roma: rinkuu
 '032':
   code: '032'
   name: "阪南"

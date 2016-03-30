@@ -1,45 +1,17 @@
 {
-  "001":{
-    "code":"001",
-    "name":"小郡",
-    "kana":"オゴオリ",
-    "hira":"おごおり",
-    "roma":"ogoori"
-  },
-  "002":{
-    "code":"002",
-    "name":"小郡北部",
-    "kana":"オゴオリホクブ",
-    "hira":"おごおりほくぶ",
-    "roma":"ogoorihokubu"
-  },
-  "003":{
-    "code":"003",
-    "name":"立石",
-    "kana":"タテイシ",
-    "hira":"たていし",
-    "roma":"tateishi"
-  },
   "004":{
     "code":"004",
-    "name":"小郡南部",
-    "kana":"オゴオリナンブ",
-    "hira":"おごおりなんぶ",
-    "roma":"ogoorinambu"
+    "name":"小郡中央",
+    "kana":"オゴオリチユウオウ",
+    "hira":"おごおりちゆうおう",
+    "roma":"ogoorichiyuuou"
   },
   "008":{
     "code":"008",
-    "name":"北野西部",
-    "kana":"キタノセイブ",
-    "hira":"きたのせいぶ",
-    "roma":"kitanoseibu"
-  },
-  "009":{
-    "code":"009",
-    "name":"北野東部",
-    "kana":"キタノトウブ",
-    "hira":"きたのとうぶ",
-    "roma":"kitanotoubu"
+    "name":"北野中央",
+    "kana":"キタノチユウオウ",
+    "hira":"きたのちゆうおう",
+    "roma":"kitanochiyuuou"
   },
   "011":{
     "code":"011",
@@ -48,18 +20,11 @@
     "hira":"たちあらいちゆうおう",
     "roma":"tachiaraichiyuuou"
   },
-  "014":{
-    "code":"014",
-    "name":"菊池",
-    "kana":"キクチ",
-    "hira":"きくち",
-    "roma":"kikuchi"
-  },
   "100":{
     "code":"100",
-    "name":"本所",
-    "kana":"ホンシヨ",
-    "hira":"ほんしよ",
-    "roma":"honshiyo"
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
   }
 }

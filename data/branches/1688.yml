@@ -521,6 +521,12 @@
   kana: "ナガタヒガシ"
   hira: "ながたひがし"
   roma: nagatahigashi
+093:
+  code: 093
+  name: "八尾"
+  kana: "ヤオ"
+  hira: "やお"
+  roma: yao
 '100':
   code: '100'
   name: "ウル虎"

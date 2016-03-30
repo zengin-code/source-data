@@ -293,6 +293,12 @@
   kana: "ウメダ"
   hira: "うめだ"
   roma: umeda
+'601':
+  code: '601'
+  name: "オレンジ"
+  kana: "オレンジ"
+  hira: "おれんじ"
+  roma: orenji
 '700':
   code: '700'
   name: "ＡＴＭ統括支店第十八"

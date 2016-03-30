@@ -7,10 +7,10 @@
   roma: imadu
 '583':
   code: '583'
-  name: "本郷"
-  kana: "ホンゴウ"
-  hira: "ほんごう"
-  roma: hongou
+  name: "松永北"
+  kana: "マツナガキタ"
+  hira: "まつながきた"
+  roma: matsunagakita
 '584':
   code: '584'
   name: "神村"
@@ -29,12 +29,6 @@
   kana: "マツナガ"
   hira: "まつなが"
   roma: matsunaga
-'588':
-  code: '588'
-  name: "東村"
-  kana: "ヒガシムラ"
-  hira: "ひがしむら"
-  roma: higashimura
 '590':
   code: '590'
   name: "内海"
