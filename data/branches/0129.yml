@@ -719,6 +719,12 @@
   kana: "カゾ"
   hira: "かぞ"
   roma: kazo
+'418':
+  code: '418'
+  name: "川口"
+  kana: "カワグチ"
+  hira: "かわぐち"
+  roma: kawaguchi
 '500':
   code: '500'
   name: "東京"

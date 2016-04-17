@@ -5,12 +5,6 @@
   kana: "ホンテン"
   hira: "ほんてん"
   roma: honten
-'013':
-  code: '013'
-  name: "三江"
-  kana: "ミエ"
-  hira: "みえ"
-  roma: mie
 '014':
   code: '014'
   name: "豊岡北"
@@ -41,12 +35,6 @@
   kana: "タケノ"
   hira: "たけの"
   roma: takeno
-'026':
-  code: '026'
-  name: "さづ"
-  kana: "サヅ"
-  hira: "さづ"
-  roma: sadu
 029:
   code: 029
   name: "香住"
@@ -83,18 +71,6 @@
   kana: "ムラオカ"
   hira: "むらおか"
   roma: muraoka
-'052':
-  code: '052'
-  name: "兎塚"
-  kana: "ウヅカ"
-  hira: "うづか"
-  roma: uduka
-'053':
-  code: '053'
-  name: "射添"
-  kana: "イソウ"
-  hira: "いそう"
-  roma: isou
 '054':
   code: '054'
   name: "美方"
@@ -107,18 +83,6 @@
   kana: "オンセン"
   hira: "おんせん"
   roma: onsen
-'056':
-  code: '056'
-  name: "照来"
-  kana: "テラギ"
-  hira: "てらぎ"
-  roma: teragi
-'057':
-  code: '057'
-  name: "八田"
-  kana: "ハツタ"
-  hira: "はつた"
-  roma: hatsuta
 058:
   code: 058
   name: "浜坂"
@@ -131,12 +95,6 @@
   kana: "ヨウカ"
   hira: "ようか"
   roma: youka
-'062':
-  code: '062'
-  name: "八鹿北"
-  kana: "ヨウカキタ"
-  hira: "ようかきた"
-  roma: youkakita
 '063':
   code: '063'
   name: "広谷"
@@ -173,12 +131,6 @@
   kana: "ワダヤマ"
   hira: "わだやま"
   roma: wadayama
-'075':
-  code: '075'
-  name: "竹田"
-  kana: "タケダ"
-  hira: "たけだ"
-  roma: takeda
 078:
   code: 078
   name: "和田山北"

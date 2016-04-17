@@ -566,6 +566,13 @@
     "hira":"めぐろ",
     "roma":"meguro"
   },
+  "088":{
+    "code":"088",
+    "name":"横浜西口",
+    "kana":"ヨコハマニシグチ",
+    "hira":"よこはまにしぐち",
+    "roma":"yokohamanishiguchi"
+  },
   "274":{
     "code":"274",
     "name":"金森出張所",

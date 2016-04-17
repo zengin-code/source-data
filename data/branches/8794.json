@@ -6,13 +6,6 @@
     "hira":"なめし",
     "roma":"nameshi"
   },
-  "002":{
-    "code":"002",
-    "name":"式見",
-    "kana":"シキミ",
-    "hira":"しきみ",
-    "roma":"shikimi"
-  },
   "003":{
     "code":"003",
     "name":"茂木",
@@ -27,26 +20,12 @@
     "hira":"といし",
     "roma":"toishi"
   },
-  "006":{
-    "code":"006",
-    "name":"古賀",
-    "kana":"コガ",
-    "hira":"こが",
-    "roma":"koga"
-  },
   "008":{
     "code":"008",
-    "name":"三和町",
-    "kana":"サンワチヨウ",
-    "hira":"さんわちよう",
-    "roma":"sanwachiyou"
-  },
-  "009":{
-    "code":"009",
-    "name":"野母崎",
-    "kana":"ノモザキ",
-    "hira":"のもざき",
-    "roma":"nomozaki"
+    "name":"三和",
+    "kana":"サンワ",
+    "hira":"さんわ",
+    "roma":"sanwa"
   },
   "010":{
     "code":"010",
@@ -54,27 +33,6 @@
     "kana":"ミエ",
     "hira":"みえ",
     "roma":"mie"
-  },
-  "011":{
-    "code":"011",
-    "name":"外海",
-    "kana":"ソトメ",
-    "hira":"そとめ",
-    "roma":"sotome"
-  },
-  "014":{
-    "code":"014",
-    "name":"日吉",
-    "kana":"ヒヨシ",
-    "hira":"ひよし",
-    "roma":"hiyoshi"
-  },
-  "018":{
-    "code":"018",
-    "name":"出津出張所",
-    "kana":"シツ",
-    "hira":"しつ",
-    "roma":"shitsu"
   },
   "021":{
     "code":"021",
@@ -97,40 +55,12 @@
     "hira":"さいかい",
     "roma":"saikai"
   },
-  "024":{
-    "code":"024",
-    "name":"面高",
-    "kana":"オモダカ",
-    "hira":"おもだか",
-    "roma":"omodaka"
-  },
-  "025":{
-    "code":"025",
-    "name":"七釜",
-    "kana":"ナナツガマ",
-    "hira":"ななつがま",
-    "roma":"nanatsugama"
-  },
-  "026":{
-    "code":"026",
-    "name":"多以良",
-    "kana":"タイラ",
-    "hira":"たいら",
-    "roma":"taira"
-  },
   "027":{
     "code":"027",
     "name":"大瀬戸",
     "kana":"オオセト",
     "hira":"おおせと",
     "roma":"ooseto"
-  },
-  "029":{
-    "code":"029",
-    "name":"大崎",
-    "kana":"オオサキ",
-    "hira":"おおさき",
-    "roma":"oosaki"
   },
   "100":{
     "code":"100",
@@ -162,24 +92,10 @@
   },
   "205":{
     "code":"205",
-    "name":"長浦",
-    "kana":"ナガウラ",
-    "hira":"ながうら",
-    "roma":"nagaura"
-  },
-  "206":{
-    "code":"206",
-    "name":"村松",
-    "kana":"ムラマツ",
-    "hira":"むらまつ",
-    "roma":"muramatsu"
-  },
-  "207":{
-    "code":"207",
-    "name":"形上出張所",
-    "kana":"カタガミ",
-    "hira":"かたがみ",
-    "roma":"katagami"
+    "name":"琴海",
+    "kana":"キンカイ",
+    "hira":"きんかい",
+    "roma":"kinkai"
   },
   "210":{
     "code":"210",
@@ -201,20 +117,6 @@
     "kana":"シンダイク",
     "hira":"しんだいく",
     "roma":"shindaiku"
-  },
-  "307":{
-    "code":"307",
-    "name":"大浦",
-    "kana":"オオウラ",
-    "hira":"おおうら",
-    "roma":"ooura"
-  },
-  "309":{
-    "code":"309",
-    "name":"手熊",
-    "kana":"テグマ",
-    "hira":"てぐま",
-    "roma":"teguma"
   },
   "310":{
     "code":"310",

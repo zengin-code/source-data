@@ -139,10 +139,10 @@
   roma: jiyuugaoka
 '073':
   code: '073'
-  name: "名古屋駅出張所"
-  kana: "ナゴヤエキ"
-  hira: "なごやえき"
-  roma: nagoyaeki
+  name: "名古屋駅前"
+  kana: "ナゴヤエキマエ"
+  hira: "なごやえきまえ"
+  roma: nagoyaekimae
 '075':
   code: '075'
   name: "青葉台出張所"

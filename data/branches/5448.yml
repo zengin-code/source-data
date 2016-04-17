@@ -55,10 +55,10 @@
   roma: kotobuki
 '010':
   code: '010'
-  name: "岡田"
-  kana: "オカダ"
-  hira: "おかだ"
-  roma: okada
+  name: "女鳥羽"
+  kana: "メトバ"
+  hira: "めとば"
+  roma: metoba
 '011':
   code: '011'
   name: "里山辺"
@@ -77,12 +77,6 @@
   kana: "イリヤマベ"
   hira: "いりやまべ"
   roma: iriyamabe
-'016':
-  code: '016'
-  name: "本郷"
-  kana: "ホンゴウ"
-  hira: "ほんごう"
-  roma: hongou
 '017':
   code: '017'
   name: "波田"

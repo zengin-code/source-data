@@ -1,28 +1,10 @@
 ---
 '001':
   code: '001'
-  name: "貝塚"
-  kana: "カイヅカ"
-  hira: "かいづか"
-  roma: kaiduka
-'003':
-  code: '003'
-  name: "北近義"
-  kana: "キタコギ"
-  hira: "きたこぎ"
-  roma: kitakogi
-'004':
-  code: '004'
-  name: "南近義"
-  kana: "ミナミコギ"
-  hira: "みなみこぎ"
-  roma: minamikogi
-'006':
-  code: '006'
-  name: "貝塚中央"
-  kana: "カイヅカチユウオウ"
-  hira: "かいづかちゆうおう"
-  roma: kaidukachiyuuou
+  name: "貝塚北"
+  kana: "カイヅカキタ"
+  hira: "かいづかきた"
+  roma: kaidukakita
 '010':
   code: '010'
   name: "貝塚南"

@@ -118,13 +118,6 @@
     "hira":"のばせ",
     "roma":"nobase"
   },
-  "805":{
-    "code":"805",
-    "name":"小島",
-    "kana":"コジマ",
-    "hira":"こじま",
-    "roma":"kojima"
-  },
   "810":{
     "code":"810",
     "name":"通",
@@ -159,34 +152,6 @@
     "kana":"カケブチ",
     "hira":"かけぶち",
     "roma":"kakebuchi"
-  },
-  "835":{
-    "code":"835",
-    "name":"津黄",
-    "kana":"ツオ",
-    "hira":"つお",
-    "roma":"tsuo"
-  },
-  "840":{
-    "code":"840",
-    "name":"立石",
-    "kana":"タテイシ",
-    "hira":"たていし",
-    "roma":"tateishi"
-  },
-  "845":{
-    "code":"845",
-    "name":"川尻",
-    "kana":"カワシリ",
-    "hira":"かわしり",
-    "roma":"kawashiri"
-  },
-  "855":{
-    "code":"855",
-    "name":"久津",
-    "kana":"クヅ",
-    "hira":"くづ",
-    "roma":"kudu"
   },
   "860":{
     "code":"860",

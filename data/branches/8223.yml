@@ -17,12 +17,6 @@
   kana: "サンミ"
   hira: "さんみ"
   roma: sammi
-'025':
-  code: '025'
-  name: "大井"
-  kana: "オオイ"
-  hira: "おおい"
-  roma: ooi
 '030':
   code: '030'
   name: "見島"
@@ -35,12 +29,6 @@
   kana: "ミナミハギ"
   hira: "みなみはぎ"
   roma: minamihagi
-'040':
-  code: '040'
-  name: "川上"
-  kana: "カワカミ"
-  hira: "かわかみ"
-  roma: kawakami
 '045':
   code: '045'
   name: "高俣"
@@ -61,16 +49,10 @@
   roma: achiyuu
 '065':
   code: '065'
-  name: "奈古"
-  kana: "ナゴ"
-  hira: "なご"
-  roma: nago
-'075':
-  code: '075'
-  name: "福賀"
-  kana: "フクガ"
-  hira: "ふくが"
-  roma: fukuga
+  name: "奈古大井"
+  kana: "ナゴオオイ"
+  hira: "なごおおい"
+  roma: nagoooi
 081:
   code: 081
   name: "阿北"

@@ -35,6 +35,12 @@
   kana: "シマ"
   hira: "しま"
   roma: shima
+'050':
+  code: '050'
+  name: "阿児東"
+  kana: "アゴヒガシ"
+  hira: "あごひがし"
+  roma: agohigashi
 '100':
   code: '100'
   name: "本店"

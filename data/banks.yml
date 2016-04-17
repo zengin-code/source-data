@@ -713,6 +713,12 @@
   kana: "ウリイ"
   hira: "うりい"
   roma: urii
+0484:
+  code: 0484
+  name: "ナショナルオーストラリア"
+  kana: "ナシヨナルオ－ストラリア"
+  hira: "なしよなるお－すとらりあ"
+  roma: nashiyonaruo-sutoraria
 0489:
   code: 0489
   name: "中國"
@@ -5201,36 +5207,6 @@
   kana: "サイタマノウキヨウ"
   hira: "さいたまのうきよう"
   roma: saitamanoukiyou
-'4688':
-  code: '4688'
-  name: "戸田市農協"
-  kana: "トダシノウキヨウ"
-  hira: "とだしのうきよう"
-  roma: todashinoukiyou
-'4691':
-  code: '4691'
-  name: "川口市農協"
-  kana: "カワグチシノウキヨウ"
-  hira: "かわぐちしのうきよう"
-  roma: kawaguchishinoukiyou
-'4693':
-  code: '4693'
-  name: "あゆみ野農協"
-  kana: "アユミノノウキヨウ"
-  hira: "あゆみののうきよう"
-  roma: ayuminonoukiyou
-'4714':
-  code: '4714'
-  name: "鴻巣市農協"
-  kana: "コウノスシノウキヨウ"
-  hira: "こうのすしのうきよう"
-  roma: kounosushinoukiyou
-'4726':
-  code: '4726'
-  name: "あだち野農協"
-  kana: "アダチノノウキヨウ"
-  hira: "あだちののうきよう"
-  roma: adachinonoukiyou
 '4730':
   code: '4730'
   name: "あさか野農協"

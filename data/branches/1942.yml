@@ -35,24 +35,12 @@
   kana: "ミナミ"
   hira: "みなみ"
   roma: minami
-'016':
-  code: '016'
-  name: "小野"
-  kana: "オノ"
-  hira: "おの"
-  roma: ono
 '017':
   code: '017'
   name: "福田"
   kana: "フクダ"
   hira: "ふくだ"
   roma: fukuda
-018:
-  code: 018
-  name: "栄田"
-  kana: "エイダ"
-  hira: "えいだ"
-  roma: eida
 '020':
   code: '020'
   name: "住吉"
