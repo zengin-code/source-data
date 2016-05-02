@@ -106,6 +106,7 @@ class ZenginCLI < Thor
 
         CircleCi::Project.build_branch('zengin-code', 'zengin-rb', 'master', 'RELEASE_BUILD' => 'TRUE')
         CircleCi::Project.build_branch('zengin-code', 'zengin-js', 'master', 'RELEASE_BUILD' => 'TRUE')
+        CircleCi::Project.build_branch('zengin-code', 'zengin-py', 'master', 'RELEASE_BUILD' => 'TRUE')
       end
     end
   end
