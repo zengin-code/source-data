@@ -103,10 +103,10 @@
   roma: arihara
 '041':
   code: '041'
-  name: "平田"
-  kana: "ヒラタ"
-  hira: "ひらた"
-  roma: hirata
+  name: "平田中央"
+  kana: "ヒラタチユウオウ"
+  hira: "ひらたちゆうおう"
+  roma: hiratachiyuuou
 '042':
   code: '042'
   name: "灘分"
@@ -125,12 +125,6 @@
   kana: "ニシダ"
   hira: "にしだ"
   roma: nishida
-'046':
-  code: '046'
-  name: "久多美"
-  kana: "クタミ"
-  hira: "くたみ"
-  roma: kutami
 049:
   code: 049
   name: "平田東"

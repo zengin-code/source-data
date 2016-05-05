@@ -29,17 +29,10 @@
   },
   "010":{
     "code":"010",
-    "name":"明治",
-    "kana":"メイジ",
-    "hira":"めいじ",
-    "roma":"meiji"
-  },
-  "011":{
-    "code":"011",
-    "name":"駒寄",
-    "kana":"コマヨセ",
-    "hira":"こまよせ",
-    "roma":"komayose"
+    "name":"吉岡",
+    "kana":"ヨシオカ",
+    "hira":"よしおか",
+    "roma":"yoshioka"
   },
   "013":{
     "code":"013",
