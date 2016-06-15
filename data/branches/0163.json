@@ -608,6 +608,13 @@
     "hira":"かわちながの",
     "roma":"kawachinagano"
   },
+  "840":{
+    "code":"840",
+    "name":"泉ケ丘駅前",
+    "kana":"イズミガオカエキマエ",
+    "hira":"いずみがおかえきまえ",
+    "roma":"izumigaokaekimae"
+  },
   "841":{
     "code":"841",
     "name":"泉ヶ丘",
@@ -677,6 +684,13 @@
     "kana":"ヤエノサト",
     "hira":"やえのさと",
     "roma":"yaenosato"
+  },
+  "875":{
+    "code":"875",
+    "name":"守口",
+    "kana":"モリグチ",
+    "hira":"もりぐち",
+    "roma":"moriguchi"
   },
   "877":{
     "code":"877",

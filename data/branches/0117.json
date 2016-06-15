@@ -167,13 +167,6 @@
     "hira":"しんじよう",
     "roma":"shinjiyou"
   },
-  "124":{
-    "code":"124",
-    "name":"桜川出張所",
-    "kana":"サクラガワ",
-    "hira":"さくらがわ",
-    "roma":"sakuragawa"
-  },
   "125":{
     "code":"125",
     "name":"戸山出張所",
@@ -183,10 +176,10 @@
   },
   "127":{
     "code":"127",
-    "name":"志功館前",
-    "kana":"シコウカンマエ",
-    "hira":"しこうかんまえ",
-    "roma":"shikoukammae"
+    "name":"松原通り",
+    "kana":"マツバラドオリ",
+    "hira":"まつばらどおり",
+    "roma":"matsubaradoori"
   },
   "128":{
     "code":"128",

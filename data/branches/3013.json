@@ -5,5 +5,19 @@
     "kana":"ホンテン",
     "hira":"ほんてん",
     "roma":"honten"
+  },
+  "601":{
+    "code":"601",
+    "name":"八丈島代理店",
+    "kana":"ハチジヨウジマ",
+    "hira":"はちじようじま",
+    "roma":"hachijiyoujima"
+  },
+  "602":{
+    "code":"602",
+    "name":"小笠原島代理店",
+    "kana":"オガサワラジマ",
+    "hira":"おがさわらじま",
+    "roma":"ogasawarajima"
   }
 }

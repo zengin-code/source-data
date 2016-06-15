@@ -1,16 +1,9 @@
 {
   "001":{
     "code":"001",
-    "name":"東京有楽町",
-    "kana":"トウキヨウユウラクチヨウ",
-    "hira":"とうきようゆうらくちよう",
-    "roma":"toukiyouyuurakuchiyou"
-  },
-  "002":{
-    "code":"002",
-    "name":"東京日比谷",
-    "kana":"トウキヨウヒビヤ",
-    "hira":"とうきようひびや",
-    "roma":"toukiyouhibiya"
+    "name":"東京",
+    "kana":"トウキヨウ",
+    "hira":"とうきよう",
+    "roma":"toukiyou"
   }
 }

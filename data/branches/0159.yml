@@ -269,12 +269,6 @@
   kana: "キシ"
   hira: "きし"
   roma: kishi
-'195':
-  code: '195'
-  name: "星田出張所"
-  kana: "ホシダ"
-  hira: "ほしだ"
-  roma: hoshida
 '251':
   code: '251'
   name: "尼崎"
@@ -323,12 +317,6 @@
   kana: "ムコノソウ"
   hira: "むこのそう"
   roma: mukonosou
-'301':
-  code: '301'
-  name: "船場"
-  kana: "センバ"
-  hira: "せんば"
-  roma: semba
 '302':
   code: '302'
   name: "難波"

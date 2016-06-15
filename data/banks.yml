@@ -1039,7 +1039,7 @@
   roma: inte-za.sampaoro
 '0624':
   code: '0624'
-  name: "国民（韓国）"
+  name: "國民"
   kana: "コクミン"
   hira: "こくみん"
   roma: kokumin
@@ -2783,6 +2783,12 @@
   kana: "ヤマガタダイイチシンクミ"
   hira: "やまがただいいちしんくみ"
   roma: yamagatadaiichishinkumi
+'2087':
+  code: '2087'
+  name: "山形県医師信組"
+  kana: "ヤマガタケンイシシンクミ"
+  hira: "やまがたけんいししんくみ"
+  roma: yamagatakenishishinkumi
 '2090':
   code: '2090'
   name: "福島県商工信組"
@@ -3245,6 +3251,12 @@
   kana: "マシタシンクミ"
   hira: "ましたしんくみ"
   roma: mashitashinkumi
+'2485':
+  code: '2485'
+  name: "三重県職員信組"
+  kana: "ミエケンシヨクインシンクミ"
+  hira: "みえけんしよくいんしんくみ"
+  roma: miekenshiyokuinshinkumi
 '2504':
   code: '2504'
   name: "滋賀県民信組"
@@ -3419,6 +3431,12 @@
   kana: "ヒロシマシヨウギンシンクミ"
   hira: "ひろしましようぎんしんくみ"
   roma: hiroshimashiyouginshinkumi
+'2686':
+  code: '2686'
+  name: "呉市職員信組"
+  kana: "クレシシヨクインシンクミ"
+  hira: "くれししよくいんしんくみ"
+  roma: kureshishiyokuinshinkumi
 '2690':
   code: '2690'
   name: "両備信組"
@@ -5501,12 +5519,6 @@
   kana: "トウキヨウスマイルノウキヨウ"
   hira: "とうきようすまいるのうきよう"
   roma: toukiyousumairunoukiyou
-'5111':
-  code: '5111'
-  name: "東京島しょ農協"
-  kana: "トウキヨウトウシヨノウキヨウ"
-  hira: "とうきようとうしよのうきよう"
-  roma: toukiyoutoushiyonoukiyou
 '5114':
   code: '5114'
   name: "横浜農協"

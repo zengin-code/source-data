@@ -61,5 +61,12 @@
     "kana":"ミツカマチ",
     "hira":"みつかまち",
     "roma":"mitsukamachi"
+  },
+  "010":{
+    "code":"010",
+    "name":"泉中央",
+    "kana":"イズミチユウオウ",
+    "hira":"いずみちゆうおう",
+    "roma":"izumichiyuuou"
   }
 }
