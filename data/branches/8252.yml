@@ -1,28 +1,16 @@
 ---
 '101':
   code: '101'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
-  roma: honshiyo
-'102':
-  code: '102'
-  name: "松坂"
-  kana: "マツサカ"
-  hira: "まつさか"
-  roma: matsusaka
-'103':
-  code: '103'
-  name: "栄"
-  kana: "サカエ"
-  hira: "さかえ"
-  roma: sakae
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
 '104':
   code: '104'
-  name: "板西"
-  kana: "バンザイ"
-  hira: "ばんざい"
-  roma: banzai
+  name: "板野"
+  kana: "イタノ"
+  hira: "いたの"
+  roma: itano
 '105':
   code: '105'
   name: "藍園"
@@ -65,21 +53,9 @@
   kana: "イチジヨウ"
   hira: "いちじよう"
   roma: ichijiyou
-'112':
-  code: '112'
-  name: "松島"
-  kana: "マツシマ"
-  hira: "まつしま"
-  roma: matsushima
 '113':
   code: '113'
-  name: "高志"
-  kana: "タカシ"
-  hira: "たかし"
-  roma: takashi
-'114':
-  code: '114'
-  name: "大山"
-  kana: "オオヤマ"
-  hira: "おおやま"
-  roma: ooyama
+  name: "上板"
+  kana: "カミイタ"
+  hira: "かみいた"
+  roma: kamiita

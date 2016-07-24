@@ -43,16 +43,10 @@
   roma: kodaira
 008:
   code: 008
-  name: "喜平町"
-  kana: "キヘイチヨウ"
-  hira: "きへいちよう"
-  roma: kiheichiyou
-009:
-  code: 009
-  name: "花小金井"
-  kana: "ハナコガネイ"
-  hira: "はなこがねい"
-  roma: hanakoganei
+  name: "鈴木町"
+  kana: "スズキチヨウ"
+  hira: "すずきちよう"
+  roma: suzukichiyou
 '010':
   code: '010'
   name: "たかの台"

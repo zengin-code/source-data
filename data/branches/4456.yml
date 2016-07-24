@@ -61,22 +61,16 @@
   roma: kiyosu
 019:
   code: 019
-  name: "今市"
-  kana: "イマイチ"
-  hira: "いまいち"
-  roma: imaichi
+  name: "日光中央"
+  kana: "ニツコウチユウオウ"
+  hira: "につこうちゆうおう"
+  roma: nitsukouchiyuuou
 '020':
   code: '020'
   name: "落合"
   kana: "オチアイ"
   hira: "おちあい"
   roma: ochiai
-'021':
-  code: '021'
-  name: "大沢"
-  kana: "オオサワ"
-  hira: "おおさわ"
-  roma: oosawa
 '022':
   code: '022'
   name: "豊岡"

@@ -265,7 +265,7 @@
   roma: nishimasuda
 '051':
   code: '051'
-  name: "日原出張所"
+  name: "日原代理店"
   kana: "ニチハラ"
   hira: "にちはら"
   roma: nichihara
@@ -469,7 +469,7 @@
   roma: mizuho
 088:
   code: 088
-  name: "皆生通"
+  name: "皆生通出張所"
   kana: "カイケドオリ"
   hira: "かいけどおり"
   roma: kaikedoori
@@ -607,7 +607,7 @@
   roma: tomari
 '112':
   code: '112'
-  name: "江府"
+  name: "江府出張所"
   kana: "コウフ"
   hira: "こうふ"
   roma: koufu
@@ -815,12 +815,6 @@
   kana: "ナカヤマ"
   hira: "なかやま"
   roma: nakayama
-'256':
-  code: '256'
-  name: "三保代理店"
-  kana: "ミホ"
-  hira: "みほ"
-  roma: miho
 '257':
   code: '257'
   name: "石見今市代理店"
@@ -845,12 +839,6 @@
   kana: "オオモリ"
   hira: "おおもり"
   roma: oomori
-'262':
-  code: '262'
-  name: "母里代理店"
-  kana: "モリ"
-  hira: "もり"
-  roma: mori
 '263':
   code: '263'
   name: "吉田代理店"

@@ -1,10 +1,4 @@
 ---
-'001':
-  code: '001'
-  name: "高木"
-  kana: "タカギ"
-  hira: "たかぎ"
-  roma: takagi
 '003':
   code: '003'
   name: "三奈木"
@@ -29,30 +23,18 @@
   kana: "ホンテン"
   hira: "ほんてん"
   roma: honten
-'015':
-  code: '015'
-  name: "小石原"
-  kana: "コイシワラ"
-  hira: "こいしわら"
-  roma: koishiwara
 '016':
   code: '016'
-  name: "宝珠山"
-  kana: "ホウシユヤマ"
-  hira: "ほうしゆやま"
-  roma: houshiyuyama
+  name: "東峰"
+  kana: "トウホウ"
+  hira: "とうほう"
+  roma: touhou
 '017':
   code: '017'
   name: "杷木"
   kana: "ハキ"
   hira: "はき"
   roma: haki
-'020':
-  code: '020'
-  name: "志波"
-  kana: "シワ"
-  hira: "しわ"
-  roma: shiwa
 '021':
   code: '021'
   name: "朝倉"

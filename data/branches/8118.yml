@@ -1,10 +1,4 @@
 ---
-'005':
-  code: '005'
-  name: "日積"
-  kana: "ヒヅミ"
-  hira: "ひづみ"
-  roma: hidumi
 '010':
   code: '010'
   name: "伊陸"
@@ -17,12 +11,6 @@
   kana: "ヤナイ"
   hira: "やない"
   roma: yanai
-'017':
-  code: '017'
-  name: "余田"
-  kana: "ヨタ"
-  hira: "よた"
-  roma: yota
 018:
   code: 018
   name: "伊保庄"
@@ -47,24 +35,12 @@
   kana: "ヒラオ"
   hira: "ひらお"
   roma: hirao
-'054':
-  code: '054'
-  name: "佐賀"
-  kana: "サガ"
-  hira: "さが"
-  roma: saga
 '060':
   code: '060'
   name: "田布施"
   kana: "タブセ"
   hira: "たぶせ"
   roma: tabuse
-'062':
-  code: '062'
-  name: "麻郷"
-  kana: "オゴウ"
-  hira: "おごう"
-  roma: ogou
 '071':
   code: '071'
   name: "大和"

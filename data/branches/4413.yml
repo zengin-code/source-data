@@ -53,42 +53,12 @@
   kana: "ミツカイドウヒガシ"
   hira: "みつかいどうひがし"
   roma: mitsukaidouhigashi
-'030':
-  code: '030'
-  name: "大花羽"
-  kana: "オオハナワ"
-  hira: "おおはなわ"
-  roma: oohanawa
 '031':
   code: '031'
-  name: "菅原"
-  kana: "スガハラ"
-  hira: "すがはら"
-  roma: sugahara
-'032':
-  code: '032'
-  name: "豊岡"
-  kana: "トヨオカ"
-  hira: "とよおか"
-  roma: toyooka
-'033':
-  code: '033'
-  name: "菅生"
-  kana: "スガオ"
-  hira: "すがお"
-  roma: sugao
-'034':
-  code: '034'
-  name: "内守谷"
-  kana: "ウチモリヤ"
-  hira: "うちもりや"
-  roma: uchimoriya
-'035':
-  code: '035'
-  name: "坂手"
-  kana: "サカテ"
-  hira: "さかて"
-  roma: sakate
+  name: "水海道西"
+  kana: "ミツカイドウニシ"
+  hira: "みつかいどうにし"
+  roma: mitsukaidounishi
 '100':
   code: '100'
   name: "本店"
