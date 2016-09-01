@@ -83,13 +83,6 @@
     "hira":"さつぽろ",
     "roma":"satsuporo"
   },
-  "316":{
-    "code":"316",
-    "name":"高崎",
-    "kana":"タカサキ",
-    "hira":"たかさき",
-    "roma":"takasaki"
-  },
   "320":{
     "code":"320",
     "name":"成城",
@@ -117,6 +110,13 @@
     "kana":"オオミヤ",
     "hira":"おおみや",
     "roma":"oomiya"
+  },
+  "356":{
+    "code":"356",
+    "name":"船橋",
+    "kana":"フナバシ",
+    "hira":"ふなばし",
+    "roma":"funabashi"
   },
   "360":{
     "code":"360",
