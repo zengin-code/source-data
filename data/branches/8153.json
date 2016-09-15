@@ -97,13 +97,6 @@
     "hira":"あいお",
     "roma":"aio"
   },
-  "044":{
-    "code":"044",
-    "name":"秋穂大海",
-    "kana":"アイオオオミ",
-    "hira":"あいおおおみ",
-    "roma":"aiooomi"
-  },
   "050":{
     "code":"050",
     "name":"仁保",
@@ -134,10 +127,10 @@
   },
   "077":{
     "code":"077",
-    "name":"阿東篠生",
-    "kana":"アトウシノブ",
-    "hira":"あとうしのぶ",
-    "roma":"atoushinobu"
+    "name":"長門峡",
+    "kana":"チヨウモンキヨウ",
+    "hira":"ちようもんきよう",
+    "roma":"chiyoumonkiyou"
   },
   "081":{
     "code":"081",
@@ -153,12 +146,12 @@
     "hira":"おごおり",
     "roma":"ogoori"
   },
-  "086":{
-    "code":"086",
-    "name":"小郡上郷",
-    "kana":"オゴオリカミゴウ",
-    "hira":"おごおりかみごう",
-    "roma":"ogoorikamigou"
+  "088":{
+    "code":"088",
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
   },
   "090":{
     "code":"090",

@@ -1,18 +1,4 @@
 {
-  "005":{
-    "code":"005",
-    "name":"豊加美",
-    "kana":"トヨカミ",
-    "hira":"とよかみ",
-    "roma":"toyokami"
-  },
-  "007":{
-    "code":"007",
-    "name":"総上",
-    "kana":"フサカミ",
-    "hira":"ふさかみ",
-    "roma":"fusakami"
-  },
   "008":{
     "code":"008",
     "name":"下妻",
@@ -29,24 +15,10 @@
   },
   "016":{
     "code":"016",
-    "name":"宗道",
-    "kana":"ソウドウ",
-    "hira":"そうどう",
-    "roma":"soudou"
-  },
-  "017":{
-    "code":"017",
-    "name":"大形",
-    "kana":"オオガタ",
-    "hira":"おおがた",
-    "roma":"oogata"
-  },
-  "018":{
-    "code":"018",
-    "name":"蚕飼出張所",
-    "kana":"コカイ",
-    "hira":"こかい",
-    "roma":"kokai"
+    "name":"下妻千代川",
+    "kana":"シモツマチヨカワ",
+    "hira":"しもつまちよかわ",
+    "roma":"shimotsumachiyokawa"
   },
   "020":{
     "code":"020",

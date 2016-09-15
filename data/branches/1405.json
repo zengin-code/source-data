@@ -48,13 +48,6 @@
     "hira":"みずはし",
     "roma":"mizuhashi"
   },
-  "012":{
-    "code":"012",
-    "name":"西部",
-    "kana":"セイブ",
-    "hira":"せいぶ",
-    "roma":"seibu"
-  },
   "013":{
     "code":"013",
     "name":"新庄",
@@ -75,19 +68,5 @@
     "kana":"ナメリカワ",
     "hira":"なめりかわ",
     "roma":"namerikawa"
-  },
-  "022":{
-    "code":"022",
-    "name":"田中",
-    "kana":"タナカ",
-    "hira":"たなか",
-    "roma":"tanaka"
-  },
-  "023":{
-    "code":"023",
-    "name":"中加積",
-    "kana":"ナカカヅミ",
-    "hira":"なかかづみ",
-    "roma":"nakakadumi"
   }
 }

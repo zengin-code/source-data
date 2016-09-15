@@ -13,13 +13,6 @@
     "hira":"ちゆうぶ",
     "roma":"chiyuubu"
   },
-  "008":{
-    "code":"008",
-    "name":"新利根",
-    "kana":"シントネ",
-    "hira":"しんとね",
-    "roma":"shintone"
-  },
   "012":{
     "code":"012",
     "name":"東部",
@@ -27,18 +20,11 @@
     "hira":"とうぶ",
     "roma":"toubu"
   },
-  "019":{
-    "code":"019",
-    "name":"金江津",
-    "kana":"カナエツ",
-    "hira":"かなえつ",
-    "roma":"kanaetsu"
-  },
   "021":{
     "code":"021",
-    "name":"河内",
-    "kana":"カワチ",
-    "hira":"かわち",
-    "roma":"kawachi"
+    "name":"西部",
+    "kana":"セイブ",
+    "hira":"せいぶ",
+    "roma":"seibu"
   }
 }

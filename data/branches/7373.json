@@ -6,40 +6,12 @@
     "hira":"ひろた",
     "roma":"hirota"
   },
-  "003":{
-    "code":"003",
-    "name":"倭文",
-    "kana":"シトオリ",
-    "hira":"しとおり",
-    "roma":"shitoori"
-  },
   "004":{
     "code":"004",
     "name":"松帆",
     "kana":"マツホ",
     "hira":"まつほ",
     "roma":"matsuho"
-  },
-  "005":{
-    "code":"005",
-    "name":"湊",
-    "kana":"ミナト",
-    "hira":"みなと",
-    "roma":"minato"
-  },
-  "006":{
-    "code":"006",
-    "name":"津井",
-    "kana":"ツイ",
-    "hira":"つい",
-    "roma":"tsui"
-  },
-  "008":{
-    "code":"008",
-    "name":"伊加利阿那賀",
-    "kana":"イカリアナガ",
-    "hira":"いかりあなが",
-    "roma":"ikarianaga"
   },
   "009":{
     "code":"009",
@@ -96,13 +68,6 @@
     "kana":"アマ",
     "hira":"あま",
     "roma":"ama"
-  },
-  "017":{
-    "code":"017",
-    "name":"灘",
-    "kana":"ナダ",
-    "hira":"なだ",
-    "roma":"nada"
   },
   "018":{
     "code":"018",

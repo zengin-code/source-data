@@ -5759,42 +5759,18 @@
   kana: "グリ－ンナガノノウキヨウ"
   hira: "ぐり－んながののうきよう"
   roma: guri-nnaganonoukiyou
-'5483':
-  code: '5483'
-  name: "ちくま農協"
-  kana: "チクマノウキヨウ"
-  hira: "ちくまのうきよう"
-  roma: chikumanoukiyou
-'5485':
-  code: '5485'
-  name: "須高農協"
-  kana: "スコウノウキヨウ"
-  hira: "すこうのうきよう"
-  roma: sukounoukiyou
 '5491':
   code: '5491'
   name: "中野市農協"
   kana: "ナカノシノウキヨウ"
   hira: "なかのしのうきよう"
   roma: nakanoshinoukiyou
-'5493':
-  code: '5493'
-  name: "志賀高原農協"
-  kana: "シガコウゲンノウキヨウ"
-  hira: "しがこうげんのうきよう"
-  roma: shigakougennoukiyou
 '5499':
   code: '5499'
   name: "ながの農協"
   kana: "ナガノノウキヨウ"
   hira: "ながののうきよう"
   roma: naganonoukiyou
-'5524':
-  code: '5524'
-  name: "北信州みゆき農協"
-  kana: "キタシンシユウミユキノウキヨウ"
-  hira: "きたしんしゆうみゆきのうきよう"
-  roma: kitashinshiyuumiyukinoukiyou
 '5541':
   code: '5541'
   name: "北蒲みなみ農協"
