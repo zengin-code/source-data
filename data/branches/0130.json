@@ -1216,5 +1216,12 @@
     "kana":"ツクバシントシ",
     "hira":"つくばしんとし",
     "roma":"tsukubashintoshi"
+  },
+  "250":{
+    "code":"250",
+    "name":"インターネット",
+    "kana":"インタ－ネツト",
+    "hira":"いんた－ねつと",
+    "roma":"inta-netsuto"
   }
 }

@@ -29,24 +29,17 @@
   },
   "546":{
     "code":"546",
-    "name":"長浜出張所",
+    "name":"長浜",
     "kana":"ナガハマ",
     "hira":"ながはま",
     "roma":"nagahama"
   },
   "547":{
     "code":"547",
-    "name":"水口出張所",
+    "name":"水口",
     "kana":"ミナクチ",
     "hira":"みなくち",
     "roma":"minakuchi"
-  },
-  "549":{
-    "code":"549",
-    "name":"守山出張所",
-    "kana":"モリヤマ",
-    "hira":"もりやま",
-    "roma":"moriyama"
   },
   "552":{
     "code":"552",

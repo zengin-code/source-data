@@ -35,12 +35,6 @@
   kana: "カミタケ"
   hira: "かみたけ"
   roma: kamitake
-'012':
-  code: '012'
-  name: "草牟田"
-  kana: "ソウムタ"
-  hira: "そうむた"
-  roma: soumuta
 '013':
   code: '013'
   name: "伊敷"
@@ -101,12 +95,6 @@
   kana: "コウヤマ"
   hira: "こうやま"
   roma: kouyama
-'025':
-  code: '025'
-  name: "古江"
-  kana: "フルエ"
-  hira: "ふるえ"
-  roma: furue
 '026':
   code: '026'
   name: "内之浦"
