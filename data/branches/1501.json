@@ -55,20 +55,6 @@
     "hira":"おきつ",
     "roma":"okitsu"
   },
-  "010":{
-    "code":"010",
-    "name":"清水駅前",
-    "kana":"シミズエキマエ",
-    "hira":"しみずえきまえ",
-    "roma":"shimizuekimae"
-  },
-  "011":{
-    "code":"011",
-    "name":"麻機",
-    "kana":"アサバタ",
-    "hira":"あさばた",
-    "roma":"asabata"
-  },
   "012":{
     "code":"012",
     "name":"石田",
@@ -202,13 +188,6 @@
     "hira":"やいづ",
     "roma":"yaidu"
   },
-  "031":{
-    "code":"031",
-    "name":"登呂",
-    "kana":"トロ",
-    "hira":"とろ",
-    "roma":"toro"
-  },
   "033":{
     "code":"033",
     "name":"長田南",
@@ -243,13 +222,6 @@
     "kana":"ミカドダイ",
     "hira":"みかどだい",
     "roma":"mikadodai"
-  },
-  "041":{
-    "code":"041",
-    "name":"西奈",
-    "kana":"ニシナ",
-    "hira":"にしな",
-    "roma":"nishina"
   },
   "042":{
     "code":"042",

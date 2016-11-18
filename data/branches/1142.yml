@@ -5,33 +5,15 @@
   kana: "ホンテン"
   hira: "ほんてん"
   roma: honten
-'004':
-  code: '004'
-  name: "南"
-  kana: "ミナミ"
-  hira: "みなみ"
-  roma: minami
 '005':
   code: '005'
   name: "西"
   kana: "ニシ"
   hira: "にし"
   roma: nishi
-'006':
-  code: '006'
-  name: "湯野浜"
-  kana: "ユノハマ"
-  hira: "ゆのはま"
-  roma: yunohama
-'007':
-  code: '007'
-  name: "温海"
-  kana: "アツミ"
-  hira: "あつみ"
-  roma: atsumi
 008:
   code: 008
-  name: "酒田"
+  name: "酒田営業部"
   kana: "サカタ"
   hira: "さかた"
   roma: sakata

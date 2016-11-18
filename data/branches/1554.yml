@@ -425,6 +425,12 @@
   kana: "ナガクテミナミ"
   hira: "ながくてみなみ"
   roma: nagakuteminami
+078:
+  code: 078
+  name: "鳴海東"
+  kana: "ナルミヒガシ"
+  hira: "なるみひがし"
+  roma: narumihigashi
 '123':
   code: '123'
   name: "インターネット"

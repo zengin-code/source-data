@@ -17,12 +17,6 @@
   kana: "ミクニ"
   hira: "みくに"
   roma: mikuni
-'004':
-  code: '004'
-  name: "十三三津屋"
-  kana: "ジユウソウミツヤ"
-  hira: "じゆうそうみつや"
-  roma: jiyuusoumitsuya
 '006':
   code: '006'
   name: "九条"
@@ -109,10 +103,10 @@
   roma: komatsu
 '025':
   code: '025'
-  name: "十三寝屋川"
-  kana: "ジユウソウネヤガワ"
-  hira: "じゆうそうねやがわ"
-  roma: jiyuusouneyagawa
+  name: "高柳出張所"
+  kana: "タカヤナギ"
+  hira: "たかやなぎ"
+  roma: takayanagi
 '026':
   code: '026'
   name: "新大阪駅前"
@@ -295,7 +289,7 @@
   roma: kammaki
 078:
   code: 078
-  name: "南吹田"
+  name: "南吹田出張所"
   kana: "ミナミスイタ"
   hira: "みなみすいた"
   roma: minamisuita
@@ -325,7 +319,7 @@
   roma: arupurazafukui
 091:
   code: 091
-  name: "江口"
+  name: "江口出張所"
   kana: "エグチ"
   hira: "えぐち"
   roma: eguchi
