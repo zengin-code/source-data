@@ -11,12 +11,6 @@
   kana: "モトヤマ"
   hira: "もとやま"
   roma: motoyama
-'003':
-  code: '003'
-  name: "上熊本"
-  kana: "カミクマモト"
-  hira: "かみくまもと"
-  roma: kamikumamoto
 '004':
   code: '004'
   name: "北熊本"
@@ -85,10 +79,10 @@
   roma: hiyoshidaiichi
 '015':
   code: '015'
-  name: "池上"
-  kana: "イケノウエ"
-  hira: "いけのうえ"
-  roma: ikenoue
+  name: "西熊本"
+  kana: "ニシクマモト"
+  hira: "にしくまもと"
+  roma: nishikumamoto
 '016':
   code: '016'
   name: "城山"
@@ -125,12 +119,6 @@
   kana: "ヨシノ"
   hira: "よしの"
   roma: yoshino
-'026':
-  code: '026'
-  name: "八分字"
-  kana: "ハフジ"
-  hira: "はふじ"
-  roma: hafuji
 '034':
   code: '034'
   name: "小山戸島"

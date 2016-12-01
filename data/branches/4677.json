@@ -13,20 +13,6 @@
     "hira":"おおてまち",
     "roma":"ootemachi"
   },
-  "003":{
-    "code":"003",
-    "name":"郷谷",
-    "kana":"サトヤ",
-    "hira":"さとや",
-    "roma":"satoya"
-  },
-  "004":{
-    "code":"004",
-    "name":"大島",
-    "kana":"オオシマ",
-    "hira":"おおしま",
-    "roma":"ooshima"
-  },
   "005":{
     "code":"005",
     "name":"赤羽",
@@ -50,10 +36,10 @@
   },
   "008":{
     "code":"008",
-    "name":"渡瀬",
-    "kana":"ワタラセ",
-    "hira":"わたらせ",
-    "roma":"watarase"
+    "name":"館林北",
+    "kana":"タテバヤシキタ",
+    "hira":"たてばやしきた",
+    "roma":"tatebayashikita"
   },
   "009":{
     "code":"009",

@@ -5,12 +5,6 @@
   kana: "シマウチ"
   hira: "しまうち"
   roma: shimauchi
-'002':
-  code: '002'
-  name: "中山"
-  kana: "ナカヤマ"
-  hira: "なかやま"
-  roma: nakayama
 '003':
   code: '003'
   name: "島立"
@@ -49,10 +43,10 @@
   roma: yoshikawa
 009:
   code: 009
-  name: "寿"
-  kana: "コトブキ"
-  hira: "ことぶき"
-  roma: kotobuki
+  name: "中山寿"
+  kana: "ナカヤマコトブキ"
+  hira: "なかやまことぶき"
+  roma: nakayamakotobuki
 '010':
   code: '010'
   name: "女鳥羽"

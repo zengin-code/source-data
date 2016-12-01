@@ -13,19 +13,12 @@
     "hira":"いたの",
     "roma":"itano"
   },
-  "105":{
-    "code":"105",
-    "name":"藍園",
-    "kana":"アイゾノ",
-    "hira":"あいぞの",
-    "roma":"aizono"
-  },
   "106":{
     "code":"106",
-    "name":"住吉",
-    "kana":"スミヨシ",
-    "hira":"すみよし",
-    "roma":"sumiyoshi"
+    "name":"藍住",
+    "kana":"アイズミ",
+    "hira":"あいずみ",
+    "roma":"aizumi"
   },
   "107":{
     "code":"107",
@@ -34,33 +27,12 @@
     "hira":"きたじま",
     "roma":"kitajima"
   },
-  "108":{
-    "code":"108",
-    "name":"御所",
-    "kana":"ゴシヨ",
-    "hira":"ごしよ",
-    "roma":"goshiyo"
-  },
   "109":{
     "code":"109",
-    "name":"土成",
-    "kana":"ドナリ",
-    "hira":"どなり",
-    "roma":"donari"
-  },
-  "110":{
-    "code":"110",
-    "name":"柿島",
-    "kana":"カキシマ",
-    "hira":"かきしま",
-    "roma":"kakishima"
-  },
-  "111":{
-    "code":"111",
-    "name":"一条",
-    "kana":"イチジヨウ",
-    "hira":"いちじよう",
-    "roma":"ichijiyou"
+    "name":"阿波",
+    "kana":"アワ",
+    "hira":"あわ",
+    "roma":"awa"
   },
   "113":{
     "code":"113",
