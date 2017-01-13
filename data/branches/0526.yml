@@ -157,10 +157,10 @@
   roma: kodaira
 '132':
   code: '132'
-  name: "新宿西口"
-  kana: "シンジユクニシグチ"
-  hira: "しんじゆくにしぐち"
-  roma: shinjiyukunishiguchi
+  name: "新宿"
+  kana: "シンジユク"
+  hira: "しんじゆく"
+  roma: shinjiyuku
 '137':
   code: '137'
   name: "高島平"

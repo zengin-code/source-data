@@ -67,10 +67,10 @@
   roma: minamiyoshida
 '013':
   code: '013'
-  name: "西加茂"
-  kana: "ニシカモ"
-  hira: "にしかも"
-  roma: nishikamo
+  name: "加茂"
+  kana: "カモ"
+  hira: "かも"
+  roma: kamo
 '014':
   code: '014'
   name: "本店"
@@ -89,9 +89,3 @@
   kana: "オオマガリ"
   hira: "おおまがり"
   roma: oomagari
-'017':
-  code: '017'
-  name: "経営大学前"
-  kana: "ケイエイダイガクマエ"
-  hira: "けいえいだいがくまえ"
-  roma: keieidaigakumae
