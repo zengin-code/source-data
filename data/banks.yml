@@ -715,7 +715,7 @@
   roma: urii
 0484:
   code: 0484
-  name: "ナショナルオーストラリア"
+  name: "ナショナル・オーストラリア・バンク・リミッテド"
   kana: "ナシヨナルオ－ストラリア"
   hira: "なしよなるお－すとらりあ"
   roma: nashiyonaruo-sutoraria
@@ -3227,12 +3227,6 @@
   kana: "アイチケンチユウオウシンクミ"
   hira: "あいちけんちゆうおうしんくみ"
   roma: aichikenchiyuuoushinkumi
-'2452':
-  code: '2452'
-  name: "三河信組"
-  kana: "ミカワシンクミ"
-  hira: "みかわしんくみ"
-  roma: mikawashinkumi
 '2470':
   code: '2470'
   name: "岐阜商工信組"
@@ -4613,12 +4607,6 @@
   kana: "シンイワテノウキヨウ"
   hira: "しんいわてのうきよう"
   roma: shiniwatenoukiyou
-'3539':
-  code: '3539'
-  name: "岩手中央酪農協"
-  kana: "イワテチユウオウラクノウキヨウ"
-  hira: "いわてちゆうおうらくのうきよう"
-  roma: iwatechiyuuourakunoukiyou
 '3541':
   code: '3541'
   name: "岩手中央農協"

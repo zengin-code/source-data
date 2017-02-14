@@ -293,13 +293,6 @@
     "hira":"つのえ",
     "roma":"tsunoe"
   },
-  "071":{
-    "code":"071",
-    "name":"相川",
-    "kana":"アイカワ",
-    "hira":"あいかわ",
-    "roma":"aikawa"
-  },
   "072":{
     "code":"072",
     "name":"清水",
@@ -467,20 +460,6 @@
     "kana":"シンセンリミナミ",
     "hira":"しんせんりみなみ",
     "roma":"shinsenriminami"
-  },
-  "115":{
-    "code":"115",
-    "name":"旭丘",
-    "kana":"アサヒガオカ",
-    "hira":"あさひがおか",
-    "roma":"asahigaoka"
-  },
-  "117":{
-    "code":"117",
-    "name":"上野",
-    "kana":"ウエノ",
-    "hira":"うえの",
-    "roma":"ueno"
   },
   "119":{
     "code":"119",

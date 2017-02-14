@@ -1,63 +1,63 @@
 {
   "100":{
     "code":"100",
-    "name":"本店",
-    "kana":"ホンテン",
-    "hira":"ほんてん",
-    "roma":"honten"
+    "name":"東京みらい営業部",
+    "kana":"トウキヨウミライ",
+    "hira":"とうきようみらい",
+    "roma":"toukiyoumirai"
   },
   "101":{
     "code":"101",
-    "name":"新宿出張所",
-    "kana":"シンジユク",
-    "hira":"しんじゆく",
-    "roma":"shinjiyuku"
+    "name":"新宿ＳＧ出張所",
+    "kana":"シンジユクエスジ－",
+    "hira":"しんじゆくえすじ－",
+    "roma":"shinjiyukuesuji-"
   },
   "102":{
     "code":"102",
-    "name":"蒲田出張所",
-    "kana":"カマタ",
-    "hira":"かまた",
-    "roma":"kamata"
+    "name":"蒲田ＳＧ出張所",
+    "kana":"カマタエスジ－",
+    "hira":"かまたえすじ－",
+    "roma":"kamataesuji-"
   },
   "103":{
     "code":"103",
-    "name":"上野出張所",
-    "kana":"ウエノ",
-    "hira":"うえの",
-    "roma":"ueno"
+    "name":"上野ＳＧ出張所",
+    "kana":"ウエノエスジ－",
+    "hira":"うえのえすじ－",
+    "roma":"uenoesuji-"
   },
   "104":{
     "code":"104",
-    "name":"立川出張所",
-    "kana":"タチカワ",
-    "hira":"たちかわ",
-    "roma":"tachikawa"
+    "name":"立川ＳＧ出張所",
+    "kana":"タチカワエスジ－",
+    "hira":"たちかわえすじ－",
+    "roma":"tachikawaesuji-"
   },
   "105":{
     "code":"105",
-    "name":"錦糸町出張所",
-    "kana":"キンシチヨウ",
-    "hira":"きんしちよう",
-    "roma":"kinshichiyou"
+    "name":"錦糸町ＳＧ出張所",
+    "kana":"キンシチヨウエスジ－",
+    "hira":"きんしちようえすじ－",
+    "roma":"kinshichiyouesuji-"
   },
   "106":{
     "code":"106",
-    "name":"池袋出張所",
-    "kana":"イケブクロ",
-    "hira":"いけぶくろ",
-    "roma":"ikebukuro"
+    "name":"池袋ＳＧ出張所",
+    "kana":"イケブクロエスジ－",
+    "hira":"いけぶくろえすじ－",
+    "roma":"ikebukuroesuji-"
   },
   "107":{
     "code":"107",
-    "name":"渋谷出張所",
+    "name":"渋谷ＳＧ出張所",
     "kana":"シブヤ",
     "hira":"しぶや",
     "roma":"shibuya"
   },
   "108":{
     "code":"108",
-    "name":"新橋出張所",
+    "name":"新橋ＳＧ出張所",
     "kana":"シンバシ",
     "hira":"しんばし",
     "roma":"shimbashi"

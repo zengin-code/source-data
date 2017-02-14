@@ -55,10 +55,10 @@
   roma: ouji
 '013':
   code: '013'
-  name: "神田"
-  kana: "カンダ"
-  hira: "かんだ"
-  roma: kanda
+  name: "神田中央"
+  kana: "カンダチユウオウ"
+  hira: "かんだちゆうおう"
+  roma: kandachiyuuou
 '014':
   code: '014'
   name: "千住"
@@ -91,10 +91,10 @@
   roma: nakano
 019:
   code: 019
-  name: "八王子"
-  kana: "ハチオウジ"
-  hira: "はちおうじ"
-  roma: hachiouji
+  name: "八王子中央"
+  kana: "ハチオウジチユウオウ"
+  hira: "はちおうじちゆうおう"
+  roma: hachioujichiyuuou
 '020':
   code: '020'
   name: "麻布"
@@ -109,10 +109,10 @@
   roma: musashikoyama
 '022':
   code: '022'
-  name: "板橋"
-  kana: "イタバシ"
-  hira: "いたばし"
-  roma: itabashi
+  name: "板橋本町"
+  kana: "イタバシホンチヨウ"
+  hira: "いたばしほんちよう"
+  roma: itabashihonchiyou
 '023':
   code: '023'
   name: "三河島"
@@ -157,10 +157,10 @@
   roma: gakudaimae
 '031':
   code: '031'
-  name: "渋谷"
-  kana: "シブヤ"
-  hira: "しぶや"
-  roma: shibuya
+  name: "渋谷中央"
+  kana: "シブヤチユウオウ"
+  hira: "しぶやちゆうおう"
+  roma: shibuyachiyuuou
 '032':
   code: '032'
   name: "世田谷"
@@ -247,22 +247,22 @@
   roma: kameari
 '047':
   code: '047'
-  name: "上石神井"
-  kana: "カミシヤクジイ"
-  hira: "かみしやくじい"
-  roma: kamishiyakujii
+  name: "上石神井北"
+  kana: "カミシヤクジイキタ"
+  hira: "かみしやくじいきた"
+  roma: kamishiyakujiikita
 048:
   code: 048
-  name: "大泉"
-  kana: "オオイズミ"
-  hira: "おおいずみ"
-  roma: ooizumi
+  name: "大泉学園駅前"
+  kana: "オオイズミガクエンエキマエ"
+  hira: "おおいずみがくえんえきまえ"
+  roma: ooizumigakuenekimae
 049:
   code: 049
-  name: "久米川"
-  kana: "クメガワ"
-  hira: "くめがわ"
-  roma: kumegawa
+  name: "久米川駅前"
+  kana: "クメガワエキマエ"
+  hira: "くめがわえきまえ"
+  roma: kumegawaekimae
 '050':
   code: '050'
   name: "百草"
@@ -449,8 +449,8 @@
   kana: "シンバシホウジン"
   hira: "しんばしほうじん"
   roma: shimbashihoujin
-'101':
-  code: '101'
+'115':
+  code: '115'
   name: "京王ステーション"
   kana: "ケイオウステ－シヨン"
   hira: "けいおうすて－しよん"

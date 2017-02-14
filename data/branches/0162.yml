@@ -589,7 +589,7 @@
   roma: tamamizu
 '735':
   code: '735'
-  name: "三山木"
+  name: "三山木出張所"
   kana: "ミヤマギ"
   hira: "みやまぎ"
   roma: miyamagi
@@ -677,6 +677,12 @@
   kana: "オオサカヒガシ"
   hira: "おおさかひがし"
   roma: oosakahigashi
+'776':
+  code: '776'
+  name: "平野"
+  kana: "ヒラノ"
+  hira: "ひらの"
+  roma: hirano
 '777':
   code: '777'
   name: "新大阪"
