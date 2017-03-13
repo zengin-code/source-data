@@ -1322,13 +1322,6 @@
     "hira":"ひだかしんきん",
     "roma":"hidakashinkin"
   },
-  "1012":{
-    "code":"1012",
-    "name":"函館信金",
-    "kana":"ハコダテシンキン",
-    "hira":"はこだてしんきん",
-    "roma":"hakodateshinkin"
-  },
   "1013":{
     "code":"1013",
     "name":"渡島信金",
@@ -1338,10 +1331,10 @@
   },
   "1014":{
     "code":"1014",
-    "name":"江差信金",
-    "kana":"エサシシンキン",
-    "hira":"えさししんきん",
-    "roma":"esashishinkin"
+    "name":"道南うみ街信金",
+    "kana":"ドウナンウミマチシンキン",
+    "hira":"どうなんうみまちしんきん",
+    "roma":"dounanumimachishinkin"
   },
   "1016":{
     "code":"1016",

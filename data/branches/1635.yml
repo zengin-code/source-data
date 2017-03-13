@@ -461,12 +461,6 @@
   kana: "ヒラオカ"
   hira: "ひらおか"
   roma: hiraoka
-'142':
-  code: '142'
-  name: "河内"
-  kana: "カワチ"
-  hira: "かわち"
-  roma: kawachi
 '143':
   code: '143'
   name: "瓢箪山"
@@ -515,12 +509,6 @@
   kana: "チユウオウイチバ"
   hira: "ちゆうおういちば"
   roma: chiyuuouichiba
-'172':
-  code: '172'
-  name: "下福島"
-  kana: "シモフクシマ"
-  hira: "しもふくしま"
-  roma: shimofukushima
 '175':
   code: '175'
   name: "東部市場"
