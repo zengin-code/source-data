@@ -107,3 +107,51 @@
   kana: "ニイガタ"
   hira: "にいがた"
   roma: niigata
+'041':
+  code: '041'
+  name: "福岡営業部"
+  kana: "フクオカ"
+  hira: "ふくおか"
+  roma: fukuoka
+'042':
+  code: '042'
+  name: "北九州"
+  kana: "キタキユウシユウ"
+  hira: "きたきゆうしゆう"
+  roma: kitakiyuushiyuu
+'043':
+  code: '043'
+  name: "飯塚"
+  kana: "イイヅカ"
+  hira: "いいづか"
+  roma: iiduka
+'044':
+  code: '044'
+  name: "東福岡"
+  kana: "ヒガシフクオカ"
+  hira: "ひがしふくおか"
+  roma: higashifukuoka
+'045':
+  code: '045'
+  name: "熊本"
+  kana: "クマモト"
+  hira: "くまもと"
+  roma: kumamoto
+'046':
+  code: '046'
+  name: "熊本県庁通り"
+  kana: "クマモトケンチヨウドオリ"
+  hira: "くまもとけんちようどおり"
+  roma: kumamotokenchiyoudoori
+'047':
+  code: '047'
+  name: "大分"
+  kana: "オオイタ"
+  hira: "おおいた"
+  roma: ooita
+048:
+  code: 048
+  name: "佐賀"
+  kana: "サガ"
+  hira: "さが"
+  roma: saga

@@ -3025,10 +3025,10 @@
   roma: kanagawakenshikaishishinkumi
 '2306':
   code: '2306'
-  name: "横浜中央信組"
-  kana: "ヨコハマチユウオウシンクミ"
-  hira: "よこはまちゆうおうしんくみ"
-  roma: yokohamachiyuuoushinkumi
+  name: "横浜幸銀信組"
+  kana: "ヨコハマコウギンシンクミ"
+  hira: "よこはまこうぎんしんくみ"
+  roma: yokohamakouginshinkumi
 '2307':
   code: '2307'
   name: "横浜華銀信組"
@@ -3551,12 +3551,6 @@
   kana: "フクエシンクミ"
   hira: "ふくえしんくみ"
   roma: fukueshinkumi
-'2840':
-  code: '2840'
-  name: "九州幸銀信組"
-  kana: "キユウシユウコウギンシンクミ"
-  hira: "きゆうしゆうこうぎんしんくみ"
-  roma: kiyuushiyuukouginshinkumi
 '2842':
   code: '2842'
   name: "熊本県医師信組"
@@ -5951,12 +5945,6 @@
   kana: "ナノハナノウキヨウ"
   hira: "なのはなのうきよう"
   roma: nanohananoukiyou
-'5905':
-  code: '5905'
-  name: "鵜坂農協"
-  kana: "ウサカノウキヨウ"
-  hira: "うさかのうきよう"
-  roma: usakanoukiyou
 '5906':
   code: '5906'
   name: "山田村農協"

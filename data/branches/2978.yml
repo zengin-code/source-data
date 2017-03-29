@@ -211,16 +211,10 @@
   roma: yao
 '607':
   code: '607'
-  name: "住之江"
-  kana: "スミノエ"
-  hira: "すみのえ"
-  roma: suminoe
-'615':
-  code: '615'
-  name: "大東"
-  kana: "ダイトウ"
-  hira: "だいとう"
-  roma: daitou
+  name: "天下茶屋"
+  kana: "テンガチヤヤ"
+  hira: "てんがちやや"
+  roma: tengachiyaya
 '618':
   code: '618'
   name: "大阪中央"

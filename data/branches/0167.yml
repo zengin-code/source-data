@@ -953,6 +953,12 @@
   kana: "カミゴトウ"
   hira: "かみごとう"
   roma: kamigotou
+'390':
+  code: '390'
+  name: "ダイレクト"
+  kana: "ダイレクト"
+  hira: "だいれくと"
+  roma: dairekuto
 '719':
   code: '719'
   name: "ごうぎん証券"
