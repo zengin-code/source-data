@@ -13,19 +13,12 @@
     "hira":"みかも",
     "roma":"mikamo"
   },
-  "006":{
-    "code":"006",
-    "name":"川上",
-    "kana":"カワカミ",
-    "hira":"かわかみ",
-    "roma":"kawakami"
-  },
   "007":{
     "code":"007",
-    "name":"八束",
-    "kana":"ヤツカ",
-    "hira":"やつか",
-    "roma":"yatsuka"
+    "name":"蒜山",
+    "kana":"ヒルゼン",
+    "hira":"ひるぜん",
+    "roma":"hiruzen"
   },
   "009":{
     "code":"009",
@@ -43,31 +36,10 @@
   },
   "014":{
     "code":"014",
-    "name":"垂水",
-    "kana":"タルミ",
-    "hira":"たるみ",
-    "roma":"tarumi"
-  },
-  "015":{
-    "code":"015",
-    "name":"福田",
-    "kana":"フクダ",
-    "hira":"ふくだ",
-    "roma":"fukuda"
-  },
-  "016":{
-    "code":"016",
-    "name":"美川",
-    "kana":"ミカワ",
-    "hira":"みかわ",
-    "roma":"mikawa"
-  },
-  "017":{
-    "code":"017",
-    "name":"上河内",
-    "kana":"カミゴウチ",
-    "hira":"かみごうち",
-    "roma":"kamigouchi"
+    "name":"落合",
+    "kana":"オチアイ",
+    "hira":"おちあい",
+    "roma":"ochiai"
   },
   "100":{
     "code":"100",

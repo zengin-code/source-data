@@ -13,6 +13,13 @@
     "hira":"とうきよう",
     "roma":"toukiyou"
   },
+  "099":{
+    "code":"099",
+    "name":"インターネット",
+    "kana":"インタ－ネツト",
+    "hira":"いんた－ねつと",
+    "roma":"inta-netsuto"
+  },
   "111":{
     "code":"111",
     "name":"船橋",

@@ -127,10 +127,10 @@
   },
   "160":{
     "code":"160",
-    "name":"諸富町",
-    "kana":"モロドミチヨウ",
-    "hira":"もろどみちよう",
-    "roma":"morodomichiyou"
+    "name":"佐賀市もろどみ町",
+    "kana":"サガシモロドミチヨウ",
+    "hira":"さがしもろどみちよう",
+    "roma":"sagashimorodomichiyou"
   },
   "170":{
     "code":"170",
@@ -141,38 +141,17 @@
   },
   "301":{
     "code":"301",
-    "name":"田代",
-    "kana":"タシロ",
-    "hira":"たしろ",
-    "roma":"tashiro"
-  },
-  "302":{
-    "code":"302",
-    "name":"基里",
-    "kana":"キザト",
-    "hira":"きざと",
-    "roma":"kizato"
-  },
-  "303":{
-    "code":"303",
-    "name":"鳥栖",
-    "kana":"トス",
-    "hira":"とす",
-    "roma":"tosu"
-  },
-  "304":{
-    "code":"304",
-    "name":"鳥栖旭",
-    "kana":"トスアサヒ",
-    "hira":"とすあさひ",
-    "roma":"tosuasahi"
+    "name":"とすきた",
+    "kana":"トスキタ",
+    "hira":"とすきた",
+    "roma":"tosukita"
   },
   "305":{
     "code":"305",
-    "name":"麓",
-    "kana":"フモト",
-    "hira":"ふもと",
-    "roma":"fumoto"
+    "name":"とすにし",
+    "kana":"トスニシ",
+    "hira":"とすにし",
+    "roma":"tosunishi"
   },
   "306":{
     "code":"306",
@@ -188,13 +167,6 @@
     "hira":"きやまちようやくばない",
     "roma":"kiyamachiyouyakubanai"
   },
-  "311":{
-    "code":"311",
-    "name":"中原",
-    "kana":"ナカバル",
-    "hira":"なかばる",
-    "roma":"nakabaru"
-  },
   "312":{
     "code":"312",
     "name":"上峰",
@@ -204,24 +176,17 @@
   },
   "313":{
     "code":"313",
-    "name":"三川",
-    "kana":"ミカワ",
-    "hira":"みかわ",
-    "roma":"mikawa"
-  },
-  "314":{
-    "code":"314",
-    "name":"南茂安",
-    "kana":"ミナミシゲヤス",
-    "hira":"みなみしげやす",
-    "roma":"minamishigeyasu"
+    "name":"みね",
+    "kana":"ミネ",
+    "hira":"みね",
+    "roma":"mine"
   },
   "315":{
     "code":"315",
-    "name":"北茂安",
-    "kana":"キタシゲヤス",
-    "hira":"きたしげやす",
-    "roma":"kitashigeyasu"
+    "name":"みやき",
+    "kana":"ミヤキ",
+    "hira":"みやき",
+    "roma":"miyaki"
   },
   "321":{
     "code":"321",
@@ -230,65 +195,30 @@
     "hira":"かんざき",
     "roma":"kanzaki"
   },
-  "322":{
-    "code":"322",
-    "name":"仁比山",
-    "kana":"ニイヤマ",
-    "hira":"にいやま",
-    "roma":"niiyama"
-  },
-  "323":{
-    "code":"323",
-    "name":"西郷",
-    "kana":"サイゴウ",
-    "hira":"さいごう",
-    "roma":"saigou"
-  },
-  "324":{
-    "code":"324",
-    "name":"境野",
-    "kana":"サカイノ",
-    "hira":"さかいの",
-    "roma":"sakaino"
-  },
   "325":{
     "code":"325",
-    "name":"城田",
-    "kana":"シロタ",
-    "hira":"しろた",
-    "roma":"shirota"
-  },
-  "326":{
-    "code":"326",
-    "name":"千歳",
-    "kana":"チトセ",
-    "hira":"ちとせ",
-    "roma":"chitose"
+    "name":"千代田",
+    "kana":"チヨダ",
+    "hira":"ちよだ",
+    "roma":"chiyoda"
   },
   "327":{
     "code":"327",
-    "name":"三田川",
-    "kana":"ミタガワ",
-    "hira":"みたがわ",
-    "roma":"mitagawa"
-  },
-  "328":{
-    "code":"328",
-    "name":"東脊振",
-    "kana":"ヒガシセフリ",
-    "hira":"ひがしせふり",
-    "roma":"higashisefuri"
+    "name":"吉野ヶ里",
+    "kana":"ヨシノガリ",
+    "hira":"よしのがり",
+    "roma":"yoshinogari"
   },
   "329":{
     "code":"329",
-    "name":"脊振",
+    "name":"脊振出張所",
     "kana":"セフリ",
     "hira":"せふり",
     "roma":"sefuri"
   },
   "330":{
     "code":"330",
-    "name":"三瀬",
+    "name":"三瀬出張所",
     "kana":"ミツゼ",
     "hira":"みつぜ",
     "roma":"mitsuze"

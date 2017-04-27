@@ -1,11 +1,4 @@
 {
-  "001":{
-    "code":"001",
-    "name":"小鯖",
-    "kana":"オサバ",
-    "hira":"おさば",
-    "roma":"osaba"
-  },
   "002":{
     "code":"002",
     "name":"大内",
@@ -111,33 +104,12 @@
     "hira":"あとう",
     "roma":"atou"
   },
-  "069":{
-    "code":"069",
-    "name":"阿東生雲",
-    "kana":"アトウイクモ",
-    "hira":"あとういくも",
-    "roma":"atouikumo"
-  },
-  "072":{
-    "code":"072",
-    "name":"阿東嘉年",
-    "kana":"アトウカネ",
-    "hira":"あとうかね",
-    "roma":"atoukane"
-  },
   "077":{
     "code":"077",
     "name":"長門峡",
     "kana":"チヨウモンキヨウ",
     "hira":"ちようもんきよう",
     "roma":"chiyoumonkiyou"
-  },
-  "081":{
-    "code":"081",
-    "name":"阿東地福",
-    "kana":"アトウヂフク",
-    "hira":"あとうぢふく",
-    "roma":"atoudifuku"
   },
   "085":{
     "code":"085",

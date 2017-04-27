@@ -20,20 +20,6 @@
     "hira":"くまとり",
     "roma":"kumatori"
   },
-  "015":{
-    "code":"015",
-    "name":"大久保",
-    "kana":"オオクボ",
-    "hira":"おおくぼ",
-    "roma":"ookubo"
-  },
-  "016":{
-    "code":"016",
-    "name":"原子炉前",
-    "kana":"ゲンシロマエ",
-    "hira":"げんしろまえ",
-    "roma":"genshiromae"
-  },
   "017":{
     "code":"017",
     "name":"泉佐野北",
@@ -41,19 +27,12 @@
     "hira":"いずみさのきた",
     "roma":"izumisanokita"
   },
-  "024":{
-    "code":"024",
-    "name":"日根野",
-    "kana":"ヒネノ",
-    "hira":"ひねの",
-    "roma":"hineno"
-  },
   "025":{
     "code":"025",
-    "name":"日根野駅前",
-    "kana":"ヒネノエキマエ",
-    "hira":"ひねのえきまえ",
-    "roma":"hinenoekimae"
+    "name":"泉佐野中央",
+    "kana":"イズミサノチユウオウ",
+    "hira":"いずみさのちゆうおう",
+    "roma":"izumisanochiyuuou"
   },
   "026":{
     "code":"026",
@@ -61,13 +40,6 @@
     "kana":"イズミサノミナミ",
     "hira":"いずみさのみなみ",
     "roma":"izumisanominami"
-  },
-  "027":{
-    "code":"027",
-    "name":"上之郷",
-    "kana":"カミノゴウ",
-    "hira":"かみのごう",
-    "roma":"kaminogou"
   },
   "029":{
     "code":"029",

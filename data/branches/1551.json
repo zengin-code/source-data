@@ -222,5 +222,12 @@
     "kana":"アズマダ",
     "hira":"あずまだ",
     "roma":"azumada"
+  },
+  "048":{
+    "code":"048",
+    "name":"インターネット",
+    "kana":"インタ－ネツト",
+    "hira":"いんた－ねつと",
+    "roma":"inta-netsuto"
   }
 }

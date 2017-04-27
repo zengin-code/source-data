@@ -5,18 +5,12 @@
   kana: "ホンテン"
   hira: "ほんてん"
   roma: honten
-'002':
-  code: '002'
-  name: "小津"
-  kana: "オズ"
-  hira: "おず"
-  roma: ozu
 '003':
   code: '003'
-  name: "玉津"
-  kana: "タマツ"
-  hira: "たまつ"
-  roma: tamatsu
+  name: "赤野井"
+  kana: "アカノイ"
+  hira: "あかのい"
+  roma: akanoi
 '004':
   code: '004'
   name: "速野"

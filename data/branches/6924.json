@@ -76,40 +76,12 @@
     "hira":"きのもと",
     "roma":"kinomoto"
   },
-  "623":{
-    "code":"623",
-    "name":"高時",
-    "kana":"タカトキ",
-    "hira":"たかとき",
-    "roma":"takatoki"
-  },
-  "624":{
-    "code":"624",
-    "name":"杉野",
-    "kana":"スギノ",
-    "hira":"すぎの",
-    "roma":"sugino"
-  },
-  "628":{
-    "code":"628",
-    "name":"片岡",
-    "kana":"カタオカ",
-    "hira":"かたおか",
-    "roma":"kataoka"
-  },
   "629":{
     "code":"629",
-    "name":"下余呉",
-    "kana":"シモヨゴ",
-    "hira":"しもよご",
-    "roma":"shimoyogo"
-  },
-  "631":{
-    "code":"631",
-    "name":"塩津",
-    "kana":"シオツ",
-    "hira":"しおつ",
-    "roma":"shiotsu"
+    "name":"余呉",
+    "kana":"ヨゴ",
+    "hira":"よご",
+    "roma":"yogo"
   },
   "632":{
     "code":"632",

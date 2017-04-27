@@ -90,13 +90,6 @@
     "hira":"もとさわ",
     "roma":"motosawa"
   },
-  "031":{
-    "code":"031",
-    "name":"成沢",
-    "kana":"ナリサワ",
-    "hira":"なりさわ",
-    "roma":"narisawa"
-  },
   "032":{
     "code":"032",
     "name":"蔵王",
@@ -120,17 +113,10 @@
   },
   "047":{
     "code":"047",
-    "name":"長崎",
-    "kana":"ナガサキ",
-    "hira":"ながさき",
-    "roma":"nagasaki"
-  },
-  "050":{
-    "code":"050",
-    "name":"豊田",
-    "kana":"トヨダ",
-    "hira":"とよだ",
-    "roma":"toyoda"
+    "name":"ひまわり",
+    "kana":"ヒマワリ",
+    "hira":"ひまわり",
+    "roma":"himawari"
   },
   "052":{
     "code":"052",

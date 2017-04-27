@@ -180,5 +180,12 @@
     "kana":"ヒガシクマノ",
     "hira":"ひがしくまの",
     "roma":"higashikumano"
+  },
+  "041":{
+    "code":"041",
+    "name":"東広島",
+    "kana":"ヒガシヒロシマ",
+    "hira":"ひがしひろしま",
+    "roma":"higashihiroshima"
   }
 }

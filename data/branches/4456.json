@@ -22,10 +22,10 @@
   },
   "004":{
     "code":"004",
-    "name":"北押原",
-    "kana":"キタオシハラ",
-    "hira":"きたおしはら",
-    "roma":"kitaoshihara"
+    "name":"南部中央",
+    "kana":"ナンブチユウオウ",
+    "hira":"なんぶちゆうおう",
+    "roma":"nambuchiyuuou"
   },
   "005":{
     "code":"005",
@@ -33,13 +33,6 @@
     "kana":"ミナミオシハラ",
     "hira":"みなみおしはら",
     "roma":"minamioshihara"
-  },
-  "006":{
-    "code":"006",
-    "name":"南摩",
-    "kana":"ナンマ",
-    "hira":"なんま",
-    "roma":"namma"
   },
   "008":{
     "code":"008",
@@ -61,13 +54,6 @@
     "kana":"アワノ",
     "hira":"あわの",
     "roma":"awano"
-  },
-  "017":{
-    "code":"017",
-    "name":"清洲",
-    "kana":"キヨス",
-    "hira":"きよす",
-    "roma":"kiyosu"
   },
   "019":{
     "code":"019",

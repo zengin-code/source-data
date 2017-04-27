@@ -17,12 +17,6 @@
   kana: "コシワ"
   hira: "こしわ"
   roma: koshiwa
-008:
-  code: 008
-  name: "漆山"
-  kana: "ウルシヤマ"
-  hira: "うるしやま"
-  roma: urushiyama
 '010':
   code: '010'
   name: "岩室"
@@ -67,10 +61,10 @@
   roma: ajikata
 '024':
   code: '024'
-  name: "潟東"
-  kana: "カタヒガシ"
-  hira: "かたひがし"
-  roma: katahigashi
+  name: "中央"
+  kana: "チユウオウ"
+  hira: "ちゆうおう"
+  roma: chiyuuou
 '026':
   code: '026'
   name: "中之口"

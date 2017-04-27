@@ -571,10 +571,10 @@
   roma: aozora
 '0401':
   code: '0401'
-  name: "シティバンク"
-  kana: "シテイバンク"
-  hira: "していばんく"
-  roma: shiteibanku
+  name: "シティバンク、エヌ・エイ"
+  kana: "シテイバンク．エヌ．エイ"
+  hira: "していばんく．えぬ．えい"
+  roma: shiteibanku.enu.ei
 '0402':
   code: '0402'
   name: "ＪＰモルガン"
@@ -5363,12 +5363,6 @@
   kana: "イチカワシノウキヨウ"
   hira: "いちかわしのうきよう"
   roma: ichikawashinoukiyou
-'4962':
-  code: '4962'
-  name: "東葛ふたば農協"
-  kana: "トウカツフタバノウキヨウ"
-  hira: "とうかつふたばのうきよう"
-  roma: toukatsufutabanoukiyou
 '4965':
   code: '4965'
   name: "とうかつ中央農協"
@@ -7921,16 +7915,10 @@
   roma: kiyoutofushingiyoren
 '9477':
   code: '9477'
-  name: "兵庫県信漁連"
-  kana: "ヒヨウゴケンシンギヨレン"
-  hira: "ひようごけんしんぎよれん"
-  roma: hiyougokenshingiyoren
-'9479':
-  code: '9479'
-  name: "和歌山県信漁連"
-  kana: "ワカヤマケンシンギヨレン"
-  hira: "わかやまけんしんぎよれん"
-  roma: wakayamakenshingiyoren
+  name: "なぎさ信漁連"
+  kana: "ナギサシンギヨレン"
+  hira: "なぎさしんぎよれん"
+  roma: nagisashingiyoren
 '9480':
   code: '9480'
   name: "鳥取県信漁連"

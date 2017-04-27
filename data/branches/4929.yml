@@ -25,16 +25,10 @@
   roma: fukuoka
 '005':
   code: '005'
-  name: "片貝"
-  kana: "カタカイ"
-  hira: "かたかい"
-  roma: katakai
-'006':
-  code: '006'
-  name: "豊海"
-  kana: "トヨウミ"
-  hira: "とようみ"
-  roma: toyoumi
+  name: "九十九里"
+  kana: "クジユウクリ"
+  hira: "くじゆうくり"
+  roma: kujiyuukuri
 '007':
   code: '007'
   name: "成東"
@@ -107,12 +101,6 @@
   kana: "オオフサ"
   hira: "おおふさ"
   roma: oofusa
-019:
-  code: 019
-  name: "上堺"
-  kana: "カミサカイ"
-  hira: "かみさかい"
-  roma: kamisakai
 '020':
   code: '020'
   name: "二川"
@@ -151,16 +139,10 @@
   roma: kouhei
 '026':
   code: '026'
-  name: "大網山辺"
-  kana: "オオアミヤマベ"
-  hira: "おおあみやまべ"
-  roma: ooamiyamabe
-'027':
-  code: '027'
-  name: "瑞穂"
-  kana: "ミズホ"
-  hira: "みずほ"
-  roma: mizuho
+  name: "大網"
+  kana: "オオアミ"
+  hira: "おおあみ"
+  roma: ooami
 028:
   code: 028
   name: "増穂"

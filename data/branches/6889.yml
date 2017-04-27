@@ -61,16 +61,10 @@
   roma: shigaraki
 '071':
   code: '071'
-  name: "甲西"
-  kana: "コウセイ"
-  hira: "こうせい"
-  roma: kousei
-'074':
-  code: '074'
-  name: "岩根"
-  kana: "イワネ"
-  hira: "いわね"
-  roma: iwane
+  name: "湖南"
+  kana: "コナン"
+  hira: "こなん"
+  roma: konan
 081:
   code: 081
   name: "石部"

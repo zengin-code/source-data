@@ -89,12 +89,6 @@
   kana: "ヒノ"
   hira: "ひの"
   roma: hino
-'021':
-  code: '021'
-  name: "岩"
-  kana: "イワ"
-  hira: "いわ"
-  roma: iwa
 '022':
   code: '022'
   name: "芥見"
@@ -107,12 +101,6 @@
   kana: "ミワ"
   hira: "みわ"
   roma: miwa
-'027':
-  code: '027'
-  name: "藍川"
-  kana: "アイカワ"
-  hira: "あいかわ"
-  roma: aikawa
 '030':
   code: '030'
   name: "本店"
@@ -235,16 +223,10 @@
   roma: midorizaka
 058:
   code: 058
-  name: "足近"
-  kana: "アジカ"
-  hira: "あじか"
-  roma: ajika
-059:
-  code: 059
-  name: "小熊"
-  kana: "オグマ"
-  hira: "おぐま"
-  roma: oguma
+  name: "羽島北"
+  kana: "ハシマキタ"
+  hira: "はしまきた"
+  roma: hashimakita
 '060':
   code: '060'
   name: "羽島中央"

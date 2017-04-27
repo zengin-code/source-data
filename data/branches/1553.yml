@@ -215,12 +215,6 @@
   kana: "シツポウ"
   hira: "しつぽう"
   roma: shitsupou
-'115':
-  code: '115'
-  name: "美和"
-  kana: "ミワ"
-  hira: "みわ"
-  roma: miwa
 '116':
   code: '116'
   name: "富田町"
@@ -287,12 +281,6 @@
   kana: "カシワモリ"
   hira: "かしわもり"
   roma: kashiwamori
-'151':
-  code: '151'
-  name: "師勝西"
-  kana: "シカツニシ"
-  hira: "しかつにし"
-  roma: shikatsunishi
 '153':
   code: '153'
   name: "羽黒"

@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "002":{
-    "code":"002",
-    "name":"柏崎",
-    "kana":"カシワザキ",
-    "hira":"かしわざき",
-    "roma":"kashiwazaki"
-  },
   "004":{
     "code":"004",
     "name":"新和",
@@ -41,19 +34,12 @@
     "hira":"かわい",
     "roma":"kawai"
   },
-  "008":{
-    "code":"008",
-    "name":"東岩槻",
-    "kana":"ヒガシイワツキ",
-    "hira":"ひがしいわつき",
-    "roma":"higashiiwatsuki"
-  },
   "009":{
     "code":"009",
-    "name":"岩槻和土",
-    "kana":"イワツキワド",
-    "hira":"いわつきわど",
-    "roma":"iwatsukiwado"
+    "name":"岩槻城南",
+    "kana":"イワツキジヨウナン",
+    "hira":"いわつきじようなん",
+    "roma":"iwatsukijiyounan"
   },
   "011":{
     "code":"011",
@@ -61,20 +47,6 @@
     "kana":"カスカベ",
     "hira":"かすかべ",
     "roma":"kasukabe"
-  },
-  "012":{
-    "code":"012",
-    "name":"豊春",
-    "kana":"トヨハル",
-    "hira":"とよはる",
-    "roma":"toyoharu"
-  },
-  "013":{
-    "code":"013",
-    "name":"武里",
-    "kana":"タケサト",
-    "hira":"たけさと",
-    "roma":"takesato"
   },
   "014":{
     "code":"014",

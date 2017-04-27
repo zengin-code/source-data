@@ -62,26 +62,12 @@
     "hira":"きしの",
     "roma":"kishino"
   },
-  "021":{
-    "code":"021",
-    "name":"臼田",
-    "kana":"ウスダ",
-    "hira":"うすだ",
-    "roma":"usuda"
-  },
   "022":{
     "code":"022",
-    "name":"田口",
-    "kana":"タグチ",
-    "hira":"たぐち",
-    "roma":"taguchi"
-  },
-  "024":{
-    "code":"024",
-    "name":"切原",
-    "kana":"キリハラ",
-    "hira":"きりはら",
-    "roma":"kirihara"
+    "name":"佐久うすだ",
+    "kana":"サクウスダ",
+    "hira":"さくうすだ",
+    "roma":"sakuusuda"
   },
   "025":{
     "code":"025",
@@ -90,19 +76,12 @@
     "hira":"さくそうごうびよういん",
     "roma":"sakusougoubiyouin"
   },
-  "026":{
-    "code":"026",
-    "name":"八千穂",
-    "kana":"ヤチホ",
-    "hira":"やちほ",
-    "roma":"yachiho"
-  },
   "027":{
     "code":"027",
-    "name":"佐久町中央",
-    "kana":"サクマチチユウオウ",
-    "hira":"さくまちちゆうおう",
-    "roma":"sakumachichiyuuou"
+    "name":"佐久穂",
+    "kana":"サクホ",
+    "hira":"さくほ",
+    "roma":"sakuho"
   },
   "040":{
     "code":"040",
@@ -110,34 +89,6 @@
     "kana":"コモロ",
     "hira":"こもろ",
     "roma":"komoro"
-  },
-  "041":{
-    "code":"041",
-    "name":"南大井",
-    "kana":"ミナミオオイ",
-    "hira":"みなみおおい",
-    "roma":"minamiooi"
-  },
-  "045":{
-    "code":"045",
-    "name":"大里",
-    "kana":"オオサト",
-    "hira":"おおさと",
-    "roma":"oosato"
-  },
-  "046":{
-    "code":"046",
-    "name":"三岡",
-    "kana":"ミツオカ",
-    "hira":"みつおか",
-    "roma":"mitsuoka"
-  },
-  "047":{
-    "code":"047",
-    "name":"北大井",
-    "kana":"キタオオイ",
-    "hira":"きたおおい",
-    "roma":"kitaooi"
   },
   "048":{
     "code":"048",
@@ -201,13 +152,6 @@
     "kana":"タテシナ",
     "hira":"たてしな",
     "roma":"tateshina"
-  },
-  "069":{
-    "code":"069",
-    "name":"西部",
-    "kana":"セイブ",
-    "hira":"せいぶ",
-    "roma":"seibu"
   },
   "071":{
     "code":"071",

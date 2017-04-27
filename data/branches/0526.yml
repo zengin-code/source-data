@@ -283,10 +283,10 @@
   roma: nagoya
 '551':
   code: '551'
-  name: "大阪"
-  kana: "オオサカ"
-  hira: "おおさか"
-  roma: oosaka
+  name: "難波"
+  kana: "ナンバ"
+  hira: "なんば"
+  roma: namba
 '555':
   code: '555'
   name: "梅田"

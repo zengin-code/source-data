@@ -176,17 +176,10 @@
   },
   "430":{
     "code":"430",
-    "name":"東部",
-    "kana":"トウブ",
-    "hira":"とうぶ",
-    "roma":"toubu"
-  },
-  "448":{
-    "code":"448",
-    "name":"福山",
-    "kana":"フクヤマ",
-    "hira":"ふくやま",
-    "roma":"fukuyama"
+    "name":"阿久比東",
+    "kana":"アグイヒガシ",
+    "hira":"あぐいひがし",
+    "roma":"aguihigashi"
   },
   "456":{
     "code":"456",
@@ -316,10 +309,10 @@
   },
   "812":{
     "code":"812",
-    "name":"横須賀",
-    "kana":"ヨコスカ",
-    "hira":"よこすか",
-    "roma":"yokosuka"
+    "name":"東海",
+    "kana":"トウカイ",
+    "hira":"とうかい",
+    "roma":"toukai"
   },
   "821":{
     "code":"821",
