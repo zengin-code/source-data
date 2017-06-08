@@ -371,6 +371,12 @@
   kana: "オオサカ"
   hira: "おおさか"
   roma: oosaka
+'100':
+  code: '100'
+  name: "インターネット"
+  kana: "インタ－ネツト"
+  hira: "いんた－ねつと"
+  roma: inta-netsuto
 '101':
   code: '101'
   name: "富山南センター"

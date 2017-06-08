@@ -911,6 +911,12 @@
   kana: "ヨナゴ"
   hira: "よなご"
   roma: yonago
+'555':
+  code: '555'
+  name: "振込"
+  kana: "フリコミ"
+  hira: "ふりこみ"
+  roma: furikomi
 '601':
   code: '601'
   name: "神戸"
