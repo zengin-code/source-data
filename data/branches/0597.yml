@@ -107,12 +107,6 @@
   kana: "タキノガワ"
   hira: "たきのがわ"
   roma: takinogawa
-'020':
-  code: '020'
-  name: "石神井"
-  kana: "シヤクジイ"
-  hira: "しやくじい"
-  roma: shiyakujii
 '021':
   code: '021'
   name: "赤塚"
@@ -131,12 +125,6 @@
   kana: "ナカイタバシ"
   hira: "なかいたばし"
   roma: nakaitabashi
-'024':
-  code: '024'
-  name: "相模台"
-  kana: "サガミダイ"
-  hira: "さがみだい"
-  roma: sagamidai
 '025':
   code: '025'
   name: "希望が丘"
@@ -245,12 +233,6 @@
   kana: "ニホンマツ"
   hira: "にほんまつ"
   roma: nihommatsu
-'043':
-  code: '043'
-  name: "大泉"
-  kana: "オオイズミ"
-  hira: "おおいずみ"
-  roma: ooizumi
 '044':
   code: '044'
   name: "海老名"
@@ -269,12 +251,6 @@
   kana: "ナカガワラ"
   hira: "なかがわら"
   roma: nakagawara
-'047':
-  code: '047'
-  name: "上石神井"
-  kana: "カミシヤクジイ"
-  hira: "かみしやくじい"
-  roma: kamishiyakujii
 048:
   code: 048
   name: "上溝"
@@ -413,12 +389,6 @@
   kana: "シイナマチ"
   hira: "しいなまち"
   roma: shiinamachi
-'074':
-  code: '074'
-  name: "原宿"
-  kana: "ハラジユク"
-  hira: "はらじゆく"
-  roma: harajiyuku
 '075':
   code: '075'
   name: "昭島"
@@ -509,3 +479,33 @@
   kana: "アサヒチヨウ"
   hira: "あさひちよう"
   roma: asahichiyou
+'820':
+  code: '820'
+  name: "石神井"
+  kana: "シヤクジイ"
+  hira: "しやくじい"
+  roma: shiyakujii
+'824':
+  code: '824'
+  name: "相模台"
+  kana: "サガミダイ"
+  hira: "さがみだい"
+  roma: sagamidai
+'843':
+  code: '843'
+  name: "大泉"
+  kana: "オオイズミ"
+  hira: "おおいずみ"
+  roma: ooizumi
+'847':
+  code: '847'
+  name: "上石神井"
+  kana: "カミシヤクジイ"
+  hira: "かみしやくじい"
+  roma: kamishiyakujii
+'874':
+  code: '874'
+  name: "原宿"
+  kana: "ハラジユク"
+  hira: "はらじゆく"
+  roma: harajiyuku

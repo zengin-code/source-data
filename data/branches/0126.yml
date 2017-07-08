@@ -683,6 +683,12 @@
   kana: "ヨネザワ"
   hira: "よねざわ"
   roma: yonezawa
+'712':
+  code: '712'
+  name: "仙台泉"
+  kana: "センダイイズミ"
+  hira: "せんだいいずみ"
+  roma: sendaiizumi
 '730':
   code: '730'
   name: "インターネット"

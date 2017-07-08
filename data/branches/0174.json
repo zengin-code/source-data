@@ -155,10 +155,10 @@
   },
   "123":{
     "code":"123",
-    "name":"問屋町",
-    "kana":"トイヤマチ",
-    "hira":"といやまち",
-    "roma":"toiyamachi"
+    "name":"松山北",
+    "kana":"マツヤマキタ",
+    "hira":"まつやまきた",
+    "roma":"matsuyamakita"
   },
   "124":{
     "code":"124",
@@ -208,13 +208,6 @@
     "kana":"ヒガシノ",
     "hira":"ひがしの",
     "roma":"higashino"
-  },
-  "133":{
-    "code":"133",
-    "name":"潮見",
-    "kana":"シオミ",
-    "hira":"しおみ",
-    "roma":"shiomi"
   },
   "134":{
     "code":"134",
