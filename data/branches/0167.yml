@@ -47,18 +47,6 @@
   kana: "イヤ"
   hira: "いや"
   roma: iya
-'011':
-  code: '011'
-  name: "片江代理店"
-  kana: "カタエ"
-  hira: "かたえ"
-  roma: katae
-'012':
-  code: '012'
-  name: "鹿島"
-  kana: "カシマ"
-  hira: "かしま"
-  roma: kashima
 '013':
   code: '013'
   name: "玉造"
@@ -161,24 +149,12 @@
   kana: "コウナン"
   hira: "こうなん"
   roma: kounan
-'032':
-  code: '032'
-  name: "久手出張所"
-  kana: "クテ"
-  hira: "くて"
-  roma: kute
 '033':
   code: '033'
   name: "大田"
   kana: "オオダ"
   hira: "おおだ"
   roma: ooda
-'034':
-  code: '034'
-  name: "仁万"
-  kana: "ニマ"
-  hira: "にま"
-  roma: nima
 '035':
   code: '035'
   name: "温泉津"
@@ -317,12 +293,6 @@
   kana: "カワハラ"
   hira: "かわはら"
   roma: kawahara
-'061':
-  code: '061'
-  name: "用瀬"
-  kana: "モチガセ"
-  hira: "もちがせ"
-  roma: mochigase
 '062':
   code: '062'
   name: "智頭"
@@ -827,12 +797,6 @@
   kana: "オオモリ"
   hira: "おおもり"
   roma: oomori
-'263':
-  code: '263'
-  name: "吉田代理店"
-  kana: "ヨシダ"
-  hira: "よしだ"
-  roma: yoshida
 '268':
   code: '268'
   name: "田儀代理店"

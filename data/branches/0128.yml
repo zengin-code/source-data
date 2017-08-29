@@ -665,6 +665,12 @@
   kana: "カサイ"
   hira: "かさい"
   roma: kasai
+'268':
+  code: '268'
+  name: "足立"
+  kana: "アダチ"
+  hira: "あだち"
+  roma: adachi
 '270':
   code: '270'
   name: "インターネット"

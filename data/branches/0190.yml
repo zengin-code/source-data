@@ -17,12 +17,6 @@
   kana: "ハカタミナミ"
   hira: "はかたみなみ"
   roma: hakataminami
-'006':
-  code: '006'
-  name: "下大利"
-  kana: "シモオオリ"
-  hira: "しもおおり"
-  roma: shimooori
 '010':
   code: '010'
   name: "本店営業部"
@@ -829,10 +823,10 @@
   roma: wakamiya
 '476':
   code: '476'
-  name: "春日南"
-  kana: "カスガミナミ"
-  hira: "かすがみなみ"
-  roma: kasugaminami
+  name: "春日"
+  kana: "カスガ"
+  hira: "かすが"
+  roma: kasuga
 '479':
   code: '479'
   name: "宇美"

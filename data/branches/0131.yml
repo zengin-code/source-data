@@ -863,6 +863,12 @@
   kana: "シマナ"
   hira: "しまな"
   roma: shimana
+'298':
+  code: '298'
+  name: "つくばのガマぐち"
+  kana: "ツクバノガマグチ"
+  hira: "つくばのがまぐち"
+  roma: tsukubanogamaguchi
 '301':
   code: '301'
   name: "宇都宮"

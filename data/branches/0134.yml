@@ -659,6 +659,12 @@
   kana: "シナガワ"
   hira: "しながわ"
   roma: shinagawa
+'140':
+  code: '140'
+  name: "恵比寿"
+  kana: "エビス"
+  hira: "えびす"
+  roma: ebisu
 '201':
   code: '201'
   name: "八幡"

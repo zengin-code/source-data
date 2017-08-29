@@ -614,5 +614,19 @@
     "kana":"イバラキ",
     "hira":"いばらき",
     "roma":"ibaraki"
+  },
+  "107":{
+    "code":"107",
+    "name":"吹田",
+    "kana":"スイタ",
+    "hira":"すいた",
+    "roma":"suita"
+  },
+  "108":{
+    "code":"108",
+    "name":"東大阪",
+    "kana":"ヒガシオオサカ",
+    "hira":"ひがしおおさか",
+    "roma":"higashioosaka"
   }
 }
