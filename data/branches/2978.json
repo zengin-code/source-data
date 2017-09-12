@@ -202,13 +202,6 @@
     "hira":"ふくしま",
     "roma":"fukushima"
   },
-  "590":{
-    "code":"590",
-    "name":"難波",
-    "kana":"ナンバ",
-    "hira":"なんば",
-    "roma":"namba"
-  },
   "591":{
     "code":"591",
     "name":"東大阪",
@@ -379,10 +372,10 @@
   },
   "651":{
     "code":"651",
-    "name":"高砂",
-    "kana":"タカサゴ",
-    "hira":"たかさご",
-    "roma":"takasago"
+    "name":"東播加古川",
+    "kana":"トウバンカコガワ",
+    "hira":"とうばんかこがわ",
+    "roma":"toubankakogawa"
   },
   "652":{
     "code":"652",

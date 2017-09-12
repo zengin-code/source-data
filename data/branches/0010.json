@@ -2057,6 +2057,13 @@
     "hira":"うえのろ－んぷらざ",
     "roma":"uenoro-mpuraza"
   },
+  "861":{
+    "code":"861",
+    "name":"西宮北口ローンプラザ出張所",
+    "kana":"ニシノミヤキタグチロ－ンプ",
+    "hira":"にしのみやきたぐちろ－んぷ",
+    "roma":"nishinomiyakitaguchiro-mpu"
+  },
   "865":{
     "code":"865",
     "name":"池袋ローンプラザ出張所",
@@ -2168,6 +2175,13 @@
     "kana":"トヨス",
     "hira":"とよす",
     "roma":"toyosu"
+  },
+  "899":{
+    "code":"899",
+    "name":"インターネット住宅出張所",
+    "kana":"インタ－ネツトジユウタク",
+    "hira":"いんた－ねつとじゆうたく",
+    "roma":"inta-netsutojiyuutaku"
   },
   "911":{
     "code":"911",

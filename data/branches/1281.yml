@@ -185,6 +185,12 @@
   kana: "ナミキ"
   hira: "なみき"
   roma: namiki
+039:
+  code: 039
+  name: "長井"
+  kana: "ナガイ"
+  hira: "ながい"
+  roma: nagai
 '043':
   code: '043'
   name: "藤沢営業部"

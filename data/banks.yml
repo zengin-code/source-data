@@ -596,51 +596,51 @@
 '0413':
   code: '0413'
   name: "スタンダードチャータード"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "スタンダ－ド　チヤ－タ－ト"
+  hira: "すたんだ－ど　ちや－た－と"
+  roma: sutanda-do　chiya-ta-to
 '0414':
   code: '0414'
   name: "バークレイズ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "バ－クレイズ"
+  hira: "ば－くれいず"
+  roma: ba-kureizu
 '0421':
   code: '0421'
   name: "クレディ・アグリコル"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "クレデイ．アグリコル"
+  hira: "くれでい．あぐりこる"
+  roma: kuredei.agurikoru
 '0423':
   code: '0423'
   name: "ハナ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ハナ"
+  hira: "はな"
+  roma: hana
 '0424':
   code: '0424'
   name: "印度"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "インド"
+  hira: "いんど"
+  roma: indo
 '0425':
   code: '0425'
   name: "兆豊國際商業"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "チヨウホウコクサイシヨウギヨ"
+  hira: "ちようほうこくさいしようぎよ"
+  roma: chiyouhoukokusaishiyougiyo
 '0426':
   code: '0426'
   name: "バンコック"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "バンコツク"
+  hira: "ばんこつく"
+  roma: bankotsuku
 0429:
   code: 0429
   name: "バンクネガラインドネシア"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "バンクネガラインドネシア"
+  hira: "ばんくねがらいんどねしあ"
+  roma: bankunegaraindoneshia
 '0430':
   code: '0430'
   name: "ドイツ"
@@ -650,15 +650,15 @@
 '0432':
   code: '0432'
   name: "ブラジル"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ブラジル"
+  hira: "ぶらじる"
+  roma: burajiru
 0438:
   code: 0438
   name: "ユナイテッド・オーバーシーズ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ユナイテツド．オ－バ－シ－"
+  hira: "ゆないてつど．お－ば－し－"
+  roma: yunaitetsudo.o-ba-shi-
 0439:
   code: 0439
   name: "ユービーエス・エイ・ジー"
@@ -668,9 +668,9 @@
 '0442':
   code: '0442'
   name: "ニューヨークメロン"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ニユ－ヨ－クメロン"
+  hira: "にゆ－よ－くめろん"
+  roma: niyu-yo-kumeron
 '0443':
   code: '0443'
   name: "ビー・エヌ・ピー・パリバ"
@@ -680,33 +680,33 @@
 '0444':
   code: '0444'
   name: "オーバーシー・チャイニーズ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "オ－バ－シ－．チヤイニ－ズ"
+  hira: "お－ば－し－．ちやいに－ず"
+  roma: o-ba-shi-.chiyaini-zu
 '0445':
   code: '0445'
   name: "ソシエテ　ジェネラル"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ソシエテ　ジエネラル"
+  hira: "そしえて　じえねらる"
+  roma: soshiete　jieneraru
 '0456':
   code: '0456'
   name: "ユバフーアラブ・フランス連合"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ユバフ－．アラブ．フランス"
+  hira: "ゆばふ－．あらぶ．ふらんす"
+  roma: yubafu-.arabu.furansu
 0458:
   code: 0458
   name: "ＤＢＳ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "デイ－ビ－エス"
+  hira: "でい－び－えす"
+  roma: dei-bi-esu
 '0460':
   code: '0460'
   name: "クレディ・スイス"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "クレデイ．スイス"
+  hira: "くれでい．すいす"
+  roma: kuredei.suisu
 '0461':
   code: '0461'
   name: "コメルツ"
@@ -716,15 +716,15 @@
 '0463':
   code: '0463'
   name: "ウニクレディト"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ウニクレデイト"
+  hira: "うにくれでいと"
+  roma: unikuredeito
 0468:
   code: 0468
   name: "インドステイト"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "インドステイト"
+  hira: "いんどすていと"
+  roma: indosuteito
 '0471':
   code: '0471'
   name: "カナダロイヤル"
@@ -740,51 +740,51 @@
 '0477':
   code: '0477'
   name: "ウリィ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ウリイ"
+  hira: "うりい"
+  roma: urii
 0482:
   code: 0482
   name: "アイエヌジー　バンク　エヌ・ヴィ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "アイエヌジ－　バンク　エヌ"
+  hira: "あいえぬじ－　ばんく　えぬ"
+  roma: aienuji-　banku　enu
 0484:
   code: 0484
   name: "ナショナル・オーストラリア・バンク・リミッテド"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ナシヨナル．オ－ストラリア．ハ"
+  hira: "なしよなる．お－すとらりあ．は"
+  roma: nashiyonaru.o-sutoraria.ha
 0485:
   code: 0485
   name: "オーストラリア・ニュージーランド"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "オ－ストラリア．ニユ－ジ－ラ"
+  hira: "お－すとらりあ．にゆ－じ－ら"
+  roma: o-sutoraria.niyu-ji-ra
 0487:
   code: 0487
   name: "オーストラリア・コモンウェルズ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "オ－ストラリア．コモンウエルス"
+  hira: "お－すとらりあ．こもんうえるす"
+  roma: o-sutoraria.komonuerusu
 0489:
   code: 0489
   name: "中國"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "チユウゴク"
+  hira: "ちゆうごく"
+  roma: chiyuugoku
 0495:
   code: 0495
   name: "ステート・ストリート"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ステ－ト．ストリ－ト"
+  hira: "すて－と．すとり－と"
+  roma: sute-to.sutori-to
 0498:
   code: 0498
   name: "中小企業"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "チユウシヨウキギヨウ"
+  hira: "ちゆうしようきぎよう"
+  roma: chiyuushiyoukigiyou
 '0501':
   code: '0501'
   name: "北洋"
@@ -1034,105 +1034,105 @@
 '0603':
   code: '0603'
   name: "韓国産業"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "カンコクサンギヨウ"
+  hira: "かんこくさんぎよう"
+  roma: kankokusangiyou
 '0607':
   code: '0607'
   name: "彰化商業"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "シヨウカシヨウギヨウ"
+  hira: "しようかしようぎよう"
+  roma: shiyoukashiyougiyou
 0608:
   code: 0608
   name: "ウェルズ・ファーゴ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ウエルズ．フア－ゴ"
+  hira: "うえるず．ふあ－ご"
+  roma: ueruzu.fua-go
 '0611':
   code: '0611'
   name: "第一商業"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ダイイチシヨウギヨウ"
+  hira: "だいいちしようぎよう"
+  roma: daiichishiyougiyou
 '0612':
   code: '0612'
   name: "台湾"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "タイワン"
+  hira: "たいわん"
+  roma: taiwan
 '0615':
   code: '0615'
   name: "交通"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "コウツウ"
+  hira: "こうつう"
+  roma: koutsuu
 '0616':
   code: '0616'
   name: "メトロポリタン"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "メトロポリタン"
+  hira: "めとろぽりたん"
+  roma: metoroporitan
 '0617':
   code: '0617'
   name: "フィリピン・ナショナル・バンク"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "フイリピン．ナシヨナル"
+  hira: "ふいりぴん．なしよなる"
+  roma: fuiripin.nashiyonaru
 0619:
   code: 0619
   name: "中国工商"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "チユウゴクコウショウ"
+  hira: "ちゆうごくこうしょう"
+  roma: chiyuugokukoushou
 '0621':
   code: '0621'
   name: "中國信託商業"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "チユウゴクシンタクシヨウギ"
+  hira: "ちゆうごくしんたくしようぎ"
+  roma: chiyuugokushintakushiyougi
 '0623':
   code: '0623'
   name: "インテーザ・サンパオロ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "インテ－ザ．サンパウロ"
+  hira: "いんて－ざ．さんぱうろ"
+  roma: inte-za.sampauro
 '0624':
   code: '0624'
   name: "國民"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "コクミン"
+  hira: "こくみん"
+  roma: kokumin
 '0625':
   code: '0625'
   name: "中国建設"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "チユウゴクケンセツ"
+  hira: "ちゆうごくけんせつ"
+  roma: chiyuugokukensetsu
 '0626':
   code: '0626'
   name: "イタウ・ウニバンコ"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "イタウ．ウニバンコ"
+  hira: "いたう．うにばんこ"
+  roma: itau.unibanko
 '0627':
   code: '0627'
   name: "ビルバオ・ビスカヤ・アルヘンタリア"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "ビルバオ．ビスカヤ．アル"
+  hira: "びるばお．びすかや．ある"
+  roma: birubao.bisukaya.aru
 '0630':
   code: '0630'
   name: "中国農業"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "チユウゴクノウギヨウ"
+  hira: "ちゆうごくのうぎよう"
+  roma: chiyuugokunougiyou
 '0631':
   code: '0631'
   name: "台新國際商業"
-  kana: ''
-  hira: ''
-  roma: ''
+  kana: "タイシンコクサイシヨウギヨウ"
+  hira: "たいしんこくさいしようぎよう"
+  roma: taishinkokusaishiyougiyou
 '1000':
   code: '1000'
   name: "信金中央金庫"

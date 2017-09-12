@@ -251,6 +251,12 @@
   kana: "ヒガシヤマト"
   hira: "ひがしやまと"
   roma: higashiyamato
+'044':
+  code: '044'
+  name: "さいたま中央"
+  kana: "サイタマチユウオウ"
+  hira: "さいたまちゆうおう"
+  roma: saitamachiyuuou
 '070':
   code: '070'
   name: "本店"

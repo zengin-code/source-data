@@ -1,7 +1,7 @@
 {
   "001":{
     "code":"001",
-    "name":"本店営業部",
+    "name":"本店",
     "kana":"ホンテン",
     "hira":"ほんてん",
     "roma":"honten"
@@ -610,10 +610,10 @@
   },
   "165":{
     "code":"165",
-    "name":"本店投資相談室",
-    "kana":"ホンテントウシソウダンシツ",
-    "hira":"ほんてんとうしそうだんしつ",
-    "roma":"hontentoushisoudanshitsu"
+    "name":"本店営業１６５",
+    "kana":"ホンテンエイギヨウイチロクコ",
+    "hira":"ほんてんえいぎよういちろくこ",
+    "roma":"honteneigiyouichirokuko"
   },
   "172":{
     "code":"172",
@@ -1128,10 +1128,10 @@
   },
   "613":{
     "code":"613",
-    "name":"大阪支店投資相談室",
-    "kana":"オオサカトウシソウダンシツ",
-    "hira":"おおさかとうしそうだんしつ",
-    "roma":"oosakatoushisoudanshitsu"
+    "name":"大阪営業６１３",
+    "kana":"オオサカエイギヨウロクイチサ",
+    "hira":"おおさかえいぎようろくいちさ",
+    "roma":"oosakaeigiyourokuichisa"
   },
   "659":{
     "code":"659",
