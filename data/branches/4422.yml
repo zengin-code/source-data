@@ -41,36 +41,12 @@
   kana: "コガ"
   hira: "こが"
   roma: koga
-008:
-  code: 008
-  name: "古河東"
-  kana: "コガヒガシ"
-  hira: "こがひがし"
-  roma: kogahigashi
-'010':
-  code: '010'
-  name: "上辺見"
-  kana: "カミヘミ"
-  hira: "かみへみ"
-  roma: kamihemi
-'011':
-  code: '011'
-  name: "小堤"
-  kana: "コヅツミ"
-  hira: "こづつみ"
-  roma: kodutsumi
-'012':
-  code: '012'
-  name: "下大野"
-  kana: "シモオオノ"
-  hira: "しもおおの"
-  roma: shimooono
 '013':
   code: '013'
-  name: "釈迦"
-  kana: "シヤカ"
-  hira: "しやか"
-  roma: shiyaka
+  name: "総和"
+  kana: "ソウワ"
+  hira: "そうわ"
+  roma: souwa
 '015':
   code: '015'
   name: "三和"

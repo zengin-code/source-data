@@ -23,12 +23,6 @@
   kana: "フジシロ"
   hira: "ふじしろ"
   roma: fujishiro
-009:
-  code: 009
-  name: "久賀"
-  kana: "クガ"
-  hira: "くが"
-  roma: kuga
 '013':
   code: '013'
   name: "寺原"
@@ -53,9 +47,3 @@
   kana: "ヤワラ"
   hira: "やわら"
   roma: yawara
-'022':
-  code: '022'
-  name: "十和"
-  kana: "ジユウワ"
-  hira: "じゆうわ"
-  roma: jiyuuwa

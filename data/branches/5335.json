@@ -1,66 +1,17 @@
 {
-  "001":{
-    "code":"001",
-    "name":"平根",
-    "kana":"ヒラネ",
-    "hira":"ひらね",
-    "roma":"hirane"
-  },
-  "002":{
-    "code":"002",
-    "name":"東",
-    "kana":"ヒガシ",
-    "hira":"ひがし",
-    "roma":"higashi"
-  },
-  "003":{
-    "code":"003",
-    "name":"高瀬",
-    "kana":"タカセ",
-    "hira":"たかせ",
-    "roma":"takase"
-  },
-  "005":{
-    "code":"005",
-    "name":"中佐都",
-    "kana":"ナカサト",
-    "hira":"なかさと",
-    "roma":"nakasato"
-  },
   "006":{
     "code":"006",
-    "name":"岩村田",
-    "kana":"イワムラダ",
-    "hira":"いわむらだ",
-    "roma":"iwamurada"
-  },
-  "008":{
-    "code":"008",
-    "name":"平賀",
-    "kana":"ヒラカ",
-    "hira":"ひらか",
-    "roma":"hiraka"
-  },
-  "009":{
-    "code":"009",
-    "name":"中込",
-    "kana":"ナカゴミ",
-    "hira":"なかごみ",
-    "roma":"nakagomi"
+    "name":"佐久岩村田",
+    "kana":"サクイワムラダ",
+    "hira":"さくいわむらだ",
+    "roma":"sakuiwamurada"
   },
   "012":{
     "code":"012",
-    "name":"野沢",
-    "kana":"ノザワ",
-    "hira":"のざわ",
-    "roma":"nozawa"
-  },
-  "016":{
-    "code":"016",
-    "name":"岸野",
-    "kana":"キシノ",
-    "hira":"きしの",
-    "roma":"kishino"
+    "name":"佐久野沢",
+    "kana":"サクノザワ",
+    "hira":"さくのざわ",
+    "roma":"sakunozawa"
   },
   "022":{
     "code":"022",
@@ -90,26 +41,12 @@
     "hira":"こもろ",
     "roma":"komoro"
   },
-  "048":{
-    "code":"048",
-    "name":"小沼",
-    "kana":"オヌマ",
-    "hira":"おぬま",
-    "roma":"onuma"
-  },
   "049":{
     "code":"049",
     "name":"御代田",
     "kana":"ミヨタ",
     "hira":"みよた",
     "roma":"miyota"
-  },
-  "050":{
-    "code":"050",
-    "name":"伍賀",
-    "kana":"ゴカ",
-    "hira":"ごか",
-    "roma":"goka"
   },
   "051":{
     "code":"051",
@@ -120,31 +57,10 @@
   },
   "060":{
     "code":"060",
-    "name":"望月",
-    "kana":"モチヅキ",
-    "hira":"もちづき",
-    "roma":"mochiduki"
-  },
-  "061":{
-    "code":"061",
-    "name":"布施",
-    "kana":"フセ",
-    "hira":"ふせ",
-    "roma":"fuse"
-  },
-  "062":{
-    "code":"062",
-    "name":"春日",
-    "kana":"カスガ",
-    "hira":"かすが",
-    "roma":"kasuga"
-  },
-  "063":{
-    "code":"063",
-    "name":"浅科",
-    "kana":"アサシナ",
-    "hira":"あさしな",
-    "roma":"asashina"
+    "name":"佐久望月",
+    "kana":"サクモチヅキ",
+    "hira":"さくもちづき",
+    "roma":"sakumochiduki"
   },
   "068":{
     "code":"068",

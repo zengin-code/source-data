@@ -20,33 +20,12 @@
     "hira":"せいぶ",
     "roma":"seibu"
   },
-  "010":{
-    "code":"010",
-    "name":"東部",
-    "kana":"トウブ",
-    "hira":"とうぶ",
-    "roma":"toubu"
-  },
   "011":{
     "code":"011",
     "name":"牛久",
     "kana":"ウシク",
     "hira":"うしく",
     "roma":"ushiku"
-  },
-  "012":{
-    "code":"012",
-    "name":"牛久東部",
-    "kana":"ウシクトウブ",
-    "hira":"うしくとうぶ",
-    "roma":"ushikutoubu"
-  },
-  "013":{
-    "code":"013",
-    "name":"利根",
-    "kana":"トネ",
-    "hira":"とね",
-    "roma":"tone"
   },
   "014":{
     "code":"014",

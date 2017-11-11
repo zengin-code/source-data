@@ -23,12 +23,6 @@
   kana: "セイブ"
   hira: "せいぶ"
   roma: seibu
-009:
-  code: 009
-  name: "南金井"
-  kana: "ミナミカナイ"
-  hira: "みなみかない"
-  roma: minamikanai
 '010':
   code: '010'
   name: "鈴川"
@@ -73,10 +67,10 @@
   roma: sakura
 '027':
   code: '027'
-  name: "本沢"
-  kana: "モトサワ"
-  hira: "もとさわ"
-  roma: motosawa
+  name: "山形南"
+  kana: "ヤマガタミナミ"
+  hira: "やまがたみなみ"
+  roma: yamagataminami
 '032':
   code: '032'
   name: "蔵王"

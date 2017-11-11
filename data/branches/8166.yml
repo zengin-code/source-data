@@ -59,24 +59,12 @@
   kana: "タカチホ"
   hira: "たかちほ"
   roma: takachiho
-'055':
-  code: '055'
-  name: "吉部"
-  kana: "キベ"
-  hira: "きべ"
-  roma: kibe
-'060':
-  code: '060'
-  name: "万倉"
-  kana: "マグラ"
-  hira: "まぐら"
-  roma: magura
 '065':
   code: '065'
-  name: "船木"
-  kana: "フナキ"
-  hira: "ふなき"
-  roma: funaki
+  name: "楠"
+  kana: "クスノキ"
+  hira: "くすのき"
+  roma: kusunoki
 '070':
   code: '070'
   name: "阿知須"

@@ -222,19 +222,5 @@
     "kana":"ヨジヨウ",
     "hira":"よじよう",
     "roma":"yojiyou"
-  },
-  "033":{
-    "code":"033",
-    "name":"北",
-    "kana":"キタ",
-    "hira":"きた",
-    "roma":"kita"
-  },
-  "034":{
-    "code":"034",
-    "name":"高栄",
-    "kana":"コウエイ",
-    "hira":"こうえい",
-    "roma":"kouei"
   }
 }

@@ -139,26 +139,12 @@
     "hira":"おおた",
     "roma":"oota"
   },
-  "025":{
-    "code":"025",
-    "name":"金砂",
-    "kana":"カナサ",
-    "hira":"かなさ",
-    "roma":"kanasa"
-  },
   "026":{
     "code":"026",
-    "name":"山田",
-    "kana":"ヤマダ",
-    "hira":"やまだ",
-    "roma":"yamada"
-  },
-  "027":{
-    "code":"027",
-    "name":"竜神の里",
-    "kana":"リユウジンノサト",
-    "hira":"りゆうじんのさと",
-    "roma":"riyuujinnosato"
+    "name":"水府",
+    "kana":"スイフ",
+    "hira":"すいふ",
+    "roma":"suifu"
   },
   "028":{
     "code":"028",
@@ -194,13 +180,6 @@
     "kana":"カナサゴウ",
     "hira":"かなさごう",
     "roma":"kanasagou"
-  },
-  "033":{
-    "code":"033",
-    "name":"平潟",
-    "kana":"ヒラカタ",
-    "hira":"ひらかた",
-    "roma":"hirakata"
   },
   "034":{
     "code":"034",

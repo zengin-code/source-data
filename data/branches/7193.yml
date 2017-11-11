@@ -149,6 +149,12 @@
   kana: "モリグチヤクモ"
   hira: "もりぐちやくも"
   roma: moriguchiyakumo
+'037':
+  code: '037'
+  name: "樟葉"
+  kana: "クズハ"
+  hira: "くずは"
+  roma: kuzuha
 '100':
   code: '100'
   name: "本店"
