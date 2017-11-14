@@ -572,5 +572,12 @@
     "kana":"ハシモト",
     "hira":"はしもと",
     "roma":"hashimoto"
+  },
+  "085":{
+    "code":"085",
+    "name":"町田",
+    "kana":"マチダ",
+    "hira":"まちだ",
+    "roma":"machida"
   }
 }

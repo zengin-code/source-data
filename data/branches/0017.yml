@@ -245,6 +245,12 @@
   kana: "サカド"
   hira: "さかど"
   roma: sakado
+'400':
+  code: '400'
+  name: "浦和美園出張所"
+  kana: "ウラワミソノ"
+  hira: "うらわみその"
+  roma: urawamisono
 '404':
   code: '404'
   name: "東松山"

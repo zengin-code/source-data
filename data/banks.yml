@@ -509,12 +509,6 @@
   kana: "オリツクス"
   hira: "おりつくす"
   roma: oritsukusu
-0309:
-  code: 0309
-  name: "しんきん信託"
-  kana: "シンキンシンタク"
-  hira: "しんきんしんたく"
-  roma: shinkinshintaku
 '0310':
   code: '0310'
   name: "あおぞら信託"
@@ -1133,6 +1127,12 @@
   kana: "タイシンコクサイシヨウギヨウ"
   hira: "たいしんこくさいしようぎよう"
   roma: taishinkokusaishiyougiyou
+'0632':
+  code: '0632'
+  name: "玉山"
+  kana: "イイサン"
+  hira: "いいさん"
+  roma: iisan
 '1000':
   code: '1000'
   name: "信金中央金庫"
@@ -3041,12 +3041,6 @@
   kana: "ケイシチヨウシヨクインシンクミ"
   hira: "けいしちようしよくいんしんくみ"
   roma: keishichiyoushiyokuinshinkumi
-'2272':
-  code: '2272'
-  name: "甲子信組"
-  kana: "コウシシンクミ"
-  hira: "こうししんくみ"
-  roma: koushishinkumi
 '2274':
   code: '2274'
   name: "東京消防信組"
