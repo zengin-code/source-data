@@ -1,10 +1,4 @@
 ---
-'025':
-  code: '025'
-  name: "希望が丘"
-  kana: "キボウガオカ"
-  hira: "きぼうがおか"
-  roma: kibougaoka
 '274':
   code: '274'
   name: "金森出張所"
@@ -161,6 +155,12 @@
   kana: "サガミダイ"
   hira: "さがみだい"
   roma: sagamidai
+'825':
+  code: '825'
+  name: "希望が丘"
+  kana: "キボウガオカ"
+  hira: "きぼうがおか"
+  roma: kibougaoka
 '826':
   code: '826'
   name: "南林間"
