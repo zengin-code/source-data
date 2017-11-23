@@ -287,24 +287,12 @@
   kana: "イケダ"
   hira: "いけだ"
   roma: ikeda
-'308':
-  code: '308'
-  name: "福井東"
-  kana: "フクイヒガシ"
-  hira: "ふくいひがし"
-  roma: fukuihigashi
 '309':
   code: '309'
   name: "村国"
   kana: "ムラクニ"
   hira: "むらくに"
   roma: murakuni
-'311':
-  code: '311'
-  name: "立待"
-  kana: "タチマチ"
-  hira: "たちまち"
-  roma: tachimachi
 '312':
   code: '312'
   name: "王子保"

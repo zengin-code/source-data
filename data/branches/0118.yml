@@ -53,12 +53,6 @@
   kana: "アオモリミナミ"
   hira: "あおもりみなみ"
   roma: aomoriminami
-'021':
-  code: '021'
-  name: "旭町"
-  kana: "アサヒチヨウ"
-  hira: "あさひちよう"
-  roma: asahichiyou
 '022':
   code: '022'
   name: "大鰐"
@@ -311,12 +305,6 @@
   kana: "ハチノヘエキマエ"
   hira: "はちのへえきまえ"
   roma: hachinoheekimae
-069:
-  code: 069
-  name: "大杉平"
-  kana: "オオスギタイラ"
-  hira: "おおすぎたいら"
-  roma: oosugitaira
 '070':
   code: '070'
   name: "盛岡"

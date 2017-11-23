@@ -815,12 +815,6 @@
   kana: "ササグリ"
   hira: "ささぐり"
   roma: sasaguri
-'468':
-  code: '468'
-  name: "若宮"
-  kana: "ワカミヤ"
-  hira: "わかみや"
-  roma: wakamiya
 '476':
   code: '476'
   name: "春日"
@@ -1025,12 +1019,6 @@
   kana: "タカス"
   hira: "たかす"
   roma: takasu
-'762':
-  code: '762'
-  name: "ＡＩＭ出張所"
-  kana: "ＡＩＭ"
-  hira: "ＡＩＭ"
-  roma: aim
 '780':
   code: '780'
   name: "鞍手"

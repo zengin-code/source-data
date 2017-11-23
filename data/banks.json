@@ -1322,6 +1322,13 @@
     "hira":"いいさん",
     "roma":"iisan"
   },
+  "0633":{
+    "code":"0633",
+    "name":"台湾中小企業",
+    "kana":"タイワンチユウシヨウキギヨウ",
+    "hira":"たいわんちゆうしようきぎよう",
+    "roma":"taiwanchiyuushiyoukigiyou"
+  },
   "1000":{
     "code":"1000",
     "name":"信金中央金庫",
