@@ -155,3 +155,15 @@
   kana: "サガ"
   hira: "さが"
   roma: saga
+'051':
+  code: '051'
+  name: "岡山"
+  kana: "オカヤマ"
+  hira: "おかやま"
+  roma: okayama
+'052':
+  code: '052'
+  name: "倉敷"
+  kana: "クラシキ"
+  hira: "くらしき"
+  roma: kurashiki
