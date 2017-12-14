@@ -29,12 +29,6 @@
   kana: "イワテ"
   hira: "いわて"
   roma: iwate
-'006':
-  code: '006'
-  name: "秋田出張所"
-  kana: "アキタ"
-  hira: "あきた"
-  roma: akita
 '007':
   code: '007'
   name: "福島"

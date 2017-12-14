@@ -263,12 +263,6 @@
   kana: "オオヤマ"
   hira: "おおやま"
   roma: ooyama
-'304':
-  code: '304'
-  name: "西"
-  kana: "ニシ"
-  hira: "にし"
-  roma: nishi
 '305':
   code: '305'
   name: "味真野"
@@ -305,9 +299,3 @@
   kana: "カミヤマ"
   hira: "かみやま"
   roma: kamiyama
-'315':
-  code: '315'
-  name: "吉野"
-  kana: "ヨシノ"
-  hira: "よしの"
-  roma: yoshino
