@@ -911,6 +911,12 @@
   kana: "ヒラツカ"
   hira: "ひらつか"
   roma: hiratsuka
+'447':
+  code: '447'
+  name: "ネットコール４４７"
+  kana: "ネツトコ－ルヨンヨンナナ"
+  hira: "ねつとこ－るよんよんなな"
+  roma: netsutoko-ruyonyonnana
 '501':
   code: '501'
   name: "宮崎"
@@ -1391,3 +1397,219 @@
   kana: "ケツサイギヨウムブ"
   hira: "けつさいぎようむぶ"
   roma: ketsusaigiyoumubu
+'904':
+  code: '904'
+  name: "ネットコール９０４"
+  kana: "ネツトコ－ルキユウゼロヨン"
+  hira: "ねつとこ－るきゆうぜろよん"
+  roma: netsutoko-rukiyuuzeroyon
+'905':
+  code: '905'
+  name: "ネットコール９０５"
+  kana: "ネツトコ－ルキユウゼロゴ"
+  hira: "ねつとこ－るきゆうぜろご"
+  roma: netsutoko-rukiyuuzerogo
+'906':
+  code: '906'
+  name: "ネットコール９０６"
+  kana: "ネツトコ－ルキユウゼロロク"
+  hira: "ねつとこ－るきゆうぜろろく"
+  roma: netsutoko-rukiyuuzeroroku
+'907':
+  code: '907'
+  name: "ネットコール９０７"
+  kana: "ネツトコ－ルキユウゼロナナ"
+  hira: "ねつとこ－るきゆうぜろなな"
+  roma: netsutoko-rukiyuuzeronana
+'909':
+  code: '909'
+  name: "ネットコール９０９"
+  kana: "ネツトコ－ルキユウゼロキユウ"
+  hira: "ねつとこ－るきゆうぜろきゆう"
+  roma: netsutoko-rukiyuuzerokiyuu
+'912':
+  code: '912'
+  name: "ネットコール９１２"
+  kana: "ネツトコ－ルキユウイチニ"
+  hira: "ねつとこ－るきゆういちに"
+  roma: netsutoko-rukiyuuichini
+'914':
+  code: '914'
+  name: "ネットコール９１４"
+  kana: "ネツトコ－ルキユウイチヨン"
+  hira: "ねつとこ－るきゆういちよん"
+  roma: netsutoko-rukiyuuichiyon
+'915':
+  code: '915'
+  name: "ネットコール９１５"
+  kana: "ネツトコ－ルキユウイチゴ"
+  hira: "ねつとこ－るきゆういちご"
+  roma: netsutoko-rukiyuuichigo
+'917':
+  code: '917'
+  name: "ネットコール９１７"
+  kana: "ネツトコ－ルキユウイチナナ"
+  hira: "ねつとこ－るきゆういちなな"
+  roma: netsutoko-rukiyuuichinana
+'919':
+  code: '919'
+  name: "ネットコール９１９"
+  kana: "ネツトコ－ルキユウイチキユウ"
+  hira: "ねつとこ－るきゆういちきゆう"
+  roma: netsutoko-rukiyuuichikiyuu
+'921':
+  code: '921'
+  name: "ネットコール９２１"
+  kana: "ネツトコ－ルキユウニイチ"
+  hira: "ねつとこ－るきゆうにいち"
+  roma: netsutoko-rukiyuuniichi
+'924':
+  code: '924'
+  name: "ネットコール９２４"
+  kana: "ネツトコ－ルキユウニヨン"
+  hira: "ねつとこ－るきゆうによん"
+  roma: netsutoko-rukiyuuniyon
+'926':
+  code: '926'
+  name: "ネットコール９２６"
+  kana: "ネツトコ－ルキユウニロク"
+  hira: "ねつとこ－るきゆうにろく"
+  roma: netsutoko-rukiyuuniroku
+'927':
+  code: '927'
+  name: "ネットコール９２７"
+  kana: "ネツトコ－ルキユウニナナ"
+  hira: "ねつとこ－るきゆうになな"
+  roma: netsutoko-rukiyuuninana
+'928':
+  code: '928'
+  name: "ネットコール９２８"
+  kana: "ネツトコ－ルキユウニハチ"
+  hira: "ねつとこ－るきゆうにはち"
+  roma: netsutoko-rukiyuunihachi
+'929':
+  code: '929'
+  name: "ネットコール９２９"
+  kana: "ネツトコ－ルキユウニキユウ"
+  hira: "ねつとこ－るきゆうにきゆう"
+  roma: netsutoko-rukiyuunikiyuu
+'930':
+  code: '930'
+  name: "ネットコール９３０"
+  kana: "ネツトコ－ルキユウサンゼロ"
+  hira: "ねつとこ－るきゆうさんぜろ"
+  roma: netsutoko-rukiyuusanzero
+'931':
+  code: '931'
+  name: "ネットコール９３１"
+  kana: "ネツトコ－ルキユウサンイチ"
+  hira: "ねつとこ－るきゆうさんいち"
+  roma: netsutoko-rukiyuusanichi
+'932':
+  code: '932'
+  name: "ネットコール９３２"
+  kana: "ネツトコ－ルキユウサンニ"
+  hira: "ねつとこ－るきゆうさんに"
+  roma: netsutoko-rukiyuusanni
+'933':
+  code: '933'
+  name: "ネットコール９３３"
+  kana: "ネツトコ－ルキユウサンサン"
+  hira: "ねつとこ－るきゆうさんさん"
+  roma: netsutoko-rukiyuusansan
+'935':
+  code: '935'
+  name: "ネットコール９３５"
+  kana: "ネツトコ－ルキユウサンゴ"
+  hira: "ねつとこ－るきゆうさんご"
+  roma: netsutoko-rukiyuusango
+'939':
+  code: '939'
+  name: "ネットコール９３９"
+  kana: "ネツトコ－ルキユウサンキユウ"
+  hira: "ねつとこ－るきゆうさんきゆう"
+  roma: netsutoko-rukiyuusankiyuu
+'943':
+  code: '943'
+  name: "ネットコール９４３"
+  kana: "ネツトコ－ルキユウヨンサン"
+  hira: "ねつとこ－るきゆうよんさん"
+  roma: netsutoko-rukiyuuyonsan
+'944':
+  code: '944'
+  name: "ネットコール９４４"
+  kana: "ネツトコ－ルキユウヨンヨン"
+  hira: "ねつとこ－るきゆうよんよん"
+  roma: netsutoko-rukiyuuyonyon
+'945':
+  code: '945'
+  name: "ネットコール９４５"
+  kana: "ネツトコ－ルキユウヨンゴ"
+  hira: "ねつとこ－るきゆうよんご"
+  roma: netsutoko-rukiyuuyongo
+'946':
+  code: '946'
+  name: "ネットコール９４６"
+  kana: "ネツトコ－ルキユウヨンロク"
+  hira: "ねつとこ－るきゆうよんろく"
+  roma: netsutoko-rukiyuuyonroku
+'959':
+  code: '959'
+  name: "ネットコール９５９"
+  kana: "ネツトコ－ルキユウゴキユウ"
+  hira: "ねつとこ－るきゆうごきゆう"
+  roma: netsutoko-rukiyuugokiyuu
+'967':
+  code: '967'
+  name: "ネットコール９６７"
+  kana: "ネツトコ－ルキユウロクナナ"
+  hira: "ねつとこ－るきゆうろくなな"
+  roma: netsutoko-rukiyuurokunana
+'972':
+  code: '972'
+  name: "ネットコール９７２"
+  kana: "ネツトコ－ルキユウナナニ"
+  hira: "ねつとこ－るきゆうななに"
+  roma: netsutoko-rukiyuunanani
+'973':
+  code: '973'
+  name: "ネットコール９７３"
+  kana: "ネツトコ－ルキユウナナサン"
+  hira: "ねつとこ－るきゆうななさん"
+  roma: netsutoko-rukiyuunanasan
+'974':
+  code: '974'
+  name: "ネットコール９７４"
+  kana: "ネツトコ－ルキユウナナヨン"
+  hira: "ねつとこ－るきゆうななよん"
+  roma: netsutoko-rukiyuunanayon
+'975':
+  code: '975'
+  name: "ネットコール９７５"
+  kana: "ネツトコ－ルキユウナナゴ"
+  hira: "ねつとこ－るきゆうななご"
+  roma: netsutoko-rukiyuunanago
+'976':
+  code: '976'
+  name: "ネットコール９７６"
+  kana: "ネツトコ－ルキユウナナロク"
+  hira: "ねつとこ－るきゆうななろく"
+  roma: netsutoko-rukiyuunanaroku
+'977':
+  code: '977'
+  name: "ネットコール９７７"
+  kana: "ネツトコ－ルキユウナナナナ"
+  hira: "ねつとこ－るきゆうなななな"
+  roma: netsutoko-rukiyuunananana
+'978':
+  code: '978'
+  name: "ネットコール９７８"
+  kana: "ネツトコ－ルキユウナナハチ"
+  hira: "ねつとこ－るきゆうななはち"
+  roma: netsutoko-rukiyuunanahachi
+'979':
+  code: '979'
+  name: "ネットコール９７９"
+  kana: "ネツトコ－ルキユウナナキユウ"
+  hira: "ねつとこ－るきゆうななきゆう"
+  roma: netsutoko-rukiyuunanakiyuu
