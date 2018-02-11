@@ -174,12 +174,26 @@
     "hira":"いちにきゆう",
     "roma":"ichinikiyuu"
   },
+  "138":{
+    "code":"138",
+    "name":"一三八",
+    "kana":"イチサンハチ",
+    "hira":"いちさんはち",
+    "roma":"ichisanhachi"
+  },
   "139":{
     "code":"139",
     "name":"一三九",
     "kana":"イチサンキユウ",
     "hira":"いちさんきゆう",
     "roma":"ichisankiyuu"
+  },
+  "148":{
+    "code":"148",
+    "name":"一四八",
+    "kana":"イチヨンハチ",
+    "hira":"いちよんはち",
+    "roma":"ichiyonhachi"
   },
   "149":{
     "code":"149",
@@ -495,6 +509,13 @@
     "kana":"ナナヨンハチ",
     "hira":"ななよんはち",
     "roma":"nanayonhachi"
+  },
+  "758":{
+    "code":"758",
+    "name":"七五八",
+    "kana":"ナナゴハチ",
+    "hira":"ななごはち",
+    "roma":"nanagohachi"
   },
   "768":{
     "code":"768",

@@ -91,7 +91,7 @@
   roma: minari
 '020':
   code: '020'
-  name: "横田"
+  name: "横田出張所"
   kana: "ヨコタ"
   hira: "よこた"
   roma: yokota
@@ -235,7 +235,7 @@
   roma: masudahigashi
 '050':
   code: '050'
-  name: "西益田出張所"
+  name: "西益田代理店"
   kana: "ニシマスダ"
   hira: "にしますだ"
   roma: nishimasuda
@@ -283,7 +283,7 @@
   roma: kouge
 059:
   code: 059
-  name: "若桜"
+  name: "若桜出張所"
   kana: "ワカサ"
   hira: "わかさ"
   roma: wakasa
@@ -569,12 +569,6 @@
   kana: "アマ"
   hira: "あま"
   roma: ama
-'111':
-  code: '111'
-  name: "泊"
-  kana: "トマリ"
-  hira: "とまり"
-  roma: tomari
 '112':
   code: '112'
   name: "江府出張所"
@@ -773,12 +767,6 @@
   kana: "アサリ"
   hira: "あさり"
   roma: asari
-'257':
-  code: '257'
-  name: "石見今市代理店"
-  kana: "イワミイマイチ"
-  hira: "いわみいまいち"
-  roma: iwamiimaichi
 '258':
   code: '258'
   name: "荒島代理店"
@@ -797,12 +785,6 @@
   kana: "オオモリ"
   hira: "おおもり"
   roma: oomori
-'268':
-  code: '268'
-  name: "田儀代理店"
-  kana: "タギ"
-  hira: "たぎ"
-  roma: tagi
 '269':
   code: '269'
   name: "岡見代理店"

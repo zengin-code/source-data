@@ -389,12 +389,6 @@
   kana: "ヤバケイ"
   hira: "やばけい"
   roma: yabakei
-'072':
-  code: '072'
-  name: "武蔵代理店"
-  kana: "ムサシ"
-  hira: "むさし"
-  roma: musashi
 '074':
   code: '074'
   name: "賀来"
@@ -557,12 +551,6 @@
   kana: "ハカタ"
   hira: "はかた"
   roma: hakata
-'204':
-  code: '204'
-  name: "富来代理店"
-  kana: "トミク"
-  hira: "とみく"
-  roma: tomiku
 '206':
   code: '206'
   name: "今津田尻出張所"
