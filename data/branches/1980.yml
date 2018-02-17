@@ -65,3 +65,57 @@
   kana: "キヨタケ"
   hira: "きよたけ"
   roma: kiyotake
+081:
+  code: 081
+  name: "都城営業部"
+  kana: "ミヤコノジヨウ"
+  hira: "みやこのじよう"
+  roma: miyakonojiyou
+083:
+  code: 083
+  name: "三股"
+  kana: "ミマタ"
+  hira: "みまた"
+  roma: mimata
+084:
+  code: 084
+  name: "鷹尾"
+  kana: "タカオ"
+  hira: "たかお"
+  roma: takao
+085:
+  code: 085
+  name: "高崎"
+  kana: "タカサキ"
+  hira: "たかさき"
+  roma: takasaki
+086:
+  code: 086
+  name: "祝吉"
+  kana: "イワヨシ"
+  hira: "いわよし"
+  roma: iwayoshi
+087:
+  code: 087
+  name: "一万城"
+  kana: "イチマンジヨウ"
+  hira: "いちまんじよう"
+  roma: ichimanjiyou
+088:
+  code: 088
+  name: "郡元出張所"
+  kana: "コオリモト"
+  hira: "こおりもと"
+  roma: koorimoto
+089:
+  code: 089
+  name: "高城"
+  kana: "タカジヨウ"
+  hira: "たかじよう"
+  roma: takajiyou
+091:
+  code: 091
+  name: "沖水"
+  kana: "オキミズ"
+  hira: "おきみず"
+  roma: okimizu

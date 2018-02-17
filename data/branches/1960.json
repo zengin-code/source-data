@@ -34,13 +34,6 @@
     "hira":"ひがしおおいた",
     "roma":"higashiooita"
   },
-  "007":{
-    "code":"007",
-    "name":"中島",
-    "kana":"ナカシマ",
-    "hira":"なかしま",
-    "roma":"nakashima"
-  },
   "008":{
     "code":"008",
     "name":"鶴崎",
@@ -166,13 +159,6 @@
     "kana":"トマチダイ",
     "hira":"とまちだい",
     "roma":"tomachidai"
-  },
-  "031":{
-    "code":"031",
-    "name":"海崎",
-    "kana":"カイザキ",
-    "hira":"かいざき",
-    "roma":"kaizaki"
   },
   "032":{
     "code":"032",

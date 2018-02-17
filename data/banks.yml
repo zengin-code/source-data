@@ -1147,10 +1147,10 @@
   roma: shinkinchiyuuoukinko
 '1001':
   code: '1001'
-  name: "札幌信金"
-  kana: "サツポロシンキン"
-  hira: "さつぽろしんきん"
-  roma: satsuporoshinkin
+  name: "北海道信金"
+  kana: "ホツカイドウシンキン"
+  hira: "ほつかいどうしんきん"
+  roma: hotsukaidoushinkin
 '1003':
   code: '1003'
   name: "室蘭信金"
@@ -1205,18 +1205,6 @@
   kana: "ドウナンウミマチシンキン"
   hira: "どうなんうみまちしんきん"
   roma: dounanumimachishinkin
-'1016':
-  code: '1016'
-  name: "小樽信金"
-  kana: "オタルシンキン"
-  hira: "おたるしんきん"
-  roma: otarushinkin
-'1018':
-  code: '1018'
-  name: "北海信金"
-  kana: "ホツカイシンキン"
-  hira: "ほつかいしんきん"
-  roma: hotsukaishinkin
 '1020':
   code: '1020'
   name: "旭川信金"
@@ -2677,16 +2665,10 @@
   roma: hitashinkin
 '1980':
   code: '1980'
-  name: "宮崎信金"
+  name: "宮崎都城信金"
   kana: "ミヤザキシンキン"
   hira: "みやざきしんきん"
   roma: miyazakishinkin
-'1981':
-  code: '1981'
-  name: "都城信金"
-  kana: "ミヤコノジヨウシンキン"
-  hira: "みやこのじようしんきん"
-  roma: miyakonojiyoushinkin
 '1982':
   code: '1982'
   name: "延岡信金"
