@@ -1,10 +1,10 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
-  roma: honten
+  name: "半原"
+  kana: "ハンバラ"
+  hira: "はんばら"
+  roma: hambara
 '002':
   code: '002'
   name: "相北"
@@ -13,10 +13,10 @@
   roma: souhoku
 '003':
   code: '003'
-  name: "中津"
-  kana: "ナカツ"
-  hira: "なかつ"
-  roma: nakatsu
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
 '006':
   code: '006'
   name: "津久井湖"
