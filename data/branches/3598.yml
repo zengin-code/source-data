@@ -1,10 +1,4 @@
 ---
-'011':
-  code: '011'
-  name: "盛"
-  kana: "サカリ"
-  hira: "さかり"
-  roma: sakari
 '012':
   code: '012'
   name: "大船渡"
@@ -29,24 +23,12 @@
   kana: "イカワ"
   hira: "いかわ"
   roma: ikawa
-'017':
-  code: '017'
-  name: "日頃市"
-  kana: "ヒコロイチ"
-  hira: "ひころいち"
-  roma: hikoroichi
 018:
   code: 018
   name: "本店"
   kana: "ホンテン"
   hira: "ほんてん"
   roma: honten
-'027':
-  code: '027'
-  name: "綾里"
-  kana: "リヨウリ"
-  hira: "りようり"
-  roma: riyouri
 028:
   code: 028
   name: "三陸"
@@ -71,9 +53,3 @@
   kana: "セタマイ"
   hira: "せたまい"
   roma: setamai
-'105':
-  code: '105'
-  name: "有住"
-  kana: "アリス"
-  hira: "ありす"
-  roma: arisu

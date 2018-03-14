@@ -9031,24 +9031,10 @@
   },
   "9229":{
     "code":"9229",
-    "name":"かごしま中央農協",
-    "kana":"カゴシマチユウオウノウキヨウ",
-    "hira":"かごしまちゆうおうのうきよう",
-    "roma":"kagoshimachiyuuounoukiyou"
-  },
-  "9234":{
-    "code":"9234",
-    "name":"グリーン鹿児島農協",
-    "kana":"グリ－ンカゴシマノウキヨウ",
-    "hira":"ぐり－んかごしまのうきよう",
-    "roma":"guri-nkagoshimanoukiyou"
-  },
-  "9240":{
-    "code":"9240",
-    "name":"東部農協",
-    "kana":"トウブノウキヨウ",
-    "hira":"とうぶのうきよう",
-    "roma":"toubunoukiyou"
+    "name":"鹿児島みらい農協",
+    "kana":"カゴシマミライノウキヨウ",
+    "hira":"かごしまみらいのうきよう",
+    "roma":"kagoshimamirainoukiyou"
   },
   "9251":{
     "code":"9251",

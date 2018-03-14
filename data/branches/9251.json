@@ -27,20 +27,6 @@
     "hira":"なんぶ",
     "roma":"nambu"
   },
-  "114":{
-    "code":"114",
-    "name":"成川",
-    "kana":"ナリカワ",
-    "hira":"なりかわ",
-    "roma":"narikawa"
-  },
-  "120":{
-    "code":"120",
-    "name":"大山",
-    "kana":"オオヤマ",
-    "hira":"おおやま",
-    "roma":"ooyama"
-  },
   "121":{
     "code":"121",
     "name":"開聞中央",
@@ -54,13 +40,6 @@
     "kana":"エイチユウオウ",
     "hira":"えいちゆうおう",
     "roma":"eichiyuuou"
-  },
-  "128":{
-    "code":"128",
-    "name":"別府",
-    "kana":"ベツプ",
-    "hira":"べつぷ",
-    "roma":"betsupu"
   },
   "132":{
     "code":"132",

@@ -161,12 +161,6 @@
   kana: "テンノウジ"
   hira: "てんのうじ"
   roma: tennouji
-'589':
-  code: '589'
-  name: "福島"
-  kana: "フクシマ"
-  hira: "ふくしま"
-  roma: fukushima
 '591':
   code: '591'
   name: "東大阪"
@@ -259,7 +253,7 @@
   roma: kasei
 '631':
   code: '631'
-  name: "串本"
+  name: "串本出張所"
   kana: "クシモト"
   hira: "くしもと"
   roma: kushimoto

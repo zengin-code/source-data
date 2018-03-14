@@ -211,7 +211,7 @@
   roma: kusatsunishi
 '231':
   code: '231'
-  name: "下笠"
+  name: "下笠代理店"
   kana: "シモガサ"
   hira: "しもがさ"
   roma: shimogasa
@@ -241,7 +241,7 @@
   roma: yasu
 '252':
   code: '252'
-  name: "祇王"
+  name: "祇王代理店"
   kana: "ギオウ"
   hira: "ぎおう"
   roma: giou
@@ -265,7 +265,7 @@
   roma: moriyamakita
 '272':
   code: '272'
-  name: "播磨田"
+  name: "播磨田代理店"
   kana: "ハリマダ"
   hira: "はりまだ"
   roma: harimada
@@ -649,7 +649,7 @@
   roma: santou
 '897':
   code: '897'
-  name: "長浜駅前"
+  name: "長浜駅前代理店"
   kana: "ナガハマエキマエ"
   hira: "ながはまえきまえ"
   roma: nagahamaekimae

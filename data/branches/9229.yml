@@ -11,12 +11,6 @@
   kana: "ハララ"
   hira: "はらら"
   roma: harara
-'005':
-  code: '005'
-  name: "荒田"
-  kana: "アラタ"
-  hira: "あらた"
-  roma: arata
 '011':
   code: '011'
   name: "郡元"
@@ -49,16 +43,10 @@
   roma: shimota
 '024':
   code: '024'
-  name: "桜島"
-  kana: "サクラジマ"
-  hira: "さくらじま"
-  roma: sakurajima
-028:
-  code: 028
-  name: "西田"
-  kana: "ニシダ"
-  hira: "にしだ"
-  roma: nishida
+  name: "東桜島"
+  kana: "ヒガシサクラジマ"
+  hira: "ひがしさくらじま"
+  roma: higashisakurajima
 '032':
   code: '032'
   name: "田上"
@@ -95,12 +83,6 @@
   kana: "イシキ"
   hira: "いしき"
   roma: ishiki
-038:
-  code: 038
-  name: "皆与志"
-  kana: "ミナヨシ"
-  hira: "みなよし"
-  roma: minayoshi
 039:
   code: 039
   name: "吉田"
@@ -119,3 +101,93 @@
   kana: "ケノ"
   hira: "けの"
   roma: keno
+'100':
+  code: '100'
+  name: "かんまち"
+  kana: "カンマチ"
+  hira: "かんまち"
+  roma: kammachi
+'101':
+  code: '101'
+  name: "小野"
+  kana: "オノ"
+  hira: "おの"
+  roma: ono
+'102':
+  code: '102'
+  name: "犬迫"
+  kana: "イヌザコ"
+  hira: "いぬざこ"
+  roma: inuzako
+'103':
+  code: '103'
+  name: "西谷山"
+  kana: "ニシタニヤマ"
+  hira: "にしたにやま"
+  roma: nishitaniyama
+'105':
+  code: '105'
+  name: "中山"
+  kana: "チユウザン"
+  hira: "ちゆうざん"
+  roma: chiyuuzan
+'108':
+  code: '108'
+  name: "桜ケ丘"
+  kana: "サクラガオカ"
+  hira: "さくらがおか"
+  roma: sakuragaoka
+'109':
+  code: '109'
+  name: "坂之上"
+  kana: "サカノウエ"
+  hira: "さかのうえ"
+  roma: sakanoue
+'111':
+  code: '111'
+  name: "吉田南"
+  kana: "ヨシダミナミ"
+  hira: "よしだみなみ"
+  roma: yoshidaminami
+'112':
+  code: '112'
+  name: "桜島"
+  kana: "サクラジマ"
+  hira: "さくらじま"
+  roma: sakurajima
+'114':
+  code: '114'
+  name: "谷山"
+  kana: "タニヤマ"
+  hira: "たにやま"
+  roma: taniyama
+'117':
+  code: '117'
+  name: "福平"
+  kana: "フクヒラ"
+  hira: "ふくひら"
+  roma: fukuhira
+'118':
+  code: '118'
+  name: "山田"
+  kana: "ヤマダ"
+  hira: "やまだ"
+  roma: yamada
+'201':
+  code: '201'
+  name: "谷山東部"
+  kana: "タニヤマトウブ"
+  hira: "たにやまとうぶ"
+  roma: taniyamatoubu
+'203':
+  code: '203'
+  name: "笹貫"
+  kana: "ササヌキ"
+  hira: "ささぬき"
+  roma: sasanuki
+'204':
+  code: '204'
+  name: "薬師堂"
+  kana: "ヤクシドウ"
+  hira: "やくしどう"
+  roma: yakushidou

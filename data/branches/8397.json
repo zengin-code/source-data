@@ -20,26 +20,12 @@
     "hira":"かわひがし",
     "roma":"kawahigashi"
   },
-  "007":{
-    "code":"007",
-    "name":"船木",
-    "kana":"フナキ",
-    "hira":"ふなき",
-    "roma":"funaki"
-  },
-  "008":{
-    "code":"008",
-    "name":"角野",
-    "kana":"スミノ",
-    "hira":"すみの",
-    "roma":"sumino"
-  },
   "009":{
     "code":"009",
-    "name":"泉川",
-    "kana":"イズミガワ",
-    "hira":"いずみがわ",
-    "roma":"izumigawa"
+    "name":"上部東",
+    "kana":"ジヨウブヒガシ",
+    "hira":"じようぶひがし",
+    "roma":"jiyoubuhigashi"
   },
   "010":{
     "code":"010",

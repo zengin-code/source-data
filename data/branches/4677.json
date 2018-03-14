@@ -55,26 +55,12 @@
     "hira":"ぶんぶくちよう",
     "roma":"bumbukuchiyou"
   },
-  "015":{
-    "code":"015",
-    "name":"千江田",
-    "kana":"チエダ",
-    "hira":"ちえだ",
-    "roma":"chieda"
-  },
   "016":{
     "code":"016",
-    "name":"梅島",
-    "kana":"ウメシマ",
-    "hira":"うめしま",
-    "roma":"umeshima"
-  },
-  "017":{
-    "code":"017",
-    "name":"佐貫",
-    "kana":"サヌキ",
-    "hira":"さぬき",
-    "roma":"sanuki"
+    "name":"明和",
+    "kana":"メイワ",
+    "hira":"めいわ",
+    "roma":"meiwa"
   },
   "018":{
     "code":"018",

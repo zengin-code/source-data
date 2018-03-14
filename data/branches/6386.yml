@@ -23,24 +23,12 @@
   kana: "ヒガシヤマグチ"
   hira: "ひがしやまぐち"
   roma: higashiyamaguchi
-'005':
-  code: '005'
-  name: "倉真"
-  kana: "クラミ"
-  hira: "くらみ"
-  roma: kurami
 '006':
   code: '006'
   name: "西郷"
   kana: "サイゴウ"
   hira: "さいごう"
   roma: saigou
-'007':
-  code: '007'
-  name: "原泉"
-  kana: "ハライズミ"
-  hira: "はらいずみ"
-  roma: haraizumi
 008:
   code: 008
   name: "原田"
@@ -83,12 +71,6 @@
   kana: "カケガワ"
   hira: "かけがわ"
   roma: kakegawa
-'015':
-  code: '015'
-  name: "粟本"
-  kana: "アワモト"
-  hira: "あわもと"
-  roma: awamoto
 '016':
   code: '016'
   name: "西山口"

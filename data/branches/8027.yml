@@ -23,12 +23,6 @@
   kana: "タケハラ"
   hira: "たけはら"
   roma: takehara
-'454':
-  code: '454'
-  name: "吉名出張所"
-  kana: "ヨシナ"
-  hira: "よしな"
-  roma: yoshina
 '460':
   code: '460'
   name: "荘野出張所"
@@ -59,24 +53,12 @@
   kana: "ミハラニシ"
   hira: "みはらにし"
   roma: miharanishi
-'503':
-  code: '503'
-  name: "木原出張所"
-  kana: "キハラ"
-  hira: "きはら"
-  roma: kihara
 '504':
   code: '504'
   name: "三原"
   kana: "ミハラ"
   hira: "みはら"
   roma: mihara
-'506':
-  code: '506'
-  name: "八幡出張所"
-  kana: "ヤハタ"
-  hira: "やはた"
-  roma: yahata
 '507':
   code: '507'
   name: "鷺浦出張所"

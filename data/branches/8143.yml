@@ -1,79 +1,43 @@
 ---
 '001':
   code: '001'
-  name: "防府"
-  kana: "ホウフ"
-  hira: "ほうふ"
-  roma: houfu
+  name: "防府中央"
+  kana: "ホウフチユウオウ"
+  hira: "ほうふちゆうおう"
+  roma: houfuchiyuuou
 '002':
   code: '002'
-  name: "右田"
-  kana: "ミギタ"
-  hira: "みぎた"
-  roma: migita
+  name: "防府北"
+  kana: "ホウフキタ"
+  hira: "ほうふきた"
+  roma: houfukita
 '003':
   code: '003'
-  name: "牟礼"
-  kana: "ムレ"
-  hira: "むれ"
-  roma: mure
+  name: "防府東"
+  kana: "ホウフヒガシ"
+  hira: "ほうふひがし"
+  roma: houfuhigashi
 '004':
   code: '004'
-  name: "中関"
-  kana: "ナカノセキ"
-  hira: "なかのせき"
-  roma: nakanoseki
-'006':
-  code: '006'
-  name: "西浦"
-  kana: "ニシノウラ"
-  hira: "にしのうら"
-  roma: nishinoura
-'007':
-  code: '007'
-  name: "富海"
-  kana: "トノミ"
-  hira: "とのみ"
-  roma: tonomi
-008:
-  code: 008
-  name: "小野"
-  kana: "オノ"
-  hira: "おの"
-  roma: ono
+  name: "防府南"
+  kana: "ホウフミナミ"
+  hira: "ほうふみなみ"
+  roma: houfuminami
 '011':
   code: '011'
   name: "本所"
   kana: "ホンシヨ"
   hira: "ほんしよ"
   roma: honshiyo
-'025':
-  code: '025'
-  name: "華城"
-  kana: "ハナギ"
-  hira: "はなぎ"
-  roma: hanagi
 '030':
   code: '030'
-  name: "大道"
-  kana: "ダイドウ"
-  hira: "だいどう"
-  roma: daidou
+  name: "防府西"
+  kana: "ホウフニシ"
+  hira: "ほうふにし"
+  roma: houfunishi
 '041':
   code: '041'
-  name: "出雲"
-  kana: "イズモ"
-  hira: "いずも"
-  roma: izumo
-'042':
-  code: '042'
-  name: "島地"
-  kana: "シマジ"
-  hira: "しまじ"
-  roma: shimaji
-'044':
-  code: '044'
-  name: "八坂"
-  kana: "ヤサカ"
-  hira: "やさか"
-  roma: yasaka
+  name: "徳地"
+  kana: "トクヂ"
+  hira: "とくぢ"
+  roma: tokudi

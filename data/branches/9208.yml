@@ -5,12 +5,6 @@
   kana: "ホンテン"
   hira: "ほんてん"
   roma: honten
-'110':
-  code: '110'
-  name: "土々呂"
-  kana: "トトロ"
-  hira: "ととろ"
-  roma: totoro
 '120':
   code: '120'
   name: "伊形"
@@ -23,12 +17,6 @@
   kana: "ツネトミ"
   hira: "つねとみ"
   roma: tsunetomi
-'132':
-  code: '132'
-  name: "あたご"
-  kana: "アタゴ"
-  hira: "あたご"
-  roma: atago
 '140':
   code: '140'
   name: "東延岡"
@@ -41,24 +29,12 @@
   kana: "オカトミ"
   hira: "おかとみ"
   roma: okatomi
-'151':
-  code: '151'
-  name: "富美山"
-  kana: "トミヤマ"
-  hira: "とみやま"
-  roma: tomiyama
 '160':
   code: '160'
   name: "南方"
   kana: "ミナミカタ"
   hira: "みなみかた"
   roma: minamikata
-'162':
-  code: '162'
-  name: "平田"
-  kana: "ヒラタ"
-  hira: "ひらた"
-  roma: hirata
 '180':
   code: '180'
   name: "東海"

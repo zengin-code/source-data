@@ -53,12 +53,6 @@
   kana: "オオサ"
   hira: "おおさ"
   roma: oosa
-'016':
-  code: '016'
-  name: "新郷出張所"
-  kana: "ニイザト"
-  hira: "にいざと"
-  roma: niizato
 '017':
   code: '017'
   name: "神代"
@@ -77,12 +71,6 @@
   kana: "ノチ"
   hira: "のち"
   roma: nochi
-'020':
-  code: '020'
-  name: "新砥出張所"
-  kana: "アラト"
-  hira: "あらと"
-  roma: arato
 '022':
   code: '022'
   name: "哲多"
