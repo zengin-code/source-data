@@ -48,13 +48,6 @@
     "hira":"ふかえ",
     "roma":"fukae"
   },
-  "221":{
-    "code":"221",
-    "name":"別府",
-    "kana":"ベフ",
-    "hira":"べふ",
-    "roma":"befu"
-  },
   "222":{
     "code":"222",
     "name":"浜",
@@ -103,20 +96,6 @@
     "kana":"ヨシワ",
     "hira":"よしわ",
     "roma":"yoshiwa"
-  },
-  "815":{
-    "code":"815",
-    "name":"阿品",
-    "kana":"アジナ",
-    "hira":"あじな",
-    "roma":"ajina"
-  },
-  "822":{
-    "code":"822",
-    "name":"宮園",
-    "kana":"ミヤゾノ",
-    "hira":"みやぞの",
-    "roma":"miyazono"
   },
   "823":{
     "code":"823",

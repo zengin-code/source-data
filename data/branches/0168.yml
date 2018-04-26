@@ -953,6 +953,12 @@
   kana: "ニシノミヤ"
   hira: "にしのみや"
   roma: nishinomiya
+'666':
+  code: '666'
+  name: "ＳＦセンター"
+  kana: "エスエフセンタ－"
+  hira: "えすえふせんた－"
+  roma: esuefusenta-
 '701':
   code: '701'
   name: "大阪"

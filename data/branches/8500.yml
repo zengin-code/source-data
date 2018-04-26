@@ -79,7 +79,7 @@
   roma: houjiyouchiyuuou
 '102':
   code: '102'
-  name: "浅海"
+  name: "浅海出張所"
   kana: "アサナミ"
   hira: "あさなみ"
   roma: asanami
@@ -91,7 +91,7 @@
   roma: namba
 '104':
   code: '104'
-  name: "立岩"
+  name: "立岩出張所"
   kana: "タテイワ"
   hira: "たていわ"
   roma: tateiwa
@@ -101,18 +101,12 @@
   kana: "マサオカ"
   hira: "まさおか"
   roma: masaoka
-'107':
-  code: '107'
-  name: "河野"
-  kana: "コウノ"
-  hira: "こうの"
-  roma: kouno
 '108':
   code: '108'
-  name: "粟井"
-  kana: "アワイ"
-  hira: "あわい"
-  roma: awai
+  name: "北条南"
+  kana: "ホウジヨウミナミ"
+  hira: "ほうじようみなみ"
+  roma: houjiyouminami
 '201':
   code: '201'
   name: "中島"

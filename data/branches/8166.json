@@ -15,10 +15,10 @@
   },
   "010":{
     "code":"010",
-    "name":"二俣瀬",
-    "kana":"フタマタセ",
-    "hira":"ふたまたせ",
-    "roma":"futamatase"
+    "name":"厚東川",
+    "kana":"コトウガワ",
+    "hira":"ことうがわ",
+    "roma":"kotougawa"
   },
   "015":{
     "code":"015",
@@ -40,13 +40,6 @@
     "kana":"ニシキワ",
     "hira":"にしきわ",
     "roma":"nishikiwa"
-  },
-  "030":{
-    "code":"030",
-    "name":"厚東",
-    "kana":"コトウ",
-    "hira":"ことう",
-    "roma":"kotou"
   },
   "041":{
     "code":"041",

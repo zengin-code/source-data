@@ -29,3 +29,39 @@
   kana: "ホンテン"
   hira: "ほんてん"
   roma: honten
+'020':
+  code: '020'
+  name: "大蔵"
+  kana: "オオクラ"
+  hira: "おおくら"
+  roma: ookura
+'021':
+  code: '021'
+  name: "戸沢"
+  kana: "トザワ"
+  hira: "とざわ"
+  roma: tozawa
+'022':
+  code: '022'
+  name: "古口"
+  kana: "フルクチ"
+  hira: "ふるくち"
+  roma: furukuchi
+'023':
+  code: '023'
+  name: "鮭川"
+  kana: "サケカワ"
+  hira: "さけかわ"
+  roma: sakekawa
+'024':
+  code: '024'
+  name: "大豊"
+  kana: "オオトヨ"
+  hira: "おおとよ"
+  roma: ootoyo
+'030':
+  code: '030'
+  name: "真室川"
+  kana: "マムロガワ"
+  hira: "まむろがわ"
+  roma: mamurogawa

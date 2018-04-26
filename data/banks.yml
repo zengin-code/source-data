@@ -4781,18 +4781,12 @@
   kana: "アキタコトウノウキヨウ"
   hira: "あきたことうのうきよう"
   roma: akitakotounoukiyou
-'3805':
-  code: '3805'
-  name: "秋田みなみ農協"
-  kana: "アキタミナミノウキヨウ"
-  hira: "あきたみなみのうきよう"
-  roma: akitaminaminoukiyou
 '3810':
   code: '3810'
-  name: "新あきた農協"
-  kana: "シンアキタノウキヨウ"
-  hira: "しんあきたのうきよう"
-  roma: shinakitanoukiyou
+  name: "秋田なまはげ農協"
+  kana: "アキタナマハゲノウキヨウ"
+  hira: "あきたなまはげのうきよう"
+  roma: akitanamahagenoukiyou
 '3825':
   code: '3825'
   name: "秋田しんせい農協"
@@ -4873,22 +4867,10 @@
   roma: shinjiyoushinoukiyou
 '3973':
   code: '3973'
-  name: "新庄もがみ農協"
-  kana: "シンジヨウモガミノウキヨウ"
-  hira: "しんじようもがみのうきよう"
-  roma: shinjiyoumogaminoukiyou
-'3980':
-  code: '3980'
-  name: "山形もがみ農協"
-  kana: "ヤマガタモガミノウキヨウ"
-  hira: "やまがたもがみのうきよう"
-  roma: yamagatamogaminoukiyou
-'3986':
-  code: '3986'
-  name: "真室川町農協"
-  kana: "マムロガワマチノウキヨウ"
-  hira: "まむろがわまちのうきよう"
-  roma: mamurogawamachinoukiyou
+  name: "もがみ中央農協"
+  kana: "モガミチユウオウノウキヨウ"
+  hira: "もがみちゆうおうのうきよう"
+  roma: mogamichiyuuounoukiyou
 '3987':
   code: '3987'
   name: "金山農協"
@@ -5641,10 +5623,10 @@
   roma: nakakomatoubunoukiyou
 '5243':
   code: '5243'
-  name: "巨摩野農協"
-  kana: "コマノノウキヨウ"
-  hira: "こまののうきよう"
-  roma: komanonoukiyou
+  name: "南アルプス市農協"
+  kana: "ミナミアルプスシノウキヨウ"
+  hira: "みなみあるぷすしのうきよう"
+  roma: minamiarupusushinoukiyou
 '5260':
   code: '5260'
   name: "梨北農協"
@@ -6439,16 +6421,10 @@
   roma: tobashimanoukiyou
 '6758':
   code: '6758'
-  name: "伊賀北部農協"
-  kana: "イガホクブノウキヨウ"
-  hira: "いがほくぶのうきよう"
-  roma: igahokubunoukiyou
-'6762':
-  code: '6762'
-  name: "伊賀南部農協"
-  kana: "イガナンブノウキヨウ"
-  hira: "いがなんぶのうきよう"
-  roma: iganambunoukiyou
+  name: "伊賀ふるさと農協"
+  kana: "イガフルサトノウキヨウ"
+  hira: "いがふるさとのうきよう"
+  roma: igafurusatonoukiyou
 '6770':
   code: '6770'
   name: "三重南紀農協"
