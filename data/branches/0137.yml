@@ -449,6 +449,60 @@
   kana: "シンバシホウジン"
   hira: "しんばしほうじん"
   roma: shimbashihoujin
+'100':
+  code: '100'
+  name: "東京みらい営業部"
+  kana: "トウキヨウミライ"
+  hira: "とうきようみらい"
+  roma: toukiyoumirai
+'101':
+  code: '101'
+  name: "新宿ＳＧ出張所"
+  kana: "シンジユクエスジ－"
+  hira: "しんじゆくえすじ－"
+  roma: shinjiyukuesuji-
+'102':
+  code: '102'
+  name: "蒲田ＳＧ出張所"
+  kana: "カマタエスジ－"
+  hira: "かまたえすじ－"
+  roma: kamataesuji-
+'103':
+  code: '103'
+  name: "上野ＳＧ出張所"
+  kana: "ウエノエスジ－"
+  hira: "うえのえすじ－"
+  roma: uenoesuji-
+'104':
+  code: '104'
+  name: "立川ＳＧ出張所"
+  kana: "タチカワエスジ－"
+  hira: "たちかわえすじ－"
+  roma: tachikawaesuji-
+'105':
+  code: '105'
+  name: "錦糸町ＳＧ出張所"
+  kana: "キンシチヨウエスジ－"
+  hira: "きんしちようえすじ－"
+  roma: kinshichiyouesuji-
+'106':
+  code: '106'
+  name: "池袋ＳＧ出張所"
+  kana: "イケブクロエスジ－"
+  hira: "いけぶくろえすじ－"
+  roma: ikebukuroesuji-
+'107':
+  code: '107'
+  name: "渋谷ＳＧ出張所"
+  kana: "シブヤエスジ－"
+  hira: "しぶやえすじ－"
+  roma: shibuyaesuji-
+'108':
+  code: '108'
+  name: "新橋ＳＧ出張所"
+  kana: "シンバシエスジ－"
+  hira: "しんばしえすじ－"
+  roma: shimbashiesuji-
 '115':
   code: '115'
   name: "京王ステーション"
@@ -461,3 +515,513 @@
   kana: "インタ－ネツト"
   hira: "いんた－ねつと"
   roma: inta-netsuto
+'274':
+  code: '274'
+  name: "金森出張所"
+  kana: "カナモリ"
+  hira: "かなもり"
+  roma: kanamori
+'284':
+  code: '284'
+  name: "代々木上原出張所"
+  kana: "ヨヨギウエハラ"
+  hira: "よよぎうえはら"
+  roma: yoyogiuehara
+'285':
+  code: '285'
+  name: "旭町出張所"
+  kana: "アサヒチヨウ"
+  hira: "あさひちよう"
+  roma: asahichiyou
+'801':
+  code: '801'
+  name: "本店"
+  kana: "ホンテン"
+  hira: "ほんてん"
+  roma: honten
+'802':
+  code: '802'
+  name: "代々木"
+  kana: "ヨヨギ"
+  hira: "よよぎ"
+  roma: yoyogi
+'803':
+  code: '803'
+  name: "渋谷"
+  kana: "シブヤ"
+  hira: "しぶや"
+  roma: shibuya
+'805':
+  code: '805'
+  name: "笹塚"
+  kana: "ササヅカ"
+  hira: "ささづか"
+  roma: sasaduka
+'806':
+  code: '806'
+  name: "高円寺"
+  kana: "コウエンジ"
+  hira: "こうえんじ"
+  roma: kouenji
+'807':
+  code: '807'
+  name: "烏山"
+  kana: "カラスヤマ"
+  hira: "からすやま"
+  roma: karasuyama
+'808':
+  code: '808'
+  name: "祖師谷"
+  kana: "ソシガヤ"
+  hira: "そしがや"
+  roma: soshigaya
+'809':
+  code: '809'
+  name: "西池袋"
+  kana: "ニシイケブクロ"
+  hira: "にしいけぶくろ"
+  roma: nishiikebukuro
+'810':
+  code: '810'
+  name: "町田"
+  kana: "マチダ"
+  hira: "まちだ"
+  roma: machida
+'811':
+  code: '811'
+  name: "府中"
+  kana: "フチユウ"
+  hira: "ふちゆう"
+  roma: fuchiyuu
+'812':
+  code: '812'
+  name: "大和"
+  kana: "ヤマト"
+  hira: "やまと"
+  roma: yamato
+'813':
+  code: '813'
+  name: "淵野辺"
+  kana: "フチノベ"
+  hira: "ふちのべ"
+  roma: fuchinobe
+'814':
+  code: '814'
+  name: "調布"
+  kana: "チヨウフ"
+  hira: "ちようふ"
+  roma: chiyoufu
+'815':
+  code: '815'
+  name: "長津田"
+  kana: "ナガツダ"
+  hira: "ながつだ"
+  roma: nagatsuda
+'816':
+  code: '816'
+  name: "板橋"
+  kana: "イタバシ"
+  hira: "いたばし"
+  roma: itabashi
+'817':
+  code: '817'
+  name: "橋本"
+  kana: "ハシモト"
+  hira: "はしもと"
+  roma: hashimoto
+'818':
+  code: '818'
+  name: "東池袋"
+  kana: "ヒガシイケブクロ"
+  hira: "ひがしいけぶくろ"
+  roma: higashiikebukuro
+'819':
+  code: '819'
+  name: "滝野川"
+  kana: "タキノガワ"
+  hira: "たきのがわ"
+  roma: takinogawa
+'820':
+  code: '820'
+  name: "石神井"
+  kana: "シヤクジイ"
+  hira: "しやくじい"
+  roma: shiyakujii
+'821':
+  code: '821'
+  name: "赤塚"
+  kana: "アカツカ"
+  hira: "あかつか"
+  roma: akatsuka
+'822':
+  code: '822'
+  name: "久米川"
+  kana: "クメガワ"
+  hira: "くめがわ"
+  roma: kumegawa
+'823':
+  code: '823'
+  name: "中板橋"
+  kana: "ナカイタバシ"
+  hira: "なかいたばし"
+  roma: nakaitabashi
+'824':
+  code: '824'
+  name: "相模台"
+  kana: "サガミダイ"
+  hira: "さがみだい"
+  roma: sagamidai
+'825':
+  code: '825'
+  name: "希望が丘"
+  kana: "キボウガオカ"
+  hira: "きぼうがおか"
+  roma: kibougaoka
+'826':
+  code: '826'
+  name: "南林間"
+  kana: "ミナミリンカン"
+  hira: "みなみりんかん"
+  roma: minamirinkan
+'827':
+  code: '827'
+  name: "登戸"
+  kana: "ノボリト"
+  hira: "のぼりと"
+  roma: noborito
+'828':
+  code: '828'
+  name: "相模大野"
+  kana: "サガミオオノ"
+  hira: "さがみおおの"
+  roma: sagamioono
+'829':
+  code: '829'
+  name: "南町田"
+  kana: "ミナミマチダ"
+  hira: "みなみまちだ"
+  roma: minamimachida
+'830':
+  code: '830'
+  name: "和泉多摩川"
+  kana: "イズミタマガワ"
+  hira: "いずみたまがわ"
+  roma: izumitamagawa
+'831':
+  code: '831'
+  name: "相模原"
+  kana: "サガミハラ"
+  hira: "さがみはら"
+  roma: sagamihara
+'832':
+  code: '832'
+  name: "町田木曽"
+  kana: "マチダキソ"
+  hira: "まちだきそ"
+  roma: machidakiso
+'833':
+  code: '833'
+  name: "相原"
+  kana: "アイハラ"
+  hira: "あいはら"
+  roma: aihara
+'834':
+  code: '834'
+  name: "瀬谷"
+  kana: "セヤ"
+  hira: "せや"
+  roma: seya
+'835':
+  code: '835'
+  name: "成瀬"
+  kana: "ナルセ"
+  hira: "なるせ"
+  roma: naruse
+'836':
+  code: '836'
+  name: "南渕野辺"
+  kana: "ミナミフチノベ"
+  hira: "みなみふちのべ"
+  roma: minamifuchinobe
+'837':
+  code: '837'
+  name: "高座渋谷"
+  kana: "コウザシブヤ"
+  hira: "こうざしぶや"
+  roma: kouzashibuya
+'838':
+  code: '838'
+  name: "相武台"
+  kana: "ソウブダイ"
+  hira: "そうぶだい"
+  roma: soubudai
+'839':
+  code: '839'
+  name: "東府中"
+  kana: "ヒガシフチユウ"
+  hira: "ひがしふちゆう"
+  roma: higashifuchiyuu
+'840':
+  code: '840'
+  name: "百草園"
+  kana: "モグサエン"
+  hira: "もぐさえん"
+  roma: mogusaen
+'841':
+  code: '841'
+  name: "大沼"
+  kana: "オオヌマ"
+  hira: "おおぬま"
+  roma: oonuma
+'842':
+  code: '842'
+  name: "二本松"
+  kana: "ニホンマツ"
+  hira: "にほんまつ"
+  roma: nihommatsu
+'843':
+  code: '843'
+  name: "大泉"
+  kana: "オオイズミ"
+  hira: "おおいずみ"
+  roma: ooizumi
+'844':
+  code: '844'
+  name: "海老名"
+  kana: "エビナ"
+  hira: "えびな"
+  roma: ebina
+'845':
+  code: '845'
+  name: "東林間"
+  kana: "ヒガシリンカン"
+  hira: "ひがしりんかん"
+  roma: higashirinkan
+'846':
+  code: '846'
+  name: "中河原"
+  kana: "ナカガワラ"
+  hira: "なかがわら"
+  roma: nakagawara
+'847':
+  code: '847'
+  name: "上石神井"
+  kana: "カミシヤクジイ"
+  hira: "かみしやくじい"
+  roma: kamishiyakujii
+'848':
+  code: '848'
+  name: "上溝"
+  kana: "カミミゾ"
+  hira: "かみみぞ"
+  roma: kamimizo
+'849':
+  code: '849'
+  name: "鶴川"
+  kana: "ツルカワ"
+  hira: "つるかわ"
+  roma: tsurukawa
+'850':
+  code: '850'
+  name: "稲城向陽台"
+  kana: "イナギコウヨウダイ"
+  hira: "いなぎこうようだい"
+  roma: inagikouyoudai
+'851':
+  code: '851'
+  name: "幡ヶ谷"
+  kana: "ハタガヤ"
+  hira: "はたがや"
+  roma: hatagaya
+'852':
+  code: '852'
+  name: "新百合ヶ丘"
+  kana: "シンユリガオカ"
+  hira: "しんゆりがおか"
+  roma: shinyurigaoka
+'853':
+  code: '853'
+  name: "中山"
+  kana: "ナカヤマ"
+  hira: "なかやま"
+  roma: nakayama
+'854':
+  code: '854'
+  name: "田名"
+  kana: "タナ"
+  hira: "たな"
+  roma: tana
+'855':
+  code: '855'
+  name: "古淵"
+  kana: "コブチ"
+  hira: "こぶち"
+  roma: kobuchi
+'856':
+  code: '856'
+  name: "稲田堤"
+  kana: "イナダヅツミ"
+  hira: "いなだづつみ"
+  roma: inadadutsumi
+'857':
+  code: '857'
+  name: "さがみ野"
+  kana: "サガミノ"
+  hira: "さがみの"
+  roma: sagamino
+'858':
+  code: '858'
+  name: "湘南台"
+  kana: "シヨウナンダイ"
+  hira: "しようなんだい"
+  roma: shiyounandai
+'859':
+  code: '859'
+  name: "厚木"
+  kana: "アツギ"
+  hira: "あつぎ"
+  roma: atsugi
+'860':
+  code: '860'
+  name: "相模原法人営業部"
+  kana: "サガミハラホウジン"
+  hira: "さがみはらほうじん"
+  roma: sagamiharahoujin
+'861':
+  code: '861'
+  name: "城山"
+  kana: "シロヤマ"
+  hira: "しろやま"
+  roma: shiroyama
+'862':
+  code: '862'
+  name: "ひばりが丘出張所"
+  kana: "ヒバリガオカ"
+  hira: "ひばりがおか"
+  roma: hibarigaoka
+'863':
+  code: '863'
+  name: "千代田出張所"
+  kana: "チヨダ"
+  hira: "ちよだ"
+  roma: chiyoda
+'864':
+  code: '864'
+  name: "神田"
+  kana: "カンダ"
+  hira: "かんだ"
+  roma: kanda
+'865':
+  code: '865'
+  name: "八王子"
+  kana: "ハチオウジ"
+  hira: "はちおうじ"
+  roma: hachiouji
+'868':
+  code: '868'
+  name: "青山通"
+  kana: "アオヤマドオリ"
+  hira: "あおやまどおり"
+  roma: aoyamadoori
+'869':
+  code: '869'
+  name: "自由が丘"
+  kana: "ジユウガオカ"
+  hira: "じゆうがおか"
+  roma: jiyuugaoka
+'871':
+  code: '871'
+  name: "吾嬬"
+  kana: "アヅマ"
+  hira: "あづま"
+  roma: aduma
+'872':
+  code: '872'
+  name: "新小岩"
+  kana: "シンコイワ"
+  hira: "しんこいわ"
+  roma: shinkoiwa
+'873':
+  code: '873'
+  name: "椎名町"
+  kana: "シイナマチ"
+  hira: "しいなまち"
+  roma: shiinamachi
+'874':
+  code: '874'
+  name: "原宿"
+  kana: "ハラジユク"
+  hira: "はらじゆく"
+  roma: harajiyuku
+'875':
+  code: '875'
+  name: "昭島"
+  kana: "アキシマ"
+  hira: "あきしま"
+  roma: akishima
+'876':
+  code: '876'
+  name: "鳩ヶ谷"
+  kana: "ハトガヤ"
+  hira: "はとがや"
+  roma: hatogaya
+'877':
+  code: '877'
+  name: "市が尾"
+  kana: "イチガオ"
+  hira: "いちがお"
+  roma: ichigao
+'879':
+  code: '879'
+  name: "西六郷"
+  kana: "ニシロクゴウ"
+  hira: "にしろくごう"
+  roma: nishirokugou
+'880':
+  code: '880'
+  name: "久地"
+  kana: "クジ"
+  hira: "くじ"
+  roma: kuji
+'881':
+  code: '881'
+  name: "北綾瀬"
+  kana: "キタアヤセ"
+  hira: "きたあやせ"
+  roma: kitaayase
+'882':
+  code: '882'
+  name: "武蔵境南"
+  kana: "ムサシサカイミナミ"
+  hira: "むさしさかいみなみ"
+  roma: musashisakaiminami
+'883':
+  code: '883'
+  name: "豊島園"
+  kana: "トシマエン"
+  hira: "としまえん"
+  roma: toshimaen
+'884':
+  code: '884'
+  name: "八丁堀"
+  kana: "ハツチヨウボリ"
+  hira: "はつちようぼり"
+  roma: hatsuchiyoubori
+'885':
+  code: '885'
+  name: "富士見ヶ丘"
+  kana: "フジミガオカ"
+  hira: "ふじみがおか"
+  roma: fujimigaoka
+'887':
+  code: '887'
+  name: "目黒"
+  kana: "メグロ"
+  hira: "めぐろ"
+  roma: meguro
+'888':
+  code: '888'
+  name: "横浜西口"
+  kana: "ヨコハマニシグチ"
+  hira: "よこはまにしぐち"
+  roma: yokohamanishiguchi

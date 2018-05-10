@@ -187,10 +187,10 @@
   roma: chibakougiyou
 '0137':
   code: '0137'
-  name: "東京都民"
-  kana: "トウキヨウトミン"
-  hira: "とうきようとみん"
-  roma: toukiyoutomin
+  name: "きらぼし"
+  kana: "キラボシ"
+  hira: "きらぼし"
+  roma: kiraboshi
 0138:
   code: 0138
   name: "横浜"
@@ -533,12 +533,6 @@
   kana: "ニツシヨウキンシンタク"
   hira: "につしようきんしんたく"
   roma: nitsushiyoukinshintaku
-'0322':
-  code: '0322'
-  name: "新銀行東京"
-  kana: "シンギンコウトウキヨウ"
-  hira: "しんぎんこうとうきよう"
-  roma: shinginkoutoukiyou
 '0324':
   code: '0324'
   name: "日本トラスティ・サービス信託"
@@ -1019,12 +1013,6 @@
   kana: "オキナワカイホウ"
   hira: "おきなわかいほう"
   roma: okinawakaihou
-0597:
-  code: 0597
-  name: "八千代"
-  kana: "ヤチヨ"
-  hira: "やちよ"
-  roma: yachiyo
 '0603':
   code: '0603'
   name: "韓国産業"
