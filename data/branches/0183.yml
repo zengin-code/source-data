@@ -179,12 +179,6 @@
   kana: "ウサ"
   hira: "うさ"
   roma: usa
-'034':
-  code: '034'
-  name: "神宮前代理店"
-  kana: "ジングウマエ"
-  hira: "じんぐうまえ"
-  roma: jinguumae
 '035':
   code: '035'
   name: "長洲"
@@ -377,12 +371,6 @@
   kana: "ツルイ"
   hira: "つるい"
   roma: tsurui
-'071':
-  code: '071'
-  name: "耶馬渓代理店"
-  kana: "ヤバケイ"
-  hira: "やばけい"
-  roma: yabakei
 '074':
   code: '074'
   name: "賀来"

@@ -125,12 +125,6 @@
   kana: "ウメダ"
   hira: "うめだ"
   roma: umeda
-'583':
-  code: '583'
-  name: "十三"
-  kana: "ジユウソウ"
-  hira: "じゆうそう"
-  roma: jiyuusou
 '584':
   code: '584'
   name: "堺"
@@ -203,6 +197,12 @@
   kana: "テンガチヤヤ"
   hira: "てんがちやや"
   roma: tengachiyaya
+'610':
+  code: '610'
+  name: "十三駅前出張所"
+  kana: "ジユウソウエキマエ"
+  hira: "じゆうそうえきまえ"
+  roma: jiyuusouekimae
 '618':
   code: '618'
   name: "大阪中央"

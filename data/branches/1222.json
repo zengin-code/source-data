@@ -62,26 +62,12 @@
     "hira":"おもちやのまち",
     "roma":"omochiyanomachi"
   },
-  "012":{
-    "code":"012",
-    "name":"川原田",
-    "kana":"カワラダ",
-    "hira":"かわらだ",
-    "roma":"kawarada"
-  },
   "013":{
     "code":"013",
     "name":"東",
     "kana":"ヒガシ",
     "hira":"ひがし",
     "roma":"higashi"
-  },
-  "015":{
-    "code":"015",
-    "name":"間々田",
-    "kana":"ママダ",
-    "hira":"ままだ",
-    "roma":"mamada"
   },
   "017":{
     "code":"017",

@@ -251,12 +251,6 @@
   kana: "ギヨウトクエキマエ"
   hira: "ぎようとくえきまえ"
   roma: giyoutokuekimae
-'110':
-  code: '110'
-  name: "大杉"
-  kana: "オオスギ"
-  hira: "おおすぎ"
-  roma: oosugi
 '113':
   code: '113'
   name: "小岩"
@@ -287,12 +281,6 @@
   kana: "ナギサ"
   hira: "なぎさ"
   roma: nagisa
-'126':
-  code: '126'
-  name: "本一色"
-  kana: "ホンイツシキ"
-  hira: "ほんいつしき"
-  roma: honitsushiki
 '132':
   code: '132'
   name: "葛西"

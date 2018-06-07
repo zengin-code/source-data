@@ -41,13 +41,6 @@
     "hira":"みなみ",
     "roma":"minami"
   },
-  "204":{
-    "code":"204",
-    "name":"酒折",
-    "kana":"サカオリ",
-    "hira":"さかおり",
-    "roma":"sakaori"
-  },
   "205":{
     "code":"205",
     "name":"西",
@@ -64,10 +57,10 @@
   },
   "208":{
     "code":"208",
-    "name":"南口",
-    "kana":"ミナミグチ",
-    "hira":"みなみぐち",
-    "roma":"minamiguchi"
+    "name":"青沼",
+    "kana":"アオヌマ",
+    "hira":"あおぬま",
+    "roma":"aonuma"
   },
   "210":{
     "code":"210",

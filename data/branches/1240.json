@@ -279,13 +279,6 @@
     "hira":"りゆうがさき",
     "roma":"riyuugasaki"
   },
-  "046":{
-    "code":"046",
-    "name":"牛久西",
-    "kana":"ウシクニシ",
-    "hira":"うしくにし",
-    "roma":"ushikunishi"
-  },
   "047":{
     "code":"047",
     "name":"藤代",
@@ -320,13 +313,6 @@
     "kana":"カシワ",
     "hira":"かしわ",
     "roma":"kashiwa"
-  },
-  "052":{
-    "code":"052",
-    "name":"牛久東",
-    "kana":"ウシクヒガシ",
-    "hira":"うしくひがし",
-    "roma":"ushikuhigashi"
   },
   "055":{
     "code":"055",

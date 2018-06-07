@@ -583,7 +583,7 @@
   roma: honkonshiyanhai
 '0413':
   code: '0413'
-  name: "スタンダードチャータード"
+  name: "スタンダード　チャータード"
   kana: "スタンダ－ド　チヤ－タ－ト"
   hira: "すたんだ－ど　ちや－た－と"
   roma: sutanda-do　chiya-ta-to
@@ -1076,9 +1076,9 @@
 '0623':
   code: '0623'
   name: "インテーザ・サンパオロ"
-  kana: "インテ－ザ．サンパウロ"
-  hira: "いんて－ざ．さんぱうろ"
-  roma: inte-za.sampauro
+  kana: "インテ－ザ．サンパオロ"
+  hira: "いんて－ざ．さんぱおろ"
+  roma: inte-za.sampaoro
 '0624':
   code: '0624'
   name: "國民"
