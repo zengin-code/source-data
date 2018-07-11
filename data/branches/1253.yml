@@ -257,6 +257,12 @@
   kana: "サイタマチユウオウ"
   hira: "さいたまちゆうおう"
   roma: saitamachiyuuou
+'045':
+  code: '045'
+  name: "西東京"
+  kana: "ニシトウキヨウ"
+  hira: "にしとうきよう"
+  roma: nishitoukiyou
 '070':
   code: '070'
   name: "本店"

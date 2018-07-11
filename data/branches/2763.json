@@ -85,10 +85,10 @@
   },
   "013":{
     "code":"013",
-    "name":"大善寺",
-    "kana":"ダイゼンジ",
-    "hira":"だいぜんじ",
-    "roma":"daizenji"
+    "name":"筑邦西",
+    "kana":"チクホウニシ",
+    "hira":"ちくほうにし",
+    "roma":"chikuhounishi"
   },
   "014":{
     "code":"014",
@@ -96,13 +96,6 @@
     "kana":"ミズマ",
     "hira":"みずま",
     "roma":"mizuma"
-  },
-  "015":{
-    "code":"015",
-    "name":"安武",
-    "kana":"ヤスタケ",
-    "hira":"やすたけ",
-    "roma":"yasutake"
   },
   "016":{
     "code":"016",

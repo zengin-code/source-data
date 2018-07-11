@@ -737,6 +737,12 @@
   kana: "ウメダ"
   hira: "うめだ"
   roma: umeda
+'930':
+  code: '930'
+  name: "新大阪"
+  kana: "シンオオサカ"
+  hira: "しんおおさか"
+  roma: shinoosaka
 '938':
   code: '938'
   name: "九条"
