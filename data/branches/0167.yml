@@ -431,12 +431,6 @@
   kana: "トウキヨウ"
   hira: "とうきよう"
   roma: toukiyou
-086:
-  code: 086
-  name: "瑞穂出張所"
-  kana: "ミズホ"
-  hira: "みずほ"
-  roma: mizuho
 088:
   code: 088
   name: "皆生通出張所"
@@ -469,7 +463,7 @@
   roma: jiyouhoku
 093:
   code: 093
-  name: "三朝"
+  name: "三朝出張所"
   kana: "ミササ"
   hira: "みささ"
   roma: misasa
@@ -535,7 +529,7 @@
   roma: totsutoriekinan
 '105':
   code: '105'
-  name: "加茂"
+  name: "加茂出張所"
   kana: "カモ"
   hira: "かも"
   roma: kamo
@@ -547,7 +541,7 @@
   roma: ootsu
 '107':
   code: '107'
-  name: "西伯"
+  name: "西伯出張所"
   kana: "サイハク"
   hira: "さいはく"
   roma: saihaku
@@ -773,12 +767,6 @@
   kana: "アラシマ"
   hira: "あらしま"
   roma: arashima
-'259':
-  code: '259'
-  name: "宝木代理店"
-  kana: "ホウギ"
-  hira: "ほうぎ"
-  roma: hougi
 '261':
   code: '261'
   name: "大森代理店"
@@ -797,12 +785,6 @@
   kana: "アイミ"
   hira: "あいみ"
   roma: aimi
-'274':
-  code: '274'
-  name: "五十猛代理店"
-  kana: "イソタケ"
-  hira: "いそたけ"
-  roma: isotake
 '275':
   code: '275'
   name: "国府出張所"

@@ -511,10 +511,10 @@
   roma: oritsukusu
 '0310':
   code: '0310'
-  name: "あおぞら信託"
-  kana: "アオゾラシンタク"
-  hira: "あおぞらしんたく"
-  roma: aozorashintaku
+  name: "ＧＭＯあおぞらネット"
+  kana: "ジ－エムオ－アオゾラネツト"
+  hira: "じ－えむお－あおぞらねつと"
+  roma: ji-emuo-aozoranetsuto
 '0311':
   code: '0311'
   name: "農中信託"
@@ -584,9 +584,9 @@
 '0413':
   code: '0413'
   name: "スタンダード　チャータード"
-  kana: "スタンダ－ド　チヤ－タ－ト"
-  hira: "すたんだ－ど　ちや－た－と"
-  roma: sutanda-do　chiya-ta-to
+  kana: "スタンダ－ドチヤ－タ－ド"
+  hira: "すたんだ－どちや－た－ど"
+  roma: sutanda-dochiya-ta-do
 '0414':
   code: '0414'
   name: "バークレイズ"
@@ -739,7 +739,7 @@
   roma: aienuji-　banku　enu
 0484:
   code: 0484
-  name: "ナショナル・オーストラリア・バンク・リミッテド"
+  name: "ナショナル・オーストラリア・バンク・リミテッド"
   kana: "ナシヨナル．オ－ストラリア．ハ"
   hira: "なしよなる．お－すとらりあ．は"
   roma: nashiyonaru.o-sutoraria.ha

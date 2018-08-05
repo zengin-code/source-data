@@ -1019,6 +1019,12 @@
   kana: "モリヤマ"
   hira: "もりやま"
   roma: moriyama
+'595':
+  code: '595'
+  name: "長浜"
+  kana: "ナガハマ"
+  hira: "ながはま"
+  roma: nagahama
 '801':
   code: '801'
   name: "ネットダイレクト"

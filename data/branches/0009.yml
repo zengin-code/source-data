@@ -673,7 +673,7 @@
   roma: tsukimino
 '192':
   code: '192'
-  name: "東豊中出張所"
+  name: "東豊中"
   kana: "ヒガシトヨナカ"
   hira: "ひがしとよなか"
   roma: higashitoyonaka
@@ -2297,6 +2297,12 @@
   kana: "イケシタ"
   hira: "いけした"
   roma: ikeshita
+'707':
+  code: '707'
+  name: "プレステイア"
+  kana: "プレステイア"
+  hira: "ぷれすていあ"
+  roma: puresuteia
 '708':
   code: '708'
   name: "大牟田"
@@ -2447,6 +2453,12 @@
   kana: "タチカワ"
   hira: "たちかわ"
   roma: tachikawa
+'743':
+  code: '743'
+  name: "汐留出張所"
+  kana: "シオドメ"
+  hira: "しおどめ"
+  roma: shiodome
 '747':
   code: '747'
   name: "東戸塚"
