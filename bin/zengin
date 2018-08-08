@@ -105,9 +105,9 @@ class ZenginCLI < Thor
         run("git push #{remote} master")
         run("git push -f --tags #{remote}")
 
-        CircleCi::Project.new('zengin-code', 'zengin-rb').build_branch('master', 'RELEASE_BUILD' => 'TRUE')
-        CircleCi::Project.new('zengin-code', 'zengin-js').build_branch('master', 'RELEASE_BUILD' => 'TRUE')
-        CircleCi::Project.new('zengin-code', 'zengin-py').build_branch('master', 'RELEASE_BUILD' => 'TRUE')
+        trigger_build('zengin-rb')
+        trigger_build('zengin-js')
+        trigger_build('zengin-py')
       end
     end
   end
@@ -171,6 +171,11 @@ class ZenginCLI < Thor
       strigified[k.to_s] = v.is_a?(Hash) ? stringify_keys(v) : v
     end
     strigified
+  end
+
+  def trigger_build(project)
+    ci = CircleCi::Project.new('zengin-code', project)
+    ci.build_branch('master', {}, build_parameters: { 'RELEASE_BUILD' => 'TRUE' })
   end
 end
 
