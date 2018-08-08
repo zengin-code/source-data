@@ -13,7 +13,7 @@ jobs:
             - v1-bundle-{{ .Branch }}-
       - restore_cache:
           keys:
-            - v1-cache-{{ .Branch }}
+            - v1-cache
       - run:
           name: Dependency
           command: |
@@ -32,7 +32,7 @@ jobs:
             mkdir -p cache
             cp data/src.zip cache/src.zip
       - save_cache:
-          key: v1-cache-{{ .Branch }}
+          key: v1-cache
           paths:
             - ~/source-data/cache
       - run:
