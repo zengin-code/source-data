@@ -90,6 +90,7 @@ class ZenginCLI < Thor
   desc 'ci', 'ci job'
   def ci
     now = Time.now
+    puts "Check and commit updates..."
 
     inside(ROOT_DIR) do
       run('git config user.email "zeny-man@zeny.io"')
