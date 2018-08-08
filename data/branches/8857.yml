@@ -1,115 +1,115 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "針尾"
-  kana: "ハリオ"
-  hira: "はりお"
+  name: 針尾
+  kana: ハリオ
+  hira: はりお
   roma: hario
-009:
-  code: 009
-  name: "北部中央"
-  kana: "ホクブチユウオウ"
-  hira: "ほくぶちゆうおう"
+'009':
+  code: '009'
+  name: 北部中央
+  kana: ホクブチユウオウ
+  hira: ほくぶちゆうおう
   roma: hokubuchiyuuou
 '010':
   code: '010'
-  name: "させぼ"
-  kana: "サセボ"
-  hira: "させぼ"
+  name: させぼ
+  kana: サセボ
+  hira: させぼ
   roma: sasebo
 '011':
   code: '011'
-  name: "相浦"
-  kana: "アイノウラ"
-  hira: "あいのうら"
+  name: 相浦
+  kana: アイノウラ
+  hira: あいのうら
   roma: ainoura
 '014':
   code: '014'
-  name: "宮"
-  kana: "ミヤ"
-  hira: "みや"
+  name: 宮
+  kana: ミヤ
+  hira: みや
   roma: miya
 '015':
   code: '015'
-  name: "南部中央"
-  kana: "ナンブチユウオウ"
-  hira: "なんぶちゆうおう"
+  name: 南部中央
+  kana: ナンブチユウオウ
+  hira: なんぶちゆうおう
   roma: nambuchiyuuou
 '016':
   code: '016'
-  name: "佐々"
-  kana: "サザ"
-  hira: "さざ"
+  name: 佐々
+  kana: サザ
+  hira: さざ
   roma: saza
 '017':
   code: '017'
-  name: "宇久"
-  kana: "ウク"
-  hira: "うく"
+  name: 宇久
+  kana: ウク
+  hira: うく
   roma: uku
-018:
-  code: 018
-  name: "小値賀"
-  kana: "オヂカ"
-  hira: "おぢか"
+'018':
+  code: '018'
+  name: 小値賀
+  kana: オヂカ
+  hira: おぢか
   roma: odika
 '024':
   code: '024'
-  name: "吉井"
-  kana: "ヨシイ"
-  hira: "よしい"
+  name: 吉井
+  kana: ヨシイ
+  hira: よしい
   roma: yoshii
 '026':
   code: '026'
-  name: "江迎鹿町"
-  kana: "エムカエシカマチ"
-  hira: "えむかえしかまち"
+  name: 江迎鹿町
+  kana: エムカエシカマチ
+  hira: えむかえしかまち
   roma: emukaeshikamachi
 '031':
   code: '031'
-  name: "御厨"
-  kana: "ミクリヤ"
-  hira: "みくりや"
+  name: 御厨
+  kana: ミクリヤ
+  hira: みくりや
   roma: mikuriya
 '032':
   code: '032'
-  name: "松浦"
-  kana: "マツウラ"
-  hira: "まつうら"
+  name: 松浦
+  kana: マツウラ
+  hira: まつうら
   roma: matsuura
 '036':
   code: '036'
-  name: "福島"
-  kana: "フクシマ"
-  hira: "ふくしま"
+  name: 福島
+  kana: フクシマ
+  hira: ふくしま
   roma: fukushima
-039:
-  code: 039
-  name: "生月"
-  kana: "イキツキ"
-  hira: "いきつき"
+'039':
+  code: '039'
+  name: 生月
+  kana: イキツキ
+  hira: いきつき
   roma: ikitsuki
 '041':
   code: '041'
-  name: "平戸"
-  kana: "ヒラド"
-  hira: "ひらど"
+  name: 平戸
+  kana: ヒラド
+  hira: ひらど
   roma: hirado
 '043':
   code: '043'
-  name: "平戸中南部"
-  kana: "ヒラドチユウナンブ"
-  hira: "ひらどちゆうなんぶ"
+  name: 平戸中南部
+  kana: ヒラドチユウナンブ
+  hira: ひらどちゆうなんぶ
   roma: hiradochiyuunambu
 '044':
   code: '044'
-  name: "大島"
-  kana: "オオシマ"
-  hira: "おおしま"
+  name: 大島
+  kana: オオシマ
+  hira: おおしま
   roma: ooshima

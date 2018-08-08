@@ -1,49 +1,49 @@
 ---
 '001':
   code: '001'
-  name: "佐々並"
-  kana: "ササナミ"
-  hira: "ささなみ"
+  name: 佐々並
+  kana: ササナミ
+  hira: ささなみ
   roma: sasanami
 '011':
   code: '011'
-  name: "萩"
-  kana: "ハギ"
-  hira: "はぎ"
+  name: 萩
+  kana: ハギ
+  hira: はぎ
   roma: hagi
 '035':
   code: '035'
-  name: "南萩"
-  kana: "ミナミハギ"
-  hira: "みなみはぎ"
+  name: 南萩
+  kana: ミナミハギ
+  hira: みなみはぎ
   roma: minamihagi
 '060':
   code: '060'
-  name: "阿中"
-  kana: "アチユウ"
-  hira: "あちゆう"
+  name: 阿中
+  kana: アチユウ
+  hira: あちゆう
   roma: achiyuu
 '065':
   code: '065'
-  name: "奈古大井"
-  kana: "ナゴオオイ"
-  hira: "なごおおい"
+  name: 奈古大井
+  kana: ナゴオオイ
+  hira: なごおおい
   roma: nagoooi
-081:
-  code: 081
-  name: "阿北"
-  kana: "アホク"
-  hira: "あほく"
+'081':
+  code: '081'
+  name: 阿北
+  kana: アホク
+  hira: あほく
   roma: ahoku
-083:
-  code: 083
-  name: "小川"
-  kana: "オガワ"
-  hira: "おがわ"
+'083':
+  code: '083'
+  name: 小川
+  kana: オガワ
+  hira: おがわ
   roma: ogawa
-088:
-  code: 088
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+'088':
+  code: '088'
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo

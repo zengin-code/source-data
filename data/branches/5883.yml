@@ -1,43 +1,43 @@
 ---
 '061':
   code: '061'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '064':
   code: '064'
-  name: "南部"
-  kana: "ナンブ"
-  hira: "なんぶ"
+  name: 南部
+  kana: ナンブ
+  hira: なんぶ
   roma: nambu
 '065':
   code: '065'
-  name: "北部"
-  kana: "ホクブ"
-  hira: "ほくぶ"
+  name: 北部
+  kana: ホクブ
+  hira: ほくぶ
   roma: hokubu
-068:
-  code: 068
-  name: "東部"
-  kana: "トウブ"
-  hira: "とうぶ"
+'068':
+  code: '068'
+  name: 東部
+  kana: トウブ
+  hira: とうぶ
   roma: toubu
-082:
-  code: 082
-  name: "三日市"
-  kana: "ミツカイチ"
-  hira: "みつかいち"
+'082':
+  code: '082'
+  name: 三日市
+  kana: ミツカイチ
+  hira: みつかいち
   roma: mitsukaichi
-083:
-  code: 083
-  name: "生地"
-  kana: "イクヂ"
-  hira: "いくぢ"
+'083':
+  code: '083'
+  name: 生地
+  kana: イクヂ
+  hira: いくぢ
   roma: ikudi
-086:
-  code: 086
-  name: "新三島"
-  kana: "シンミシマ"
-  hira: "しんみしま"
+'086':
+  code: '086'
+  name: 新三島
+  kana: シンミシマ
+  hira: しんみしま
   roma: shimmishima

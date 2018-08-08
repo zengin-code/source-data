@@ -1,61 +1,61 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "桜井"
-  kana: "サクライ"
-  hira: "さくらい"
+  name: 桜井
+  kana: サクライ
+  hira: さくらい
   roma: sakurai
 '003':
   code: '003'
-  name: "生地"
-  kana: "イクジ"
-  hira: "いくじ"
+  name: 生地
+  kana: イクジ
+  hira: いくじ
   roma: ikuji
 '004':
   code: '004'
-  name: "入善"
-  kana: "ニユウゼン"
-  hira: "にゆうぜん"
+  name: 入善
+  kana: ニユウゼン
+  hira: にゆうぜん
   roma: niyuuzen
 '005':
   code: '005'
-  name: "泊"
-  kana: "トマリ"
-  hira: "とまり"
+  name: 泊
+  kana: トマリ
+  hira: とまり
   roma: tomari
 '006':
   code: '006'
-  name: "魚津駅前"
-  kana: "ウオヅエキマエ"
-  hira: "うおづえきまえ"
+  name: 魚津駅前
+  kana: ウオヅエキマエ
+  hira: うおづえきまえ
   roma: uoduekimae
 '011':
   code: '011'
-  name: "水橋"
-  kana: "ミズハシ"
-  hira: "みずはし"
+  name: 水橋
+  kana: ミズハシ
+  hira: みずはし
   roma: mizuhashi
 '013':
   code: '013'
-  name: "新庄"
-  kana: "シンジヨウ"
-  hira: "しんじよう"
+  name: 新庄
+  kana: シンジヨウ
+  hira: しんじよう
   roma: shinjiyou
 '014':
   code: '014'
-  name: "富山"
-  kana: "トヤマ"
-  hira: "とやま"
+  name: 富山
+  kana: トヤマ
+  hira: とやま
   roma: toyama
 '021':
   code: '021'
-  name: "滑川営業部"
-  kana: "ナメリカワ"
-  hira: "なめりかわ"
+  name: 滑川営業部
+  kana: ナメリカワ
+  hira: なめりかわ
   roma: namerikawa

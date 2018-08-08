@@ -1,43 +1,43 @@
 ---
-008:
-  code: 008
-  name: "下妻"
-  kana: "シモツマ"
-  hira: "しもつま"
+'008':
+  code: '008'
+  name: 下妻
+  kana: シモツマ
+  hira: しもつま
   roma: shimotsuma
 '010':
   code: '010'
-  name: "八千代"
-  kana: "ヤチヨ"
-  hira: "やちよ"
+  name: 八千代
+  kana: ヤチヨ
+  hira: やちよ
   roma: yachiyo
 '016':
   code: '016'
-  name: "下妻千代川"
-  kana: "シモツマチヨカワ"
-  hira: "しもつまちよかわ"
+  name: 下妻千代川
+  kana: シモツマチヨカワ
+  hira: しもつまちよかわ
   roma: shimotsumachiyokawa
 '020':
   code: '020'
-  name: "石下"
-  kana: "イシゲ"
-  hira: "いしげ"
+  name: 石下
+  kana: イシゲ
+  hira: いしげ
   roma: ishige
 '025':
   code: '025'
-  name: "水海道東"
-  kana: "ミツカイドウヒガシ"
-  hira: "みつかいどうひがし"
+  name: 水海道東
+  kana: ミツカイドウヒガシ
+  hira: みつかいどうひがし
   roma: mitsukaidouhigashi
 '031':
   code: '031'
-  name: "水海道西"
-  kana: "ミツカイドウニシ"
-  hira: "みつかいどうにし"
+  name: 水海道西
+  kana: ミツカイドウニシ
+  hira: みつかいどうにし
   roma: mitsukaidounishi
 '100':
   code: '100'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten

@@ -1,91 +1,91 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "巻"
-  kana: "マキ"
-  hira: "まき"
+  name: 巻
+  kana: マキ
+  hira: まき
   roma: maki
 '006':
   code: '006'
-  name: "こしわ"
-  kana: "コシワ"
-  hira: "こしわ"
+  name: こしわ
+  kana: コシワ
+  hira: こしわ
   roma: koshiwa
 '010':
   code: '010'
-  name: "岩室"
-  kana: "イワムロ"
-  hira: "いわむろ"
+  name: 岩室
+  kana: イワムロ
+  hira: いわむろ
   roma: iwamuro
 '013':
   code: '013'
-  name: "弥彦"
-  kana: "ヤヒコ"
-  hira: "やひこ"
+  name: 弥彦
+  kana: ヤヒコ
+  hira: やひこ
   roma: yahiko
 '014':
   code: '014'
-  name: "分水"
-  kana: "ブンスイ"
-  hira: "ぶんすい"
+  name: 分水
+  kana: ブンスイ
+  hira: ぶんすい
   roma: bunsui
 '017':
   code: '017'
-  name: "吉田"
-  kana: "ヨシダ"
-  hira: "よしだ"
+  name: 吉田
+  kana: ヨシダ
+  hira: よしだ
   roma: yoshida
 '020':
   code: '020'
-  name: "黒埼"
-  kana: "クロサキ"
-  hira: "くろさき"
+  name: 黒埼
+  kana: クロサキ
+  hira: くろさき
   roma: kurosaki
 '021':
   code: '021'
-  name: "鳥原"
-  kana: "トツパラ"
-  hira: "とつぱら"
+  name: 鳥原
+  kana: トツパラ
+  hira: とつぱら
   roma: totsupara
 '023':
   code: '023'
-  name: "味方"
-  kana: "アジカタ"
-  hira: "あじかた"
+  name: 味方
+  kana: アジカタ
+  hira: あじかた
   roma: ajikata
 '024':
   code: '024'
-  name: "中央"
-  kana: "チユウオウ"
-  hira: "ちゆうおう"
+  name: 中央
+  kana: チユウオウ
+  hira: ちゆうおう
   roma: chiyuuou
 '026':
   code: '026'
-  name: "中之口"
-  kana: "ナカノクチ"
-  hira: "なかのくち"
+  name: 中之口
+  kana: ナカノクチ
+  hira: なかのくち
   roma: nakanokuchi
 '027':
   code: '027'
-  name: "西川"
-  kana: "ニシカワ"
-  hira: "にしかわ"
+  name: 西川
+  kana: ニシカワ
+  hira: にしかわ
   roma: nishikawa
-028:
-  code: 028
-  name: "燕"
-  kana: "ツバメ"
-  hira: "つばめ"
+'028':
+  code: '028'
+  name: 燕
+  kana: ツバメ
+  hira: つばめ
   roma: tsubame
 '030':
   code: '030'
-  name: "北"
-  kana: "キタ"
-  hira: "きた"
+  name: 北
+  kana: キタ
+  hira: きた
   roma: kita

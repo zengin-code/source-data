@@ -1,13 +1,13 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '101':
   code: '101'
-  name: "本町"
-  kana: "ホンマチ"
-  hira: "ほんまち"
+  name: 本町
+  kana: ホンマチ
+  hira: ほんまち
   roma: hommachi

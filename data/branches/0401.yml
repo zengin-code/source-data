@@ -1,19 +1,19 @@
 ---
 '730':
   code: '730'
-  name: "東京"
-  kana: "トウキヨウ"
-  hira: "とうきよう"
+  name: 東京
+  kana: トウキヨウ
+  hira: とうきよう
   roma: toukiyou
 '734':
   code: '734'
-  name: "大阪"
-  kana: "オオサカ"
-  hira: "おおさか"
+  name: 大阪
+  kana: オオサカ
+  hira: おおさか
   roma: oosaka
 '802':
   code: '802'
-  name: "ヤマブキ"
-  kana: "ヤマブキ"
-  hira: "やまぶき"
+  name: ヤマブキ
+  kana: ヤマブキ
+  hira: やまぶき
   roma: yamabuki

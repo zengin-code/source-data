@@ -1,13 +1,13 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
-009:
-  code: 009
-  name: "浜松"
-  kana: "ハママツ"
-  hira: "はままつ"
+'009':
+  code: '009'
+  name: 浜松
+  kana: ハママツ
+  hira: はままつ
   roma: hamamatsu

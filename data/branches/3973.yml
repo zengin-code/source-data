@@ -1,67 +1,67 @@
 ---
 '001':
   code: '001'
-  name: "萩野"
-  kana: "ハギノ"
-  hira: "はぎの"
+  name: 萩野
+  kana: ハギノ
+  hira: はぎの
   roma: hagino
 '002':
   code: '002'
-  name: "昭和"
-  kana: "シヨウワ"
-  hira: "しようわ"
+  name: 昭和
+  kana: シヨウワ
+  hira: しようわ
   roma: shiyouwa
 '003':
   code: '003'
-  name: "舟形"
-  kana: "フナガタ"
-  hira: "ふながた"
+  name: 舟形
+  kana: フナガタ
+  hira: ふながた
   roma: funagata
 '006':
   code: '006'
-  name: "最上"
-  kana: "モガミ"
-  hira: "もがみ"
+  name: 最上
+  kana: モガミ
+  hira: もがみ
   roma: mogami
 '010':
   code: '010'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '020':
   code: '020'
-  name: "大蔵"
-  kana: "オオクラ"
-  hira: "おおくら"
+  name: 大蔵
+  kana: オオクラ
+  hira: おおくら
   roma: ookura
 '021':
   code: '021'
-  name: "戸沢"
-  kana: "トザワ"
-  hira: "とざわ"
+  name: 戸沢
+  kana: トザワ
+  hira: とざわ
   roma: tozawa
 '022':
   code: '022'
-  name: "古口"
-  kana: "フルクチ"
-  hira: "ふるくち"
+  name: 古口
+  kana: フルクチ
+  hira: ふるくち
   roma: furukuchi
 '023':
   code: '023'
-  name: "鮭川"
-  kana: "サケカワ"
-  hira: "さけかわ"
+  name: 鮭川
+  kana: サケカワ
+  hira: さけかわ
   roma: sakekawa
 '024':
   code: '024'
-  name: "大豊"
-  kana: "オオトヨ"
-  hira: "おおとよ"
+  name: 大豊
+  kana: オオトヨ
+  hira: おおとよ
   roma: ootoyo
 '030':
   code: '030'
-  name: "真室川"
-  kana: "マムロガワ"
-  hira: "まむろがわ"
+  name: 真室川
+  kana: マムロガワ
+  hira: まむろがわ
   roma: mamurogawa

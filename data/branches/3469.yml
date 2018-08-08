@@ -1,25 +1,25 @@
 ---
 '001':
   code: '001'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo
 '002':
   code: '002'
-  name: "六ヶ所"
-  kana: "ロツカシヨ"
-  hira: "ろつかしよ"
+  name: 六ヶ所
+  kana: ロツカシヨ
+  hira: ろつかしよ
   roma: rotsukashiyo
 '005':
   code: '005'
-  name: "天間林"
-  kana: "テンマバヤシ"
-  hira: "てんまばやし"
+  name: 天間林
+  kana: テンマバヤシ
+  hira: てんまばやし
   roma: temmabayashi
 '010':
   code: '010'
-  name: "野辺地"
-  kana: "ノヘジ"
-  hira: "のへじ"
+  name: 野辺地
+  kana: ノヘジ
+  hira: のへじ
   roma: noheji

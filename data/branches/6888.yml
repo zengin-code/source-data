@@ -1,67 +1,67 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '003':
   code: '003'
-  name: "赤野井"
-  kana: "アカノイ"
-  hira: "あかのい"
+  name: 赤野井
+  kana: アカノイ
+  hira: あかのい
   roma: akanoi
 '004':
   code: '004'
-  name: "速野"
-  kana: "ハヤノ"
-  hira: "はやの"
+  name: 速野
+  kana: ハヤノ
+  hira: はやの
   roma: hayano
 '005':
   code: '005'
-  name: "中洲"
-  kana: "ナカス"
-  hira: "なかす"
+  name: 中洲
+  kana: ナカス
+  hira: なかす
   roma: nakasu
 '006':
   code: '006'
-  name: "河西"
-  kana: "カワニシ"
-  hira: "かわにし"
+  name: 河西
+  kana: カワニシ
+  hira: かわにし
   roma: kawanishi
 '100':
   code: '100'
-  name: "守山"
-  kana: "モリヤマ"
-  hira: "もりやま"
+  name: 守山
+  kana: モリヤマ
+  hira: もりやま
   roma: moriyama
 '120':
   code: '120'
-  name: "野洲"
-  kana: "ヤス"
-  hira: "やす"
+  name: 野洲
+  kana: ヤス
+  hira: やす
   roma: yasu
 '121':
   code: '121'
-  name: "祗王"
-  kana: "ギオウ"
-  hira: "ぎおう"
+  name: 祗王
+  kana: ギオウ
+  hira: ぎおう
   roma: giou
 '122':
   code: '122'
-  name: "篠原"
-  kana: "シノハラ"
-  hira: "しのはら"
+  name: 篠原
+  kana: シノハラ
+  hira: しのはら
   roma: shinohara
 '123':
   code: '123'
-  name: "三上"
-  kana: "ミカミ"
-  hira: "みかみ"
+  name: 三上
+  kana: ミカミ
+  hira: みかみ
   roma: mikami
 '130':
   code: '130'
-  name: "中主"
-  kana: "チユウズ"
-  hira: "ちゆうず"
+  name: 中主
+  kana: チユウズ
+  hira: ちゆうず
   roma: chiyuuzu

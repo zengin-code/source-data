@@ -1,91 +1,91 @@
 ---
 '501':
   code: '501'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '502':
   code: '502'
-  name: "彦根中央"
-  kana: "ヒコネチユウオウ"
-  hira: "ひこねちゆうおう"
+  name: 彦根中央
+  kana: ヒコネチユウオウ
+  hira: ひこねちゆうおう
   roma: hikonechiyuuou
 '507':
   code: '507'
-  name: "彦根東"
-  kana: "ヒコネヒガシ"
-  hira: "ひこねひがし"
+  name: 彦根東
+  kana: ヒコネヒガシ
+  hira: ひこねひがし
   roma: hikonehigashi
 '508':
   code: '508'
-  name: "鳥居本"
-  kana: "トリイモト"
-  hira: "とりいもと"
+  name: 鳥居本
+  kana: トリイモト
+  hira: とりいもと
   roma: toriimoto
 '510':
   code: '510'
-  name: "彦根南"
-  kana: "ヒコネミナミ"
-  hira: "ひこねみなみ"
+  name: 彦根南
+  kana: ヒコネミナミ
+  hira: ひこねみなみ
   roma: hikoneminami
 '513':
   code: '513'
-  name: "彦根北"
-  kana: "ヒコネキタ"
-  hira: "ひこねきた"
+  name: 彦根北
+  kana: ヒコネキタ
+  hira: ひこねきた
   roma: hikonekita
 '521':
   code: '521'
-  name: "秦荘"
-  kana: "ハタシヨウ"
-  hira: "はたしよう"
+  name: 秦荘
+  kana: ハタシヨウ
+  hira: はたしよう
   roma: hatashiyou
 '524':
   code: '524'
-  name: "愛知川"
-  kana: "エチガワ"
-  hira: "えちがわ"
+  name: 愛知川
+  kana: エチガワ
+  hira: えちがわ
   roma: echigawa
 '530':
   code: '530'
-  name: "ふれあい"
-  kana: "フレアイ"
-  hira: "ふれあい"
+  name: ふれあい
+  kana: フレアイ
+  hira: ふれあい
   roma: fureai
 '532':
   code: '532'
-  name: "稲枝"
-  kana: "イナエ"
-  hira: "いなえ"
+  name: 稲枝
+  kana: イナエ
+  hira: いなえ
   roma: inae
 '541':
   code: '541'
-  name: "多賀"
-  kana: "タガ"
-  hira: "たが"
+  name: 多賀
+  kana: タガ
+  hira: たが
   roma: taga
 '551':
   code: '551'
-  name: "大滝"
-  kana: "オオタキ"
-  hira: "おおたき"
+  name: 大滝
+  kana: オオタキ
+  hira: おおたき
   roma: ootaki
 '552':
   code: '552'
-  name: "甲良"
-  kana: "コウラ"
-  hira: "こうら"
+  name: 甲良
+  kana: コウラ
+  hira: こうら
   roma: koura
 '554':
   code: '554'
-  name: "河瀬亀山"
-  kana: "カワセカメヤマ"
-  hira: "かわせかめやま"
+  name: 河瀬亀山
+  kana: カワセカメヤマ
+  hira: かわせかめやま
   roma: kawasekameyama
 '556':
   code: '556'
-  name: "豊郷"
-  kana: "トヨサト"
-  hira: "とよさと"
+  name: 豊郷
+  kana: トヨサト
+  hira: とよさと
   roma: toyosato

@@ -1,85 +1,85 @@
 ---
 '010':
   code: '010'
-  name: "笠岡南"
-  kana: "カサオカミナミ"
-  hira: "かさおかみなみ"
+  name: 笠岡南
+  kana: カサオカミナミ
+  hira: かさおかみなみ
   roma: kasaokaminami
 '015':
   code: '015'
-  name: "笠岡"
-  kana: "カサオカ"
-  hira: "かさおか"
+  name: 笠岡
+  kana: カサオカ
+  hira: かさおか
   roma: kasaoka
 '016':
   code: '016'
-  name: "笠岡北"
-  kana: "カサオカキタ"
-  hira: "かさおかきた"
+  name: 笠岡北
+  kana: カサオカキタ
+  hira: かさおかきた
   roma: kasaokakita
 '017':
   code: '017'
-  name: "白石島"
-  kana: "シライシジマ"
-  hira: "しらいしじま"
+  name: 白石島
+  kana: シライシジマ
+  hira: しらいしじま
   roma: shiraishijima
 '032':
   code: '032'
-  name: "矢掛西"
-  kana: "ヤカゲニシ"
-  hira: "やかげにし"
+  name: 矢掛西
+  kana: ヤカゲニシ
+  hira: やかげにし
   roma: yakagenishi
 '034':
   code: '034'
-  name: "矢掛"
-  kana: "ヤカゲ"
-  hira: "やかげ"
+  name: 矢掛
+  kana: ヤカゲ
+  hira: やかげ
   roma: yakage
 '040':
   code: '040'
-  name: "倉敷"
-  kana: "クラシキ"
-  hira: "くらしき"
+  name: 倉敷
+  kana: クラシキ
+  hira: くらしき
   roma: kurashiki
 '047':
   code: '047'
-  name: "中洲"
-  kana: "ナカス"
-  hira: "なかす"
+  name: 中洲
+  kana: ナカス
+  hira: なかす
   roma: nakasu
-049:
-  code: 049
-  name: "幸町"
-  kana: "サイワイチヨウ"
-  hira: "さいわいちよう"
+'049':
+  code: '049'
+  name: 幸町
+  kana: サイワイチヨウ
+  hira: さいわいちよう
   roma: saiwaichiyou
 '051':
   code: '051'
-  name: "福田"
-  kana: "フクダ"
-  hira: "ふくだ"
+  name: 福田
+  kana: フクダ
+  hira: ふくだ
   roma: fukuda
 '052':
   code: '052'
-  name: "連島"
-  kana: "ツラジマ"
-  hira: "つらじま"
+  name: 連島
+  kana: ツラジマ
+  hira: つらじま
   roma: tsurajima
 '053':
   code: '053'
-  name: "西阿知"
-  kana: "ニシアチ"
-  hira: "にしあち"
+  name: 西阿知
+  kana: ニシアチ
+  hira: にしあち
   roma: nishiachi
 '054':
   code: '054'
-  name: "児島駅前"
-  kana: "コジマエキマエ"
-  hira: "こじまえきまえ"
+  name: 児島駅前
+  kana: コジマエキマエ
+  hira: こじまえきまえ
   roma: kojimaekimae
 '101':
   code: '101'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten

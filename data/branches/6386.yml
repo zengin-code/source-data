@@ -1,103 +1,103 @@
 ---
 '001':
   code: '001'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo
 '002':
   code: '002'
-  name: "東山"
-  kana: "ヒガシヤマ"
-  hira: "ひがしやま"
+  name: 東山
+  kana: ヒガシヤマ
+  hira: ひがしやま
   roma: higashiyama
 '003':
   code: '003'
-  name: "日坂"
-  kana: "ニツサカ"
-  hira: "につさか"
+  name: 日坂
+  kana: ニツサカ
+  hira: につさか
   roma: nitsusaka
 '004':
   code: '004'
-  name: "東山口"
-  kana: "ヒガシヤマグチ"
-  hira: "ひがしやまぐち"
+  name: 東山口
+  kana: ヒガシヤマグチ
+  hira: ひがしやまぐち
   roma: higashiyamaguchi
 '006':
   code: '006'
-  name: "西郷"
-  kana: "サイゴウ"
-  hira: "さいごう"
+  name: 西郷
+  kana: サイゴウ
+  hira: さいごう
   roma: saigou
-008:
-  code: 008
-  name: "原田"
-  kana: "ハラダ"
-  hira: "はらだ"
+'008':
+  code: '008'
+  name: 原田
+  kana: ハラダ
+  hira: はらだ
   roma: harada
-009:
-  code: 009
-  name: "原谷"
-  kana: "ハラヤ"
-  hira: "はらや"
+'009':
+  code: '009'
+  name: 原谷
+  kana: ハラヤ
+  hira: はらや
   roma: haraya
 '010':
   code: '010'
-  name: "和田岡"
-  kana: "ワダオカ"
-  hira: "わだおか"
+  name: 和田岡
+  kana: ワダオカ
+  hira: わだおか
   roma: wadaoka
 '011':
   code: '011'
-  name: "桜木"
-  kana: "サクラギ"
-  hira: "さくらぎ"
+  name: 桜木
+  kana: サクラギ
+  hira: さくらぎ
   roma: sakuragi
 '012':
   code: '012'
-  name: "曽我"
-  kana: "ソガ"
-  hira: "そが"
+  name: 曽我
+  kana: ソガ
+  hira: そが
   roma: soga
 '013':
   code: '013'
-  name: "西南郷"
-  kana: "ニシナンゴウ"
-  hira: "にしなんごう"
+  name: 西南郷
+  kana: ニシナンゴウ
+  hira: にしなんごう
   roma: nishinangou
 '014':
   code: '014'
-  name: "掛川"
-  kana: "カケガワ"
-  hira: "かけがわ"
+  name: 掛川
+  kana: カケガワ
+  hira: かけがわ
   roma: kakegawa
 '016':
   code: '016'
-  name: "西山口"
-  kana: "ニシヤマグチ"
-  hira: "にしやまぐち"
+  name: 西山口
+  kana: ニシヤマグチ
+  hira: にしやまぐち
   roma: nishiyamaguchi
 '017':
   code: '017'
-  name: "上内田"
-  kana: "カミウチダ"
-  hira: "かみうちだ"
+  name: 上内田
+  kana: カミウチダ
+  hira: かみうちだ
   roma: kamiuchida
-019:
-  code: 019
-  name: "西部"
-  kana: "セイブ"
-  hira: "せいぶ"
+'019':
+  code: '019'
+  name: 西部
+  kana: セイブ
+  hira: せいぶ
   roma: seibu
 '021':
   code: '021'
-  name: "南郷"
-  kana: "ナンゴウ"
-  hira: "なんごう"
+  name: 南郷
+  kana: ナンゴウ
+  hira: なんごう
   roma: nangou
 '100':
   code: '100'
-  name: "やよい"
-  kana: "ヤヨイ"
-  hira: "やよい"
+  name: やよい
+  kana: ヤヨイ
+  hira: やよい
   roma: yayoi

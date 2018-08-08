@@ -1,19 +1,19 @@
 ---
 '221':
   code: '221'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '222':
   code: '222'
-  name: "南"
-  kana: "ミナミ"
-  hira: "みなみ"
+  name: 南
+  kana: ミナミ
+  hira: みなみ
   roma: minami
 '225':
   code: '225'
-  name: "中央"
-  kana: "チユウオウ"
-  hira: "ちゆうおう"
+  name: 中央
+  kana: チユウオウ
+  hira: ちゆうおう
   roma: chiyuuou

@@ -1,55 +1,55 @@
 ---
 '001':
   code: '001'
-  name: "東"
-  kana: "ヒガシ"
-  hira: "ひがし"
+  name: 東
+  kana: ヒガシ
+  hira: ひがし
   roma: higashi
 '002':
   code: '002'
-  name: "金田"
-  kana: "カナダ"
-  hira: "かなだ"
+  name: 金田
+  kana: カナダ
+  hira: かなだ
   roma: kanada
 '003':
   code: '003'
-  name: "香春"
-  kana: "カワラ"
-  hira: "かわら"
+  name: 香春
+  kana: カワラ
+  hira: かわら
   roma: kawara
 '004':
   code: '004'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '005':
   code: '005'
-  name: "西"
-  kana: "ニシ"
-  hira: "にし"
+  name: 西
+  kana: ニシ
+  hira: にし
   roma: nishi
 '006':
   code: '006'
-  name: "添田"
-  kana: "ソエダ"
-  hira: "そえだ"
+  name: 添田
+  kana: ソエダ
+  hira: そえだ
   roma: soeda
 '007':
   code: '007'
-  name: "赤池"
-  kana: "アカイケ"
-  hira: "あかいけ"
+  name: 赤池
+  kana: アカイケ
+  hira: あかいけ
   roma: akaike
-008:
-  code: 008
-  name: "行橋"
-  kana: "ユクハシ"
-  hira: "ゆくはし"
+'008':
+  code: '008'
+  name: 行橋
+  kana: ユクハシ
+  hira: ゆくはし
   roma: yukuhashi
 '010':
   code: '010'
-  name: "方城"
-  kana: "ホウジヨウ"
-  hira: "ほうじよう"
+  name: 方城
+  kana: ホウジヨウ
+  hira: ほうじよう
   roma: houjiyou

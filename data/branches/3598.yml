@@ -1,55 +1,55 @@
 ---
 '012':
   code: '012'
-  name: "大船渡"
-  kana: "オオフナト"
-  hira: "おおふなと"
+  name: 大船渡
+  kana: オオフナト
+  hira: おおふなと
   roma: oofunato
 '013':
   code: '013'
-  name: "末崎"
-  kana: "マツサキ"
-  hira: "まつさき"
+  name: 末崎
+  kana: マツサキ
+  hira: まつさき
   roma: matsusaki
 '014':
   code: '014'
-  name: "赤崎"
-  kana: "アカサキ"
-  hira: "あかさき"
+  name: 赤崎
+  kana: アカサキ
+  hira: あかさき
   roma: akasaki
 '015':
   code: '015'
-  name: "猪川"
-  kana: "イカワ"
-  hira: "いかわ"
+  name: 猪川
+  kana: イカワ
+  hira: いかわ
   roma: ikawa
-018:
-  code: 018
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+'018':
+  code: '018'
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
-028:
-  code: 028
-  name: "三陸"
-  kana: "サンリク"
-  hira: "さんりく"
+'028':
+  code: '028'
+  name: 三陸
+  kana: サンリク
+  hira: さんりく
   roma: sanriku
 '101':
   code: '101'
-  name: "高田"
-  kana: "タカタ"
-  hira: "たかた"
+  name: 高田
+  kana: タカタ
+  hira: たかた
   roma: takata
 '103':
   code: '103'
-  name: "竹駒"
-  kana: "タケコマ"
-  hira: "たけこま"
+  name: 竹駒
+  kana: タケコマ
+  hira: たけこま
   roma: takekoma
 '104':
   code: '104'
-  name: "世田米"
-  kana: "セタマイ"
-  hira: "せたまい"
+  name: 世田米
+  kana: セタマイ
+  hira: せたまい
   roma: setamai

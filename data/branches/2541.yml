@@ -1,109 +1,109 @@
 ---
 '001':
   code: '001'
-  name: "平野"
-  kana: "ヒラノ"
-  hira: "ひらの"
+  name: 平野
+  kana: ヒラノ
+  hira: ひらの
   roma: hirano
 '005':
   code: '005'
-  name: "田辺"
-  kana: "タナベ"
-  hira: "たなべ"
+  name: 田辺
+  kana: タナベ
+  hira: たなべ
   roma: tanabe
 '006':
   code: '006'
-  name: "堺"
-  kana: "サカイ"
-  hira: "さかい"
+  name: 堺
+  kana: サカイ
+  hira: さかい
   roma: sakai
 '007':
   code: '007'
-  name: "道明寺"
-  kana: "ドウミヨウジ"
-  hira: "どうみようじ"
+  name: 道明寺
+  kana: ドウミヨウジ
+  hira: どうみようじ
   roma: doumiyouji
 '010':
   code: '010'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '011':
   code: '011'
-  name: "香里"
-  kana: "コウリ"
-  hira: "こうり"
+  name: 香里
+  kana: コウリ
+  hira: こうり
   roma: kouri
 '013':
   code: '013'
-  name: "門真"
-  kana: "カドマ"
-  hira: "かどま"
+  name: 門真
+  kana: カドマ
+  hira: かどま
   roma: kadoma
 '015':
   code: '015'
-  name: "大正"
-  kana: "タイシヨウ"
-  hira: "たいしよう"
+  name: 大正
+  kana: タイシヨウ
+  hira: たいしよう
   roma: taishiyou
 '016':
   code: '016'
-  name: "東大阪"
-  kana: "ヒガシオオサカ"
-  hira: "ひがしおおさか"
+  name: 東大阪
+  kana: ヒガシオオサカ
+  hira: ひがしおおさか
   roma: higashioosaka
 '017':
   code: '017'
-  name: "大東"
-  kana: "ダイトウ"
-  hira: "だいとう"
+  name: 大東
+  kana: ダイトウ
+  hira: だいとう
   roma: daitou
 '021':
   code: '021'
-  name: "岸和田"
-  kana: "キシワダ"
-  hira: "きしわだ"
+  name: 岸和田
+  kana: キシワダ
+  hira: きしわだ
   roma: kishiwada
 '022':
   code: '022'
-  name: "高石"
-  kana: "タカイシ"
-  hira: "たかいし"
+  name: 高石
+  kana: タカイシ
+  hira: たかいし
   roma: takaishi
 '023':
   code: '023'
-  name: "松原"
-  kana: "マツバラ"
-  hira: "まつばら"
+  name: 松原
+  kana: マツバラ
+  hira: まつばら
   roma: matsubara
 '024':
   code: '024'
-  name: "藤井寺"
-  kana: "フジイデラ"
-  hira: "ふじいでら"
+  name: 藤井寺
+  kana: フジイデラ
+  hira: ふじいでら
   roma: fujiidera
 '025':
   code: '025'
-  name: "北野田"
-  kana: "キタノダ"
-  hira: "きたのだ"
+  name: 北野田
+  kana: キタノダ
+  hira: きたのだ
   roma: kitanoda
 '026':
   code: '026'
-  name: "河内長野"
-  kana: "カワチナガノ"
-  hira: "かわちながの"
+  name: 河内長野
+  kana: カワチナガノ
+  hira: かわちながの
   roma: kawachinagano
 '027':
   code: '027'
-  name: "富田林"
-  kana: "トンダバヤシ"
-  hira: "とんだばやし"
+  name: 富田林
+  kana: トンダバヤシ
+  hira: とんだばやし
   roma: tondabayashi
-028:
-  code: 028
-  name: "天美"
-  kana: "アマミ"
-  hira: "あまみ"
+'028':
+  code: '028'
+  name: 天美
+  kana: アマミ
+  hira: あまみ
   roma: amami

@@ -1,181 +1,181 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '003':
   code: '003'
-  name: "新宿南口"
-  kana: "シンジユクミナミグチ"
-  hira: "しんじゆくみなみぐち"
+  name: 新宿南口
+  kana: シンジユクミナミグチ
+  hira: しんじゆくみなみぐち
   roma: shinjiyukuminamiguchi
 '020':
   code: '020'
-  name: "青山"
-  kana: "アオヤマ"
-  hira: "あおやま"
+  name: 青山
+  kana: アオヤマ
+  hira: あおやま
   roma: aoyama
 '021':
   code: '021'
-  name: "大手町"
-  kana: "オオテマチ"
-  hira: "おおてまち"
+  name: 大手町
+  kana: オオテマチ
+  hira: おおてまち
   roma: ootemachi
 '022':
   code: '022'
-  name: "銀座"
-  kana: "ギンザ"
-  hira: "ぎんざ"
+  name: 銀座
+  kana: ギンザ
+  hira: ぎんざ
   roma: ginza
 '024':
   code: '024'
-  name: "心斎橋"
-  kana: "シンサイバシ"
-  hira: "しんさいばし"
+  name: 心斎橋
+  kana: シンサイバシ
+  hira: しんさいばし
   roma: shinsaibashi
 '025':
   code: '025'
-  name: "梅田"
-  kana: "ウメダ"
-  hira: "うめだ"
+  name: 梅田
+  kana: ウメダ
+  hira: うめだ
   roma: umeda
-029:
-  code: 029
-  name: "立川"
-  kana: "タチカワ"
-  hira: "たちかわ"
+'029':
+  code: '029'
+  name: 立川
+  kana: タチカワ
+  hira: たちかわ
   roma: tachikawa
 '030':
   code: '030'
-  name: "五反田"
-  kana: "ゴタンダ"
-  hira: "ごたんだ"
+  name: 五反田
+  kana: ゴタンダ
+  hira: ごたんだ
   roma: gotanda
 '033':
   code: '033'
-  name: "渋谷"
-  kana: "シブヤ"
-  hira: "しぶや"
+  name: 渋谷
+  kana: シブヤ
+  hira: しぶや
   roma: shibuya
 '035':
   code: '035'
-  name: "札幌"
-  kana: "サツポロ"
-  hira: "さつぽろ"
+  name: 札幌
+  kana: サツポロ
+  hira: さつぽろ
   roma: satsuporo
 '037':
   code: '037'
-  name: "池袋"
-  kana: "イケブクロ"
-  hira: "いけぶくろ"
+  name: 池袋
+  kana: イケブクロ
+  hira: いけぶくろ
   roma: ikebukuro
-038:
-  code: 038
-  name: "広尾"
-  kana: "ヒロオ"
-  hira: "ひろお"
+'038':
+  code: '038'
+  name: 広尾
+  kana: ヒロオ
+  hira: ひろお
   roma: hiroo
 '040':
   code: '040'
-  name: "新宿東口"
-  kana: "シンジユクヒガシグチ"
-  hira: "しんじゆくひがしぐち"
+  name: 新宿東口
+  kana: シンジユクヒガシグチ
+  hira: しんじゆくひがしぐち
   roma: shinjiyukuhigashiguchi
 '043':
   code: '043'
-  name: "京都"
-  kana: "キヨウト"
-  hira: "きようと"
+  name: 京都
+  kana: キヨウト
+  hira: きようと
   roma: kiyouto
 '045':
   code: '045'
-  name: "福岡"
-  kana: "フクオカ"
-  hira: "ふくおか"
+  name: 福岡
+  kana: フクオカ
+  hira: ふくおか
   roma: fukuoka
 '046':
   code: '046'
-  name: "千葉"
-  kana: "チバ"
-  hira: "ちば"
+  name: 千葉
+  kana: チバ
+  hira: ちば
   roma: chiba
 '047':
   code: '047'
-  name: "浦和"
-  kana: "ウラワ"
-  hira: "うらわ"
+  name: 浦和
+  kana: ウラワ
+  hira: うらわ
   roma: urawa
-048:
-  code: 048
-  name: "芦屋"
-  kana: "アシヤ"
-  hira: "あしや"
+'048':
+  code: '048'
+  name: 芦屋
+  kana: アシヤ
+  hira: あしや
   roma: ashiya
-049:
-  code: 049
-  name: "大阪駅前"
-  kana: "オオサカエキマエ"
-  hira: "おおさかえきまえ"
+'049':
+  code: '049'
+  name: 大阪駅前
+  kana: オオサカエキマエ
+  hira: おおさかえきまえ
   roma: oosakaekimae
 '052':
   code: '052'
-  name: "日本橋"
-  kana: "ニホンバシ"
-  hira: "にほんばし"
+  name: 日本橋
+  kana: ニホンバシ
+  hira: にほんばし
   roma: nihombashi
 '071':
   code: '071'
-  name: "藤沢出張所"
-  kana: "フジサワ"
-  hira: "ふじさわ"
+  name: 藤沢出張所
+  kana: フジサワ
+  hira: ふじさわ
   roma: fujisawa
 '072':
   code: '072'
-  name: "自由が丘出張所"
-  kana: "ジユウガオカ"
-  hira: "じゆうがおか"
+  name: 自由が丘出張所
+  kana: ジユウガオカ
+  hira: じゆうがおか
   roma: jiyuugaoka
 '073':
   code: '073'
-  name: "名古屋駅前"
-  kana: "ナゴヤエキマエ"
-  hira: "なごやえきまえ"
+  name: 名古屋駅前
+  kana: ナゴヤエキマエ
+  hira: なごやえきまえ
   roma: nagoyaekimae
 '075':
   code: '075'
-  name: "青葉台出張所"
-  kana: "アオバダイ"
-  hira: "あおばだい"
+  name: 青葉台出張所
+  kana: アオバダイ
+  hira: あおばだい
   roma: aobadai
-090:
-  code: 090
-  name: "インターネット"
-  kana: "インタ－ネツト"
-  hira: "いんた－ねつと"
+'090':
+  code: '090'
+  name: インターネット
+  kana: インタ－ネツト
+  hira: いんた－ねつと
   roma: inta-netsuto
 '731':
   code: '731'
-  name: "赤坂"
-  kana: "アカサカ"
-  hira: "あかさか"
+  name: 赤坂
+  kana: アカサカ
+  hira: あかさか
   roma: akasaka
 '732':
   code: '732'
-  name: "名古屋"
-  kana: "ナゴヤ"
-  hira: "なごや"
+  name: 名古屋
+  kana: ナゴヤ
+  hira: なごや
   roma: nagoya
 '735':
   code: '735'
-  name: "神戸"
-  kana: "コウベ"
-  hira: "こうべ"
+  name: 神戸
+  kana: コウベ
+  hira: こうべ
   roma: koube
 '736':
   code: '736'
-  name: "横浜"
-  kana: "ヨコハマ"
-  hira: "よこはま"
+  name: 横浜
+  kana: ヨコハマ
+  hira: よこはま
   roma: yokohama

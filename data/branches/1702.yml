@@ -1,91 +1,91 @@
 ---
 '002':
   code: '002'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '003':
   code: '003'
-  name: "本町"
-  kana: "ホンマチ"
-  hira: "ほんまち"
+  name: 本町
+  kana: ホンマチ
+  hira: ほんまち
   roma: hommachi
 '004':
   code: '004'
-  name: "東"
-  kana: "ヒガシ"
-  hira: "ひがし"
+  name: 東
+  kana: ヒガシ
+  hira: ひがし
   roma: higashi
 '005':
   code: '005'
-  name: "西"
-  kana: "ニシ"
-  hira: "にし"
+  name: 西
+  kana: ニシ
+  hira: にし
   roma: nishi
-009:
-  code: 009
-  name: "南出張所"
-  kana: "ミナミ"
-  hira: "みなみ"
+'009':
+  code: '009'
+  name: 南出張所
+  kana: ミナミ
+  hira: みなみ
   roma: minami
 '011':
   code: '011'
-  name: "境港"
-  kana: "サカイミナト"
-  hira: "さかいみなと"
+  name: 境港
+  kana: サカイミナト
+  hira: さかいみなと
   roma: sakaiminato
 '012':
   code: '012'
-  name: "淀江"
-  kana: "ヨドエ"
-  hira: "よどえ"
+  name: 淀江
+  kana: ヨドエ
+  hira: よどえ
   roma: yodoe
 '017':
   code: '017'
-  name: "赤碕出張所"
-  kana: "アカサキ"
-  hira: "あかさき"
+  name: 赤碕出張所
+  kana: アカサキ
+  hira: あかさき
   roma: akasaki
-018:
-  code: 018
-  name: "安来"
-  kana: "ヤスギ"
-  hira: "やすぎ"
+'018':
+  code: '018'
+  name: 安来
+  kana: ヤスギ
+  hira: やすぎ
   roma: yasugi
 '020':
   code: '020'
-  name: "東出雲"
-  kana: "ヒガシイズモ"
-  hira: "ひがしいずも"
+  name: 東出雲
+  kana: ヒガシイズモ
+  hira: ひがしいずも
   roma: higashiizumo
 '021':
   code: '021'
-  name: "松江"
-  kana: "マツエ"
-  hira: "まつえ"
+  name: 松江
+  kana: マツエ
+  hira: まつえ
   roma: matsue
 '022':
   code: '022'
-  name: "松江北"
-  kana: "マツエキタ"
-  hira: "まつえきた"
+  name: 松江北
+  kana: マツエキタ
+  hira: まつえきた
   roma: matsuekita
 '023':
   code: '023'
-  name: "北"
-  kana: "キタ"
-  hira: "きた"
+  name: 北
+  kana: キタ
+  hira: きた
   roma: kita
 '024':
   code: '024'
-  name: "弓ヶ浜"
-  kana: "ユミガハマ"
-  hira: "ゆみがはま"
+  name: 弓ヶ浜
+  kana: ユミガハマ
+  hira: ゆみがはま
   roma: yumigahama
 '026':
   code: '026'
-  name: "日野橋"
-  kana: "ヒノバシ"
-  hira: "ひのばし"
+  name: 日野橋
+  kana: ヒノバシ
+  hira: ひのばし
   roma: hinobashi

@@ -1,85 +1,85 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '007':
   code: '007'
-  name: "しろね南"
-  kana: "シロネミナミ"
-  hira: "しろねみなみ"
+  name: しろね南
+  kana: シロネミナミ
+  hira: しろねみなみ
   roma: shironeminami
 '010':
   code: '010'
-  name: "しろね北"
-  kana: "シロネキタ"
-  hira: "しろねきた"
+  name: しろね北
+  kana: シロネキタ
+  hira: しろねきた
   roma: shironekita
 '011':
   code: '011'
-  name: "五泉"
-  kana: "ゴセン"
-  hira: "ごせん"
+  name: 五泉
+  kana: ゴセン
+  hira: ごせん
   roma: gosen
 '012':
   code: '012'
-  name: "村松"
-  kana: "ムラマツ"
-  hira: "むらまつ"
+  name: 村松
+  kana: ムラマツ
+  hira: むらまつ
   roma: muramatsu
 '013':
   code: '013'
-  name: "亀田"
-  kana: "カメダ"
-  hira: "かめだ"
+  name: 亀田
+  kana: カメダ
+  hira: かめだ
   roma: kameda
 '014':
   code: '014'
-  name: "横越"
-  kana: "ヨコゴシ"
-  hira: "よこごし"
+  name: 横越
+  kana: ヨコゴシ
+  hira: よこごし
   roma: yokogoshi
 '015':
   code: '015'
-  name: "阿賀"
-  kana: "アガ"
-  hira: "あが"
+  name: 阿賀
+  kana: アガ
+  hira: あが
   roma: aga
 '016':
   code: '016'
-  name: "三川出張所"
-  kana: "ミカワ"
-  hira: "みかわ"
+  name: 三川出張所
+  kana: ミカワ
+  hira: みかわ
   roma: mikawa
 '017':
   code: '017'
-  name: "坂井輪"
-  kana: "サカイワ"
-  hira: "さかいわ"
+  name: 坂井輪
+  kana: サカイワ
+  hira: さかいわ
   roma: sakaiwa
-018:
-  code: 018
-  name: "小針出張所"
-  kana: "コバリ"
-  hira: "こばり"
+'018':
+  code: '018'
+  name: 小針出張所
+  kana: コバリ
+  hira: こばり
   roma: kobari
-019:
-  code: 019
-  name: "内野町"
-  kana: "ウチノマチ"
-  hira: "うちのまち"
+'019':
+  code: '019'
+  name: 内野町
+  kana: ウチノマチ
+  hira: うちのまち
   roma: uchinomachi
 '020':
   code: '020'
-  name: "赤塚"
-  kana: "アカツカ"
-  hira: "あかつか"
+  name: 赤塚
+  kana: アカツカ
+  hira: あかつか
   roma: akatsuka
 '021':
   code: '021'
-  name: "中野小屋"
-  kana: "ナカノコヤ"
-  hira: "なかのこや"
+  name: 中野小屋
+  kana: ナカノコヤ
+  hira: なかのこや
   roma: nakanokoya

@@ -1,61 +1,61 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '006':
   code: '006'
-  name: "相川"
-  kana: "アイカワ"
-  hira: "あいかわ"
+  name: 相川
+  kana: アイカワ
+  hira: あいかわ
   roma: aikawa
 '010':
   code: '010'
-  name: "佐和田"
-  kana: "サワダ"
-  hira: "さわだ"
+  name: 佐和田
+  kana: サワダ
+  hira: さわだ
   roma: sawada
 '015':
   code: '015'
-  name: "金井"
-  kana: "カナイ"
-  hira: "かない"
+  name: 金井
+  kana: カナイ
+  hira: かない
   roma: kanai
 '022':
   code: '022'
-  name: "新穂"
-  kana: "ニイボ"
-  hira: "にいぼ"
+  name: 新穂
+  kana: ニイボ
+  hira: にいぼ
   roma: niibo
 '024':
   code: '024'
-  name: "畑野"
-  kana: "ハタノ"
-  hira: "はたの"
+  name: 畑野
+  kana: ハタノ
+  hira: はたの
   roma: hatano
-029:
-  code: 029
-  name: "真野"
-  kana: "マノ"
-  hira: "まの"
+'029':
+  code: '029'
+  name: 真野
+  kana: マノ
+  hira: まの
   roma: mano
 '032':
   code: '032'
-  name: "小木"
-  kana: "オギ"
-  hira: "おぎ"
+  name: 小木
+  kana: オギ
+  hira: おぎ
   roma: ogi
 '040':
   code: '040'
-  name: "赤泊"
-  kana: "アカドマリ"
-  hira: "あかどまり"
+  name: 赤泊
+  kana: アカドマリ
+  hira: あかどまり
   roma: akadomari
 '043':
   code: '043'
-  name: "両津"
-  kana: "リヨウツ"
-  hira: "りようつ"
+  name: 両津
+  kana: リヨウツ
+  hira: りようつ
   roma: riyoutsu

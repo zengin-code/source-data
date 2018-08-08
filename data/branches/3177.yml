@@ -1,31 +1,31 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "滝の川"
-  kana: "タキノカワ"
-  hira: "たきのかわ"
+  name: 滝の川
+  kana: タキノカワ
+  hira: たきのかわ
   roma: takinokawa
 '003':
   code: '003'
-  name: "赤平"
-  kana: "アカビラ"
-  hira: "あかびら"
+  name: 赤平
+  kana: アカビラ
+  hira: あかびら
   roma: akabira
 '005':
   code: '005'
-  name: "江部乙"
-  kana: "エベオツ"
-  hira: "えべおつ"
+  name: 江部乙
+  kana: エベオツ
+  hira: えべおつ
   roma: ebeotsu
 '006':
   code: '006'
-  name: "芦別"
-  kana: "アシベツ"
-  hira: "あしべつ"
+  name: 芦別
+  kana: アシベツ
+  hira: あしべつ
   roma: ashibetsu

@@ -1,805 +1,805 @@
 ---
 '110':
   code: '110'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '111':
   code: '111'
-  name: "坂本"
-  kana: "サカモト"
-  hira: "さかもと"
+  name: 坂本
+  kana: サカモト
+  hira: さかもと
   roma: sakamoto
 '112':
   code: '112'
-  name: "錦織"
-  kana: "ニシコオリ"
-  hira: "にしこおり"
+  name: 錦織
+  kana: ニシコオリ
+  hira: にしこおり
   roma: nishikoori
 '113':
   code: '113'
-  name: "大津市役所出張所"
-  kana: "オオツシヤクシヨ"
-  hira: "おおつしやくしよ"
+  name: 大津市役所出張所
+  kana: オオツシヤクシヨ
+  hira: おおつしやくしよ
   roma: ootsushiyakushiyo
 '115':
   code: '115'
-  name: "唐崎"
-  kana: "カラサキ"
-  hira: "からさき"
+  name: 唐崎
+  kana: カラサキ
+  hira: からさき
   roma: karasaki
 '116':
   code: '116'
-  name: "西大津駅前出張所"
-  kana: "ニシオオツエキマエ"
-  hira: "にしおおつえきまえ"
+  name: 西大津駅前出張所
+  kana: ニシオオツエキマエ
+  hira: にしおおつえきまえ
   roma: nishiootsuekimae
 '120':
   code: '120'
-  name: "膳所"
-  kana: "ゼゼ"
-  hira: "ぜぜ"
+  name: 膳所
+  kana: ゼゼ
+  hira: ぜぜ
   roma: zeze
 '121':
   code: '121'
-  name: "膳所駅前"
-  kana: "ゼゼエキマエ"
-  hira: "ぜぜえきまえ"
+  name: 膳所駅前
+  kana: ゼゼエキマエ
+  hira: ぜぜえきまえ
   roma: zezeekimae
 '130':
   code: '130'
-  name: "石山"
-  kana: "イシヤマ"
-  hira: "いしやま"
+  name: 石山
+  kana: イシヤマ
+  hira: いしやま
   roma: ishiyama
 '131':
   code: '131'
-  name: "寺辺代理店"
-  kana: "テラベ"
-  hira: "てらべ"
+  name: 寺辺代理店
+  kana: テラベ
+  hira: てらべ
   roma: terabe
 '132':
   code: '132'
-  name: "南郷"
-  kana: "ナンゴウ"
-  hira: "なんごう"
+  name: 南郷
+  kana: ナンゴウ
+  hira: なんごう
   roma: nangou
 '135':
   code: '135'
-  name: "田上代理店"
-  kana: "タナカミ"
-  hira: "たなかみ"
+  name: 田上代理店
+  kana: タナカミ
+  hira: たなかみ
   roma: tanakami
 '140':
   code: '140'
-  name: "瀬田"
-  kana: "セタ"
-  hira: "せた"
+  name: 瀬田
+  kana: セタ
+  hira: せた
   roma: seta
 '150':
   code: '150'
-  name: "中町代理店"
-  kana: "ナカマチ"
-  hira: "なかまち"
+  name: 中町代理店
+  kana: ナカマチ
+  hira: なかまち
   roma: nakamachi
 '160':
   code: '160'
-  name: "県庁"
-  kana: "ケンチヨウ"
-  hira: "けんちよう"
+  name: 県庁
+  kana: ケンチヨウ
+  hira: けんちよう
   roma: kenchiyou
 '171':
   code: '171'
-  name: "びわ湖ローズタウン出張所"
-  kana: "ビワコロ－ズタウン"
-  hira: "びわころ－ずたうん"
+  name: びわ湖ローズタウン出張所
+  kana: ビワコロ－ズタウン
+  hira: びわころ－ずたうん
   roma: biwakoro-zutaun
 '172':
   code: '172'
-  name: "志賀町"
-  kana: "シガチヨウ"
-  hira: "しがちよう"
+  name: 志賀町
+  kana: シガチヨウ
+  hira: しがちよう
   roma: shigachiyou
 '175':
   code: '175'
-  name: "堅田駅前"
-  kana: "カタタエキマエ"
-  hira: "かたたえきまえ"
+  name: 堅田駅前
+  kana: カタタエキマエ
+  hira: かたたえきまえ
   roma: katataekimae
 '176':
   code: '176'
-  name: "仰木雄琴出張所"
-  kana: "オオギオゴト"
-  hira: "おおぎおごと"
+  name: 仰木雄琴出張所
+  kana: オオギオゴト
+  hira: おおぎおごと
   roma: oogiogoto
 '180':
   code: '180'
-  name: "大津駅前"
-  kana: "オオツエキマエ"
-  hira: "おおつえきまえ"
+  name: 大津駅前
+  kana: オオツエキマエ
+  hira: おおつえきまえ
   roma: ootsuekimae
 '190':
   code: '190'
-  name: "瀬田駅前"
-  kana: "セタエキマエ"
-  hira: "せたえきまえ"
+  name: 瀬田駅前
+  kana: セタエキマエ
+  hira: せたえきまえ
   roma: setaekimae
 '191':
   code: '191'
-  name: "大江代理店"
-  kana: "オオエ"
-  hira: "おおえ"
+  name: 大江代理店
+  kana: オオエ
+  hira: おおえ
   roma: ooe
 '192':
   code: '192'
-  name: "グリーンヒル出張所"
-  kana: "グリ－ンヒル"
-  hira: "ぐり－んひる"
+  name: グリーンヒル出張所
+  kana: グリ－ンヒル
+  hira: ぐり－んひる
   roma: guri-nhiru
 '195':
   code: '195'
-  name: "大津市場代理店"
-  kana: "オオツシジヨウ"
-  hira: "おおつしじよう"
+  name: 大津市場代理店
+  kana: オオツシジヨウ
+  hira: おおつしじよう
   roma: ootsushijiyou
 '211':
   code: '211'
-  name: "草津"
-  kana: "クサツ"
-  hira: "くさつ"
+  name: 草津
+  kana: クサツ
+  hira: くさつ
   roma: kusatsu
 '212':
   code: '212'
-  name: "栗東"
-  kana: "リツトウ"
-  hira: "りつとう"
+  name: 栗東
+  kana: リツトウ
+  hira: りつとう
   roma: ritsutou
 '213':
   code: '213'
-  name: "栗東トレセン前"
-  kana: "リツトウトレセンマエ"
-  hira: "りつとうとれせんまえ"
+  name: 栗東トレセン前
+  kana: リツトウトレセンマエ
+  hira: りつとうとれせんまえ
   roma: ritsutoutoresemmae
 '214':
   code: '214'
-  name: "南草津駅前"
-  kana: "ミナミクサツエキマエ"
-  hira: "みなみくさつえきまえ"
+  name: 南草津駅前
+  kana: ミナミクサツエキマエ
+  hira: みなみくさつえきまえ
   roma: minamikusatsuekimae
 '216':
   code: '216'
-  name: "南笠"
-  kana: "ミナミガサ"
-  hira: "みなみがさ"
+  name: 南笠
+  kana: ミナミガサ
+  hira: みなみがさ
   roma: minamigasa
 '217':
   code: '217'
-  name: "草津市役所出張所"
-  kana: "クサツシヤクシヨ"
-  hira: "くさつしやくしよ"
+  name: 草津市役所出張所
+  kana: クサツシヤクシヨ
+  hira: くさつしやくしよ
   roma: kusatsushiyakushiyo
 '218':
   code: '218'
-  name: "草津パーソナル出張所"
-  kana: "クサツパ－ソナル"
-  hira: "くさつぱ－そなる"
+  name: 草津パーソナル出張所
+  kana: クサツパ－ソナル
+  hira: くさつぱ－そなる
   roma: kusatsupa-sonaru
 '219':
   code: '219'
-  name: "南草津パーソナル出張所"
-  kana: "ミナミクサツパ－ソナル"
-  hira: "みなみくさつぱ－そなる"
+  name: 南草津パーソナル出張所
+  kana: ミナミクサツパ－ソナル
+  hira: みなみくさつぱ－そなる
   roma: minamikusatsupa-sonaru
 '222':
   code: '222'
-  name: "大宝"
-  kana: "ダイホウ"
-  hira: "だいほう"
+  name: 大宝
+  kana: ダイホウ
+  hira: だいほう
   roma: daihou
 '223':
   code: '223'
-  name: "栗東駅前出張所"
-  kana: "リツトウエキマエ"
-  hira: "りつとうえきまえ"
+  name: 栗東駅前出張所
+  kana: リツトウエキマエ
+  hira: りつとうえきまえ
   roma: ritsutouekimae
 '225':
   code: '225'
-  name: "草津西"
-  kana: "クサツニシ"
-  hira: "くさつにし"
+  name: 草津西
+  kana: クサツニシ
+  hira: くさつにし
   roma: kusatsunishi
 '231':
   code: '231'
-  name: "下笠代理店"
-  kana: "シモガサ"
-  hira: "しもがさ"
+  name: 下笠代理店
+  kana: シモガサ
+  hira: しもがさ
   roma: shimogasa
 '241':
   code: '241'
-  name: "守山"
-  kana: "モリヤマ"
-  hira: "もりやま"
+  name: 守山
+  kana: モリヤマ
+  hira: もりやま
   roma: moriyama
 '242':
   code: '242'
-  name: "木浜"
-  kana: "コノハマ"
-  hira: "このはま"
+  name: 木浜
+  kana: コノハマ
+  hira: このはま
   roma: konohama
 '244':
   code: '244'
-  name: "守山東代理店"
-  kana: "モリヤマヒガシ"
-  hira: "もりやまひがし"
+  name: 守山東代理店
+  kana: モリヤマヒガシ
+  hira: もりやまひがし
   roma: moriyamahigashi
 '251':
   code: '251'
-  name: "野洲"
-  kana: "ヤス"
-  hira: "やす"
+  name: 野洲
+  kana: ヤス
+  hira: やす
   roma: yasu
 '252':
   code: '252'
-  name: "祇王代理店"
-  kana: "ギオウ"
-  hira: "ぎおう"
+  name: 祇王代理店
+  kana: ギオウ
+  hira: ぎおう
   roma: giou
 '253':
   code: '253'
-  name: "三上代理店"
-  kana: "ミカミ"
-  hira: "みかみ"
+  name: 三上代理店
+  kana: ミカミ
+  hira: みかみ
   roma: mikami
 '261':
   code: '261'
-  name: "中主"
-  kana: "チユウズ"
-  hira: "ちゆうず"
+  name: 中主
+  kana: チユウズ
+  hira: ちゆうず
   roma: chiyuuzu
 '271':
   code: '271'
-  name: "守山北"
-  kana: "モリヤマキタ"
-  hira: "もりやまきた"
+  name: 守山北
+  kana: モリヤマキタ
+  hira: もりやまきた
   roma: moriyamakita
 '272':
   code: '272'
-  name: "播磨田代理店"
-  kana: "ハリマダ"
-  hira: "はりまだ"
+  name: 播磨田代理店
+  kana: ハリマダ
+  hira: はりまだ
   roma: harimada
 '312':
   code: '312'
-  name: "八幡"
-  kana: "ハチマン"
-  hira: "はちまん"
+  name: 八幡
+  kana: ハチマン
+  hira: はちまん
   roma: hachiman
 '322':
   code: '322'
-  name: "八幡駅前"
-  kana: "ハチマンエキマエ"
-  hira: "はちまんえきまえ"
+  name: 八幡駅前
+  kana: ハチマンエキマエ
+  hira: はちまんえきまえ
   roma: hachimanekimae
 '323':
   code: '323'
-  name: "竜王"
-  kana: "リユウオウ"
-  hira: "りゆうおう"
+  name: 竜王
+  kana: リユウオウ
+  hira: りゆうおう
   roma: riyuuou
 '325':
   code: '325'
-  name: "八幡西代理店"
-  kana: "ハチマンニシ"
-  hira: "はちまんにし"
+  name: 八幡西代理店
+  kana: ハチマンニシ
+  hira: はちまんにし
   roma: hachimannishi
 '326':
   code: '326'
-  name: "八幡南出張所"
-  kana: "ハチマンミナミ"
-  hira: "はちまんみなみ"
+  name: 八幡南出張所
+  kana: ハチマンミナミ
+  hira: はちまんみなみ
   roma: hachimamminami
 '332':
   code: '332'
-  name: "江頭"
-  kana: "エガシラ"
-  hira: "えがしら"
+  name: 江頭
+  kana: エガシラ
+  hira: えがしら
   roma: egashira
 '333':
   code: '333'
-  name: "桐原代理店"
-  kana: "キリハラ"
-  hira: "きりはら"
+  name: 桐原代理店
+  kana: キリハラ
+  hira: きりはら
   roma: kirihara
 '342':
   code: '342'
-  name: "武佐"
-  kana: "ムサ"
-  hira: "むさ"
+  name: 武佐
+  kana: ムサ
+  hira: むさ
   roma: musa
 '352':
   code: '352'
-  name: "安土"
-  kana: "アヅチ"
-  hira: "あづち"
+  name: 安土
+  kana: アヅチ
+  hira: あづち
   roma: aduchi
 '362':
   code: '362'
-  name: "能登川"
-  kana: "ノトガワ"
-  hira: "のとがわ"
+  name: 能登川
+  kana: ノトガワ
+  hira: のとがわ
   roma: notogawa
 '413':
   code: '413'
-  name: "彦根"
-  kana: "ヒコネ"
-  hira: "ひこね"
+  name: 彦根
+  kana: ヒコネ
+  hira: ひこね
   roma: hikone
 '414':
   code: '414'
-  name: "大薮"
-  kana: "オオヤブ"
-  hira: "おおやぶ"
+  name: 大薮
+  kana: オオヤブ
+  hira: おおやぶ
   roma: ooyabu
 '423':
   code: '423'
-  name: "彦根駅前"
-  kana: "ヒコネエキマエ"
-  hira: "ひこねえきまえ"
+  name: 彦根駅前
+  kana: ヒコネエキマエ
+  hira: ひこねえきまえ
   roma: hikoneekimae
 '427':
   code: '427'
-  name: "彦根東代理店"
-  kana: "ヒコネヒガシ"
-  hira: "ひこねひがし"
+  name: 彦根東代理店
+  kana: ヒコネヒガシ
+  hira: ひこねひがし
   roma: hikonehigashi
 '437':
   code: '437'
-  name: "彦根南"
-  kana: "ヒコネミナミ"
-  hira: "ひこねみなみ"
+  name: 彦根南
+  kana: ヒコネミナミ
+  hira: ひこねみなみ
   roma: hikoneminami
 '443':
   code: '443'
-  name: "高宮"
-  kana: "タカミヤ"
-  hira: "たかみや"
+  name: 高宮
+  kana: タカミヤ
+  hira: たかみや
   roma: takamiya
 '444':
   code: '444'
-  name: "河瀬"
-  kana: "カワセ"
-  hira: "かわせ"
+  name: 河瀬
+  kana: カワセ
+  hira: かわせ
   roma: kawase
 '448':
   code: '448'
-  name: "甲良出張所"
-  kana: "コウラ"
-  hira: "こうら"
+  name: 甲良出張所
+  kana: コウラ
+  hira: こうら
   roma: koura
 '453':
   code: '453'
-  name: "稲枝"
-  kana: "イナエ"
-  hira: "いなえ"
+  name: 稲枝
+  kana: イナエ
+  hira: いなえ
   roma: inae
 '463':
   code: '463'
-  name: "多賀"
-  kana: "タガ"
-  hira: "たが"
+  name: 多賀
+  kana: タガ
+  hira: たが
   roma: taga
 '473':
   code: '473'
-  name: "豊郷"
-  kana: "トヨサト"
-  hira: "とよさと"
+  name: 豊郷
+  kana: トヨサト
+  hira: とよさと
   roma: toyosato
 '483':
   code: '483'
-  name: "愛知川"
-  kana: "エチガワ"
-  hira: "えちがわ"
+  name: 愛知川
+  kana: エチガワ
+  hira: えちがわ
   roma: echigawa
 '484':
   code: '484'
-  name: "秦荘代理店"
-  kana: "ハタシヨウ"
-  hira: "はたしよう"
+  name: 秦荘代理店
+  kana: ハタシヨウ
+  hira: はたしよう
   roma: hatashiyou
 '493':
   code: '493'
-  name: "湖東代理店"
-  kana: "コトウ"
-  hira: "ことう"
+  name: 湖東代理店
+  kana: コトウ
+  hira: ことう
   roma: kotou
 '514':
   code: '514'
-  name: "八日市"
-  kana: "ヨウカイチ"
-  hira: "ようかいち"
+  name: 八日市
+  kana: ヨウカイチ
+  hira: ようかいち
   roma: youkaichi
 '524':
   code: '524'
-  name: "五個荘"
-  kana: "ゴカシヨウ"
-  hira: "ごかしよう"
+  name: 五個荘
+  kana: ゴカシヨウ
+  hira: ごかしよう
   roma: gokashiyou
 '534':
   code: '534'
-  name: "永源寺代理店"
-  kana: "エイゲンジ"
-  hira: "えいげんじ"
+  name: 永源寺代理店
+  kana: エイゲンジ
+  hira: えいげんじ
   roma: eigenji
 '544':
   code: '544'
-  name: "桜川"
-  kana: "サクラガワ"
-  hira: "さくらがわ"
+  name: 桜川
+  kana: サクラガワ
+  hira: さくらがわ
   roma: sakuragawa
 '554':
   code: '554'
-  name: "日野"
-  kana: "ヒノ"
-  hira: "ひの"
+  name: 日野
+  kana: ヒノ
+  hira: ひの
   roma: hino
 '564':
   code: '564'
-  name: "八日市東"
-  kana: "ヨウカイチヒガシ"
-  hira: "ようかいちひがし"
+  name: 八日市東
+  kana: ヨウカイチヒガシ
+  hira: ようかいちひがし
   roma: youkaichihigashi
 '615':
   code: '615'
-  name: "水口"
-  kana: "ミナクチ"
-  hira: "みなくち"
+  name: 水口
+  kana: ミナクチ
+  hira: みなくち
   roma: minakuchi
 '617':
   code: '617'
-  name: "綾野"
-  kana: "アヤノ"
-  hira: "あやの"
+  name: 綾野
+  kana: アヤノ
+  hira: あやの
   roma: ayano
 '625':
   code: '625'
-  name: "土山"
-  kana: "ツチヤマ"
-  hira: "つちやま"
+  name: 土山
+  kana: ツチヤマ
+  hira: つちやま
   roma: tsuchiyama
 '635':
   code: '635'
-  name: "貴生川代理店"
-  kana: "キブカワ"
-  hira: "きぶかわ"
+  name: 貴生川代理店
+  kana: キブカワ
+  hira: きぶかわ
   roma: kibukawa
 '645':
   code: '645'
-  name: "甲南"
-  kana: "コウナン"
-  hira: "こうなん"
+  name: 甲南
+  kana: コウナン
+  hira: こうなん
   roma: kounan
 '655':
   code: '655'
-  name: "大原"
-  kana: "オオハラ"
-  hira: "おおはら"
+  name: 大原
+  kana: オオハラ
+  hira: おおはら
   roma: oohara
 '665':
   code: '665'
-  name: "信楽"
-  kana: "シガラキ"
-  hira: "しがらき"
+  name: 信楽
+  kana: シガラキ
+  hira: しがらき
   roma: shigaraki
 '675':
   code: '675'
-  name: "上野"
-  kana: "ウエノ"
-  hira: "うえの"
+  name: 上野
+  kana: ウエノ
+  hira: うえの
   roma: ueno
 '685':
   code: '685'
-  name: "石部"
-  kana: "イシベ"
-  hira: "いしべ"
+  name: 石部
+  kana: イシベ
+  hira: いしべ
   roma: ishibe
 '686':
   code: '686'
-  name: "甲西代理店"
-  kana: "コウセイ"
-  hira: "こうせい"
+  name: 甲西代理店
+  kana: コウセイ
+  hira: こうせい
   roma: kousei
 '687':
   code: '687'
-  name: "岩根"
-  kana: "イワネ"
-  hira: "いわね"
+  name: 岩根
+  kana: イワネ
+  hira: いわね
   roma: iwane
 '690':
   code: '690'
-  name: "甲西中央"
-  kana: "コウセイチユウオウ"
-  hira: "こうせいちゆうおう"
+  name: 甲西中央
+  kana: コウセイチユウオウ
+  hira: こうせいちゆうおう
   roma: kouseichiyuuou
 '695':
   code: '695'
-  name: "菩提寺代理店"
-  kana: "ボダイジ"
-  hira: "ぼだいじ"
+  name: 菩提寺代理店
+  kana: ボダイジ
+  hira: ぼだいじ
   roma: bodaiji
 '716':
   code: '716'
-  name: "今津"
-  kana: "イマヅ"
-  hira: "いまづ"
+  name: 今津
+  kana: イマヅ
+  hira: いまづ
   roma: imadu
 '717':
   code: '717'
-  name: "近江マキノ代理店"
-  kana: "オウミマキノ"
-  hira: "おうみまきの"
+  name: 近江マキノ代理店
+  kana: オウミマキノ
+  hira: おうみまきの
   roma: oumimakino
 '726':
   code: '726'
-  name: "新旭"
-  kana: "シンアサヒ"
-  hira: "しんあさひ"
+  name: 新旭
+  kana: シンアサヒ
+  hira: しんあさひ
   roma: shinasahi
 '736':
   code: '736'
-  name: "安曇川"
-  kana: "アドガワ"
-  hira: "あどがわ"
+  name: 安曇川
+  kana: アドガワ
+  hira: あどがわ
   roma: adogawa
 '746':
   code: '746'
-  name: "高島"
-  kana: "タカシマ"
-  hira: "たかしま"
+  name: 高島
+  kana: タカシマ
+  hira: たかしま
   roma: takashima
 '817':
   code: '817'
-  name: "長浜"
-  kana: "ナガハマ"
-  hira: "ながはま"
+  name: 長浜
+  kana: ナガハマ
+  hira: ながはま
   roma: nagahama
 '837':
   code: '837'
-  name: "長浜北"
-  kana: "ナガハマキタ"
-  hira: "ながはまきた"
+  name: 長浜北
+  kana: ナガハマキタ
+  hira: ながはまきた
   roma: nagahamakita
 '847':
   code: '847'
-  name: "米原"
-  kana: "マイバラ"
-  hira: "まいばら"
+  name: 米原
+  kana: マイバラ
+  hira: まいばら
   roma: maibara
 '849':
   code: '849'
-  name: "近江町"
-  kana: "オウミチヨウ"
-  hira: "おうみちよう"
+  name: 近江町
+  kana: オウミチヨウ
+  hira: おうみちよう
   roma: oumichiyou
 '857':
   code: '857'
-  name: "醒井代理店"
-  kana: "サメガイ"
-  hira: "さめがい"
+  name: 醒井代理店
+  kana: サメガイ
+  hira: さめがい
   roma: samegai
 '867':
   code: '867'
-  name: "虎姫"
-  kana: "トラヒメ"
-  hira: "とらひめ"
+  name: 虎姫
+  kana: トラヒメ
+  hira: とらひめ
   roma: torahime
 '869':
   code: '869'
-  name: "びわ町代理店"
-  kana: "ビワチヨウ"
-  hira: "びわちよう"
+  name: びわ町代理店
+  kana: ビワチヨウ
+  hira: びわちよう
   roma: biwachiyou
 '870':
   code: '870'
-  name: "湖北代理店"
-  kana: "コホク"
-  hira: "こほく"
+  name: 湖北代理店
+  kana: コホク
+  hira: こほく
   roma: kohoku
 '877':
   code: '877'
-  name: "高月"
-  kana: "タカツキ"
-  hira: "たかつき"
+  name: 高月
+  kana: タカツキ
+  hira: たかつき
   roma: takatsuki
 '887':
   code: '887'
-  name: "木之本"
-  kana: "キノモト"
-  hira: "きのもと"
+  name: 木之本
+  kana: キノモト
+  hira: きのもと
   roma: kinomoto
 '889':
   code: '889'
-  name: "余呉代理店"
-  kana: "ヨゴ"
-  hira: "よご"
+  name: 余呉代理店
+  kana: ヨゴ
+  hira: よご
   roma: yogo
 '890':
   code: '890'
-  name: "西浅井代理店"
-  kana: "ニシアザイ"
-  hira: "にしあざい"
+  name: 西浅井代理店
+  kana: ニシアザイ
+  hira: にしあざい
   roma: nishiazai
 '895':
   code: '895'
-  name: "柏原代理店"
-  kana: "カシワバラ"
-  hira: "かしわばら"
+  name: 柏原代理店
+  kana: カシワバラ
+  hira: かしわばら
   roma: kashiwabara
 '896':
   code: '896'
-  name: "山東"
-  kana: "サントウ"
-  hira: "さんとう"
+  name: 山東
+  kana: サントウ
+  hira: さんとう
   roma: santou
 '897':
   code: '897'
-  name: "長浜駅前代理店"
-  kana: "ナガハマエキマエ"
-  hira: "ながはまえきまえ"
+  name: 長浜駅前代理店
+  kana: ナガハマエキマエ
+  hira: ながはまえきまえ
   roma: nagahamaekimae
 '898':
   code: '898'
-  name: "伊吹代理店"
-  kana: "イブキ"
-  hira: "いぶき"
+  name: 伊吹代理店
+  kana: イブキ
+  hira: いぶき
   roma: ibuki
 '899':
   code: '899'
-  name: "浅井出張所"
-  kana: "アザイ"
-  hira: "あざい"
+  name: 浅井出張所
+  kana: アザイ
+  hira: あざい
   roma: azai
 '906':
   code: '906'
-  name: "一乗寺"
-  kana: "イチジヨウジ"
-  hira: "いちじようじ"
+  name: 一乗寺
+  kana: イチジヨウジ
+  hira: いちじようじ
   roma: ichijiyouji
 '907':
   code: '907'
-  name: "山科南"
-  kana: "ヤマシナミナミ"
-  hira: "やましなみなみ"
+  name: 山科南
+  kana: ヤマシナミナミ
+  hira: やましなみなみ
   roma: yamashinaminami
 '908':
   code: '908'
-  name: "太秦"
-  kana: "ウズマサ"
-  hira: "うずまさ"
+  name: 太秦
+  kana: ウズマサ
+  hira: うずまさ
   roma: uzumasa
 '909':
   code: '909'
-  name: "牧野"
-  kana: "マキノ"
-  hira: "まきの"
+  name: 牧野
+  kana: マキノ
+  hira: まきの
   roma: makino
 '910':
   code: '910'
-  name: "四ノ宮"
-  kana: "シノミヤ"
-  hira: "しのみや"
+  name: 四ノ宮
+  kana: シノミヤ
+  hira: しのみや
   roma: shinomiya
 '913':
   code: '913'
-  name: "醍醐"
-  kana: "ダイゴ"
-  hira: "だいご"
+  name: 醍醐
+  kana: ダイゴ
+  hira: だいご
   roma: daigo
 '914':
   code: '914'
-  name: "京都南"
-  kana: "キヨウトミナミ"
-  hira: "きようとみなみ"
+  name: 京都南
+  kana: キヨウトミナミ
+  hira: きようとみなみ
   roma: kiyoutominami
 '915':
   code: '915'
-  name: "宇治"
-  kana: "ウジ"
-  hira: "うじ"
+  name: 宇治
+  kana: ウジ
+  hira: うじ
   roma: uji
 '918':
   code: '918'
-  name: "京都"
-  kana: "キヨウト"
-  hira: "きようと"
+  name: 京都
+  kana: キヨウト
+  hira: きようと
   roma: kiyouto
 '919':
   code: '919'
-  name: "大阪"
-  kana: "オオサカ"
-  hira: "おおさか"
+  name: 大阪
+  kana: オオサカ
+  hira: おおさか
   roma: oosaka
 '928':
   code: '928'
-  name: "北大路"
-  kana: "キタオオジ"
-  hira: "きたおおじ"
+  name: 北大路
+  kana: キタオオジ
+  hira: きたおおじ
   roma: kitaooji
 '929':
   code: '929'
-  name: "梅田"
-  kana: "ウメダ"
-  hira: "うめだ"
+  name: 梅田
+  kana: ウメダ
+  hira: うめだ
   roma: umeda
 '930':
   code: '930'
-  name: "新大阪"
-  kana: "シンオオサカ"
-  hira: "しんおおさか"
+  name: 新大阪
+  kana: シンオオサカ
+  hira: しんおおさか
   roma: shinoosaka
 '938':
   code: '938'
-  name: "九条"
-  kana: "クジヨウ"
-  hira: "くじよう"
+  name: 九条
+  kana: クジヨウ
+  hira: くじよう
   roma: kujiyou
 '948':
   code: '948'
-  name: "東山"
-  kana: "ヒガシヤマ"
-  hira: "ひがしやま"
+  name: 東山
+  kana: ヒガシヤマ
+  hira: ひがしやま
   roma: higashiyama
 '949':
   code: '949'
-  name: "阪急高槻"
-  kana: "ハンキユウタカツキ"
-  hira: "はんきゆうたかつき"
+  name: 阪急高槻
+  kana: ハンキユウタカツキ
+  hira: はんきゆうたかつき
   roma: hankiyuutakatsuki
 '958':
   code: '958'
-  name: "丸太町"
-  kana: "マルタマチ"
-  hira: "まるたまち"
+  name: 丸太町
+  kana: マルタマチ
+  hira: まるたまち
   roma: marutamachi
 '959':
   code: '959'
-  name: "東京"
-  kana: "トウキヨウ"
-  hira: "とうきよう"
+  name: 東京
+  kana: トウキヨウ
+  hira: とうきよう
   roma: toukiyou
 '968':
   code: '968'
-  name: "西陣"
-  kana: "ニシジン"
-  hira: "にしじん"
+  name: 西陣
+  kana: ニシジン
+  hira: にしじん
   roma: nishijin
 '978':
   code: '978'
-  name: "山科"
-  kana: "ヤマシナ"
-  hira: "やましな"
+  name: 山科
+  kana: ヤマシナ
+  hira: やましな
   roma: yamashina
 '979':
   code: '979'
-  name: "大垣"
-  kana: "オオガキ"
-  hira: "おおがき"
+  name: 大垣
+  kana: オオガキ
+  hira: おおがき
   roma: oogaki
 '980':
   code: '980'
-  name: "三重"
-  kana: "ミエ"
-  hira: "みえ"
+  name: 三重
+  kana: ミエ
+  hira: みえ
   roma: mie
 '988':
   code: '988'
-  name: "桂"
-  kana: "カツラ"
-  hira: "かつら"
+  name: 桂
+  kana: カツラ
+  hira: かつら
   roma: katsura
 '989':
   code: '989'
-  name: "名古屋"
-  kana: "ナゴヤ"
-  hira: "なごや"
+  name: 名古屋
+  kana: ナゴヤ
+  hira: なごや
   roma: nagoya

@@ -1,97 +1,97 @@
 ---
 '001':
   code: '001'
-  name: "練馬春日町"
-  kana: "ネリマカスガチヨウ"
-  hira: "ねりまかすがちよう"
+  name: 練馬春日町
+  kana: ネリマカスガチヨウ
+  hira: ねりまかすがちよう
   roma: nerimakasugachiyou
 '002':
   code: '002'
-  name: "中村橋"
-  kana: "ナカムラバシ"
-  hira: "なかむらばし"
+  name: 中村橋
+  kana: ナカムラバシ
+  hira: なかむらばし
   roma: nakamurabashi
 '003':
   code: '003'
-  name: "桜台"
-  kana: "サクラダイ"
-  hira: "さくらだい"
+  name: 桜台
+  kana: サクラダイ
+  hira: さくらだい
   roma: sakuradai
 '005':
   code: '005'
-  name: "高松"
-  kana: "タカマツ"
-  hira: "たかまつ"
+  name: 高松
+  kana: タカマツ
+  hira: たかまつ
   roma: takamatsu
 '006':
   code: '006'
-  name: "田柄"
-  kana: "タガラ"
-  hira: "たがら"
+  name: 田柄
+  kana: タガラ
+  hira: たがら
   roma: tagara
 '007':
   code: '007'
-  name: "豊玉"
-  kana: "トヨタマ"
-  hira: "とよたま"
+  name: 豊玉
+  kana: トヨタマ
+  hira: とよたま
   roma: toyotama
-008:
-  code: 008
-  name: "平和台"
-  kana: "ヘイワダイ"
-  hira: "へいわだい"
+'008':
+  code: '008'
+  name: 平和台
+  kana: ヘイワダイ
+  hira: へいわだい
   roma: heiwadai
 '010':
   code: '010'
-  name: "板橋"
-  kana: "イタバシ"
-  hira: "いたばし"
+  name: 板橋
+  kana: イタバシ
+  hira: いたばし
   roma: itabashi
 '011':
   code: '011'
-  name: "赤塚"
-  kana: "アカツカ"
-  hira: "あかつか"
+  name: 赤塚
+  kana: アカツカ
+  hira: あかつか
   roma: akatsuka
 '013':
   code: '013'
-  name: "石神井"
-  kana: "シヤクジイ"
-  hira: "しやくじい"
+  name: 石神井
+  kana: シヤクジイ
+  hira: しやくじい
   roma: shiyakujii
 '015':
   code: '015'
-  name: "関町"
-  kana: "セキマチ"
-  hira: "せきまち"
+  name: 関町
+  kana: セキマチ
+  hira: せきまち
   roma: sekimachi
 '016':
   code: '016'
-  name: "富士見台"
-  kana: "フジミダイ"
-  hira: "ふじみだい"
+  name: 富士見台
+  kana: フジミダイ
+  hira: ふじみだい
   roma: fujimidai
 '017':
   code: '017'
-  name: "大泉"
-  kana: "オオイズミ"
-  hira: "おおいずみ"
+  name: 大泉
+  kana: オオイズミ
+  hira: おおいずみ
   roma: ooizumi
-018:
-  code: 018
-  name: "東大泉"
-  kana: "ヒガシオオイズミ"
-  hira: "ひがしおおいずみ"
+'018':
+  code: '018'
+  name: 東大泉
+  kana: ヒガシオオイズミ
+  hira: ひがしおおいずみ
   roma: higashiooizumi
 '020':
   code: '020'
-  name: "西大泉"
-  kana: "ニシオオイズミ"
-  hira: "にしおおいずみ"
+  name: 西大泉
+  kana: ニシオオイズミ
+  hira: にしおおいずみ
   roma: nishiooizumi
 '030':
   code: '030'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten

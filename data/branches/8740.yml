@@ -1,19 +1,19 @@
 ---
 '006':
   code: '006'
-  name: "多布施"
-  kana: "タフセ"
-  hira: "たふせ"
+  name: 多布施
+  kana: タフセ
+  hira: たふせ
   roma: tafuse
 '007':
   code: '007'
-  name: "神野"
-  kana: "コウノ"
-  hira: "こうの"
+  name: 神野
+  kana: コウノ
+  hira: こうの
   roma: kouno
 '100':
   code: '100'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten

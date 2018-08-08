@@ -1,343 +1,343 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "すずめ"
-  kana: "スズメ"
-  hira: "すずめ"
+  name: すずめ
+  kana: スズメ
+  hira: すずめ
   roma: suzume
 '003':
   code: '003'
-  name: "はやぶさ"
-  kana: "ハヤブサ"
-  hira: "はやぶさ"
+  name: はやぶさ
+  kana: ハヤブサ
+  hira: はやぶさ
   roma: hayabusa
 '004':
   code: '004'
-  name: "ふくろう"
-  kana: "フクロウ"
-  hira: "ふくろう"
+  name: ふくろう
+  kana: フクロウ
+  hira: ふくろう
   roma: fukurou
 '005':
   code: '005'
-  name: "ビジネス営業部"
-  kana: "ビジネス"
-  hira: "びじねす"
+  name: ビジネス営業部
+  kana: ビジネス
+  hira: びじねす
   roma: bijinesu
 '601':
   code: '601'
-  name: "フラミンゴ"
-  kana: "フラミンゴ"
-  hira: "ふらみんご"
+  name: フラミンゴ
+  kana: フラミンゴ
+  hira: ふらみんご
   roma: furamingo
 '602':
   code: '602'
-  name: "ペンギン"
-  kana: "ペンギン"
-  hira: "ぺんぎん"
+  name: ペンギン
+  kana: ペンギン
+  hira: ぺんぎん
   roma: pengin
 '701':
   code: '701'
-  name: "カエデ"
-  kana: "カエデ"
-  hira: "かえで"
+  name: カエデ
+  kana: カエデ
+  hira: かえで
   roma: kaede
 '702':
   code: '702'
-  name: "モミジ"
-  kana: "モミジ"
-  hira: "もみじ"
+  name: モミジ
+  kana: モミジ
+  hira: もみじ
   roma: momiji
 '703':
   code: '703'
-  name: "サクラ"
-  kana: "サクラ"
-  hira: "さくら"
+  name: サクラ
+  kana: サクラ
+  hira: さくら
   roma: sakura
 '704':
   code: '704'
-  name: "ウメ"
-  kana: "ウメ"
-  hira: "うめ"
+  name: ウメ
+  kana: ウメ
+  hira: うめ
   roma: ume
 '705':
   code: '705'
-  name: "ツバキ"
-  kana: "ツバキ"
-  hira: "つばき"
+  name: ツバキ
+  kana: ツバキ
+  hira: つばき
   roma: tsubaki
 '706':
   code: '706'
-  name: "ケヤキ"
-  kana: "ケヤキ"
-  hira: "けやき"
+  name: ケヤキ
+  kana: ケヤキ
+  hira: けやき
   roma: keyaki
 '707':
   code: '707'
-  name: "クスノキ"
-  kana: "クスノキ"
-  hira: "くすのき"
+  name: クスノキ
+  kana: クスノキ
+  hira: くすのき
   roma: kusunoki
 '708':
   code: '708'
-  name: "ヒイラギ"
-  kana: "ヒイラギ"
-  hira: "ひいらぎ"
+  name: ヒイラギ
+  kana: ヒイラギ
+  hira: ひいらぎ
   roma: hiiragi
 '709':
   code: '709'
-  name: "シラカバ"
-  kana: "シラカバ"
-  hira: "しらかば"
+  name: シラカバ
+  kana: シラカバ
+  hira: しらかば
   roma: shirakaba
 '710':
   code: '710'
-  name: "ツツジ"
-  kana: "ツツジ"
-  hira: "つつじ"
+  name: ツツジ
+  kana: ツツジ
+  hira: つつじ
   roma: tsutsuji
 '801':
   code: '801'
-  name: "おひつじ座"
-  kana: "オヒツジザ"
-  hira: "おひつじざ"
+  name: おひつじ座
+  kana: オヒツジザ
+  hira: おひつじざ
   roma: ohitsujiza
 '802':
   code: '802'
-  name: "おうし座"
-  kana: "オウシザ"
-  hira: "おうしざ"
+  name: おうし座
+  kana: オウシザ
+  hira: おうしざ
   roma: oushiza
 '803':
   code: '803'
-  name: "ふたご座"
-  kana: "フタゴザ"
-  hira: "ふたござ"
+  name: ふたご座
+  kana: フタゴザ
+  hira: ふたござ
   roma: futagoza
 '804':
   code: '804'
-  name: "ラインブラウン"
-  kana: "ラインブラウン"
-  hira: "らいんぶらうん"
+  name: ラインブラウン
+  kana: ラインブラウン
+  hira: らいんぶらうん
   roma: raimburaun
 '805':
   code: '805'
-  name: "ラインコニー"
-  kana: "ラインコニ－"
-  hira: "らいんこに－"
+  name: ラインコニー
+  kana: ラインコニ－
+  hira: らいんこに－
   roma: rainkoni-
 '806':
   code: '806'
-  name: "おとめ座"
-  kana: "オトメザ"
-  hira: "おとめざ"
+  name: おとめ座
+  kana: オトメザ
+  hira: おとめざ
   roma: otomeza
 '807':
   code: '807'
-  name: "てんびん座"
-  kana: "テンビンザ"
-  hira: "てんびんざ"
+  name: てんびん座
+  kana: テンビンザ
+  hira: てんびんざ
   roma: tembinza
 '808':
   code: '808'
-  name: "さそり座"
-  kana: "サソリザ"
-  hira: "さそりざ"
+  name: さそり座
+  kana: サソリザ
+  hira: さそりざ
   roma: sasoriza
 '809':
   code: '809'
-  name: "へびつかい座"
-  kana: "ヘビツカイザ"
-  hira: "へびつかいざ"
+  name: へびつかい座
+  kana: ヘビツカイザ
+  hira: へびつかいざ
   roma: hebitsukaiza
 '810':
   code: '810'
-  name: "ソフトバンクカード"
-  kana: "ソフトバンクカ－ド"
-  hira: "そふとばんくか－ど"
+  name: ソフトバンクカード
+  kana: ソフトバンクカ－ド
+  hira: そふとばんくか－ど
   roma: sofutobankuka-do
 '811':
   code: '811'
-  name: "やぎ座"
-  kana: "ヤギザ"
-  hira: "やぎざ"
+  name: やぎ座
+  kana: ヤギザ
+  hira: やぎざ
   roma: yagiza
 '812':
   code: '812'
-  name: "みずがめ座"
-  kana: "ミズガメザ"
-  hira: "みずがめざ"
+  name: みずがめ座
+  kana: ミズガメザ
+  hira: みずがめざ
   roma: mizugameza
 '813':
   code: '813'
-  name: "うお座"
-  kana: "ウオザ"
-  hira: "うおざ"
+  name: うお座
+  kana: ウオザ
+  hira: うおざ
   roma: uoza
 '814':
   code: '814'
-  name: "りゅう座"
-  kana: "リユウザ"
-  hira: "りゆうざ"
+  name: りゅう座
+  kana: リユウザ
+  hira: りゆうざ
   roma: riyuuza
 '815':
   code: '815'
-  name: "はくちょう座"
-  kana: "ハクチヨウザ"
-  hira: "はくちようざ"
+  name: はくちょう座
+  kana: ハクチヨウザ
+  hira: はくちようざ
   roma: hakuchiyouza
 '816':
   code: '816'
-  name: "アンドロメダ座"
-  kana: "アンドロメダザ"
-  hira: "あんどろめだざ"
+  name: アンドロメダ座
+  kana: アンドロメダザ
+  hira: あんどろめだざ
   roma: andoromedaza
 '817':
   code: '817'
-  name: "ほうおう座"
-  kana: "ホウオウザ"
-  hira: "ほうおうざ"
+  name: ほうおう座
+  kana: ホウオウザ
+  hira: ほうおうざ
   roma: hououza
 '818':
   code: '818'
-  name: "こぐま座"
-  kana: "コグマザ"
-  hira: "こぐまざ"
+  name: こぐま座
+  kana: コグマザ
+  hira: こぐまざ
   roma: kogumaza
 '819':
   code: '819'
-  name: "こと座"
-  kana: "コトザ"
-  hira: "ことざ"
+  name: こと座
+  kana: コトザ
+  hira: ことざ
   roma: kotoza
 '820':
   code: '820'
-  name: "わし座"
-  kana: "ワシザ"
-  hira: "わしざ"
+  name: わし座
+  kana: ワシザ
+  hira: わしざ
   roma: washiza
 '821':
   code: '821'
-  name: "いるか座"
-  kana: "イルカザ"
-  hira: "いるかざ"
+  name: いるか座
+  kana: イルカザ
+  hira: いるかざ
   roma: irukaza
 '822':
   code: '822'
-  name: "うさぎ座"
-  kana: "ウサギザ"
-  hira: "うさぎざ"
+  name: うさぎ座
+  kana: ウサギザ
+  hira: うさぎざ
   roma: usagiza
 '823':
   code: '823'
-  name: "うしかい座"
-  kana: "ウシカイザ"
-  hira: "うしかいざ"
+  name: うしかい座
+  kana: ウシカイザ
+  hira: うしかいざ
   roma: ushikaiza
 '824':
   code: '824'
-  name: "おおかみ座"
-  kana: "オオカミザ"
-  hira: "おおかみざ"
+  name: おおかみ座
+  kana: オオカミザ
+  hira: おおかみざ
   roma: ookamiza
 '825':
   code: '825'
-  name: "オリオン座"
-  kana: "オリオンザ"
-  hira: "おりおんざ"
+  name: オリオン座
+  kana: オリオンザ
+  hira: おりおんざ
   roma: orionza
 '826':
   code: '826'
-  name: "カシオペヤ座"
-  kana: "カシオペヤザ"
-  hira: "かしおぺやざ"
+  name: カシオペヤ座
+  kana: カシオペヤザ
+  hira: かしおぺやざ
   roma: kashiopeyaza
 '827':
   code: '827'
-  name: "きりん座"
-  kana: "キリンザ"
-  hira: "きりんざ"
+  name: きりん座
+  kana: キリンザ
+  hira: きりんざ
   roma: kirinza
 '828':
   code: '828'
-  name: "クジラ座"
-  kana: "クジラザ"
-  hira: "くじらざ"
+  name: クジラ座
+  kana: クジラザ
+  hira: くじらざ
   roma: kujiraza
 '829':
   code: '829'
-  name: "ケンタウルス座"
-  kana: "ケンタウルスザ"
-  hira: "けんたうるすざ"
+  name: ケンタウルス座
+  kana: ケンタウルスザ
+  hira: けんたうるすざ
   roma: kentaurusuza
 '830':
   code: '830'
-  name: "こいぬ座"
-  kana: "コイヌザ"
-  hira: "こいぬざ"
+  name: こいぬ座
+  kana: コイヌザ
+  hira: こいぬざ
   roma: koinuza
 '831':
   code: '831'
-  name: "さんかく座"
-  kana: "サンカクザ"
-  hira: "さんかくざ"
+  name: さんかく座
+  kana: サンカクザ
+  hira: さんかくざ
   roma: sankakuza
 '832':
   code: '832'
-  name: "じょうぎ座"
-  kana: "ジヨウギザ"
-  hira: "じようぎざ"
+  name: じょうぎ座
+  kana: ジヨウギザ
+  hira: じようぎざ
   roma: jiyougiza
 '833':
   code: '833'
-  name: "たて座"
-  kana: "タテザ"
-  hira: "たてざ"
+  name: たて座
+  kana: タテザ
+  hira: たてざ
   roma: tateza
 '834':
   code: '834'
-  name: "つる座"
-  kana: "ツルザ"
-  hira: "つるざ"
+  name: つる座
+  kana: ツルザ
+  hira: つるざ
   roma: tsuruza
 '835':
   code: '835'
-  name: "とけい座"
-  kana: "トケイザ"
-  hira: "とけいざ"
+  name: とけい座
+  kana: トケイザ
+  hira: とけいざ
   roma: tokeiza
 '836':
   code: '836'
-  name: "とびうお座"
-  kana: "トビウオザ"
-  hira: "とびうおざ"
+  name: とびうお座
+  kana: トビウオザ
+  hira: とびうおざ
   roma: tobiuoza
 '837':
   code: '837'
-  name: "はと座"
-  kana: "ハトザ"
-  hira: "はとざ"
+  name: はと座
+  kana: ハトザ
+  hira: はとざ
   roma: hatoza
 '838':
   code: '838'
-  name: "ペガスス座"
-  kana: "ペガススザ"
-  hira: "ぺがすすざ"
+  name: ペガスス座
+  kana: ペガススザ
+  hira: ぺがすすざ
   roma: pegasusuza
 '839':
   code: '839'
-  name: "ポンプ座"
-  kana: "ポンプザ"
-  hira: "ぽんぷざ"
+  name: ポンプ座
+  kana: ポンプザ
+  hira: ぽんぷざ
   roma: pompuza
 '840':
   code: '840'
-  name: "やまねこ座"
-  kana: "ヤマネコザ"
-  hira: "やまねこざ"
+  name: やまねこ座
+  kana: ヤマネコザ
+  hira: やまねこざ
   roma: yamanekoza

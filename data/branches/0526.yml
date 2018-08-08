@@ -1,463 +1,463 @@
 ---
 '012':
   code: '012'
-  name: "ＡＴＭ統括支店第十二"
-  kana: "エイテイエムジユウニ"
-  hira: "えいていえむじゆうに"
+  name: ＡＴＭ統括支店第十二
+  kana: エイテイエムジユウニ
+  hira: えいていえむじゆうに
   roma: eiteiemujiyuuni
 '013':
   code: '013'
-  name: "ＡＴＭ統括支店第十三"
-  kana: "エイテイエムジユウサン"
-  hira: "えいていえむじゆうさん"
+  name: ＡＴＭ統括支店第十三
+  kana: エイテイエムジユウサン
+  hira: えいていえむじゆうさん
   roma: eiteiemujiyuusan
 '014':
   code: '014'
-  name: "ＡＴＭ統括支店第十四"
-  kana: "エイテイエムジユウヨン"
-  hira: "えいていえむじゆうよん"
+  name: ＡＴＭ統括支店第十四
+  kana: エイテイエムジユウヨン
+  hira: えいていえむじゆうよん
   roma: eiteiemujiyuuyon
 '015':
   code: '015'
-  name: "ＡＴＭ統括支店第十五"
-  kana: "エイテイエムジユウゴ"
-  hira: "えいていえむじゆうご"
+  name: ＡＴＭ統括支店第十五
+  kana: エイテイエムジユウゴ
+  hira: えいていえむじゆうご
   roma: eiteiemujiyuugo
 '016':
   code: '016'
-  name: "ＡＴＭ統括支店第十六"
-  kana: "エイテイエムジユウロク"
-  hira: "えいていえむじゆうろく"
+  name: ＡＴＭ統括支店第十六
+  kana: エイテイエムジユウロク
+  hira: えいていえむじゆうろく
   roma: eiteiemujiyuuroku
 '017':
   code: '017'
-  name: "ＡＴＭ統括支店第十七"
-  kana: "エイテイエムジユウナナ"
-  hira: "えいていえむじゆうなな"
+  name: ＡＴＭ統括支店第十七
+  kana: エイテイエムジユウナナ
+  hira: えいていえむじゆうなな
   roma: eiteiemujiyuunana
-018:
-  code: 018
-  name: "ＡＴＭ統括支店第十一"
-  kana: "エイテイエムジユウイチ"
-  hira: "えいていえむじゆういち"
+'018':
+  code: '018'
+  name: ＡＴＭ統括支店第十一
+  kana: エイテイエムジユウイチ
+  hira: えいていえむじゆういち
   roma: eiteiemujiyuuichi
-019:
-  code: 019
-  name: "ＡＴＭ統括支店第一"
-  kana: "エイテイエムイチ"
-  hira: "えいていえむいち"
+'019':
+  code: '019'
+  name: ＡＴＭ統括支店第一
+  kana: エイテイエムイチ
+  hira: えいていえむいち
   roma: eiteiemuichi
 '020':
   code: '020'
-  name: "ＡＴＭ統括支店第二"
-  kana: "エイテイエムニ"
-  hira: "えいていえむに"
+  name: ＡＴＭ統括支店第二
+  kana: エイテイエムニ
+  hira: えいていえむに
   roma: eiteiemuni
 '021':
   code: '021'
-  name: "ＡＴＭ統括支店第三"
-  kana: "エイテイエムサン"
-  hira: "えいていえむさん"
+  name: ＡＴＭ統括支店第三
+  kana: エイテイエムサン
+  hira: えいていえむさん
   roma: eiteiemusan
 '022':
   code: '022'
-  name: "ＡＴＭ統括支店第四"
-  kana: "エイテイエムヨン"
-  hira: "えいていえむよん"
+  name: ＡＴＭ統括支店第四
+  kana: エイテイエムヨン
+  hira: えいていえむよん
   roma: eiteiemuyon
 '023':
   code: '023'
-  name: "ＡＴＭ統括支店第五"
-  kana: "エイテイエムゴ"
-  hira: "えいていえむご"
+  name: ＡＴＭ統括支店第五
+  kana: エイテイエムゴ
+  hira: えいていえむご
   roma: eiteiemugo
 '024':
   code: '024'
-  name: "ＡＴＭ統括支店第六"
-  kana: "エイテイエムロク"
-  hira: "えいていえむろく"
+  name: ＡＴＭ統括支店第六
+  kana: エイテイエムロク
+  hira: えいていえむろく
   roma: eiteiemuroku
 '025':
   code: '025'
-  name: "ＡＴＭ統括支店第七"
-  kana: "エイテイエムナナ"
-  hira: "えいていえむなな"
+  name: ＡＴＭ統括支店第七
+  kana: エイテイエムナナ
+  hira: えいていえむなな
   roma: eiteiemunana
 '026':
   code: '026'
-  name: "ＡＴＭ統括支店第八"
-  kana: "エイテイエムハチ"
-  hira: "えいていえむはち"
+  name: ＡＴＭ統括支店第八
+  kana: エイテイエムハチ
+  hira: えいていえむはち
   roma: eiteiemuhachi
 '027':
   code: '027'
-  name: "ＡＴＭ統括支店第九"
-  kana: "エイテイエムキユウ"
-  hira: "えいていえむきゆう"
+  name: ＡＴＭ統括支店第九
+  kana: エイテイエムキユウ
+  hira: えいていえむきゆう
   roma: eiteiemukiyuu
-028:
-  code: 028
-  name: "ＡＴＭ統括支店第十"
-  kana: "エイテイエムジユウ"
-  hira: "えいていえむじゆう"
+'028':
+  code: '028'
+  name: ＡＴＭ統括支店第十
+  kana: エイテイエムジユウ
+  hira: えいていえむじゆう
   roma: eiteiemujiyuu
 '100':
   code: '100'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '101':
   code: '101'
-  name: "池袋"
-  kana: "イケブクロ"
-  hira: "いけぶくろ"
+  name: 池袋
+  kana: イケブクロ
+  hira: いけぶくろ
   roma: ikebukuro
 '102':
   code: '102'
-  name: "銀座"
-  kana: "ギンザ"
-  hira: "ぎんざ"
+  name: 銀座
+  kana: ギンザ
+  hira: ぎんざ
   roma: ginza
 '106':
   code: '106'
-  name: "渋谷"
-  kana: "シブヤ"
-  hira: "しぶや"
+  name: 渋谷
+  kana: シブヤ
+  hira: しぶや
   roma: shibuya
 '107':
   code: '107'
-  name: "上野"
-  kana: "ウエノ"
-  hira: "うえの"
+  name: 上野
+  kana: ウエノ
+  hira: うえの
   roma: ueno
 '116':
   code: '116'
-  name: "小岩"
-  kana: "コイワ"
-  hira: "こいわ"
+  name: 小岩
+  kana: コイワ
+  hira: こいわ
   roma: koiwa
 '128':
   code: '128'
-  name: "吉祥寺"
-  kana: "キチジヨウジ"
-  hira: "きちじようじ"
+  name: 吉祥寺
+  kana: キチジヨウジ
+  hira: きちじようじ
   roma: kichijiyouji
 '129':
   code: '129'
-  name: "立川"
-  kana: "タチカワ"
-  hira: "たちかわ"
+  name: 立川
+  kana: タチカワ
+  hira: たちかわ
   roma: tachikawa
 '131':
   code: '131'
-  name: "小平"
-  kana: "コダイラ"
-  hira: "こだいら"
+  name: 小平
+  kana: コダイラ
+  hira: こだいら
   roma: kodaira
 '132':
   code: '132'
-  name: "新宿"
-  kana: "シンジユク"
-  hira: "しんじゆく"
+  name: 新宿
+  kana: シンジユク
+  hira: しんじゆく
   roma: shinjiyuku
 '137':
   code: '137'
-  name: "高島平"
-  kana: "タカシマダイラ"
-  hira: "たかしまだいら"
+  name: 高島平
+  kana: タカシマダイラ
+  hira: たかしまだいら
   roma: takashimadaira
 '169':
   code: '169'
-  name: "日比谷"
-  kana: "ヒビヤ"
-  hira: "ひびや"
+  name: 日比谷
+  kana: ヒビヤ
+  hira: ひびや
   roma: hibiya
 '181':
   code: '181'
-  name: "自由が丘"
-  kana: "ジユウガオカ"
-  hira: "じゆうがおか"
+  name: 自由が丘
+  kana: ジユウガオカ
+  hira: じゆうがおか
   roma: jiyuugaoka
 '182':
   code: '182'
-  name: "調布"
-  kana: "チヨウフ"
-  hira: "ちようふ"
+  name: 調布
+  kana: チヨウフ
+  hira: ちようふ
   roma: chiyoufu
 '201':
   code: '201'
-  name: "横浜"
-  kana: "ヨコハマ"
-  hira: "よこはま"
+  name: 横浜
+  kana: ヨコハマ
+  hira: よこはま
   roma: yokohama
 '205':
   code: '205'
-  name: "藤沢"
-  kana: "フジサワ"
-  hira: "ふじさわ"
+  name: 藤沢
+  kana: フジサワ
+  hira: ふじさわ
   roma: fujisawa
 '206':
   code: '206'
-  name: "渋谷駅前"
-  kana: "シブヤエキマエ"
-  hira: "しぶやえきまえ"
+  name: 渋谷駅前
+  kana: シブヤエキマエ
+  hira: しぶやえきまえ
   roma: shibuyaekimae
 '210':
   code: '210'
-  name: "港南台"
-  kana: "コウナンダイ"
-  hira: "こうなんだい"
+  name: 港南台
+  kana: コウナンダイ
+  hira: こうなんだい
   roma: kounandai
 '301':
   code: '301'
-  name: "千葉"
-  kana: "チバ"
-  hira: "ちば"
+  name: 千葉
+  kana: チバ
+  hira: ちば
   roma: chiba
 '303':
   code: '303'
-  name: "松戸"
-  kana: "マツド"
-  hira: "まつど"
+  name: 松戸
+  kana: マツド
+  hira: まつど
   roma: matsudo
 '304':
   code: '304'
-  name: "船橋"
-  kana: "フナバシ"
-  hira: "ふなばし"
+  name: 船橋
+  kana: フナバシ
+  hira: ふなばし
   roma: funabashi
 '401':
   code: '401'
-  name: "浦和"
-  kana: "ウラワ"
-  hira: "うらわ"
+  name: 浦和
+  kana: ウラワ
+  hira: うらわ
   roma: urawa
 '404':
   code: '404'
-  name: "大宮"
-  kana: "オオミヤ"
-  hira: "おおみや"
+  name: 大宮
+  kana: オオミヤ
+  hira: おおみや
   roma: oomiya
 '511':
   code: '511'
-  name: "札幌"
-  kana: "サツポロ"
-  hira: "さつぽろ"
+  name: 札幌
+  kana: サツポロ
+  hira: さつぽろ
   roma: satsuporo
 '521':
   code: '521'
-  name: "仙台"
-  kana: "センダイ"
-  hira: "せんだい"
+  name: 仙台
+  kana: センダイ
+  hira: せんだい
   roma: sendai
 '522':
   code: '522'
-  name: "神戸"
-  kana: "コウベ"
-  hira: "こうべ"
+  name: 神戸
+  kana: コウベ
+  hira: こうべ
   roma: koube
 '531':
   code: '531'
-  name: "福岡"
-  kana: "フクオカ"
-  hira: "ふくおか"
+  name: 福岡
+  kana: フクオカ
+  hira: ふくおか
   roma: fukuoka
 '532':
   code: '532'
-  name: "広島"
-  kana: "ヒロシマ"
-  hira: "ひろしま"
+  name: 広島
+  kana: ヒロシマ
+  hira: ひろしま
   roma: hiroshima
 '541':
   code: '541'
-  name: "名古屋"
-  kana: "ナゴヤ"
-  hira: "なごや"
+  name: 名古屋
+  kana: ナゴヤ
+  hira: なごや
   roma: nagoya
 '551':
   code: '551'
-  name: "難波"
-  kana: "ナンバ"
-  hira: "なんば"
+  name: 難波
+  kana: ナンバ
+  hira: なんば
   roma: namba
 '555':
   code: '555'
-  name: "梅田"
-  kana: "ウメダ"
-  hira: "うめだ"
+  name: 梅田
+  kana: ウメダ
+  hira: うめだ
   roma: umeda
 '601':
   code: '601'
-  name: "オレンジ"
-  kana: "オレンジ"
-  hira: "おれんじ"
+  name: オレンジ
+  kana: オレンジ
+  hira: おれんじ
   roma: orenji
 '700':
   code: '700'
-  name: "ＡＴＭ統括支店第十八"
-  kana: "エイテイエムジユウハチ"
-  hira: "えいていえむじゆうはち"
+  name: ＡＴＭ統括支店第十八
+  kana: エイテイエムジユウハチ
+  hira: えいていえむじゆうはち
   roma: eiteiemujiyuuhachi
 '701':
   code: '701'
-  name: "ＡＴＭ統括支店第十九"
-  kana: "エイテイエムジユウキユウ"
-  hira: "えいていえむじゆうきゆう"
+  name: ＡＴＭ統括支店第十九
+  kana: エイテイエムジユウキユウ
+  hira: えいていえむじゆうきゆう
   roma: eiteiemujiyuukiyuu
 '702':
   code: '702'
-  name: "ＡＴＭ統括支店第二十"
-  kana: "エイテイエムニジユウ"
-  hira: "えいていえむにじゆう"
+  name: ＡＴＭ統括支店第二十
+  kana: エイテイエムニジユウ
+  hira: えいていえむにじゆう
   roma: eiteiemunijiyuu
 '703':
   code: '703'
-  name: "ＡＴＭ統括支店第二十一"
-  kana: "エイテイエムニジユウイチ"
-  hira: "えいていえむにじゆういち"
+  name: ＡＴＭ統括支店第二十一
+  kana: エイテイエムニジユウイチ
+  hira: えいていえむにじゆういち
   roma: eiteiemunijiyuuichi
 '704':
   code: '704'
-  name: "ＡＴＭ統括支店第二十二"
-  kana: "エイテイエムニジユウニ"
-  hira: "えいていえむにじゆうに"
+  name: ＡＴＭ統括支店第二十二
+  kana: エイテイエムニジユウニ
+  hira: えいていえむにじゆうに
   roma: eiteiemunijiyuuni
 '705':
   code: '705'
-  name: "ＡＴＭ統括支店第二十三"
-  kana: "エイテイエムニジユウサン"
-  hira: "えいていえむにじゆうさん"
+  name: ＡＴＭ統括支店第二十三
+  kana: エイテイエムニジユウサン
+  hira: えいていえむにじゆうさん
   roma: eiteiemunijiyuusan
 '706':
   code: '706'
-  name: "ＡＴＭ統括支店第二十四"
-  kana: "エイテイエムニジユウヨン"
-  hira: "えいていえむにじゆうよん"
+  name: ＡＴＭ統括支店第二十四
+  kana: エイテイエムニジユウヨン
+  hira: えいていえむにじゆうよん
   roma: eiteiemunijiyuuyon
 '707':
   code: '707'
-  name: "ＡＴＭ統括支店第二十五"
-  kana: "エイテイエムニジユウゴ"
-  hira: "えいていえむにじゆうご"
+  name: ＡＴＭ統括支店第二十五
+  kana: エイテイエムニジユウゴ
+  hira: えいていえむにじゆうご
   roma: eiteiemunijiyuugo
 '708':
   code: '708'
-  name: "ＡＴＭ統括支店第二十六"
-  kana: "エイテイエムニジユウロク"
-  hira: "えいていえむにじゆうろく"
+  name: ＡＴＭ統括支店第二十六
+  kana: エイテイエムニジユウロク
+  hira: えいていえむにじゆうろく
   roma: eiteiemunijiyuuroku
 '709':
   code: '709'
-  name: "ＡＴＭ統括支店第二十七"
-  kana: "エイテイエムニジユウナナ"
-  hira: "えいていえむにじゆうなな"
+  name: ＡＴＭ統括支店第二十七
+  kana: エイテイエムニジユウナナ
+  hira: えいていえむにじゆうなな
   roma: eiteiemunijiyuunana
 '710':
   code: '710'
-  name: "ＡＴＭ統括支店第二十八"
-  kana: "エイテイエムニジユウハチ"
-  hira: "えいていえむにじゆうはち"
+  name: ＡＴＭ統括支店第二十八
+  kana: エイテイエムニジユウハチ
+  hira: えいていえむにじゆうはち
   roma: eiteiemunijiyuuhachi
 '711':
   code: '711'
-  name: "ＡＴＭ統括支店第二十九"
-  kana: "エイテイエムニジユウキユウ"
-  hira: "えいていえむにじゆうきゆう"
+  name: ＡＴＭ統括支店第二十九
+  kana: エイテイエムニジユウキユウ
+  hira: えいていえむにじゆうきゆう
   roma: eiteiemunijiyuukiyuu
 '712':
   code: '712'
-  name: "ＡＴＭ統括支店第三十"
-  kana: "エイテイエムサンジユウ"
-  hira: "えいていえむさんじゆう"
+  name: ＡＴＭ統括支店第三十
+  kana: エイテイエムサンジユウ
+  hira: えいていえむさんじゆう
   roma: eiteiemusanjiyuu
 '713':
   code: '713'
-  name: "ＡＴＭ統括支店第三十一"
-  kana: "エイテイエムサンジユウイチ"
-  hira: "えいていえむさんじゆういち"
+  name: ＡＴＭ統括支店第三十一
+  kana: エイテイエムサンジユウイチ
+  hira: えいていえむさんじゆういち
   roma: eiteiemusanjiyuuichi
 '714':
   code: '714'
-  name: "ＡＴＭ統括支店第三十二"
-  kana: "エイテイエムサンジユウニ"
-  hira: "えいていえむさんじゆうに"
+  name: ＡＴＭ統括支店第三十二
+  kana: エイテイエムサンジユウニ
+  hira: えいていえむさんじゆうに
   roma: eiteiemusanjiyuuni
 '715':
   code: '715'
-  name: "ＡＴＭ統括支店第三十三"
-  kana: "エイテイエムサンジユウサン"
-  hira: "えいていえむさんじゆうさん"
+  name: ＡＴＭ統括支店第三十三
+  kana: エイテイエムサンジユウサン
+  hira: えいていえむさんじゆうさん
   roma: eiteiemusanjiyuusan
 '716':
   code: '716'
-  name: "ＡＴＭ統括支店第三十四"
-  kana: "エイテイエムサンジユウヨン"
-  hira: "えいていえむさんじゆうよん"
+  name: ＡＴＭ統括支店第三十四
+  kana: エイテイエムサンジユウヨン
+  hira: えいていえむさんじゆうよん
   roma: eiteiemusanjiyuuyon
 '717':
   code: '717'
-  name: "ＡＴＭ統括支店第三十五"
-  kana: "エイテイエムサンジユウゴ"
-  hira: "えいていえむさんじゆうご"
+  name: ＡＴＭ統括支店第三十五
+  kana: エイテイエムサンジユウゴ
+  hira: えいていえむさんじゆうご
   roma: eiteiemusanjiyuugo
 '718':
   code: '718'
-  name: "ＡＴＭ統括支店第三十六"
-  kana: "エイテイエムサンジユウロク"
-  hira: "えいていえむさんじゆうろく"
+  name: ＡＴＭ統括支店第三十六
+  kana: エイテイエムサンジユウロク
+  hira: えいていえむさんじゆうろく
   roma: eiteiemusanjiyuuroku
 '719':
   code: '719'
-  name: "ＡＴＭ統括支店第三十七"
-  kana: "エイテイエムサンジユウナナ"
-  hira: "えいていえむさんじゆうなな"
+  name: ＡＴＭ統括支店第三十七
+  kana: エイテイエムサンジユウナナ
+  hira: えいていえむさんじゆうなな
   roma: eiteiemusanjiyuunana
 '720':
   code: '720'
-  name: "ＡＴＭ統括支店第三十八"
-  kana: "エイテイエムサンジユウハチ"
-  hira: "えいていえむさんじゆうはち"
+  name: ＡＴＭ統括支店第三十八
+  kana: エイテイエムサンジユウハチ
+  hira: えいていえむさんじゆうはち
   roma: eiteiemusanjiyuuhachi
 '721':
   code: '721'
-  name: "ＡＴＭ統括支店第三十九"
-  kana: "エイテイエムサンジユウキユウ"
-  hira: "えいていえむさんじゆうきゆう"
+  name: ＡＴＭ統括支店第三十九
+  kana: エイテイエムサンジユウキユウ
+  hira: えいていえむさんじゆうきゆう
   roma: eiteiemusanjiyuukiyuu
 '722':
   code: '722'
-  name: "ＡＴＭ統括支店第四十"
-  kana: "エイテイエムヨンジユウ"
-  hira: "えいていえむよんじゆう"
+  name: ＡＴＭ統括支店第四十
+  kana: エイテイエムヨンジユウ
+  hira: えいていえむよんじゆう
   roma: eiteiemuyonjiyuu
 '723':
   code: '723'
-  name: "ＡＴＭ統括支店第四十一"
-  kana: "エイテイエムヨンジユウイチ"
-  hira: "えいていえむよんじゆういち"
+  name: ＡＴＭ統括支店第四十一
+  kana: エイテイエムヨンジユウイチ
+  hira: えいていえむよんじゆういち
   roma: eiteiemuyonjiyuuichi
 '724':
   code: '724'
-  name: "ＡＴＭ統括支店第四十二"
-  kana: "エイテイエムヨンジユウニ"
-  hira: "えいていえむよんじゆうに"
+  name: ＡＴＭ統括支店第四十二
+  kana: エイテイエムヨンジユウニ
+  hira: えいていえむよんじゆうに
   roma: eiteiemuyonjiyuuni
 '725':
   code: '725'
-  name: "ＡＴＭ統括支店第四十三"
-  kana: "エイテイエムヨンジユウサン"
-  hira: "えいていえむよんじゆうさん"
+  name: ＡＴＭ統括支店第四十三
+  kana: エイテイエムヨンジユウサン
+  hira: えいていえむよんじゆうさん
   roma: eiteiemuyonjiyuusan
 '726':
   code: '726'
-  name: "ＡＴＭ統括支店第四十四"
-  kana: "エイテイエムヨンジユウヨン"
-  hira: "えいていえむよんじゆうよん"
+  name: ＡＴＭ統括支店第四十四
+  kana: エイテイエムヨンジユウヨン
+  hira: えいていえむよんじゆうよん
   roma: eiteiemuyonjiyuuyon
 '727':
   code: '727'
-  name: "ＡＴＭ統括支店第四十五"
-  kana: "エイテイエムヨンジユウゴ"
-  hira: "えいていえむよんじゆうご"
+  name: ＡＴＭ統括支店第四十五
+  kana: エイテイエムヨンジユウゴ
+  hira: えいていえむよんじゆうご
   roma: eiteiemuyonjiyuugo

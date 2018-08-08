@@ -1,25 +1,25 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "中部"
-  kana: "チユウブ"
-  hira: "ちゆうぶ"
+  name: 中部
+  kana: チユウブ
+  hira: ちゆうぶ
   roma: chiyuubu
 '012':
   code: '012'
-  name: "東部"
-  kana: "トウブ"
-  hira: "とうぶ"
+  name: 東部
+  kana: トウブ
+  hira: とうぶ
   roma: toubu
 '021':
   code: '021'
-  name: "西部"
-  kana: "セイブ"
-  hira: "せいぶ"
+  name: 西部
+  kana: セイブ
+  hira: せいぶ
   roma: seibu

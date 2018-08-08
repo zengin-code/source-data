@@ -1,25 +1,25 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '010':
   code: '010'
-  name: "石井出張所"
-  kana: "イシイ"
-  hira: "いしい"
+  name: 石井出張所
+  kana: イシイ
+  hira: いしい
   roma: ishii
 '102':
   code: '102'
-  name: "広野出張所"
-  kana: "ヒロノ"
-  hira: "ひろの"
+  name: 広野出張所
+  kana: ヒロノ
+  hira: ひろの
   roma: hirono
 '106':
   code: '106'
-  name: "神山"
-  kana: "カミヤマ"
-  hira: "かみやま"
+  name: 神山
+  kana: カミヤマ
+  hira: かみやま
   roma: kamiyama

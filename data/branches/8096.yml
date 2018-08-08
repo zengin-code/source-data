@@ -1,31 +1,31 @@
 ---
 '001':
   code: '001'
-  name: "久賀"
-  kana: "クカ"
-  hira: "くか"
+  name: 久賀
+  kana: クカ
+  hira: くか
   roma: kuka
 '010':
   code: '010'
-  name: "東和"
-  kana: "トウワ"
-  hira: "とうわ"
+  name: 東和
+  kana: トウワ
+  hira: とうわ
   roma: touwa
 '040':
   code: '040'
-  name: "橘"
-  kana: "タチバナ"
-  hira: "たちばな"
+  name: 橘
+  kana: タチバナ
+  hira: たちばな
   roma: tachibana
 '065':
   code: '065'
-  name: "大島"
-  kana: "オオシマ"
-  hira: "おおしま"
+  name: 大島
+  kana: オオシマ
+  hira: おおしま
   roma: ooshima
-090:
-  code: 090
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+'090':
+  code: '090'
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo

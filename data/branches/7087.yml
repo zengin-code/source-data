@@ -1,67 +1,67 @@
 ---
 '001':
   code: '001'
-  name: "貝塚北"
-  kana: "カイヅカキタ"
-  hira: "かいづかきた"
+  name: 貝塚北
+  kana: カイヅカキタ
+  hira: かいづかきた
   roma: kaidukakita
 '010':
   code: '010'
-  name: "貝塚南"
-  kana: "カイヅカミナミ"
-  hira: "かいづかみなみ"
+  name: 貝塚南
+  kana: カイヅカミナミ
+  hira: かいづかみなみ
   roma: kaidukaminami
 '014':
   code: '014'
-  name: "熊取"
-  kana: "クマトリ"
-  hira: "くまとり"
+  name: 熊取
+  kana: クマトリ
+  hira: くまとり
   roma: kumatori
 '017':
   code: '017'
-  name: "泉佐野北"
-  kana: "イズミサノキタ"
-  hira: "いずみさのきた"
+  name: 泉佐野北
+  kana: イズミサノキタ
+  hira: いずみさのきた
   roma: izumisanokita
 '025':
   code: '025'
-  name: "泉佐野中央"
-  kana: "イズミサノチユウオウ"
-  hira: "いずみさのちゆうおう"
+  name: 泉佐野中央
+  kana: イズミサノチユウオウ
+  hira: いずみさのちゆうおう
   roma: izumisanochiyuuou
 '026':
   code: '026'
-  name: "泉佐野南"
-  kana: "イズミサノミナミ"
-  hira: "いずみさのみなみ"
+  name: 泉佐野南
+  kana: イズミサノミナミ
+  hira: いずみさのみなみ
   roma: izumisanominami
-029:
-  code: 029
-  name: "りんくう"
-  kana: "リンクウ"
-  hira: "りんくう"
+'029':
+  code: '029'
+  name: りんくう
+  kana: リンクウ
+  hira: りんくう
   roma: rinkuu
 '032':
   code: '032'
-  name: "阪南"
-  kana: "ハンナン"
-  hira: "はんなん"
+  name: 阪南
+  kana: ハンナン
+  hira: はんなん
   roma: hannan
-038:
-  code: 038
-  name: "泉南"
-  kana: "センナン"
-  hira: "せんなん"
+'038':
+  code: '038'
+  name: 泉南
+  kana: センナン
+  hira: せんなん
   roma: sennan
 '044':
   code: '044'
-  name: "岬"
-  kana: "ミサキ"
-  hira: "みさき"
+  name: 岬
+  kana: ミサキ
+  hira: みさき
   roma: misaki
 '100':
   code: '100'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten

@@ -1,85 +1,85 @@
 ---
 '001':
   code: '001'
-  name: "東岐波"
-  kana: "ヒガシキワ"
-  hira: "ひがしきわ"
+  name: 東岐波
+  kana: ヒガシキワ
+  hira: ひがしきわ
   roma: higashikiwa
 '002':
   code: '002'
-  name: "丸尾出張所"
-  kana: "マルオ"
-  hira: "まるお"
+  name: 丸尾出張所
+  kana: マルオ
+  hira: まるお
   roma: maruo
 '010':
   code: '010'
-  name: "厚東川"
-  kana: "コトウガワ"
-  hira: "ことうがわ"
+  name: 厚東川
+  kana: コトウガワ
+  hira: ことうがわ
   roma: kotougawa
 '015':
   code: '015'
-  name: "宇部"
-  kana: "ウベ"
-  hira: "うべ"
+  name: 宇部
+  kana: ウベ
+  hira: うべ
   roma: ube
 '020':
   code: '020'
-  name: "小野出張所"
-  kana: "オノ"
-  hira: "おの"
+  name: 小野出張所
+  kana: オノ
+  hira: おの
   roma: ono
 '025':
   code: '025'
-  name: "西岐波"
-  kana: "ニシキワ"
-  hira: "にしきわ"
+  name: 西岐波
+  kana: ニシキワ
+  hira: にしきわ
   roma: nishikiwa
 '041':
   code: '041'
-  name: "厚南"
-  kana: "コウナン"
-  hira: "こうなん"
+  name: 厚南
+  kana: コウナン
+  hira: こうなん
   roma: kounan
 '045':
   code: '045'
-  name: "小野田出張所"
-  kana: "オノダ"
-  hira: "おのだ"
+  name: 小野田出張所
+  kana: オノダ
+  hira: おのだ
   roma: onoda
 '050':
   code: '050'
-  name: "高千帆"
-  kana: "タカチホ"
-  hira: "たかちほ"
+  name: 高千帆
+  kana: タカチホ
+  hira: たかちほ
   roma: takachiho
 '065':
   code: '065'
-  name: "楠"
-  kana: "クスノキ"
-  hira: "くすのき"
+  name: 楠
+  kana: クスノキ
+  hira: くすのき
   roma: kusunoki
 '070':
   code: '070'
-  name: "阿知須"
-  kana: "アジス"
-  hira: "あじす"
+  name: 阿知須
+  kana: アジス
+  hira: あじす
   roma: ajisu
-080:
-  code: 080
-  name: "埴生出張所"
-  kana: "ハブ"
-  hira: "はぶ"
+'080':
+  code: '080'
+  name: 埴生出張所
+  kana: ハブ
+  hira: はぶ
   roma: habu
-085:
-  code: 085
-  name: "厚狭"
-  kana: "アサ"
-  hira: "あさ"
+'085':
+  code: '085'
+  name: 厚狭
+  kana: アサ
+  hira: あさ
   roma: asa
-090:
-  code: 090
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+'090':
+  code: '090'
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten

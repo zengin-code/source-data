@@ -1,73 +1,73 @@
 ---
 '002':
   code: '002'
-  name: "広田"
-  kana: "ヒロタ"
-  hira: "ひろた"
+  name: 広田
+  kana: ヒロタ
+  hira: ひろた
   roma: hirota
 '004':
   code: '004'
-  name: "松帆"
-  kana: "マツホ"
-  hira: "まつほ"
+  name: 松帆
+  kana: マツホ
+  hira: まつほ
   roma: matsuho
-009:
-  code: 009
-  name: "志知"
-  kana: "シチ"
-  hira: "しち"
+'009':
+  code: '009'
+  name: 志知
+  kana: シチ
+  hira: しち
   roma: shichi
 '010':
   code: '010'
-  name: "榎列"
-  kana: "エナミ"
-  hira: "えなみ"
+  name: 榎列
+  kana: エナミ
+  hira: えなみ
   roma: enami
 '011':
   code: '011'
-  name: "八木"
-  kana: "ヤギ"
-  hira: "やぎ"
+  name: 八木
+  kana: ヤギ
+  hira: やぎ
   roma: yagi
 '012':
   code: '012'
-  name: "市"
-  kana: "イチ"
-  hira: "いち"
+  name: 市
+  kana: イチ
+  hira: いち
   roma: ichi
 '013':
   code: '013'
-  name: "神代"
-  kana: "ジンダイ"
-  hira: "じんだい"
+  name: 神代
+  kana: ジンダイ
+  hira: じんだい
   roma: jindai
 '014':
   code: '014'
-  name: "賀集"
-  kana: "カシユウ"
-  hira: "かしゆう"
+  name: 賀集
+  kana: カシユウ
+  hira: かしゆう
   roma: kashiyuu
 '015':
   code: '015'
-  name: "福良"
-  kana: "フクラ"
-  hira: "ふくら"
+  name: 福良
+  kana: フクラ
+  hira: ふくら
   roma: fukura
 '016':
   code: '016'
-  name: "阿万"
-  kana: "アマ"
-  hira: "あま"
+  name: 阿万
+  kana: アマ
+  hira: あま
   roma: ama
-018:
-  code: 018
-  name: "北阿万"
-  kana: "キタアマ"
-  hira: "きたあま"
+'018':
+  code: '018'
+  name: 北阿万
+  kana: キタアマ
+  hira: きたあま
   roma: kitaama
 '100':
   code: '100'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo

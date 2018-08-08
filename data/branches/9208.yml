@@ -1,61 +1,61 @@
 ---
 '100':
   code: '100'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '120':
   code: '120'
-  name: "伊形"
-  kana: "イガタ"
-  hira: "いがた"
+  name: 伊形
+  kana: イガタ
+  hira: いがた
   roma: igata
 '130':
   code: '130'
-  name: "恒富"
-  kana: "ツネトミ"
-  hira: "つねとみ"
+  name: 恒富
+  kana: ツネトミ
+  hira: つねとみ
   roma: tsunetomi
 '140':
   code: '140'
-  name: "東延岡"
-  kana: "ヒガシノベオカ"
-  hira: "ひがしのべおか"
+  name: 東延岡
+  kana: ヒガシノベオカ
+  hira: ひがしのべおか
   roma: higashinobeoka
 '150':
   code: '150'
-  name: "岡富"
-  kana: "オカトミ"
-  hira: "おかとみ"
+  name: 岡富
+  kana: オカトミ
+  hira: おかとみ
   roma: okatomi
 '160':
   code: '160'
-  name: "南方"
-  kana: "ミナミカタ"
-  hira: "みなみかた"
+  name: 南方
+  kana: ミナミカタ
+  hira: みなみかた
   roma: minamikata
 '180':
   code: '180'
-  name: "東海"
-  kana: "トウミ"
-  hira: "とうみ"
+  name: 東海
+  kana: トウミ
+  hira: とうみ
   roma: toumi
 '190':
   code: '190'
-  name: "北方"
-  kana: "キタカタ"
-  hira: "きたかた"
+  name: 北方
+  kana: キタカタ
+  hira: きたかた
   roma: kitakata
 '200':
   code: '200'
-  name: "北川"
-  kana: "キタガワ"
-  hira: "きたがわ"
+  name: 北川
+  kana: キタガワ
+  hira: きたがわ
   roma: kitagawa
 '210':
   code: '210'
-  name: "北浦"
-  kana: "キタウラ"
-  hira: "きたうら"
+  name: 北浦
+  kana: キタウラ
+  hira: きたうら
   roma: kitaura

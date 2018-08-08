@@ -1,19 +1,19 @@
 ---
 '001':
   code: '001'
-  name: "東京"
-  kana: "トウキヨウ"
-  hira: "とうきよう"
+  name: 東京
+  kana: トウキヨウ
+  hira: とうきよう
   roma: toukiyou
 '002':
   code: '002'
-  name: "大阪"
-  kana: "オオサカ"
-  hira: "おおさか"
+  name: 大阪
+  kana: オオサカ
+  hira: おおさか
   roma: oosaka
 '003':
   code: '003'
-  name: "福岡出張所"
-  kana: "フクオカ"
-  hira: "ふくおか"
+  name: 福岡出張所
+  kana: フクオカ
+  hira: ふくおか
   roma: fukuoka

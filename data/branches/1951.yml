@@ -1,97 +1,97 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '003':
   code: '003'
-  name: "川尻"
-  kana: "カワシリ"
-  hira: "かわしり"
+  name: 川尻
+  kana: カワシリ
+  hira: かわしり
   roma: kawashiri
 '005':
   code: '005'
-  name: "健軍"
-  kana: "ケングン"
-  hira: "けんぐん"
+  name: 健軍
+  kana: ケングン
+  hira: けんぐん
   roma: kengun
 '006':
   code: '006'
-  name: "子飼"
-  kana: "コカイ"
-  hira: "こかい"
+  name: 子飼
+  kana: コカイ
+  hira: こかい
   roma: kokai
-008:
-  code: 008
-  name: "南熊本"
-  kana: "ミナミクマモト"
-  hira: "みなみくまもと"
+'008':
+  code: '008'
+  name: 南熊本
+  kana: ミナミクマモト
+  hira: みなみくまもと
   roma: minamikumamoto
 '010':
   code: '010'
-  name: "新外"
-  kana: "シンホカ"
-  hira: "しんほか"
+  name: 新外
+  kana: シンホカ
+  hira: しんほか
   roma: shinhoka
 '011':
   code: '011'
-  name: "上熊本"
-  kana: "カミクマモト"
-  hira: "かみくまもと"
+  name: 上熊本
+  kana: カミクマモト
+  hira: かみくまもと
   roma: kamikumamoto
 '012':
   code: '012'
-  name: "秋津"
-  kana: "アキツ"
-  hira: "あきつ"
+  name: 秋津
+  kana: アキツ
+  hira: あきつ
   roma: akitsu
 '013':
   code: '013'
-  name: "西部"
-  kana: "セイブ"
-  hira: "せいぶ"
+  name: 西部
+  kana: セイブ
+  hira: せいぶ
   roma: seibu
 '014':
   code: '014'
-  name: "江津"
-  kana: "エヅ"
-  hira: "えづ"
+  name: 江津
+  kana: エヅ
+  hira: えづ
   roma: edu
 '015':
   code: '015'
-  name: "新地"
-  kana: "シンチ"
-  hira: "しんち"
+  name: 新地
+  kana: シンチ
+  hira: しんち
   roma: shinchi
 '016':
   code: '016'
-  name: "御幸田迎"
-  kana: "ミユキタムカエ"
-  hira: "みゆきたむかえ"
+  name: 御幸田迎
+  kana: ミユキタムカエ
+  hira: みゆきたむかえ
   roma: miyukitamukae
 '017':
   code: '017'
-  name: "長嶺"
-  kana: "ナガミネ"
-  hira: "ながみね"
+  name: 長嶺
+  kana: ナガミネ
+  hira: ながみね
   roma: nagamine
-019:
-  code: 019
-  name: "宇土"
-  kana: "ウト"
-  hira: "うと"
+'019':
+  code: '019'
+  name: 宇土
+  kana: ウト
+  hira: うと
   roma: uto
 '020':
   code: '020'
-  name: "菊陽"
-  kana: "キクヨウ"
-  hira: "きくよう"
+  name: 菊陽
+  kana: キクヨウ
+  hira: きくよう
   roma: kikuyou
 '021':
   code: '021'
-  name: "合志"
-  kana: "コウシ"
-  hira: "こうし"
+  name: 合志
+  kana: コウシ
+  hira: こうし
   roma: koushi

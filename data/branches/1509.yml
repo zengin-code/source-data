@@ -1,193 +1,193 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "向谷"
-  kana: "ムクヤ"
-  hira: "むくや"
+  name: 向谷
+  kana: ムクヤ
+  hira: むくや
   roma: mukuya
 '003':
   code: '003'
-  name: "七丁目"
-  kana: "ナナチヨウメ"
-  hira: "ななちようめ"
+  name: 七丁目
+  kana: ナナチヨウメ
+  hira: ななちようめ
   roma: nanachiyoume
 '004':
   code: '004'
-  name: "初倉"
-  kana: "ハツクラ"
-  hira: "はつくら"
+  name: 初倉
+  kana: ハツクラ
+  hira: はつくら
   roma: hatsukura
 '005':
   code: '005'
-  name: "藤枝"
-  kana: "フジエダ"
-  hira: "ふじえだ"
+  name: 藤枝
+  kana: フジエダ
+  hira: ふじえだ
   roma: fujieda
 '006':
   code: '006'
-  name: "大井川"
-  kana: "オオイガワ"
-  hira: "おおいがわ"
+  name: 大井川
+  kana: オオイガワ
+  hira: おおいがわ
   roma: ooigawa
 '007':
   code: '007'
-  name: "川根"
-  kana: "カワネ"
-  hira: "かわね"
+  name: 川根
+  kana: カワネ
+  hira: かわね
   roma: kawane
-008:
-  code: 008
-  name: "金谷"
-  kana: "カナヤ"
-  hira: "かなや"
+'008':
+  code: '008'
+  name: 金谷
+  kana: カナヤ
+  hira: かなや
   roma: kanaya
-009:
-  code: 009
-  name: "吉田"
-  kana: "ヨシダ"
-  hira: "よしだ"
+'009':
+  code: '009'
+  name: 吉田
+  kana: ヨシダ
+  hira: よしだ
   roma: yoshida
 '010':
   code: '010'
-  name: "榛原"
-  kana: "ハイバラ"
-  hira: "はいばら"
+  name: 榛原
+  kana: ハイバラ
+  hira: はいばら
   roma: haibara
 '011':
   code: '011'
-  name: "相良"
-  kana: "サガラ"
-  hira: "さがら"
+  name: 相良
+  kana: サガラ
+  hira: さがら
   roma: sagara
 '012':
   code: '012'
-  name: "御前崎"
-  kana: "オマエザキ"
-  hira: "おまえざき"
+  name: 御前崎
+  kana: オマエザキ
+  hira: おまえざき
   roma: omaezaki
 '013':
   code: '013'
-  name: "神戸"
-  kana: "カンド"
-  hira: "かんど"
+  name: 神戸
+  kana: カンド
+  hira: かんど
   roma: kando
 '014':
   code: '014'
-  name: "藤枝東"
-  kana: "フジエダヒガシ"
-  hira: "ふじえだひがし"
+  name: 藤枝東
+  kana: フジエダヒガシ
+  hira: ふじえだひがし
   roma: fujiedahigashi
 '015':
   code: '015'
-  name: "静岡"
-  kana: "シズオカ"
-  hira: "しずおか"
+  name: 静岡
+  kana: シズオカ
+  hira: しずおか
   roma: shizuoka
 '016':
   code: '016'
-  name: "永楽町"
-  kana: "エイラクチヨウ"
-  hira: "えいらくちよう"
+  name: 永楽町
+  kana: エイラクチヨウ
+  hira: えいらくちよう
   roma: eirakuchiyou
 '017':
   code: '017'
-  name: "六合"
-  kana: "ロクゴウ"
-  hira: "ろくごう"
+  name: 六合
+  kana: ロクゴウ
+  hira: ろくごう
   roma: rokugou
-019:
-  code: 019
-  name: "豊田"
-  kana: "トヨダ"
-  hira: "とよだ"
+'019':
+  code: '019'
+  name: 豊田
+  kana: トヨダ
+  hira: とよだ
   roma: toyoda
 '021':
   code: '021'
-  name: "西千代田"
-  kana: "ニシチヨダ"
-  hira: "にしちよだ"
+  name: 西千代田
+  kana: ニシチヨダ
+  hira: にしちよだ
   roma: nishichiyoda
 '022':
   code: '022'
-  name: "焼津"
-  kana: "ヤイヅ"
-  hira: "やいづ"
+  name: 焼津
+  kana: ヤイヅ
+  hira: やいづ
   roma: yaidu
 '023':
   code: '023'
-  name: "掛川"
-  kana: "カケガワ"
-  hira: "かけがわ"
+  name: 掛川
+  kana: カケガワ
+  hira: かけがわ
   roma: kakegawa
 '024':
   code: '024'
-  name: "浜岡"
-  kana: "ハマオカ"
-  hira: "はまおか"
+  name: 浜岡
+  kana: ハマオカ
+  hira: はまおか
   roma: hamaoka
 '025':
   code: '025'
-  name: "大東"
-  kana: "ダイトウ"
-  hira: "だいとう"
+  name: 大東
+  kana: ダイトウ
+  hira: だいとう
   roma: daitou
 '026':
   code: '026'
-  name: "小笠"
-  kana: "オガサ"
-  hira: "おがさ"
+  name: 小笠
+  kana: オガサ
+  hira: おがさ
   roma: ogasa
 '027':
   code: '027'
-  name: "菊川"
-  kana: "キクガワ"
-  hira: "きくがわ"
+  name: 菊川
+  kana: キクガワ
+  hira: きくがわ
   roma: kikugawa
-028:
-  code: 028
-  name: "牧の原"
-  kana: "マキノハラ"
-  hira: "まきのはら"
+'028':
+  code: '028'
+  name: 牧の原
+  kana: マキノハラ
+  hira: まきのはら
   roma: makinohara
-029:
-  code: 029
-  name: "家山"
-  kana: "イエヤマ"
-  hira: "いえやま"
+'029':
+  code: '029'
+  name: 家山
+  kana: イエヤマ
+  hira: いえやま
   roma: ieyama
 '034':
   code: '034'
-  name: "西焼津"
-  kana: "ニシヤイヅ"
-  hira: "にしやいづ"
+  name: 西焼津
+  kana: ニシヤイヅ
+  hira: にしやいづ
   roma: nishiyaidu
 '036':
   code: '036'
-  name: "五和"
-  kana: "ゴカ"
-  hira: "ごか"
+  name: 五和
+  kana: ゴカ
+  hira: ごか
   roma: goka
 '037':
   code: '037'
-  name: "藤枝南"
-  kana: "フジエダミナミ"
-  hira: "ふじえだみなみ"
+  name: 藤枝南
+  kana: フジエダミナミ
+  hira: ふじえだみなみ
   roma: fujiedaminami
-038:
-  code: 038
-  name: "榛原東"
-  kana: "ハイバラヒガシ"
-  hira: "はいばらひがし"
+'038':
+  code: '038'
+  name: 榛原東
+  kana: ハイバラヒガシ
+  hira: はいばらひがし
   roma: haibarahigashi
-039:
-  code: 039
-  name: "島田北"
-  kana: "シマダキタ"
-  hira: "しまだきた"
+'039':
+  code: '039'
+  name: 島田北
+  kana: シマダキタ
+  hira: しまだきた
   roma: shimadakita

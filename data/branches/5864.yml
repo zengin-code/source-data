@@ -1,67 +1,67 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "石山"
-  kana: "イシヤマ"
-  hira: "いしやま"
+  name: 石山
+  kana: イシヤマ
+  hira: いしやま
   roma: ishiyama
 '003':
   code: '003'
-  name: "木戸"
-  kana: "キド"
-  hira: "きど"
+  name: 木戸
+  kana: キド
+  hira: きど
   roma: kido
 '004':
   code: '004'
-  name: "南部"
-  kana: "ナンブ"
-  hira: "なんぶ"
+  name: 南部
+  kana: ナンブ
+  hira: なんぶ
   roma: nambu
 '007':
   code: '007'
-  name: "大江山"
-  kana: "オオエヤマ"
-  hira: "おおえやま"
+  name: 大江山
+  kana: オオエヤマ
+  hira: おおえやま
   roma: ooeyama
-008:
-  code: 008
-  name: "北部"
-  kana: "ホクブ"
-  hira: "ほくぶ"
+'008':
+  code: '008'
+  name: 北部
+  kana: ホクブ
+  hira: ほくぶ
   roma: hokubu
 '010':
   code: '010'
-  name: "大形"
-  kana: "オオガタ"
-  hira: "おおがた"
+  name: 大形
+  kana: オオガタ
+  hira: おおがた
   roma: oogata
 '012':
   code: '012'
-  name: "鳥屋野"
-  kana: "トヤノ"
-  hira: "とやの"
+  name: 鳥屋野
+  kana: トヤノ
+  hira: とやの
   roma: toyano
 '013':
   code: '013'
-  name: "鳥屋野南"
-  kana: "トヤノミナミ"
-  hira: "とやのみなみ"
+  name: 鳥屋野南
+  kana: トヤノミナミ
+  hira: とやのみなみ
   roma: toyanominami
 '015':
   code: '015'
-  name: "豊栄"
-  kana: "トヨサカ"
-  hira: "とよさか"
+  name: 豊栄
+  kana: トヨサカ
+  hira: とよさか
   roma: toyosaka
 '016':
   code: '016'
-  name: "木崎"
-  kana: "キザキ"
-  hira: "きざき"
+  name: 木崎
+  kana: キザキ
+  hira: きざき
   roma: kizaki

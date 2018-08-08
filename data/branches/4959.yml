@@ -1,103 +1,103 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "行徳"
-  kana: "ギヨウトク"
-  hira: "ぎようとく"
+  name: 行徳
+  kana: ギヨウトク
+  hira: ぎようとく
   roma: giyoutoku
 '004':
   code: '004'
-  name: "大柏"
-  kana: "オオカシワ"
-  hira: "おおかしわ"
+  name: 大柏
+  kana: オオカシワ
+  hira: おおかしわ
   roma: ookashiwa
 '005':
   code: '005'
-  name: "国分"
-  kana: "コクブン"
-  hira: "こくぶん"
+  name: 国分
+  kana: コクブン
+  hira: こくぶん
   roma: kokubun
 '006':
   code: '006'
-  name: "菅野"
-  kana: "スガノ"
-  hira: "すがの"
+  name: 菅野
+  kana: スガノ
+  hira: すがの
   roma: sugano
 '007':
   code: '007'
-  name: "中央"
-  kana: "チユウオウ"
-  hira: "ちゆうおう"
+  name: 中央
+  kana: チユウオウ
+  hira: ちゆうおう
   roma: chiyuuou
-008:
-  code: 008
-  name: "妙典"
-  kana: "ミヨウデン"
-  hira: "みようでん"
+'008':
+  code: '008'
+  name: 妙典
+  kana: ミヨウデン
+  hira: みようでん
   roma: miyouden
 '011':
   code: '011'
-  name: "原木中山"
-  kana: "バラキナカヤマ"
-  hira: "ばらきなかやま"
+  name: 原木中山
+  kana: バラキナカヤマ
+  hira: ばらきなかやま
   roma: barakinakayama
 '012':
   code: '012'
-  name: "南行徳"
-  kana: "ミナミギヨウトク"
-  hira: "みなみぎようとく"
+  name: 南行徳
+  kana: ミナミギヨウトク
+  hira: みなみぎようとく
   roma: minamigiyoutoku
 '013':
   code: '013'
-  name: "浦安"
-  kana: "ウラヤス"
-  hira: "うらやす"
+  name: 浦安
+  kana: ウラヤス
+  hira: うらやす
   roma: urayasu
 '015':
   code: '015'
-  name: "三咲"
-  kana: "ミサキ"
-  hira: "みさき"
+  name: 三咲
+  kana: ミサキ
+  hira: みさき
   roma: misaki
 '016':
   code: '016'
-  name: "豊富"
-  kana: "トヨトミ"
-  hira: "とよとみ"
+  name: 豊富
+  kana: トヨトミ
+  hira: とよとみ
   roma: toyotomi
 '017':
   code: '017'
-  name: "法典"
-  kana: "ホウデン"
-  hira: "ほうでん"
+  name: 法典
+  kana: ホウデン
+  hira: ほうでん
   roma: houden
-018:
-  code: 018
-  name: "船橋"
-  kana: "フナバシ"
-  hira: "ふなばし"
+'018':
+  code: '018'
+  name: 船橋
+  kana: フナバシ
+  hira: ふなばし
   roma: funabashi
-019:
-  code: 019
-  name: "二宮"
-  kana: "ニノミヤ"
-  hira: "にのみや"
+'019':
+  code: '019'
+  name: 二宮
+  kana: ニノミヤ
+  hira: にのみや
   roma: ninomiya
 '022':
   code: '022'
-  name: "田中"
-  kana: "タナカ"
-  hira: "たなか"
+  name: 田中
+  kana: タナカ
+  hira: たなか
   roma: tanaka
 '023':
   code: '023'
-  name: "十余二"
-  kana: "トヨフタ"
-  hira: "とよふた"
+  name: 十余二
+  kana: トヨフタ
+  hira: とよふた
   roma: toyofuta

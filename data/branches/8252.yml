@@ -1,37 +1,37 @@
 ---
 '101':
   code: '101'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '104':
   code: '104'
-  name: "板野"
-  kana: "イタノ"
-  hira: "いたの"
+  name: 板野
+  kana: イタノ
+  hira: いたの
   roma: itano
 '106':
   code: '106'
-  name: "藍住"
-  kana: "アイズミ"
-  hira: "あいずみ"
+  name: 藍住
+  kana: アイズミ
+  hira: あいずみ
   roma: aizumi
 '107':
   code: '107'
-  name: "北島"
-  kana: "キタジマ"
-  hira: "きたじま"
+  name: 北島
+  kana: キタジマ
+  hira: きたじま
   roma: kitajima
 '109':
   code: '109'
-  name: "阿波"
-  kana: "アワ"
-  hira: "あわ"
+  name: 阿波
+  kana: アワ
+  hira: あわ
   roma: awa
 '113':
   code: '113'
-  name: "上板"
-  kana: "カミイタ"
-  hira: "かみいた"
+  name: 上板
+  kana: カミイタ
+  hira: かみいた
   roma: kamiita

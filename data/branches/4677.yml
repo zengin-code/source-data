@@ -1,115 +1,115 @@
 ---
 '001':
   code: '001'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo
 '002':
   code: '002'
-  name: "大手町"
-  kana: "オオテマチ"
-  hira: "おおてまち"
+  name: 大手町
+  kana: オオテマチ
+  hira: おおてまち
   roma: ootemachi
 '005':
   code: '005'
-  name: "赤羽"
-  kana: "アカバネ"
-  hira: "あかばね"
+  name: 赤羽
+  kana: アカバネ
+  hira: あかばね
   roma: akabane
 '006':
   code: '006'
-  name: "六郷"
-  kana: "ロクゴウ"
-  hira: "ろくごう"
+  name: 六郷
+  kana: ロクゴウ
+  hira: ろくごう
   roma: rokugou
 '007':
   code: '007'
-  name: "三野谷"
-  kana: "ミノヤ"
-  hira: "みのや"
+  name: 三野谷
+  kana: ミノヤ
+  hira: みのや
   roma: minoya
-008:
-  code: 008
-  name: "館林北"
-  kana: "タテバヤシキタ"
-  hira: "たてばやしきた"
+'008':
+  code: '008'
+  name: 館林北
+  kana: タテバヤシキタ
+  hira: たてばやしきた
   roma: tatebayashikita
-009:
-  code: 009
-  name: "多々良"
-  kana: "タタラ"
-  hira: "たたら"
+'009':
+  code: '009'
+  name: 多々良
+  kana: タタラ
+  hira: たたら
   roma: tatara
 '013':
   code: '013'
-  name: "分福町"
-  kana: "ブンブクチヨウ"
-  hira: "ぶんぶくちよう"
+  name: 分福町
+  kana: ブンブクチヨウ
+  hira: ぶんぶくちよう
   roma: bumbukuchiyou
 '016':
   code: '016'
-  name: "明和"
-  kana: "メイワ"
-  hira: "めいわ"
+  name: 明和
+  kana: メイワ
+  hira: めいわ
   roma: meiwa
-018:
-  code: 018
-  name: "板倉北"
-  kana: "イタクラキタ"
-  hira: "いたくらきた"
+'018':
+  code: '018'
+  name: 板倉北
+  kana: イタクラキタ
+  hira: いたくらきた
   roma: itakurakita
-019:
-  code: 019
-  name: "板倉東"
-  kana: "イタクラヒガシ"
-  hira: "いたくらひがし"
+'019':
+  code: '019'
+  name: 板倉東
+  kana: イタクラヒガシ
+  hira: いたくらひがし
   roma: itakurahigashi
 '020':
   code: '020'
-  name: "板倉南"
-  kana: "イタクラミナミ"
-  hira: "いたくらみなみ"
+  name: 板倉南
+  kana: イタクラミナミ
+  hira: いたくらみなみ
   roma: itakuraminami
 '021':
   code: '021'
-  name: "板倉西"
-  kana: "イタクラニシ"
-  hira: "いたくらにし"
+  name: 板倉西
+  kana: イタクラニシ
+  hira: いたくらにし
   roma: itakuranishi
 '022':
   code: '022'
-  name: "富永"
-  kana: "トミナガ"
-  hira: "とみなが"
+  name: 富永
+  kana: トミナガ
+  hira: とみなが
   roma: tominaga
 '023':
   code: '023'
-  name: "永楽"
-  kana: "エイラク"
-  hira: "えいらく"
+  name: 永楽
+  kana: エイラク
+  hira: えいらく
   roma: eiraku
 '024':
   code: '024'
-  name: "大泉"
-  kana: "オオイズミ"
-  hira: "おおいずみ"
+  name: 大泉
+  kana: オオイズミ
+  hira: おおいずみ
   roma: ooizumi
 '025':
   code: '025'
-  name: "長柄"
-  kana: "ナガエ"
-  hira: "ながえ"
+  name: 長柄
+  kana: ナガエ
+  hira: ながえ
   roma: nagae
 '026':
   code: '026'
-  name: "中野"
-  kana: "ナカノ"
-  hira: "なかの"
+  name: 中野
+  kana: ナカノ
+  hira: なかの
   roma: nakano
 '027':
   code: '027'
-  name: "高島"
-  kana: "タカシマ"
-  hira: "たかしま"
+  name: 高島
+  kana: タカシマ
+  hira: たかしま
   roma: takashima

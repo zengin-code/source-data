@@ -1,103 +1,103 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "滝山"
-  kana: "タキヤマ"
-  hira: "たきやま"
+  name: 滝山
+  kana: タキヤマ
+  hira: たきやま
   roma: takiyama
 '005':
   code: '005'
-  name: "宮浦"
-  kana: "ミヤウラ"
-  hira: "みやうら"
+  name: 宮浦
+  kana: ミヤウラ
+  hira: みやうら
   roma: miyaura
 '007':
   code: '007'
-  name: "西部"
-  kana: "セイブ"
-  hira: "せいぶ"
+  name: 西部
+  kana: セイブ
+  hira: せいぶ
   roma: seibu
 '010':
   code: '010'
-  name: "鈴川"
-  kana: "スズカワ"
-  hira: "すずかわ"
+  name: 鈴川
+  kana: スズカワ
+  hira: すずかわ
   roma: suzukawa
 '011':
   code: '011'
-  name: "高楯"
-  kana: "タカダテ"
-  hira: "たかだて"
+  name: 高楯
+  kana: タカダテ
+  hira: たかだて
   roma: takadate
 '013':
   code: '013'
-  name: "千歳"
-  kana: "チトセ"
-  hira: "ちとせ"
+  name: 千歳
+  kana: チトセ
+  hira: ちとせ
   roma: chitose
 '016':
   code: '016'
-  name: "東金井"
-  kana: "ヒガシカナイ"
-  hira: "ひがしかない"
+  name: 東金井
+  kana: ヒガシカナイ
+  hira: ひがしかない
   roma: higashikanai
 '017':
   code: '017'
-  name: "天神"
-  kana: "テンジン"
-  hira: "てんじん"
+  name: 天神
+  kana: テンジン
+  hira: てんじん
   roma: tenjin
 '020':
   code: '020'
-  name: "南館"
-  kana: "ミナミダテ"
-  hira: "みなみだて"
+  name: 南館
+  kana: ミナミダテ
+  hira: みなみだて
   roma: minamidate
 '023':
   code: '023'
-  name: "さくら"
-  kana: "サクラ"
-  hira: "さくら"
+  name: さくら
+  kana: サクラ
+  hira: さくら
   roma: sakura
 '027':
   code: '027'
-  name: "山形南"
-  kana: "ヤマガタミナミ"
-  hira: "やまがたみなみ"
+  name: 山形南
+  kana: ヤマガタミナミ
+  hira: やまがたみなみ
   roma: yamagataminami
 '032':
   code: '032'
-  name: "蔵王"
-  kana: "ザオウ"
-  hira: "ざおう"
+  name: 蔵王
+  kana: ザオウ
+  hira: ざおう
   roma: zaou
 '036':
   code: '036'
-  name: "上山北"
-  kana: "カミノヤマキタ"
-  hira: "かみのやまきた"
+  name: 上山北
+  kana: カミノヤマキタ
+  hira: かみのやまきた
   roma: kaminoyamakita
 '037':
   code: '037'
-  name: "上山南"
-  kana: "カミノヤマミナミ"
-  hira: "かみのやまみなみ"
+  name: 上山南
+  kana: カミノヤマミナミ
+  hira: かみのやまみなみ
   roma: kaminoyamaminami
 '047':
   code: '047'
-  name: "ひまわり"
-  kana: "ヒマワリ"
-  hira: "ひまわり"
+  name: ひまわり
+  kana: ヒマワリ
+  hira: ひまわり
   roma: himawari
 '052':
   code: '052'
-  name: "山辺"
-  kana: "ヤマノベ"
-  hira: "やまのべ"
+  name: 山辺
+  kana: ヤマノベ
+  hira: やまのべ
   roma: yamanobe

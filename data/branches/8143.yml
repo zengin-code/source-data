@@ -1,43 +1,43 @@
 ---
 '001':
   code: '001'
-  name: "防府中央"
-  kana: "ホウフチユウオウ"
-  hira: "ほうふちゆうおう"
+  name: 防府中央
+  kana: ホウフチユウオウ
+  hira: ほうふちゆうおう
   roma: houfuchiyuuou
 '002':
   code: '002'
-  name: "防府北"
-  kana: "ホウフキタ"
-  hira: "ほうふきた"
+  name: 防府北
+  kana: ホウフキタ
+  hira: ほうふきた
   roma: houfukita
 '003':
   code: '003'
-  name: "防府東"
-  kana: "ホウフヒガシ"
-  hira: "ほうふひがし"
+  name: 防府東
+  kana: ホウフヒガシ
+  hira: ほうふひがし
   roma: houfuhigashi
 '004':
   code: '004'
-  name: "防府南"
-  kana: "ホウフミナミ"
-  hira: "ほうふみなみ"
+  name: 防府南
+  kana: ホウフミナミ
+  hira: ほうふみなみ
   roma: houfuminami
 '011':
   code: '011'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo
 '030':
   code: '030'
-  name: "防府西"
-  kana: "ホウフニシ"
-  hira: "ほうふにし"
+  name: 防府西
+  kana: ホウフニシ
+  hira: ほうふにし
   roma: houfunishi
 '041':
   code: '041'
-  name: "徳地"
-  kana: "トクヂ"
-  hira: "とくぢ"
+  name: 徳地
+  kana: トクヂ
+  hira: とくぢ
   roma: tokudi

@@ -1,115 +1,115 @@
 ---
 '001':
   code: '001'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo
 '002':
   code: '002'
-  name: "山崎"
-  kana: "ヤマサキ"
-  hira: "やまさき"
+  name: 山崎
+  kana: ヤマサキ
+  hira: やまさき
   roma: yamasaki
 '005':
   code: '005'
-  name: "鶴田"
-  kana: "ツルダ"
-  hira: "つるだ"
+  name: 鶴田
+  kana: ツルダ
+  hira: つるだ
   roma: tsuruda
 '007':
   code: '007'
-  name: "平川"
-  kana: "ヒラカワ"
-  hira: "ひらかわ"
+  name: 平川
+  kana: ヒラカワ
+  hira: ひらかわ
   roma: hirakawa
 '014':
   code: '014'
-  name: "薩摩"
-  kana: "サツマ"
-  hira: "さつま"
+  name: 薩摩
+  kana: サツマ
+  hira: さつま
   roma: satsuma
 '017':
   code: '017'
-  name: "祁答院"
-  kana: "ケドウイン"
-  hira: "けどういん"
+  name: 祁答院
+  kana: ケドウイン
+  hira: けどういん
   roma: kedouin
 '100':
   code: '100'
-  name: "川内総合"
-  kana: "センダイソウゴウ"
-  hira: "せんだいそうごう"
+  name: 川内総合
+  kana: センダイソウゴウ
+  hira: せんだいそうごう
   roma: sendaisougou
 '101':
   code: '101'
-  name: "上川内"
-  kana: "カミセンダイ"
-  hira: "かみせんだい"
+  name: 上川内
+  kana: カミセンダイ
+  hira: かみせんだい
   roma: kamisendai
 '102':
   code: '102'
-  name: "隈之城"
-  kana: "クマノジヨウ"
-  hira: "くまのじよう"
+  name: 隈之城
+  kana: クマノジヨウ
+  hira: くまのじよう
   roma: kumanojiyou
 '103':
   code: '103'
-  name: "水引"
-  kana: "ミズヒキ"
-  hira: "みずひき"
+  name: 水引
+  kana: ミズヒキ
+  hira: みずひき
   roma: mizuhiki
 '104':
   code: '104'
-  name: "高江"
-  kana: "タカエ"
-  hira: "たかえ"
+  name: 高江
+  kana: タカエ
+  hira: たかえ
   roma: takae
 '105':
   code: '105'
-  name: "永利"
-  kana: "ナガトシ"
-  hira: "ながとし"
+  name: 永利
+  kana: ナガトシ
+  hira: ながとし
   roma: nagatoshi
 '107':
   code: '107'
-  name: "東郷"
-  kana: "トウゴウ"
-  hira: "とうごう"
+  name: 東郷
+  kana: トウゴウ
+  hira: とうごう
   roma: tougou
 '108':
   code: '108'
-  name: "樋脇"
-  kana: "ヒワキ"
-  hira: "ひわき"
+  name: 樋脇
+  kana: ヒワキ
+  hira: ひわき
   roma: hiwaki
 '109':
   code: '109'
-  name: "入来"
-  kana: "イリキ"
-  hira: "いりき"
+  name: 入来
+  kana: イリキ
+  hira: いりき
   roma: iriki
 '110':
   code: '110'
-  name: "こしき"
-  kana: "コシキ"
-  hira: "こしき"
+  name: こしき
+  kana: コシキ
+  hira: こしき
   roma: koshiki
 '111':
   code: '111'
-  name: "伊佐総合"
-  kana: "イサソウゴウ"
-  hira: "いさそうごう"
+  name: 伊佐総合
+  kana: イサソウゴウ
+  hira: いさそうごう
   roma: isasougou
 '112':
   code: '112'
-  name: "羽月"
-  kana: "ハツキ"
-  hira: "はつき"
+  name: 羽月
+  kana: ハツキ
+  hira: はつき
   roma: hatsuki
 '113':
   code: '113'
-  name: "菱刈"
-  kana: "ヒシカリ"
-  hira: "ひしかり"
+  name: 菱刈
+  kana: ヒシカリ
+  hira: ひしかり
   roma: hishikari

@@ -1,121 +1,121 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "大淀"
-  kana: "オオヨド"
-  hira: "おおよど"
+  name: 大淀
+  kana: オオヨド
+  hira: おおよど
   roma: ooyodo
 '005':
   code: '005'
-  name: "西都"
-  kana: "サイト"
-  hira: "さいと"
+  name: 西都
+  kana: サイト
+  hira: さいと
   roma: saito
 '006':
   code: '006'
-  name: "神宮"
-  kana: "ジングウ"
-  hira: "じんぐう"
+  name: 神宮
+  kana: ジングウ
+  hira: じんぐう
   roma: jinguu
 '007':
   code: '007'
-  name: "吉村"
-  kana: "ヨシムラ"
-  hira: "よしむら"
+  name: 吉村
+  kana: ヨシムラ
+  hira: よしむら
   roma: yoshimura
-008:
-  code: 008
-  name: "和知川原"
-  kana: "ワチガワラ"
-  hira: "わちがわら"
+'008':
+  code: '008'
+  name: 和知川原
+  kana: ワチガワラ
+  hira: わちがわら
   roma: wachigawara
-009:
-  code: 009
-  name: "大塚"
-  kana: "オオツカ"
-  hira: "おおつか"
+'009':
+  code: '009'
+  name: 大塚
+  kana: オオツカ
+  hira: おおつか
   roma: ootsuka
 '010':
   code: '010'
-  name: "赤江"
-  kana: "アカエ"
-  hira: "あかえ"
+  name: 赤江
+  kana: アカエ
+  hira: あかえ
   roma: akae
 '011':
   code: '011'
-  name: "池内"
-  kana: "イケウチ"
-  hira: "いけうち"
+  name: 池内
+  kana: イケウチ
+  hira: いけうち
   roma: ikeuchi
 '012':
   code: '012'
-  name: "生目"
-  kana: "イキメ"
-  hira: "いきめ"
+  name: 生目
+  kana: イキメ
+  hira: いきめ
   roma: ikime
 '013':
   code: '013'
-  name: "清武"
-  kana: "キヨタケ"
-  hira: "きよたけ"
+  name: 清武
+  kana: キヨタケ
+  hira: きよたけ
   roma: kiyotake
-081:
-  code: 081
-  name: "都城営業部"
-  kana: "ミヤコノジヨウ"
-  hira: "みやこのじよう"
+'081':
+  code: '081'
+  name: 都城営業部
+  kana: ミヤコノジヨウ
+  hira: みやこのじよう
   roma: miyakonojiyou
-083:
-  code: 083
-  name: "三股"
-  kana: "ミマタ"
-  hira: "みまた"
+'083':
+  code: '083'
+  name: 三股
+  kana: ミマタ
+  hira: みまた
   roma: mimata
-084:
-  code: 084
-  name: "鷹尾"
-  kana: "タカオ"
-  hira: "たかお"
+'084':
+  code: '084'
+  name: 鷹尾
+  kana: タカオ
+  hira: たかお
   roma: takao
-085:
-  code: 085
-  name: "高崎"
-  kana: "タカサキ"
-  hira: "たかさき"
+'085':
+  code: '085'
+  name: 高崎
+  kana: タカサキ
+  hira: たかさき
   roma: takasaki
-086:
-  code: 086
-  name: "祝吉"
-  kana: "イワヨシ"
-  hira: "いわよし"
+'086':
+  code: '086'
+  name: 祝吉
+  kana: イワヨシ
+  hira: いわよし
   roma: iwayoshi
-087:
-  code: 087
-  name: "一万城"
-  kana: "イチマンジヨウ"
-  hira: "いちまんじよう"
+'087':
+  code: '087'
+  name: 一万城
+  kana: イチマンジヨウ
+  hira: いちまんじよう
   roma: ichimanjiyou
-088:
-  code: 088
-  name: "郡元出張所"
-  kana: "コオリモト"
-  hira: "こおりもと"
+'088':
+  code: '088'
+  name: 郡元出張所
+  kana: コオリモト
+  hira: こおりもと
   roma: koorimoto
-089:
-  code: 089
-  name: "高城"
-  kana: "タカジヨウ"
-  hira: "たかじよう"
+'089':
+  code: '089'
+  name: 高城
+  kana: タカジヨウ
+  hira: たかじよう
   roma: takajiyou
-091:
-  code: 091
-  name: "沖水"
-  kana: "オキミズ"
-  hira: "おきみず"
+'091':
+  code: '091'
+  name: 沖水
+  kana: オキミズ
+  hira: おきみず
   roma: okimizu

@@ -1,55 +1,55 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '004':
   code: '004'
-  name: "三和"
-  kana: "ミワ"
-  hira: "みわ"
+  name: 三和
+  kana: ミワ
+  hira: みわ
   roma: miwa
 '006':
   code: '006'
-  name: "八幡"
-  kana: "ヤワタ"
-  hira: "やわた"
+  name: 八幡
+  kana: ヤワタ
+  hira: やわた
   roma: yawata
-009:
-  code: 009
-  name: "五井"
-  kana: "ゴイ"
-  hira: "ごい"
+'009':
+  code: '009'
+  name: 五井
+  kana: ゴイ
+  hira: ごい
   roma: goi
 '012':
   code: '012'
-  name: "市津"
-  kana: "シヅ"
-  hira: "しづ"
+  name: 市津
+  kana: シヅ
+  hira: しづ
   roma: shidu
 '014':
   code: '014'
-  name: "南総"
-  kana: "ナンソウ"
-  hira: "なんそう"
+  name: 南総
+  kana: ナンソウ
+  hira: なんそう
   roma: nansou
-019:
-  code: 019
-  name: "高滝"
-  kana: "タカタキ"
-  hira: "たかたき"
+'019':
+  code: '019'
+  name: 高滝
+  kana: タカタキ
+  hira: たかたき
   roma: takataki
 '021':
   code: '021'
-  name: "月崎"
-  kana: "ツキザキ"
-  hira: "つきざき"
+  name: 月崎
+  kana: ツキザキ
+  hira: つきざき
   roma: tsukizaki
 '024':
   code: '024'
-  name: "姉崎"
-  kana: "アネサキ"
-  hira: "あねさき"
+  name: 姉崎
+  kana: アネサキ
+  hira: あねさき
   roma: anesaki

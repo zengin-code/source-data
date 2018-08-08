@@ -1,49 +1,49 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "東青梅"
-  kana: "ヒガシオウメ"
-  hira: "ひがしおうめ"
+  name: 東青梅
+  kana: ヒガシオウメ
+  hira: ひがしおうめ
   roma: higashioume
 '003':
   code: '003'
-  name: "新町"
-  kana: "シンマチ"
-  hira: "しんまち"
+  name: 新町
+  kana: シンマチ
+  hira: しんまち
   roma: shimmachi
 '006':
   code: '006'
-  name: "古里"
-  kana: "コリ"
-  hira: "こり"
+  name: 古里
+  kana: コリ
+  hira: こり
   roma: kori
-008:
-  code: 008
-  name: "調布"
-  kana: "チヨウフ"
-  hira: "ちようふ"
+'008':
+  code: '008'
+  name: 調布
+  kana: チヨウフ
+  hira: ちようふ
   roma: chiyoufu
-009:
-  code: 009
-  name: "小曽木"
-  kana: "オソキ"
-  hira: "おそき"
+'009':
+  code: '009'
+  name: 小曽木
+  kana: オソキ
+  hira: おそき
   roma: osoki
 '011':
   code: '011'
-  name: "吉野"
-  kana: "ヨシノ"
-  hira: "よしの"
+  name: 吉野
+  kana: ヨシノ
+  hira: よしの
   roma: yoshino
 '013':
   code: '013'
-  name: "二俣尾"
-  kana: "フタマタオ"
-  hira: "ふたまたお"
+  name: 二俣尾
+  kana: フタマタオ
+  hira: ふたまたお
   roma: futamatao

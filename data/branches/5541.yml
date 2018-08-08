@@ -1,19 +1,19 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '005':
   code: '005'
-  name: "安田"
-  kana: "ヤスダ"
-  hira: "やすだ"
+  name: 安田
+  kana: ヤスダ
+  hira: やすだ
   roma: yasuda
 '006':
   code: '006'
-  name: "京ヶ瀬"
-  kana: "キヨウガセ"
-  hira: "きようがせ"
+  name: 京ヶ瀬
+  kana: キヨウガセ
+  hira: きようがせ
   roma: kiyougase

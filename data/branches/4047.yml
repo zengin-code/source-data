@@ -1,409 +1,409 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '003':
   code: '003'
-  name: "信陵"
-  kana: "シンリヨウ"
-  hira: "しんりよう"
+  name: 信陵
+  kana: シンリヨウ
+  hira: しんりよう
   roma: shinriyou
 '004':
   code: '004'
-  name: "清水"
-  kana: "シミズ"
-  hira: "しみず"
+  name: 清水
+  kana: シミズ
+  hira: しみず
   roma: shimizu
 '005':
   code: '005'
-  name: "北信"
-  kana: "ホクシン"
-  hira: "ほくしん"
+  name: 北信
+  kana: ホクシン
+  hira: ほくしん
   roma: hokushin
 '010':
   code: '010'
-  name: "渡利"
-  kana: "ワタリ"
-  hira: "わたり"
+  name: 渡利
+  kana: ワタリ
+  hira: わたり
   roma: watari
 '012':
   code: '012'
-  name: "福島東部"
-  kana: "フクシマトウブ"
-  hira: "ふくしまとうぶ"
+  name: 福島東部
+  kana: フクシマトウブ
+  hira: ふくしまとうぶ
   roma: fukushimatoubu
 '016':
   code: '016'
-  name: "すぎのめ"
-  kana: "スギノメ"
-  hira: "すぎのめ"
+  name: すぎのめ
+  kana: スギノメ
+  hira: すぎのめ
   roma: suginome
 '017':
   code: '017'
-  name: "福島西"
-  kana: "フクシマニシ"
-  hira: "ふくしまにし"
+  name: 福島西
+  kana: フクシマニシ
+  hira: ふくしまにし
   roma: fukushimanishi
 '020':
   code: '020'
-  name: "福島南"
-  kana: "フクシマミナミ"
-  hira: "ふくしまみなみ"
+  name: 福島南
+  kana: フクシマミナミ
+  hira: ふくしまみなみ
   roma: fukushimaminami
 '025':
   code: '025'
-  name: "飯坂南"
-  kana: "イイザカミナミ"
-  hira: "いいざかみなみ"
+  name: 飯坂南
+  kana: イイザカミナミ
+  hira: いいざかみなみ
   roma: iizakaminami
 '026':
   code: '026'
-  name: "飯坂東"
-  kana: "イイザカヒガシ"
-  hira: "いいざかひがし"
+  name: 飯坂東
+  kana: イイザカヒガシ
+  hira: いいざかひがし
   roma: iizakahigashi
-028:
-  code: 028
-  name: "茂庭"
-  kana: "モニワ"
-  hira: "もにわ"
+'028':
+  code: '028'
+  name: 茂庭
+  kana: モニワ
+  hira: もにわ
   roma: moniwa
-029:
-  code: 029
-  name: "庭坂"
-  kana: "ニワサカ"
-  hira: "にわさか"
+'029':
+  code: '029'
+  name: 庭坂
+  kana: ニワサカ
+  hira: にわさか
   roma: niwasaka
 '032':
   code: '032'
-  name: "野田"
-  kana: "ノダ"
-  hira: "のだ"
+  name: 野田
+  kana: ノダ
+  hira: のだ
   roma: noda
 '034':
   code: '034'
-  name: "松川"
-  kana: "マツカワ"
-  hira: "まつかわ"
+  name: 松川
+  kana: マツカワ
+  hira: まつかわ
   roma: matsukawa
 '037':
   code: '037'
-  name: "ＪＡビル出張所"
-  kana: "ジエイエイビル"
-  hira: "じえいえいびる"
+  name: ＪＡビル出張所
+  kana: ジエイエイビル
+  hira: じえいえいびる
   roma: jieieibiru
-038:
-  code: 038
-  name: "川俣"
-  kana: "カワマタ"
-  hira: "かわまた"
+'038':
+  code: '038'
+  name: 川俣
+  kana: カワマタ
+  hira: かわまた
   roma: kawamata
-039:
-  code: 039
-  name: "山木屋"
-  kana: "ヤマキヤ"
-  hira: "やまきや"
+'039':
+  code: '039'
+  name: 山木屋
+  kana: ヤマキヤ
+  hira: やまきや
   roma: yamakiya
 '040':
   code: '040'
-  name: "飯野"
-  kana: "イイノ"
-  hira: "いいの"
+  name: 飯野
+  kana: イイノ
+  hira: いいの
   roma: iino
 '042':
   code: '042'
-  name: "保原総合"
-  kana: "ホバラソウゴウ"
-  hira: "ほばらそうごう"
+  name: 保原総合
+  kana: ホバラソウゴウ
+  hira: ほばらそうごう
   roma: hobarasougou
 '043':
   code: '043'
-  name: "大田"
-  kana: "オオタ"
-  hira: "おおた"
+  name: 大田
+  kana: オオタ
+  hira: おおた
   roma: oota
 '044':
   code: '044'
-  name: "上保原"
-  kana: "カミホバラ"
-  hira: "かみほばら"
+  name: 上保原
+  kana: カミホバラ
+  hira: かみほばら
   roma: kamihobara
 '045':
   code: '045'
-  name: "柱沢"
-  kana: "ハシラザワ"
-  hira: "はしらざわ"
+  name: 柱沢
+  kana: ハシラザワ
+  hira: はしらざわ
   roma: hashirazawa
 '046':
   code: '046'
-  name: "富成"
-  kana: "トミナリ"
-  hira: "とみなり"
+  name: 富成
+  kana: トミナリ
+  hira: とみなり
   roma: tominari
 '047':
   code: '047'
-  name: "桑折総合"
-  kana: "コオリソウゴウ"
-  hira: "こおりそうごう"
+  name: 桑折総合
+  kana: コオリソウゴウ
+  hira: こおりそうごう
   roma: koorisougou
-048:
-  code: 048
-  name: "睦合"
-  kana: "ムツアイ"
-  hira: "むつあい"
+'048':
+  code: '048'
+  name: 睦合
+  kana: ムツアイ
+  hira: むつあい
   roma: mutsuai
-049:
-  code: 049
-  name: "半田"
-  kana: "ハンダ"
-  hira: "はんだ"
+'049':
+  code: '049'
+  name: 半田
+  kana: ハンダ
+  hira: はんだ
   roma: handa
 '050':
   code: '050'
-  name: "伊達崎"
-  kana: "ダンザキ"
-  hira: "だんざき"
+  name: 伊達崎
+  kana: ダンザキ
+  hira: だんざき
   roma: danzaki
 '051':
   code: '051'
-  name: "国見総合"
-  kana: "クニミソウゴウ"
-  hira: "くにみそうごう"
+  name: 国見総合
+  kana: クニミソウゴウ
+  hira: くにみそうごう
   roma: kunimisougou
 '052':
   code: '052'
-  name: "小坂"
-  kana: "コサカ"
-  hira: "こさか"
+  name: 小坂
+  kana: コサカ
+  hira: こさか
   roma: kosaka
 '053':
   code: '053'
-  name: "森江野"
-  kana: "モリエノ"
-  hira: "もりえの"
+  name: 森江野
+  kana: モリエノ
+  hira: もりえの
   roma: morieno
 '054':
   code: '054'
-  name: "大木戸"
-  kana: "オオキド"
-  hira: "おおきど"
+  name: 大木戸
+  kana: オオキド
+  hira: おおきど
   roma: ookido
 '055':
   code: '055'
-  name: "大枝"
-  kana: "オオエダ"
-  hira: "おおえだ"
+  name: 大枝
+  kana: オオエダ
+  hira: おおえだ
   roma: ooeda
 '056':
   code: '056'
-  name: "伊達総合"
-  kana: "ダテソウゴウ"
-  hira: "だてそうごう"
+  name: 伊達総合
+  kana: ダテソウゴウ
+  hira: だてそうごう
   roma: datesougou
 '057':
   code: '057'
-  name: "長岡"
-  kana: "ナガオカ"
-  hira: "ながおか"
+  name: 長岡
+  kana: ナガオカ
+  hira: ながおか
   roma: nagaoka
-058:
-  code: 058
-  name: "霊山掛田総合"
-  kana: "リヨウゼンカケダソウゴウ"
-  hira: "りようぜんかけだそうごう"
+'058':
+  code: '058'
+  name: 霊山掛田総合
+  kana: リヨウゼンカケダソウゴウ
+  hira: りようぜんかけだそうごう
   roma: riyouzenkakedasougou
-059:
-  code: 059
-  name: "霊山"
-  kana: "リヨウゼン"
-  hira: "りようぜん"
+'059':
+  code: '059'
+  name: 霊山
+  kana: リヨウゼン
+  hira: りようぜん
   roma: riyouzen
 '060':
   code: '060'
-  name: "石戸"
-  kana: "イシド"
-  hira: "いしど"
+  name: 石戸
+  kana: イシド
+  hira: いしど
   roma: ishido
 '061':
   code: '061'
-  name: "小国"
-  kana: "オグニ"
-  hira: "おぐに"
+  name: 小国
+  kana: オグニ
+  hira: おぐに
   roma: oguni
 '062':
   code: '062'
-  name: "月舘総合"
-  kana: "ツキダテソウゴウ"
-  hira: "つきだてそうごう"
+  name: 月舘総合
+  kana: ツキダテソウゴウ
+  hira: つきだてそうごう
   roma: tsukidatesougou
 '063':
   code: '063'
-  name: "小手"
-  kana: "オデ"
-  hira: "おで"
+  name: 小手
+  kana: オデ
+  hira: おで
   roma: ode
 '064':
   code: '064'
-  name: "梁川総合"
-  kana: "ヤナガワソウゴウ"
-  hira: "やながわそうごう"
+  name: 梁川総合
+  kana: ヤナガワソウゴウ
+  hira: やながわそうごう
   roma: yanagawasougou
 '065':
   code: '065'
-  name: "粟野"
-  kana: "アワノ"
-  hira: "あわの"
+  name: 粟野
+  kana: アワノ
+  hira: あわの
   roma: awano
 '066':
   code: '066'
-  name: "堰本"
-  kana: "セキモト"
-  hira: "せきもと"
+  name: 堰本
+  kana: セキモト
+  hira: せきもと
   roma: sekimoto
 '067':
   code: '067'
-  name: "白根"
-  kana: "シラネ"
-  hira: "しらね"
+  name: 白根
+  kana: シラネ
+  hira: しらね
   roma: shirane
-068:
-  code: 068
-  name: "山舟生"
-  kana: "ヤマフニユウ"
-  hira: "やまふにゆう"
+'068':
+  code: '068'
+  name: 山舟生
+  kana: ヤマフニユウ
+  hira: やまふにゆう
   roma: yamafuniyuu
-069:
-  code: 069
-  name: "富野"
-  kana: "トミノ"
-  hira: "とみの"
+'069':
+  code: '069'
+  name: 富野
+  kana: トミノ
+  hira: とみの
   roma: tomino
 '070':
   code: '070'
-  name: "五十沢"
-  kana: "イサザワ"
-  hira: "いさざわ"
+  name: 五十沢
+  kana: イサザワ
+  hira: いさざわ
   roma: isazawa
 '071':
   code: '071'
-  name: "東大枝"
-  kana: "ヒガシオオエダ"
-  hira: "ひがしおおえだ"
+  name: 東大枝
+  kana: ヒガシオオエダ
+  hira: ひがしおおえだ
   roma: higashiooeda
 '073':
   code: '073'
-  name: "二本松"
-  kana: "ニホンマツ"
-  hira: "にほんまつ"
+  name: 二本松
+  kana: ニホンマツ
+  hira: にほんまつ
   roma: nihommatsu
 '074':
   code: '074'
-  name: "二本松南"
-  kana: "ニホンマツミナミ"
-  hira: "にほんまつみなみ"
+  name: 二本松南
+  kana: ニホンマツミナミ
+  hira: にほんまつみなみ
   roma: nihommatsuminami
 '075':
   code: '075'
-  name: "安達"
-  kana: "アダチ"
-  hira: "あだち"
+  name: 安達
+  kana: アダチ
+  hira: あだち
   roma: adachi
 '076':
   code: '076'
-  name: "岩代"
-  kana: "イワシロ"
-  hira: "いわしろ"
+  name: 岩代
+  kana: イワシロ
+  hira: いわしろ
   roma: iwashiro
 '077':
   code: '077'
-  name: "東和"
-  kana: "トウワ"
-  hira: "とうわ"
+  name: 東和
+  kana: トウワ
+  hira: とうわ
   roma: touwa
-078:
-  code: 078
-  name: "本宮"
-  kana: "モトミヤ"
-  hira: "もとみや"
+'078':
+  code: '078'
+  name: 本宮
+  kana: モトミヤ
+  hira: もとみや
   roma: motomiya
-079:
-  code: 079
-  name: "白沢"
-  kana: "シラサワ"
-  hira: "しらさわ"
+'079':
+  code: '079'
+  name: 白沢
+  kana: シラサワ
+  hira: しらさわ
   roma: shirasawa
-080:
-  code: 080
-  name: "大玉"
-  kana: "オオタマ"
-  hira: "おおたま"
+'080':
+  code: '080'
+  name: 大玉
+  kana: オオタマ
+  hira: おおたま
   roma: ootama
-082:
-  code: 082
-  name: "鹿島総合"
-  kana: "カシマソウゴウ"
-  hira: "かしまそうごう"
+'082':
+  code: '082'
+  name: 鹿島総合
+  kana: カシマソウゴウ
+  hira: かしまそうごう
   roma: kashimasougou
-083:
-  code: 083
-  name: "上真野"
-  kana: "カミマノ"
-  hira: "かみまの"
+'083':
+  code: '083'
+  name: 上真野
+  kana: カミマノ
+  hira: かみまの
   roma: kamimano
-084:
-  code: 084
-  name: "新地総合"
-  kana: "シンチソウゴウ"
-  hira: "しんちそうごう"
+'084':
+  code: '084'
+  name: 新地総合
+  kana: シンチソウゴウ
+  hira: しんちそうごう
   roma: shinchisougou
-085:
-  code: 085
-  name: "相馬中村総合"
-  kana: "ソウマナカムラソウゴウ"
-  hira: "そうまなかむらそうごう"
+'085':
+  code: '085'
+  name: 相馬中村総合
+  kana: ソウマナカムラソウゴウ
+  hira: そうまなかむらそうごう
   roma: soumanakamurasougou
-086:
-  code: 086
-  name: "中村みなみ"
-  kana: "ナカムラミナミ"
-  hira: "なかむらみなみ"
+'086':
+  code: '086'
+  name: 中村みなみ
+  kana: ナカムラミナミ
+  hira: なかむらみなみ
   roma: nakamuraminami
-087:
-  code: 087
-  name: "原町総合"
-  kana: "ハラマチソウゴウ"
-  hira: "はらまちそうごう"
+'087':
+  code: '087'
+  name: 原町総合
+  kana: ハラマチソウゴウ
+  hira: はらまちそうごう
   roma: haramachisougou
-088:
-  code: 088
-  name: "原町西"
-  kana: "ハラマチニシ"
-  hira: "はらまちにし"
+'088':
+  code: '088'
+  name: 原町西
+  kana: ハラマチニシ
+  hira: はらまちにし
   roma: haramachinishi
-089:
-  code: 089
-  name: "小高総合"
-  kana: "オダカソウゴウ"
-  hira: "おだかそうごう"
+'089':
+  code: '089'
+  name: 小高総合
+  kana: オダカソウゴウ
+  hira: おだかそうごう
   roma: odakasougou
-090:
-  code: 090
-  name: "福浦"
-  kana: "フクウラ"
-  hira: "ふくうら"
+'090':
+  code: '090'
+  name: 福浦
+  kana: フクウラ
+  hira: ふくうら
   roma: fukuura
-091:
-  code: 091
-  name: "飯舘総合"
-  kana: "イイタテソウゴウ"
-  hira: "いいたてそうごう"
+'091':
+  code: '091'
+  name: 飯舘総合
+  kana: イイタテソウゴウ
+  hira: いいたてそうごう
   roma: iitatesougou
-092:
-  code: 092
-  name: "飯樋出張所"
-  kana: "イイトイ"
-  hira: "いいとい"
+'092':
+  code: '092'
+  name: 飯樋出張所
+  kana: イイトイ
+  hira: いいとい
   roma: iitoi

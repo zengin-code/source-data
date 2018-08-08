@@ -1,67 +1,67 @@
 ---
 '001':
   code: '001'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo
 '006':
   code: '006'
-  name: "みなみ"
-  kana: "ミナミ"
-  hira: "みなみ"
+  name: みなみ
+  kana: ミナミ
+  hira: みなみ
   roma: minami
 '007':
   code: '007'
-  name: "中央"
-  kana: "チユウオウ"
-  hira: "ちゆうおう"
+  name: 中央
+  kana: チユウオウ
+  hira: ちゆうおう
   roma: chiyuuou
 '010':
   code: '010'
-  name: "西部総合"
-  kana: "セイブソウゴウ"
-  hira: "せいぶそうごう"
+  name: 西部総合
+  kana: セイブソウゴウ
+  hira: せいぶそうごう
   roma: seibusougou
 '012':
   code: '012'
-  name: "南部総合"
-  kana: "ナンブソウゴウ"
-  hira: "なんぶそうごう"
+  name: 南部総合
+  kana: ナンブソウゴウ
+  hira: なんぶそうごう
   roma: nambusougou
 '013':
   code: '013'
-  name: "東部総合"
-  kana: "トウブソウゴウ"
-  hira: "とうぶそうごう"
+  name: 東部総合
+  kana: トウブソウゴウ
+  hira: とうぶそうごう
   roma: toubusougou
 '014':
   code: '014'
-  name: "竜北町"
-  kana: "リユウホクマチ"
-  hira: "りゆうほくまち"
+  name: 竜北町
+  kana: リユウホクマチ
+  hira: りゆうほくまち
   roma: riyuuhokumachi
 '020':
   code: '020'
-  name: "泉"
-  kana: "イズミ"
-  hira: "いずみ"
+  name: 泉
+  kana: イズミ
+  hira: いずみ
   roma: izumi
 '021':
   code: '021'
-  name: "坂本"
-  kana: "サカモト"
-  hira: "さかもと"
+  name: 坂本
+  kana: サカモト
+  hira: さかもと
   roma: sakamoto
 '023':
   code: '023'
-  name: "太田郷"
-  kana: "オオタゴウ"
-  hira: "おおたごう"
+  name: 太田郷
+  kana: オオタゴウ
+  hira: おおたごう
   roma: ootagou
 '025':
   code: '025'
-  name: "北部総合"
-  kana: "ホクブソウゴウ"
-  hira: "ほくぶそうごう"
+  name: 北部総合
+  kana: ホクブソウゴウ
+  hira: ほくぶそうごう
   roma: hokubusougou

@@ -1,121 +1,121 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "大手町"
-  kana: "オオテマチ"
-  hira: "おおてまち"
+  name: 大手町
+  kana: オオテマチ
+  hira: おおてまち
   roma: ootemachi
 '003':
   code: '003'
-  name: "境"
-  kana: "サカイ"
-  hira: "さかい"
+  name: 境
+  kana: サカイ
+  hira: さかい
   roma: sakai
 '004':
   code: '004'
-  name: "うえはす"
-  kana: "ウエハス"
-  hira: "うえはす"
+  name: うえはす
+  kana: ウエハス
+  hira: うえはす
   roma: uehasu
 '005':
   code: '005'
-  name: "宮郷"
-  kana: "ミヤゴウ"
-  hira: "みやごう"
+  name: 宮郷
+  kana: ミヤゴウ
+  hira: みやごう
   roma: miyagou
 '006':
   code: '006'
-  name: "北"
-  kana: "キタ"
-  hira: "きた"
+  name: 北
+  kana: キタ
+  hira: きた
   roma: kita
 '007':
   code: '007'
-  name: "茂呂"
-  kana: "モロ"
-  hira: "もろ"
+  name: 茂呂
+  kana: モロ
+  hira: もろ
   roma: moro
-008:
-  code: 008
-  name: "あずま"
-  kana: "アズマ"
-  hira: "あずま"
+'008':
+  code: '008'
+  name: あずま
+  kana: アズマ
+  hira: あずま
   roma: azuma
-009:
-  code: 009
-  name: "名和"
-  kana: "ナワ"
-  hira: "なわ"
+'009':
+  code: '009'
+  name: 名和
+  kana: ナワ
+  hira: なわ
   roma: nawa
 '010':
   code: '010'
-  name: "前橋"
-  kana: "マエバシ"
-  hira: "まえばし"
+  name: 前橋
+  kana: マエバシ
+  hira: まえばし
   roma: maebashi
 '011':
   code: '011'
-  name: "赤堀"
-  kana: "アカボリ"
-  hira: "あかぼり"
+  name: 赤堀
+  kana: アカボリ
+  hira: あかぼり
   roma: akabori
 '012':
   code: '012'
-  name: "渕名"
-  kana: "フチナ"
-  hira: "ふちな"
+  name: 渕名
+  kana: フチナ
+  hira: ふちな
   roma: fuchina
 '014':
   code: '014'
-  name: "豊受"
-  kana: "トヨウケ"
-  hira: "とようけ"
+  name: 豊受
+  kana: トヨウケ
+  hira: とようけ
   roma: toyouke
 '016':
   code: '016'
-  name: "新田"
-  kana: "ニツタ"
-  hira: "につた"
+  name: 新田
+  kana: ニツタ
+  hira: につた
   roma: nitsuta
 '017':
   code: '017'
-  name: "玉村"
-  kana: "タマムラ"
-  hira: "たまむら"
+  name: 玉村
+  kana: タマムラ
+  hira: たまむら
   roma: tamamura
-019:
-  code: 019
-  name: "ＴＢＳハウジング"
-  kana: "ＴＢＳハウジング"
-  hira: "ＴＢＳはうじんぐ"
+'019':
+  code: '019'
+  name: ＴＢＳハウジング
+  kana: ＴＢＳハウジング
+  hira: ＴＢＳはうじんぐ
   roma: tbshaujingu
 '130':
   code: '130'
-  name: "藤阿久"
-  kana: "フジアグ"
-  hira: "ふじあぐ"
+  name: 藤阿久
+  kana: フジアグ
+  hira: ふじあぐ
   roma: fujiagu
 '135':
   code: '135'
-  name: "太田営業部"
-  kana: "オオタ"
-  hira: "おおた"
+  name: 太田営業部
+  kana: オオタ
+  hira: おおた
   roma: oota
 '136':
   code: '136'
-  name: "高林"
-  kana: "タカハヤシ"
-  hira: "たかはやし"
+  name: 高林
+  kana: タカハヤシ
+  hira: たかはやし
   roma: takahayashi
 '139':
   code: '139'
-  name: "韮川"
-  kana: "ニラガワ"
-  hira: "にらがわ"
+  name: 韮川
+  kana: ニラガワ
+  hira: にらがわ
   roma: niragawa

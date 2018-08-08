@@ -1,49 +1,49 @@
 ---
 '001':
   code: '001'
-  name: "勝山"
-  kana: "カツヤマ"
-  hira: "かつやま"
+  name: 勝山
+  kana: カツヤマ
+  hira: かつやま
   roma: katsuyama
 '004':
   code: '004'
-  name: "美甘"
-  kana: "ミカモ"
-  hira: "みかも"
+  name: 美甘
+  kana: ミカモ
+  hira: みかも
   roma: mikamo
 '007':
   code: '007'
-  name: "蒜山"
-  kana: "ヒルゼン"
-  hira: "ひるぜん"
+  name: 蒜山
+  kana: ヒルゼン
+  hira: ひるぜん
   roma: hiruzen
-009:
-  code: 009
-  name: "湯原"
-  kana: "ユバラ"
-  hira: "ゆばら"
+'009':
+  code: '009'
+  name: 湯原
+  kana: ユバラ
+  hira: ゆばら
   roma: yubara
 '011':
   code: '011'
-  name: "久世"
-  kana: "クセ"
-  hira: "くせ"
+  name: 久世
+  kana: クセ
+  hira: くせ
   roma: kuse
 '014':
   code: '014'
-  name: "落合"
-  kana: "オチアイ"
-  hira: "おちあい"
+  name: 落合
+  kana: オチアイ
+  hira: おちあい
   roma: ochiai
 '100':
   code: '100'
-  name: "真庭出張所"
-  kana: "マニワ"
-  hira: "まにわ"
+  name: 真庭出張所
+  kana: マニワ
+  hira: まにわ
   roma: maniwa
 '101':
   code: '101'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo

@@ -1,73 +1,73 @@
 ---
 '006':
   code: '006'
-  name: "佐久岩村田"
-  kana: "サクイワムラダ"
-  hira: "さくいわむらだ"
+  name: 佐久岩村田
+  kana: サクイワムラダ
+  hira: さくいわむらだ
   roma: sakuiwamurada
 '012':
   code: '012'
-  name: "佐久野沢"
-  kana: "サクノザワ"
-  hira: "さくのざわ"
+  name: 佐久野沢
+  kana: サクノザワ
+  hira: さくのざわ
   roma: sakunozawa
 '022':
   code: '022'
-  name: "佐久うすだ"
-  kana: "サクウスダ"
-  hira: "さくうすだ"
+  name: 佐久うすだ
+  kana: サクウスダ
+  hira: さくうすだ
   roma: sakuusuda
 '025':
   code: '025'
-  name: "佐久総合病院"
-  kana: "サクソウゴウビヨウイン"
-  hira: "さくそうごうびよういん"
+  name: 佐久総合病院
+  kana: サクソウゴウビヨウイン
+  hira: さくそうごうびよういん
   roma: sakusougoubiyouin
 '027':
   code: '027'
-  name: "佐久穂"
-  kana: "サクホ"
-  hira: "さくほ"
+  name: 佐久穂
+  kana: サクホ
+  hira: さくほ
   roma: sakuho
 '040':
   code: '040'
-  name: "小諸"
-  kana: "コモロ"
-  hira: "こもろ"
+  name: 小諸
+  kana: コモロ
+  hira: こもろ
   roma: komoro
-049:
-  code: 049
-  name: "御代田"
-  kana: "ミヨタ"
-  hira: "みよた"
+'049':
+  code: '049'
+  name: 御代田
+  kana: ミヨタ
+  hira: みよた
   roma: miyota
 '051':
   code: '051'
-  name: "軽井沢"
-  kana: "カルイザワ"
-  hira: "かるいざわ"
+  name: 軽井沢
+  kana: カルイザワ
+  hira: かるいざわ
   roma: karuizawa
 '060':
   code: '060'
-  name: "佐久望月"
-  kana: "サクモチヅキ"
-  hira: "さくもちづき"
+  name: 佐久望月
+  kana: サクモチヅキ
+  hira: さくもちづき
   roma: sakumochiduki
-068:
-  code: 068
-  name: "立科"
-  kana: "タテシナ"
-  hira: "たてしな"
+'068':
+  code: '068'
+  name: 立科
+  kana: タテシナ
+  hira: たてしな
   roma: tateshina
 '071':
   code: '071'
-  name: "北御牧"
-  kana: "キタミマキ"
-  hira: "きたみまき"
+  name: 北御牧
+  kana: キタミマキ
+  hira: きたみまき
   roma: kitamimaki
 '100':
   code: '100'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo

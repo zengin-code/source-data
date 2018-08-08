@@ -1,49 +1,49 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "朝日町"
-  kana: "アサヒマチ"
-  hira: "あさひまち"
+  name: 朝日町
+  kana: アサヒマチ
+  hira: あさひまち
   roma: asahimachi
 '003':
   code: '003'
-  name: "西唐津"
-  kana: "ニシカラツ"
-  hira: "にしからつ"
+  name: 西唐津
+  kana: ニシカラツ
+  hira: にしからつ
   roma: nishikaratsu
 '004':
   code: '004'
-  name: "浜崎"
-  kana: "ハマサキ"
-  hira: "はまさき"
+  name: 浜崎
+  kana: ハマサキ
+  hira: はまさき
   roma: hamasaki
 '005':
   code: '005'
-  name: "相知"
-  kana: "オウチ"
-  hira: "おうち"
+  name: 相知
+  kana: オウチ
+  hira: おうち
   roma: ouchi
 '007':
   code: '007'
-  name: "和多田"
-  kana: "ワタダ"
-  hira: "わただ"
+  name: 和多田
+  kana: ワタダ
+  hira: わただ
   roma: watada
-008:
-  code: 008
-  name: "町田"
-  kana: "チヨウダ"
-  hira: "ちようだ"
+'008':
+  code: '008'
+  name: 町田
+  kana: チヨウダ
+  hira: ちようだ
   roma: chiyouda
-009:
-  code: 009
-  name: "山本"
-  kana: "ヤマモト"
-  hira: "やまもと"
+'009':
+  code: '009'
+  name: 山本
+  kana: ヤマモト
+  hira: やまもと
   roma: yamamoto

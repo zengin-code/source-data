@@ -1,79 +1,79 @@
 ---
 '001':
   code: '001'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo
 '002':
   code: '002'
-  name: "千屋"
-  kana: "チヤ"
-  hira: "ちや"
+  name: 千屋
+  kana: チヤ
+  hira: ちや
   roma: chiya
 '003':
   code: '003'
-  name: "上市出張所"
-  kana: "カミイチ"
-  hira: "かみいち"
+  name: 上市出張所
+  kana: カミイチ
+  hira: かみいち
   roma: kamiichi
 '005':
   code: '005'
-  name: "熊谷"
-  kana: "クマタニ"
-  hira: "くまたに"
+  name: 熊谷
+  kana: クマタニ
+  hira: くまたに
   roma: kumatani
-008:
-  code: 008
-  name: "駅前"
-  kana: "エキマエ"
-  hira: "えきまえ"
+'008':
+  code: '008'
+  name: 駅前
+  kana: エキマエ
+  hira: えきまえ
   roma: ekimae
-009:
-  code: 009
-  name: "美穀"
-  kana: "ミヨシ"
-  hira: "みよし"
+'009':
+  code: '009'
+  name: 美穀
+  kana: ミヨシ
+  hira: みよし
   roma: miyoshi
 '011':
   code: '011'
-  name: "草間"
-  kana: "クサマ"
-  hira: "くさま"
+  name: 草間
+  kana: クサマ
+  hira: くさま
   roma: kusama
 '012':
   code: '012'
-  name: "豊永"
-  kana: "トヨナガ"
-  hira: "とよなが"
+  name: 豊永
+  kana: トヨナガ
+  hira: とよなが
   roma: toyonaga
 '014':
   code: '014'
-  name: "大佐"
-  kana: "オオサ"
-  hira: "おおさ"
+  name: 大佐
+  kana: オオサ
+  hira: おおさ
   roma: oosa
 '017':
   code: '017'
-  name: "神代"
-  kana: "コウジロ"
-  hira: "こうじろ"
+  name: 神代
+  kana: コウジロ
+  hira: こうじろ
   roma: koujiro
-018:
-  code: 018
-  name: "矢神"
-  kana: "ヤガミ"
-  hira: "やがみ"
+'018':
+  code: '018'
+  name: 矢神
+  kana: ヤガミ
+  hira: やがみ
   roma: yagami
-019:
-  code: 019
-  name: "野馳出張所"
-  kana: "ノチ"
-  hira: "のち"
+'019':
+  code: '019'
+  name: 野馳出張所
+  kana: ノチ
+  hira: のち
   roma: nochi
 '022':
   code: '022'
-  name: "哲多"
-  kana: "テツタ"
-  hira: "てつた"
+  name: 哲多
+  kana: テツタ
+  hira: てつた
   roma: tetsuta

@@ -1,79 +1,79 @@
 ---
 '601':
   code: '601'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '605':
   code: '605'
-  name: "浅井東部"
-  kana: "アザイトウブ"
-  hira: "あざいとうぶ"
+  name: 浅井東部
+  kana: アザイトウブ
+  hira: あざいとうぶ
   roma: azaitoubu
 '606':
   code: '606'
-  name: "浅井西"
-  kana: "アザイニシ"
-  hira: "あざいにし"
+  name: 浅井西
+  kana: アザイニシ
+  hira: あざいにし
   roma: azainishi
 '608':
   code: '608'
-  name: "虎姫"
-  kana: "トラヒメ"
-  hira: "とらひめ"
+  name: 虎姫
+  kana: トラヒメ
+  hira: とらひめ
   roma: torahime
 '609':
   code: '609'
-  name: "竹生"
-  kana: "チクブ"
-  hira: "ちくぶ"
+  name: 竹生
+  kana: チクブ
+  hira: ちくぶ
   roma: chikubu
 '610':
   code: '610'
-  name: "大郷"
-  kana: "オオザト"
-  hira: "おおざと"
+  name: 大郷
+  kana: オオザト
+  hira: おおざと
   roma: oozato
 '614':
   code: '614'
-  name: "速水"
-  kana: "ハヤミ"
-  hira: "はやみ"
+  name: 速水
+  kana: ハヤミ
+  hira: はやみ
   roma: hayami
 '616':
   code: '616'
-  name: "朝日"
-  kana: "アサヒ"
-  hira: "あさひ"
+  name: 朝日
+  kana: アサヒ
+  hira: あさひ
   roma: asahi
 '618':
   code: '618'
-  name: "高月"
-  kana: "タカツキ"
-  hira: "たかつき"
+  name: 高月
+  kana: タカツキ
+  hira: たかつき
   roma: takatsuki
 '620':
   code: '620'
-  name: "古保利"
-  kana: "コホリ"
-  hira: "こほり"
+  name: 古保利
+  kana: コホリ
+  hira: こほり
   roma: kohori
 '622':
   code: '622'
-  name: "木之本"
-  kana: "キノモト"
-  hira: "きのもと"
+  name: 木之本
+  kana: キノモト
+  hira: きのもと
   roma: kinomoto
 '629':
   code: '629'
-  name: "余呉"
-  kana: "ヨゴ"
-  hira: "よご"
+  name: 余呉
+  kana: ヨゴ
+  hira: よご
   roma: yogo
 '632':
   code: '632'
-  name: "永原"
-  kana: "ナガハラ"
-  hira: "ながはら"
+  name: 永原
+  kana: ナガハラ
+  hira: ながはら
   roma: nagahara

@@ -1,25 +1,25 @@
 ---
 '001':
   code: '001'
-  name: "半原"
-  kana: "ハンバラ"
-  hira: "はんばら"
+  name: 半原
+  kana: ハンバラ
+  hira: はんばら
   roma: hambara
 '002':
   code: '002'
-  name: "相北"
-  kana: "ソウホク"
-  hira: "そうほく"
+  name: 相北
+  kana: ソウホク
+  hira: そうほく
   roma: souhoku
 '003':
   code: '003'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '006':
   code: '006'
-  name: "津久井湖"
-  kana: "ツクイコ"
-  hira: "つくいこ"
+  name: 津久井湖
+  kana: ツクイコ
+  hira: つくいこ
   roma: tsukuiko

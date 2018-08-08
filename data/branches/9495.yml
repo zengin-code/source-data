@@ -1,25 +1,25 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
-090:
-  code: 090
-  name: "枕崎"
-  kana: "マクラザキ"
-  hira: "まくらざき"
+'090':
+  code: '090'
+  name: 枕崎
+  kana: マクラザキ
+  hira: まくらざき
   roma: makurazaki
 '330':
   code: '330'
-  name: "東町"
-  kana: "アズマチヨウ"
-  hira: "あずまちよう"
+  name: 東町
+  kana: アズマチヨウ
+  hira: あずまちよう
   roma: azumachiyou
 '380':
   code: '380'
-  name: "垂水"
-  kana: "タルミズ"
-  hira: "たるみず"
+  name: 垂水
+  kana: タルミズ
+  hira: たるみず
   roma: tarumizu

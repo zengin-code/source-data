@@ -1,37 +1,37 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "古川駅前出張所"
-  kana: "フルカワエキマエ"
-  hira: "ふるかわえきまえ"
+  name: 古川駅前出張所
+  kana: フルカワエキマエ
+  hira: ふるかわえきまえ
   roma: furukawaekimae
 '003':
   code: '003'
-  name: "東部"
-  kana: "トウブ"
-  hira: "とうぶ"
+  name: 東部
+  kana: トウブ
+  hira: とうぶ
   roma: toubu
 '006':
   code: '006'
-  name: "西部"
-  kana: "セイブ"
-  hira: "せいぶ"
+  name: 西部
+  kana: セイブ
+  hira: せいぶ
   roma: seibu
 '007':
   code: '007'
-  name: "北部"
-  kana: "ホクブ"
-  hira: "ほくぶ"
+  name: 北部
+  kana: ホクブ
+  hira: ほくぶ
   roma: hokubu
 '014':
   code: '014'
-  name: "南部"
-  kana: "ナンブ"
-  hira: "なんぶ"
+  name: 南部
+  kana: ナンブ
+  hira: なんぶ
   roma: nambu

@@ -1,91 +1,91 @@
 ---
 '001':
   code: '001'
-  name: "ガーネット"
-  kana: "ガ－ネツト"
-  hira: "が－ねつと"
+  name: ガーネット
+  kana: ガ－ネツト
+  hira: が－ねつと
   roma: ga-netsuto
 '002':
   code: '002'
-  name: "アメシスト"
-  kana: "アメシスト"
-  hira: "あめしすと"
+  name: アメシスト
+  kana: アメシスト
+  hira: あめしすと
   roma: ameshisuto
 '003':
   code: '003'
-  name: "アクアマリン"
-  kana: "アクアマリン"
-  hira: "あくあまりん"
+  name: アクアマリン
+  kana: アクアマリン
+  hira: あくあまりん
   roma: akuamarin
 '004':
   code: '004'
-  name: "ダイヤモンド"
-  kana: "ダイヤモンド"
-  hira: "だいやもんど"
+  name: ダイヤモンド
+  kana: ダイヤモンド
+  hira: だいやもんど
   roma: daiyamondo
 '005':
   code: '005'
-  name: "エメラルド"
-  kana: "エメラルド"
-  hira: "えめらるど"
+  name: エメラルド
+  kana: エメラルド
+  hira: えめらるど
   roma: emerarudo
 '006':
   code: '006'
-  name: "パール"
-  kana: "パ－ル"
-  hira: "ぱ－る"
+  name: パール
+  kana: パ－ル
+  hira: ぱ－る
   roma: pa-ru
 '007':
   code: '007'
-  name: "ルビー"
-  kana: "ルビ－"
-  hira: "るび－"
+  name: ルビー
+  kana: ルビ－
+  hira: るび－
   roma: rubi-
-008:
-  code: 008
-  name: "ペリドット"
-  kana: "ペリドツト"
-  hira: "ぺりどつと"
+'008':
+  code: '008'
+  name: ペリドット
+  kana: ペリドツト
+  hira: ぺりどつと
   roma: peridotsuto
-009:
-  code: 009
-  name: "サファイア"
-  kana: "サフアイア"
-  hira: "さふあいあ"
+'009':
+  code: '009'
+  name: サファイア
+  kana: サフアイア
+  hira: さふあいあ
   roma: safuaia
 '010':
   code: '010'
-  name: "オパール"
-  kana: "オパ－ル"
-  hira: "おぱ－る"
+  name: オパール
+  kana: オパ－ル
+  hira: おぱ－る
   roma: opa-ru
 '011':
   code: '011'
-  name: "トパーズ"
-  kana: "トパ－ズ"
-  hira: "とぱ－ず"
+  name: トパーズ
+  kana: トパ－ズ
+  hira: とぱ－ず
   roma: topa-zu
 '012':
   code: '012'
-  name: "ターコイズ"
-  kana: "タ－コイズ"
-  hira: "た－こいず"
+  name: ターコイズ
+  kana: タ－コイズ
+  hira: た－こいず
   roma: ta-koizu
 '031':
   code: '031'
-  name: "イオンカード"
-  kana: "イオンカ－ド"
-  hira: "いおんか－ど"
+  name: イオンカード
+  kana: イオンカ－ド
+  hira: いおんか－ど
   roma: ionka-do
 '032':
   code: '032'
-  name: "振込一号"
-  kana: "フリコミイチゴウ"
-  hira: "ふりこみいちごう"
+  name: 振込一号
+  kana: フリコミイチゴウ
+  hira: ふりこみいちごう
   roma: furikomiichigou
 '051':
   code: '051'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten

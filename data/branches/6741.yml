@@ -1,49 +1,49 @@
 ---
 '001':
   code: '001'
-  name: "阿児"
-  kana: "アゴ"
-  hira: "あご"
+  name: 阿児
+  kana: アゴ
+  hira: あご
   roma: ago
-008:
-  code: 008
-  name: "鳥羽"
-  kana: "トバ"
-  hira: "とば"
+'008':
+  code: '008'
+  name: 鳥羽
+  kana: トバ
+  hira: とば
   roma: toba
 '021':
   code: '021'
-  name: "磯部"
-  kana: "イソベ"
-  hira: "いそべ"
+  name: 磯部
+  kana: イソベ
+  hira: いそべ
   roma: isobe
-029:
-  code: 029
-  name: "浜島"
-  kana: "ハマジマ"
-  hira: "はまじま"
+'029':
+  code: '029'
+  name: 浜島
+  kana: ハマジマ
+  hira: はまじま
   roma: hamajima
 '034':
   code: '034'
-  name: "大王"
-  kana: "ダイオウ"
-  hira: "だいおう"
+  name: 大王
+  kana: ダイオウ
+  hira: だいおう
   roma: daiou
 '041':
   code: '041'
-  name: "志摩"
-  kana: "シマ"
-  hira: "しま"
+  name: 志摩
+  kana: シマ
+  hira: しま
   roma: shima
 '050':
   code: '050'
-  name: "阿児東"
-  kana: "アゴヒガシ"
-  hira: "あごひがし"
+  name: 阿児東
+  kana: アゴヒガシ
+  hira: あごひがし
   roma: agohigashi
 '100':
   code: '100'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten

@@ -1,115 +1,115 @@
 ---
 '001':
   code: '001'
-  name: "滑石"
-  kana: "ナメシ"
-  hira: "なめし"
+  name: 滑石
+  kana: ナメシ
+  hira: なめし
   roma: nameshi
 '003':
   code: '003'
-  name: "茂木"
-  kana: "モギ"
-  hira: "もぎ"
+  name: 茂木
+  kana: モギ
+  hira: もぎ
   roma: mogi
 '005':
   code: '005'
-  name: "戸石"
-  kana: "トイシ"
-  hira: "といし"
+  name: 戸石
+  kana: トイシ
+  hira: といし
   roma: toishi
-008:
-  code: 008
-  name: "三和"
-  kana: "サンワ"
-  hira: "さんわ"
+'008':
+  code: '008'
+  name: 三和
+  kana: サンワ
+  hira: さんわ
   roma: sanwa
 '010':
   code: '010'
-  name: "三重"
-  kana: "ミエ"
-  hira: "みえ"
+  name: 三重
+  kana: ミエ
+  hira: みえ
   roma: mie
 '021':
   code: '021'
-  name: "西彼"
-  kana: "セイヒ"
-  hira: "せいひ"
+  name: 西彼
+  kana: セイヒ
+  hira: せいひ
   roma: seihi
 '022':
   code: '022'
-  name: "大串"
-  kana: "オオグシ"
-  hira: "おおぐし"
+  name: 大串
+  kana: オオグシ
+  hira: おおぐし
   roma: oogushi
 '023':
   code: '023'
-  name: "西海"
-  kana: "サイカイ"
-  hira: "さいかい"
+  name: 西海
+  kana: サイカイ
+  hira: さいかい
   roma: saikai
 '027':
   code: '027'
-  name: "大瀬戸"
-  kana: "オオセト"
-  hira: "おおせと"
+  name: 大瀬戸
+  kana: オオセト
+  hira: おおせと
   roma: ooseto
 '100':
   code: '100'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '201':
   code: '201'
-  name: "長与"
-  kana: "ナガヨ"
-  hira: "ながよ"
+  name: 長与
+  kana: ナガヨ
+  hira: ながよ
   roma: nagayo
 '203':
   code: '203'
-  name: "伊木力"
-  kana: "イキリキ"
-  hira: "いきりき"
+  name: 伊木力
+  kana: イキリキ
+  hira: いきりき
   roma: ikiriki
 '204':
   code: '204'
-  name: "喜々津"
-  kana: "キキツ"
-  hira: "ききつ"
+  name: 喜々津
+  kana: キキツ
+  hira: ききつ
   roma: kikitsu
 '205':
   code: '205'
-  name: "琴海"
-  kana: "キンカイ"
-  hira: "きんかい"
+  name: 琴海
+  kana: キンカイ
+  hira: きんかい
   roma: kinkai
 '210':
   code: '210'
-  name: "時津"
-  kana: "トギツ"
-  hira: "とぎつ"
+  name: 時津
+  kana: トギツ
+  hira: とぎつ
   roma: togitsu
 '301':
   code: '301'
-  name: "東長崎"
-  kana: "ヒガシナガサキ"
-  hira: "ひがしながさき"
+  name: 東長崎
+  kana: ヒガシナガサキ
+  hira: ひがしながさき
   roma: higashinagasaki
 '304':
   code: '304'
-  name: "新大工"
-  kana: "シンダイク"
-  hira: "しんだいく"
+  name: 新大工
+  kana: シンダイク
+  hira: しんだいく
   roma: shindaiku
 '310':
   code: '310'
-  name: "西浦上"
-  kana: "ニシウラカミ"
-  hira: "にしうらかみ"
+  name: 西浦上
+  kana: ニシウラカミ
+  hira: にしうらかみ
   roma: nishiurakami
 '312':
   code: '312'
-  name: "長崎中央"
-  kana: "ナガサキチユウオウ"
-  hira: "ながさきちゆうおう"
+  name: 長崎中央
+  kana: ナガサキチユウオウ
+  hira: ながさきちゆうおう
   roma: nagasakichiyuuou

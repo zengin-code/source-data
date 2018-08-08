@@ -1,49 +1,49 @@
 ---
 '003':
   code: '003'
-  name: "岩国西"
-  kana: "イワクニニシ"
-  hira: "いわくににし"
+  name: 岩国西
+  kana: イワクニニシ
+  hira: いわくににし
   roma: iwakuninishi
 '010':
   code: '010'
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo
 '030':
   code: '030'
-  name: "和木"
-  kana: "ワキ"
-  hira: "わき"
+  name: 和木
+  kana: ワキ
+  hira: わき
   roma: waki
 '035':
   code: '035'
-  name: "由宇"
-  kana: "ユウ"
-  hira: "ゆう"
+  name: 由宇
+  kana: ユウ
+  hira: ゆう
   roma: yuu
 '043':
   code: '043'
-  name: "高森"
-  kana: "タカモリ"
-  hira: "たかもり"
+  name: 高森
+  kana: タカモリ
+  hira: たかもり
   roma: takamori
 '055':
   code: '055'
-  name: "広瀬"
-  kana: "ヒロセ"
-  hira: "ひろせ"
+  name: 広瀬
+  kana: ヒロセ
+  hira: ひろせ
   roma: hirose
 '075':
   code: '075'
-  name: "美和"
-  kana: "ミワ"
-  hira: "みわ"
+  name: 美和
+  kana: ミワ
+  hira: みわ
   roma: miwa
-094:
-  code: 094
-  name: "玖珂"
-  kana: "クガ"
-  hira: "くが"
+'094':
+  code: '094'
+  name: 玖珂
+  kana: クガ
+  hira: くが
   roma: kuga

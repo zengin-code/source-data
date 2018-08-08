@@ -1,49 +1,49 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "中央"
-  kana: "チユウオウ"
-  hira: "ちゆうおう"
+  name: 中央
+  kana: チユウオウ
+  hira: ちゆうおう
   roma: chiyuuou
 '006':
   code: '006'
-  name: "協同病院"
-  kana: "キヨウドウビヨウイン"
-  hira: "きようどうびよういん"
+  name: 協同病院
+  kana: キヨウドウビヨウイン
+  hira: きようどうびよういん
   roma: kiyoudoubiyouin
-009:
-  code: 009
-  name: "土浦南"
-  kana: "ツチウラミナミ"
-  hira: "つちうらみなみ"
+'009':
+  code: '009'
+  name: 土浦南
+  kana: ツチウラミナミ
+  hira: つちうらみなみ
   roma: tsuchiuraminami
 '011':
   code: '011'
-  name: "土浦西"
-  kana: "ツチウラニシ"
-  hira: "つちうらにし"
+  name: 土浦西
+  kana: ツチウラニシ
+  hira: つちうらにし
   roma: tsuchiuranishi
 '013':
   code: '013'
-  name: "霞ヶ浦"
-  kana: "カスミガウラ"
-  hira: "かすみがうら"
+  name: 霞ヶ浦
+  kana: カスミガウラ
+  hira: かすみがうら
   roma: kasumigaura
-019:
-  code: 019
-  name: "土浦北"
-  kana: "ツチウラキタ"
-  hira: "つちうらきた"
+'019':
+  code: '019'
+  name: 土浦北
+  kana: ツチウラキタ
+  hira: つちうらきた
   roma: tsuchiurakita
 '020':
   code: '020'
-  name: "千代田"
-  kana: "チヨダ"
-  hira: "ちよだ"
+  name: 千代田
+  kana: チヨダ
+  hira: ちよだ
   roma: chiyoda

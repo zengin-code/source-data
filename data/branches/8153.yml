@@ -1,85 +1,85 @@
 ---
 '002':
   code: '002'
-  name: "大内"
-  kana: "オオウチ"
-  hira: "おおうち"
+  name: 大内
+  kana: オオウチ
+  hira: おおうち
   roma: oouchi
 '003':
   code: '003'
-  name: "宮野"
-  kana: "ミヤノ"
-  hira: "みやの"
+  name: 宮野
+  kana: ミヤノ
+  hira: みやの
   roma: miyano
-008:
-  code: 008
-  name: "陶"
-  kana: "スエ"
-  hira: "すえ"
+'008':
+  code: '008'
+  name: 陶
+  kana: スエ
+  hira: すえ
   roma: sue
-009:
-  code: 009
-  name: "鋳銭司"
-  kana: "スゼンジ"
-  hira: "すぜんじ"
+'009':
+  code: '009'
+  name: 鋳銭司
+  kana: スゼンジ
+  hira: すぜんじ
   roma: suzenji
 '010':
   code: '010'
-  name: "名田島"
-  kana: "ナタジマ"
-  hira: "なたじま"
+  name: 名田島
+  kana: ナタジマ
+  hira: なたじま
   roma: natajima
 '011':
   code: '011'
-  name: "二島"
-  kana: "フタジマ"
-  hira: "ふたじま"
+  name: 二島
+  kana: フタジマ
+  hira: ふたじま
   roma: futajima
 '012':
   code: '012'
-  name: "川西"
-  kana: "カワニシ"
-  hira: "かわにし"
+  name: 川西
+  kana: カワニシ
+  hira: かわにし
   roma: kawanishi
 '043':
   code: '043'
-  name: "秋穂"
-  kana: "アイオ"
-  hira: "あいお"
+  name: 秋穂
+  kana: アイオ
+  hira: あいお
   roma: aio
 '050':
   code: '050'
-  name: "仁保"
-  kana: "ニホ"
-  hira: "にほ"
+  name: 仁保
+  kana: ニホ
+  hira: にほ
   roma: niho
 '063':
   code: '063'
-  name: "阿東"
-  kana: "アトウ"
-  hira: "あとう"
+  name: 阿東
+  kana: アトウ
+  hira: あとう
   roma: atou
 '077':
   code: '077'
-  name: "長門峡"
-  kana: "チヨウモンキヨウ"
-  hira: "ちようもんきよう"
+  name: 長門峡
+  kana: チヨウモンキヨウ
+  hira: ちようもんきよう
   roma: chiyoumonkiyou
-085:
-  code: 085
-  name: "小郡"
-  kana: "オゴオリ"
-  hira: "おごおり"
+'085':
+  code: '085'
+  name: 小郡
+  kana: オゴオリ
+  hira: おごおり
   roma: ogoori
-088:
-  code: 088
-  name: "中央"
-  kana: "チユウオウ"
-  hira: "ちゆうおう"
+'088':
+  code: '088'
+  name: 中央
+  kana: チユウオウ
+  hira: ちゆうおう
   roma: chiyuuou
-090:
-  code: 090
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+'090':
+  code: '090'
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo

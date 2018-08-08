@@ -1,55 +1,55 @@
 ---
 '010':
   code: '010'
-  name: "伊陸"
-  kana: "イカチ"
-  hira: "いかち"
+  name: 伊陸
+  kana: イカチ
+  hira: いかち
   roma: ikachi
 '015':
   code: '015'
-  name: "柳井"
-  kana: "ヤナイ"
-  hira: "やない"
+  name: 柳井
+  kana: ヤナイ
+  hira: やない
   roma: yanai
-018:
-  code: 018
-  name: "伊保庄"
-  kana: "イホノシヨウ"
-  hira: "いほのしよう"
+'018':
+  code: '018'
+  name: 伊保庄
+  kana: イホノシヨウ
+  hira: いほのしよう
   roma: ihonoshiyou
 '020':
   code: '020'
-  name: "平郡"
-  kana: "ヘイグン"
-  hira: "へいぐん"
+  name: 平郡
+  kana: ヘイグン
+  hira: へいぐん
   roma: heigun
 '040':
   code: '040'
-  name: "上関"
-  kana: "カミノセキ"
-  hira: "かみのせき"
+  name: 上関
+  kana: カミノセキ
+  hira: かみのせき
   roma: kaminoseki
 '051':
   code: '051'
-  name: "平生"
-  kana: "ヒラオ"
-  hira: "ひらお"
+  name: 平生
+  kana: ヒラオ
+  hira: ひらお
   roma: hirao
 '060':
   code: '060'
-  name: "田布施"
-  kana: "タブセ"
-  hira: "たぶせ"
+  name: 田布施
+  kana: タブセ
+  hira: たぶせ
   roma: tabuse
 '071':
   code: '071'
-  name: "大和"
-  kana: "ヤマト"
-  hira: "やまと"
+  name: 大和
+  kana: ヤマト
+  hira: やまと
   roma: yamato
-080:
-  code: 080
-  name: "本所"
-  kana: "ホンシヨ"
-  hira: "ほんしよ"
+'080':
+  code: '080'
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
   roma: honshiyo

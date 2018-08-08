@@ -1,139 +1,139 @@
 ---
 '011':
   code: '011'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '012':
   code: '012'
-  name: "由良"
-  kana: "ユラ"
-  hira: "ゆら"
+  name: 由良
+  kana: ユラ
+  hira: ゆら
   roma: yura
 '014':
   code: '014'
-  name: "下加茂"
-  kana: "シモガモ"
-  hira: "しもがも"
+  name: 下加茂
+  kana: シモガモ
+  hira: しもがも
   roma: shimogamo
 '021':
   code: '021'
-  name: "志筑"
-  kana: "シズキ"
-  hira: "しずき"
+  name: 志筑
+  kana: シズキ
+  hira: しずき
   roma: shizuki
 '023':
   code: '023'
-  name: "岩屋"
-  kana: "イワヤ"
-  hira: "いわや"
+  name: 岩屋
+  kana: イワヤ
+  hira: いわや
   roma: iwaya
 '024':
   code: '024'
-  name: "富島"
-  kana: "トシマ"
-  hira: "としま"
+  name: 富島
+  kana: トシマ
+  hira: としま
   roma: toshima
 '025':
   code: '025'
-  name: "北淡"
-  kana: "ホクダン"
-  hira: "ほくだん"
+  name: 北淡
+  kana: ホクダン
+  hira: ほくだん
   roma: hokudan
 '026':
   code: '026'
-  name: "郡家"
-  kana: "グンゲ"
-  hira: "ぐんげ"
+  name: 郡家
+  kana: グンゲ
+  hira: ぐんげ
   roma: gunge
 '027':
   code: '027'
-  name: "都志"
-  kana: "ツシ"
-  hira: "つし"
+  name: 都志
+  kana: ツシ
+  hira: つし
   roma: tsushi
-028:
-  code: 028
-  name: "仮屋"
-  kana: "カリヤ"
-  hira: "かりや"
+'028':
+  code: '028'
+  name: 仮屋
+  kana: カリヤ
+  hira: かりや
   roma: kariya
 '031':
   code: '031'
-  name: "湊"
-  kana: "ミナト"
-  hira: "みなと"
+  name: 湊
+  kana: ミナト
+  hira: みなと
   roma: minato
 '032':
   code: '032'
-  name: "福良"
-  kana: "フクラ"
-  hira: "ふくら"
+  name: 福良
+  kana: フクラ
+  hira: ふくら
   roma: fukura
 '033':
   code: '033'
-  name: "市"
-  kana: "イチ"
-  hira: "いち"
+  name: 市
+  kana: イチ
+  hira: いち
   roma: ichi
 '034':
   code: '034'
-  name: "阿万"
-  kana: "アマ"
-  hira: "あま"
+  name: 阿万
+  kana: アマ
+  hira: あま
   roma: ama
 '035':
   code: '035'
-  name: "広田"
-  kana: "ヒロタ"
-  hira: "ひろた"
+  name: 広田
+  kana: ヒロタ
+  hira: ひろた
   roma: hirota
 '051':
   code: '051'
-  name: "神戸"
-  kana: "コウベ"
-  hira: "こうべ"
+  name: 神戸
+  kana: コウベ
+  hira: こうべ
   roma: koube
 '054':
   code: '054'
-  name: "加古川"
-  kana: "カコガワ"
-  hira: "かこがわ"
+  name: 加古川
+  kana: カコガワ
+  hira: かこがわ
   roma: kakogawa
 '056':
   code: '056'
-  name: "灘"
-  kana: "ナダ"
-  hira: "なだ"
+  name: 灘
+  kana: ナダ
+  hira: なだ
   roma: nada
 '061':
   code: '061'
-  name: "山崎"
-  kana: "ヤマサキ"
-  hira: "やまさき"
+  name: 山崎
+  kana: ヤマサキ
+  hira: やまさき
   roma: yamasaki
 '062':
   code: '062'
-  name: "佐用"
-  kana: "サヨウ"
-  hira: "さよう"
+  name: 佐用
+  kana: サヨウ
+  hira: さよう
   roma: sayou
 '063':
   code: '063'
-  name: "一宮"
-  kana: "イチノミヤ"
-  hira: "いちのみや"
+  name: 一宮
+  kana: イチノミヤ
+  hira: いちのみや
   roma: ichinomiya
 '066':
   code: '066'
-  name: "姫路"
-  kana: "ヒメジ"
-  hira: "ひめじ"
+  name: 姫路
+  kana: ヒメジ
+  hira: ひめじ
   roma: himeji
 '067':
   code: '067'
-  name: "赤穂"
-  kana: "アコウ"
-  hira: "あこう"
+  name: 赤穂
+  kana: アコウ
+  hira: あこう
   roma: akou

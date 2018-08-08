@@ -1,61 +1,61 @@
 ---
 '001':
   code: '001'
-  name: "本店"
-  kana: "ホンテン"
-  hira: "ほんてん"
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
   roma: honten
 '002':
   code: '002'
-  name: "野火止"
-  kana: "ノビトメ"
-  hira: "のびとめ"
+  name: 野火止
+  kana: ノビトメ
+  hira: のびとめ
   roma: nobitome
 '003':
   code: '003'
-  name: "新座大和田"
-  kana: "ニイザオオワダ"
-  hira: "にいざおおわだ"
+  name: 新座大和田
+  kana: ニイザオオワダ
+  hira: にいざおおわだ
   roma: niizaoowada
 '004':
   code: '004'
-  name: "片山"
-  kana: "カタヤマ"
-  hira: "かたやま"
+  name: 片山
+  kana: カタヤマ
+  hira: かたやま
   roma: katayama
 '005':
   code: '005'
-  name: "野寺"
-  kana: "ノデラ"
-  hira: "のでら"
+  name: 野寺
+  kana: ノデラ
+  hira: のでら
   roma: nodera
 '006':
   code: '006'
-  name: "西堀"
-  kana: "ニシボリ"
-  hira: "にしぼり"
+  name: 西堀
+  kana: ニシボリ
+  hira: にしぼり
   roma: nishibori
 '007':
   code: '007'
-  name: "朝霞"
-  kana: "アサカ"
-  hira: "あさか"
+  name: 朝霞
+  kana: アサカ
+  hira: あさか
   roma: asaka
-008:
-  code: 008
-  name: "内間木"
-  kana: "ウチマギ"
-  hira: "うちまぎ"
+'008':
+  code: '008'
+  name: 内間木
+  kana: ウチマギ
+  hira: うちまぎ
   roma: uchimagi
-009:
-  code: 009
-  name: "志木"
-  kana: "シキ"
-  hira: "しき"
+'009':
+  code: '009'
+  name: 志木
+  kana: シキ
+  hira: しき
   roma: shiki
 '011':
   code: '011'
-  name: "和光"
-  kana: "ワコウ"
-  hira: "わこう"
+  name: 和光
+  kana: ワコウ
+  hira: わこう
   roma: wakou
