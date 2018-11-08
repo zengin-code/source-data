@@ -1,16 +1,16 @@
 ---
 '001':
   code: '001'
-  name: 本店
-  kana: ホンテン
-  hira: ほんてん
-  roma: honten
+  name: 心斎橋営業部
+  kana: シンサイバシ
+  hira: しんさいばし
+  roma: shinsaibashi
 '003':
   code: '003'
-  name: 難波
-  kana: ナンバ
-  hira: なんば
-  roma: namba
+  name: 難波南
+  kana: ナンバミナミ
+  hira: なんばみなみ
+  roma: nambaminami
 '004':
   code: '004'
   name: 天王寺
@@ -19,10 +19,10 @@
   roma: tennouji
 '005':
   code: '005'
-  name: 玉出
-  kana: タマデ
-  hira: たまで
-  roma: tamade
+  name: 玉出駅前
+  kana: タマデエキマエ
+  hira: たまでえきまえ
+  roma: tamadeekimae
 '008':
   code: '008'
   name: 梅田
@@ -127,10 +127,10 @@
   roma: kouri
 '034':
   code: '034'
-  name: 守口
-  kana: モリグチ
-  hira: もりぐち
-  roma: moriguchi
+  name: 守口南
+  kana: モリグチミナミ
+  hira: もりぐちみなみ
+  roma: moriguchiminami
 '035':
   code: '035'
   name: 東大阪
@@ -157,10 +157,10 @@
   roma: yao
 '039':
   code: '039'
-  name: 住道
-  kana: スミノドウ
-  hira: すみのどう
-  roma: suminodou
+  name: 住道駅前
+  kana: スミノドウエキマエ
+  hira: すみのどうえきまえ
+  roma: suminodouekimae
 '041':
   code: '041'
   name: 高安
@@ -199,10 +199,10 @@
   roma: kashiwara
 '050':
   code: '050'
-  name: 狭山
-  kana: サヤマ
-  hira: さやま
-  roma: sayama
+  name: 大阪狭山
+  kana: オオサカサヤマ
+  hira: おおさかさやま
+  roma: oosakasayama
 '051':
   code: '051'
   name: 初芝
@@ -347,12 +347,6 @@
   kana: シジヨウナワテ
   hira: しじようなわて
   roma: shijiyounawate
-'116':
-  code: '116'
-  name: 瀬田駅前
-  kana: セタエキマエ
-  hira: せたえきまえ
-  roma: setaekimae
 '117':
   code: '117'
   name: 南郷
@@ -377,12 +371,6 @@
   kana: カタタ
   hira: かたた
   roma: katata
-'126':
-  code: '126'
-  name: 唐崎
-  kana: カラサキ
-  hira: からさき
-  roma: karasaki
 '131':
   code: '131'
   name: 中もず
@@ -407,12 +395,6 @@
   kana: シンアサヒ
   hira: しんあさひ
   roma: shinasahi
-'138':
-  code: '138'
-  name: 岸和田
-  kana: キシワダ
-  hira: きしわだ
-  roma: kishiwada
 '141':
   code: '141'
   name: 日根野
@@ -479,6 +461,12 @@
   kana: サカイスジホンマチ
   hira: さかいすじほんまち
   roma: sakaisujihommachi
+'219':
+  code: '219'
+  name: 福知山
+  kana: フクチヤマ
+  hira: ふくちやま
+  roma: fukuchiyama
 '221':
   code: '221'
   name: 守山
@@ -529,10 +517,10 @@
   roma: sakai
 '236':
   code: '236'
-  name: 寝屋川
-  kana: ネヤガワ
-  hira: ねやがわ
-  roma: neyagawa
+  name: 寝屋川駅前
+  kana: ネヤガワエキマエ
+  hira: ねやがわえきまえ
+  roma: neyagawaekimae
 '239':
   code: '239'
   name: 膳所
@@ -575,6 +563,24 @@
   kana: ノトガワ
   hira: のとがわ
   roma: notogawa
+'249':
+  code: '249'
+  name: 岸和田駅前
+  kana: キシワダエキマエ
+  hira: きしわだえきまえ
+  roma: kishiwadaekimae
+'265':
+  code: '265'
+  name: 瀬田駅前
+  kana: セタエキマエ
+  hira: せたえきまえ
+  roma: setaekimae
+'268':
+  code: '268'
+  name: 唐崎
+  kana: カラサキ
+  hira: からさき
+  roma: karasaki
 '272':
   code: '272'
   name: 十三
@@ -593,6 +599,12 @@
   kana: ノダハンシン
   hira: のだはんしん
   roma: nodahanshin
+'277':
+  code: '277'
+  name: 甲西
+  kana: コウセイ
+  hira: こうせい
+  roma: kousei
 '279':
   code: '279'
   name: 新大阪
@@ -611,18 +623,24 @@
   kana: イマガワ
   hira: いまがわ
   roma: imagawa
-'302':
-  code: '302'
-  name: 福知山
-  kana: フクチヤマ
-  hira: ふくちやま
-  roma: fukuchiyama
-'312':
-  code: '312'
-  name: 甲西
-  kana: コウセイ
-  hira: こうせい
-  roma: kousei
+'287':
+  code: '287'
+  name: 八幡駅前
+  kana: ハチマンエキマエ
+  hira: はちまんえきまえ
+  roma: hachimanekimae
+'289':
+  code: '289'
+  name: 安土
+  kana: アヅチ
+  hira: あづち
+  roma: aduchi
+'290':
+  code: '290'
+  name: 竜王
+  kana: リユウオウ
+  hira: りゆうおう
+  roma: riyuuou
 '313':
   code: '313'
   name: 甲賀
@@ -671,30 +689,12 @@
   kana: ハチマン
   hira: はちまん
   roma: hachiman
-'332':
-  code: '332'
-  name: 八幡駅前
-  kana: ハチマンエキマエ
-  hira: はちまんえきまえ
-  roma: hachimanekimae
 '334':
   code: '334'
   name: 篠原
   kana: シノハラ
   hira: しのはら
   roma: shinohara
-'335':
-  code: '335'
-  name: 安土
-  kana: アヅチ
-  hira: あづち
-  roma: aduchi
-'336':
-  code: '336'
-  name: 竜王
-  kana: リユウオウ
-  hira: りゆうおう
-  roma: riyuuou
 '411':
   code: '411'
   name: 彦根

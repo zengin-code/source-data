@@ -447,13 +447,6 @@
     "hira":"はんたがわ",
     "roma":"hantagawa"
   },
-  "415":{
-    "code":"415",
-    "name":"大道",
-    "kana":"ダイドウ",
-    "hira":"だいどう",
-    "roma":"daidou"
-  },
   "416":{
     "code":"416",
     "name":"与儀",
@@ -498,10 +491,10 @@
   },
   "441":{
     "code":"441",
-    "name":"豊見城市役所内",
-    "kana":"トミグスクシヤクシヨナイ",
-    "hira":"とみぐすくしやくしよない",
-    "roma":"tomigusukushiyakushiyonai"
+    "name":"おなが",
+    "kana":"オナガ",
+    "hira":"おなが",
+    "roma":"onaga"
   },
   "442":{
     "code":"442",
@@ -573,12 +566,19 @@
     "hira":"よなばる",
     "roma":"yonabaru"
   },
+  "551":{
+    "code":"551",
+    "name":"南城ハート",
+    "kana":"ナンジヨウハ－ト",
+    "hira":"なんじようは－と",
+    "roma":"nanjiyouha-to"
+  },
   "559":{
     "code":"559",
-    "name":"大里",
-    "kana":"オオザト",
-    "hira":"おおざと",
-    "roma":"oozato"
+    "name":"南城",
+    "kana":"ナンジヨウ",
+    "hira":"なんじよう",
+    "roma":"nanjiyou"
   },
   "563":{
     "code":"563",
