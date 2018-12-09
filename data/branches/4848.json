@@ -139,12 +139,19 @@
     "hira":"さんが",
     "roma":"sanga"
   },
+  "063":{
+    "code":"063",
+    "name":"小林",
+    "kana":"オバヤシ",
+    "hira":"おばやし",
+    "roma":"obayashi"
+  },
   "064":{
     "code":"064",
-    "name":"菖蒲南",
-    "kana":"シヨウブミナミ",
-    "hira":"しようぶみなみ",
-    "roma":"shiyoubuminami"
+    "name":"栢間",
+    "kana":"カヤマ",
+    "hira":"かやま",
+    "roma":"kayama"
   },
   "065":{
     "code":"065",

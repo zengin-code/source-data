@@ -13,6 +13,13 @@
     "hira":"やすだ",
     "roma":"yasuda"
   },
+  "003":{
+    "code":"003",
+    "name":"笹神",
+    "kana":"ササガミ",
+    "hira":"ささがみ",
+    "roma":"sasagami"
+  },
   "004":{
     "code":"004",
     "name":"豊栄",
@@ -33,6 +40,13 @@
     "kana":"ムラマツ",
     "hira":"むらまつ",
     "roma":"muramatsu"
+  },
+  "013":{
+    "code":"013",
+    "name":"本町",
+    "kana":"ホンチヨウ",
+    "hira":"ほんちよう",
+    "roma":"honchiyou"
   },
   "014":{
     "code":"014",

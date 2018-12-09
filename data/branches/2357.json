@@ -47,5 +47,12 @@
     "kana":"ヨコゴシ",
     "hira":"よこごし",
     "roma":"yokogoshi"
+  },
+  "011":{
+    "code":"011",
+    "name":"東堀",
+    "kana":"ヒガシボリ",
+    "hira":"ひがしぼり",
+    "roma":"higashibori"
   }
 }

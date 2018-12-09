@@ -1,16 +1,22 @@
 ---
 '098':
   code: '098'
-  name: 堺筋営業部
-  kana: サカイスジ
-  hira: さかいすじ
-  roma: sakaisuji
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
+  roma: honten
 '101':
   code: '101'
   name: 本町営業部
   kana: ホンマチ
   hira: ほんまち
   roma: hommachi
+'106':
+  code: '106'
+  name: 今里
+  kana: イマザト
+  hira: いまざと
+  roma: imazato
 '108':
   code: '108'
   name: 九条
@@ -43,16 +49,16 @@
   roma: taishiyoudoori
 '116':
   code: '116'
-  name: 住吉中央
-  kana: スミヨシチユウオウ
-  hira: すみよしちゆうおう
-  roma: sumiyoshichiyuuou
+  name: 住吉
+  kana: スミヨシ
+  hira: すみよし
+  roma: sumiyoshi
 '117':
   code: '117'
-  name: 生野中央
-  kana: イクノチユウオウ
-  hira: いくのちゆうおう
-  roma: ikunochiyuuou
+  name: 生野
+  kana: イクノ
+  hira: いくの
+  roma: ikuno
 '118':
   code: '118'
   name: 堀江
@@ -67,10 +73,10 @@
   roma: miyakojima
 '123':
   code: '123'
-  name: 平野中央
-  kana: ヒラノチユウオウ
-  hira: ひらのちゆうおう
-  roma: hiranochiyuuou
+  name: 平野
+  kana: ヒラノ
+  hira: ひらの
+  roma: hirano
 '124':
   code: '124'
   name: 千里山出張所
@@ -157,10 +163,10 @@
   roma: katano
 '138':
   code: '138'
-  name: 梅田中央
-  kana: ウメダチユウオウ
-  hira: うめだちゆうおう
-  roma: umedachiyuuou
+  name: 梅田営業部
+  kana: ウメダ
+  hira: うめだ
+  roma: umeda
 '139':
   code: '139'
   name: 鶴山台出張所
@@ -217,10 +223,10 @@
   roma: takaishi
 '151':
   code: '151'
-  name: 豊津西
-  kana: トヨツニシ
-  hira: とよつにし
-  roma: toyotsunishi
+  name: 豊津
+  kana: トヨツ
+  hira: とよつ
+  roma: toyotsu
 '154':
   code: '154'
   name: 柱本出張所
@@ -247,22 +253,16 @@
   roma: shinobugaoka
 '166':
   code: '166'
-  name: 住之江駅前
-  kana: スミノエエキマエ
-  hira: すみのええきまえ
-  roma: suminoeekimae
+  name: 住之江
+  kana: スミノエ
+  hira: すみのえ
+  roma: suminoe
 '176':
   code: '176'
   name: 高井田
   kana: タカイダ
   hira: たかいだ
   roma: takaida
-'186':
-  code: '186'
-  name: 今里
-  kana: イマザト
-  hira: いまざと
-  roma: imazato
 '190':
   code: '190'
   name: 喜志
@@ -271,16 +271,16 @@
   roma: kishi
 '251':
   code: '251'
-  name: 阪神尼崎
-  kana: ハンシンアマガサキ
-  hira: はんしんあまがさき
-  roma: hanshinamagasaki
+  name: 尼崎
+  kana: アマガサキ
+  hira: あまがさき
+  roma: amagasaki
 '254':
   code: '254'
-  name: 神戸中央
-  kana: コウベチユウオウ
-  hira: こうべちゆうおう
-  roma: koubechiyuuou
+  name: 神戸
+  kana: コウベ
+  hira: こうべ
+  roma: koube
 '256':
   code: '256'
   name: 宝塚
@@ -307,10 +307,10 @@
   roma: koutouen
 '261':
   code: '261'
-  name: 西宮中央
-  kana: ニシノミヤチユウオウ
-  hira: にしのみやちゆうおう
-  roma: nishinomiyachiyuuou
+  name: 西宮
+  kana: ニシノミヤ
+  hira: にしのみや
+  roma: nishinomiya
 '263':
   code: '263'
   name: 武庫之荘出張所
@@ -367,10 +367,10 @@
   roma: midoribashi
 '317':
   code: '317'
-  name: 城東中央
-  kana: ジヨウトウチユウオウ
-  hira: じようとうちゆうおう
-  roma: jiyoutouchiyuuou
+  name: 城東
+  kana: ジヨウトウ
+  hira: じようとう
+  roma: jiyoutou
 '319':
   code: '319'
   name: 針中野
@@ -379,10 +379,10 @@
   roma: harinakano
 '321':
   code: '321'
-  name: 放出駅前
-  kana: ハナテンエキマエ
-  hira: はなてんえきまえ
-  roma: hanatenekimae
+  name: 放出
+  kana: ハナテン
+  hira: はなてん
+  roma: hanaten
 '322':
   code: '322'
   name: 東淀川
@@ -409,10 +409,10 @@
   roma: kire
 '330':
   code: '330'
-  name: 枚方中央
-  kana: ヒラカタチユウオウ
-  hira: ひらかたちゆうおう
-  roma: hirakatachiyuuou
+  name: 枚方
+  kana: ヒラカタ
+  hira: ひらかた
+  roma: hirakata
 '331':
   code: '331'
   name: 高槻中央出張所
@@ -427,10 +427,10 @@
   roma: suminodou
 '333':
   code: '333'
-  name: 豊中駅前
-  kana: トヨナカエキマエ
-  hira: とよなかえきまえ
-  roma: toyonakaekimae
+  name: 豊中
+  kana: トヨナカ
+  hira: とよなか
+  roma: toyonaka
 '334':
   code: '334'
   name: 吹田
@@ -439,10 +439,10 @@
   roma: suita
 '335':
   code: '335'
-  name: 東大阪永和
-  kana: ヒガシオオサカエイワ
-  hira: ひがしおおさかえいわ
-  roma: higashioosakaeiwa
+  name: 東大阪
+  kana: ヒガシオオサカ
+  hira: ひがしおおさか
+  roma: higashioosaka
 '336':
   code: '336'
   name: 岸和田
@@ -451,10 +451,10 @@
   roma: kishiwada
 '337':
   code: '337'
-  name: 堺中央
-  kana: サカイチユウオウ
-  hira: さかいちゆうおう
-  roma: sakaichiyuuou
+  name: 堺
+  kana: サカイ
+  hira: さかい
+  roma: sakai
 '338':
   code: '338'
   name: 佐野
@@ -469,16 +469,16 @@
   roma: tondabayashi
 '340':
   code: '340'
-  name: 八尾本町
-  kana: ヤオホンマチ
-  hira: やおほんまち
-  roma: yaohommachi
+  name: 八尾
+  kana: ヤオ
+  hira: やお
+  roma: yao
 '342':
   code: '342'
-  name: 茨木中央
-  kana: イバラキチユウオウ
-  hira: いばらきちゆうおう
-  roma: ibarakichiyuuou
+  name: 茨木
+  kana: イバラキ
+  hira: いばらき
+  roma: ibaraki
 '343':
   code: '343'
   name: 藤井寺
@@ -553,16 +553,16 @@
   roma: asaka
 '357':
   code: '357'
-  name: 鳳駅前出張所
-  kana: オオトリエキマエ
-  hira: おおとりえきまえ
-  roma: ootoriekimae
+  name: 鳳出張所
+  kana: オオトリ
+  hira: おおとり
+  roma: ootori
 '358':
   code: '358'
-  name: 羽曳が丘
-  kana: ハビキガオカ
-  hira: はびきがおか
-  roma: habikigaoka
+  name: 羽曳野
+  kana: ハビキノ
+  hira: はびきの
+  roma: habikino
 '359':
   code: '359'
   name: 深井
@@ -577,10 +577,10 @@
   roma: katanokoudu
 '361':
   code: '361'
-  name: 烏丸
-  kana: カラスマ
-  hira: からすま
-  roma: karasuma
+  name: 京都
+  kana: キヨウト
+  hira: きようと
+  roma: kiyouto
 '362':
   code: '362'
   name: 門真南
@@ -661,10 +661,10 @@
   roma: moriguchikinda
 '466':
   code: '466'
-  name: 高田中央
-  kana: タカダチユウオウ
-  hira: たかだちゆうおう
-  roma: takadachiyuuou
+  name: 高田
+  kana: タカダ
+  hira: たかだ
+  roma: takada
 '467':
   code: '467'
   name: 富雄
@@ -691,10 +691,10 @@
   roma: tamade
 '716':
   code: '716'
-  name: 箕面中央
-  kana: ミノオチユウオウ
-  hira: みのおちゆうおう
-  roma: minoochiyuuou
+  name: 箕面
+  kana: ミノオ
+  hira: みのお
+  roma: minoo
 '724':
   code: '724'
   name: 香里中央
@@ -703,7 +703,7 @@
   roma: kourichiyuuou
 '780':
   code: '780'
-  name: 名古屋中央
-  kana: ナゴヤチユウオウ
-  hira: なごやちゆうおう
-  roma: nagoyachiyuuou
+  name: 名古屋
+  kana: ナゴヤ
+  hira: なごや
+  roma: nagoya

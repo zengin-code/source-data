@@ -8,10 +8,10 @@
   },
   "002":{
     "code":"002",
-    "name":"土岐津泉",
-    "kana":"トキツイズミ",
-    "hira":"ときついずみ",
-    "roma":"tokitsuizumi"
+    "name":"泉",
+    "kana":"イズミ",
+    "hira":"いずみ",
+    "roma":"izumi"
   },
   "003":{
     "code":"003",
@@ -19,6 +19,13 @@
     "kana":"ジヨウリンジ",
     "hira":"じようりんじ",
     "roma":"jiyourinji"
+  },
+  "004":{
+    "code":"004",
+    "name":"土岐津",
+    "kana":"トキツ",
+    "hira":"ときつ",
+    "roma":"tokitsu"
   },
   "005":{
     "code":"005",

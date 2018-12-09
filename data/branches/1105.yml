@@ -13,7 +13,7 @@
   roma: minato
 '004':
   code: '004'
-  name: 鍛冶町
+  name: 鍛治町
   kana: カジチヨウ
   hira: かじちよう
   roma: kajichiyou
@@ -155,6 +155,12 @@
   kana: ロクノヘ
   hira: ろくのへ
   roma: rokunohe
+'035':
+  code: '035'
+  name: 北園
+  kana: キタゾノ
+  hira: きたぞの
+  roma: kitazono
 '036':
   code: '036'
   name: 穂並
