@@ -76,13 +76,6 @@
     "hira":"なのかいち",
     "roma":"nanokaichi"
   },
-  "023":{
-    "code":"023",
-    "name":"西吉井",
-    "kana":"ニシヨシイ",
-    "hira":"にしよしい",
-    "roma":"nishiyoshii"
-  },
   "024":{
     "code":"024",
     "name":"富岡東",
@@ -131,13 +124,6 @@
     "kana":"グンママチ",
     "hira":"ぐんままち",
     "roma":"gummamachi"
-  },
-  "033":{
-    "code":"033",
-    "name":"並榎",
-    "kana":"ナミエ",
-    "hira":"なみえ",
-    "roma":"namie"
   },
   "034":{
     "code":"034",
@@ -376,13 +362,6 @@
     "kana":"マエバシニシ",
     "hira":"まえばしにし",
     "roma":"maebashinishi"
-  },
-  "074":{
-    "code":"074",
-    "name":"新田",
-    "kana":"シンデン",
-    "hira":"しんでん",
-    "roma":"shinden"
   },
   "075":{
     "code":"075",

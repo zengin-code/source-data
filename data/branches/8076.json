@@ -27,40 +27,12 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "760":{
-    "code":"760",
-    "name":"北",
-    "kana":"キタ",
-    "hira":"きた",
-    "roma":"kita"
-  },
-  "762":{
-    "code":"762",
-    "name":"本村",
-    "kana":"ホンムラ",
-    "hira":"ほんむら",
-    "roma":"hommura"
-  },
   "765":{
     "code":"765",
     "name":"西",
     "kana":"ニシ",
     "hira":"にし",
     "roma":"nishi"
-  },
-  "766":{
-    "code":"766",
-    "name":"高",
-    "kana":"タカ",
-    "hira":"たか",
-    "roma":"taka"
-  },
-  "767":{
-    "code":"767",
-    "name":"敷信",
-    "kana":"シノウ",
-    "hira":"しのう",
-    "roma":"shinou"
   },
   "770":{
     "code":"770",

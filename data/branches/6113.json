@@ -13,13 +13,6 @@
     "hira":"あなみず",
     "roma":"anamizu"
   },
-  "203":{
-    "code":"203",
-    "name":"甲",
-    "kana":"カブト",
-    "hira":"かぶと",
-    "roma":"kabuto"
-  },
   "204":{
     "code":"204",
     "name":"門前",
@@ -27,40 +20,12 @@
     "hira":"もんぜん",
     "roma":"monzen"
   },
-  "205":{
-    "code":"205",
-    "name":"剱地",
-    "kana":"ツルギヂ",
-    "hira":"つるぎぢ",
-    "roma":"tsurugidi"
-  },
-  "207":{
-    "code":"207",
-    "name":"七浦",
-    "kana":"シツラ",
-    "hira":"しつら",
-    "roma":"shitsura"
-  },
   "208":{
     "code":"208",
     "name":"輪島",
     "kana":"ワジマ",
     "hira":"わじま",
     "roma":"wajima"
-  },
-  "209":{
-    "code":"209",
-    "name":"三井",
-    "kana":"ミイ",
-    "hira":"みい",
-    "roma":"mii"
-  },
-  "210":{
-    "code":"210",
-    "name":"南志見",
-    "kana":"ナジミ",
-    "hira":"なじみ",
-    "roma":"najimi"
   },
   "212":{
     "code":"212",
