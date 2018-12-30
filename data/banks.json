@@ -4094,26 +4094,12 @@
     "hira":"ふくおかけんいししんくみ",
     "roma":"fukuokakenishishinkumi"
   },
-  "2763":{
-    "code":"2763",
-    "name":"福岡県南部信組",
-    "kana":"フクオカケンナンブシンクミ",
-    "hira":"ふくおかけんなんぶしんくみ",
-    "roma":"fukuokakennambushinkumi"
-  },
   "2773":{
     "code":"2773",
-    "name":"福岡県中央信組",
-    "kana":"フクオカケンチユウオウシンクミ",
-    "hira":"ふくおかけんちゆうおうしんくみ",
-    "roma":"fukuokakenchiyuuoushinkumi"
-  },
-  "2778":{
-    "code":"2778",
-    "name":"とびうめ信組",
-    "kana":"トビウメシンクミ",
-    "hira":"とびうめしんくみ",
-    "roma":"tobiumeshinkumi"
+    "name":"福岡県信組",
+    "kana":"フクオカケンシンクミ",
+    "hira":"ふくおかけんしんくみ",
+    "roma":"fukuokakenshinkumi"
   },
   "2802":{
     "code":"2802",

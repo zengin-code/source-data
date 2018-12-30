@@ -370,34 +370,6 @@
     "hira":"おおじやま",
     "roma":"oojiyama"
   },
-  "131":{
-    "code":"131",
-    "name":"中もず",
-    "kana":"ナカモズ",
-    "hira":"なかもず",
-    "roma":"nakamozu"
-  },
-  "132":{
-    "code":"132",
-    "name":"安曇川",
-    "kana":"アドガワ",
-    "hira":"あどがわ",
-    "roma":"adogawa"
-  },
-  "133":{
-    "code":"133",
-    "name":"今津",
-    "kana":"イマヅ",
-    "hira":"いまづ",
-    "roma":"imadu"
-  },
-  "134":{
-    "code":"134",
-    "name":"新旭",
-    "kana":"シンアサヒ",
-    "hira":"しんあさひ",
-    "roma":"shinasahi"
-  },
   "141":{
     "code":"141",
     "name":"日根野",
@@ -636,6 +608,13 @@
     "hira":"とりかい",
     "roma":"torikai"
   },
+  "248":{
+    "code":"248",
+    "name":"中もず",
+    "kana":"ナカモズ",
+    "hira":"なかもず",
+    "roma":"nakamozu"
+  },
   "249":{
     "code":"249",
     "name":"岸和田駅前",
@@ -678,6 +657,13 @@
     "hira":"からさき",
     "roma":"karasaki"
   },
+  "269":{
+    "code":"269",
+    "name":"安曇川",
+    "kana":"アドガワ",
+    "hira":"あどがわ",
+    "roma":"adogawa"
+  },
   "272":{
     "code":"272",
     "name":"十三駅前",
@@ -691,6 +677,20 @@
     "kana":"センバヤシ",
     "hira":"せんばやし",
     "roma":"sembayashi"
+  },
+  "274":{
+    "code":"274",
+    "name":"今津",
+    "kana":"イマヅ",
+    "hira":"いまづ",
+    "roma":"imadu"
+  },
+  "275":{
+    "code":"275",
+    "name":"新旭",
+    "kana":"シンアサヒ",
+    "hira":"しんあさひ",
+    "roma":"shinasahi"
   },
   "276":{
     "code":"276",
@@ -713,12 +713,33 @@
     "hira":"しんおおさか",
     "roma":"shinoosaka"
   },
+  "280":{
+    "code":"280",
+    "name":"甲賀",
+    "kana":"コウガ",
+    "hira":"こうが",
+    "roma":"kouga"
+  },
   "281":{
     "code":"281",
     "name":"港",
     "kana":"ミナト",
     "hira":"みなと",
     "roma":"minato"
+  },
+  "282":{
+    "code":"282",
+    "name":"石部",
+    "kana":"イシベ",
+    "hira":"いしべ",
+    "roma":"ishibe"
+  },
+  "283":{
+    "code":"283",
+    "name":"八日市",
+    "kana":"ヨウカイチ",
+    "hira":"ようかいち",
+    "roma":"youkaichi"
   },
   "284":{
     "code":"284",
@@ -727,12 +748,33 @@
     "hira":"いまがわ",
     "roma":"imagawa"
   },
+  "285":{
+    "code":"285",
+    "name":"日野",
+    "kana":"ヒノ",
+    "hira":"ひの",
+    "roma":"hino"
+  },
+  "286":{
+    "code":"286",
+    "name":"八幡",
+    "kana":"ハチマン",
+    "hira":"はちまん",
+    "roma":"hachiman"
+  },
   "287":{
     "code":"287",
     "name":"八幡駅前",
     "kana":"ハチマンエキマエ",
     "hira":"はちまんえきまえ",
     "roma":"hachimanekimae"
+  },
+  "288":{
+    "code":"288",
+    "name":"篠原",
+    "kana":"シノハラ",
+    "hira":"しのはら",
+    "roma":"shinohara"
   },
   "289":{
     "code":"289",
@@ -755,13 +797,6 @@
     "hira":"ながはま",
     "roma":"nagahama"
   },
-  "313":{
-    "code":"313",
-    "name":"甲賀",
-    "kana":"コウガ",
-    "hira":"こうが",
-    "roma":"kouga"
-  },
   "314":{
     "code":"314",
     "name":"信楽",
@@ -776,47 +811,12 @@
     "hira":"ぼだいじ",
     "roma":"bodaiji"
   },
-  "316":{
-    "code":"316",
-    "name":"石部",
-    "kana":"イシベ",
-    "hira":"いしべ",
-    "roma":"ishibe"
-  },
   "318":{
     "code":"318",
     "name":"甲南",
     "kana":"コウナン",
     "hira":"こうなん",
     "roma":"kounan"
-  },
-  "321":{
-    "code":"321",
-    "name":"八日市",
-    "kana":"ヨウカイチ",
-    "hira":"ようかいち",
-    "roma":"youkaichi"
-  },
-  "322":{
-    "code":"322",
-    "name":"日野",
-    "kana":"ヒノ",
-    "hira":"ひの",
-    "roma":"hino"
-  },
-  "331":{
-    "code":"331",
-    "name":"八幡",
-    "kana":"ハチマン",
-    "hira":"はちまん",
-    "roma":"hachiman"
-  },
-  "334":{
-    "code":"334",
-    "name":"篠原",
-    "kana":"シノハラ",
-    "hira":"しのはら",
-    "roma":"shinohara"
   },
   "411":{
     "code":"411",

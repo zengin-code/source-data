@@ -119,3 +119,183 @@
   kana: ハカタエキヒガシ
   hira: はかたえきひがし
   roma: hakataekihigashi
+'102':
+  code: '102'
+  name: 田主丸営業部
+  kana: タヌシマル
+  hira: たぬしまる
+  roma: tanushimaru
+'106':
+  code: '106'
+  name: 比良松
+  kana: ヒラマツ
+  hira: ひらまつ
+  roma: hiramatsu
+'107':
+  code: '107'
+  name: 北野
+  kana: キタノ
+  hira: きたの
+  roma: kitano
+'108':
+  code: '108'
+  name: 国分
+  kana: コクブ
+  hira: こくぶ
+  roma: kokubu
+'109':
+  code: '109'
+  name: 小郡
+  kana: オゴオリ
+  hira: おごおり
+  roma: ogoori
+'110':
+  code: '110'
+  name: 津福
+  kana: ツブク
+  hira: つぶく
+  roma: tsubuku
+'112':
+  code: '112'
+  name: 菊池
+  kana: キクチ
+  hira: きくち
+  roma: kikuchi
+'113':
+  code: '113'
+  name: 箱崎営業部
+  kana: ハコザキ
+  hira: はこざき
+  roma: hakozaki
+'114':
+  code: '114'
+  name: 粕屋
+  kana: カスヤ
+  hira: かすや
+  roma: kasuya
+'117':
+  code: '117'
+  name: 香椎
+  kana: カシイ
+  hira: かしい
+  roma: kashii
+'118':
+  code: '118'
+  name: 土井
+  kana: ドイ
+  hira: どい
+  roma: doi
+'119':
+  code: '119'
+  name: 和白出張所
+  kana: ワジロ
+  hira: わじろ
+  roma: wajiro
+'120':
+  code: '120'
+  name: 新宮
+  kana: シングウ
+  hira: しんぐう
+  roma: shinguu
+'122':
+  code: '122'
+  name: 雑餉隈
+  kana: ザツシヨノクマ
+  hira: ざつしよのくま
+  roma: zatsushiyonokuma
+'124':
+  code: '124'
+  name: 二日市
+  kana: フツカイチ
+  hira: ふつかいち
+  roma: futsukaichi
+'201':
+  code: '201'
+  name: 久留米営業部
+  kana: クルメ
+  hira: くるめ
+  roma: kurume
+'202':
+  code: '202'
+  name: 善導寺
+  kana: ゼンドウジ
+  hira: ぜんどうじ
+  roma: zendouji
+'203':
+  code: '203'
+  name: 草野
+  kana: クサノ
+  hira: くさの
+  roma: kusano
+'204':
+  code: '204'
+  name: 小郡東
+  kana: オゴオリヒガシ
+  hira: おごおりひがし
+  roma: ogoorihigashi
+'205':
+  code: '205'
+  name: 南町
+  kana: ミナミマチ
+  hira: みなみまち
+  roma: minamimachi
+'206':
+  code: '206'
+  name: 瀬高
+  kana: セタカ
+  hira: せたか
+  roma: setaka
+'207':
+  code: '207'
+  name: 高田
+  kana: タカダ
+  hira: たかだ
+  roma: takada
+'208':
+  code: '208'
+  name: 山川
+  kana: ヤマカワ
+  hira: やまかわ
+  roma: yamakawa
+'209':
+  code: '209'
+  name: 大牟田
+  kana: オオムタ
+  hira: おおむた
+  roma: oomuta
+'210':
+  code: '210'
+  name: 三橋
+  kana: ミツハシ
+  hira: みつはし
+  roma: mitsuhashi
+'211':
+  code: '211'
+  name: 大和
+  kana: ヤマト
+  hira: やまと
+  roma: yamato
+'212':
+  code: '212'
+  name: 荒木
+  kana: アラキ
+  hira: あらき
+  roma: araki
+'213':
+  code: '213'
+  name: 筑邦西
+  kana: チクホウニシ
+  hira: ちくほうにし
+  roma: chikuhounishi
+'214':
+  code: '214'
+  name: 三潴
+  kana: ミズマ
+  hira: みずま
+  roma: mizuma
+'216':
+  code: '216'
+  name: 城島
+  kana: ジヨウジマ
+  hira: じようじま
+  roma: jiyoujima
