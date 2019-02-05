@@ -1,61 +1,427 @@
 ---
-'001':
-  code: '001'
-  name: 本所
-  kana: ホンシヨ
-  hira: ほんしよ
-  roma: honshiyo
-'011':
-  code: '011'
+'101':
+  code: '101'
+  name: あき
+  kana: アキ
+  hira: あき
+  roma: aki
+'102':
+  code: '102'
+  name: あき東
+  kana: アキヒガシ
+  hira: あきひがし
+  roma: akihigashi
+'103':
+  code: '103'
+  name: あき北
+  kana: アキキタ
+  hira: あききた
+  roma: akikita
+'104':
+  code: '104'
+  name: 穴内出張所
+  kana: アナナイ
+  hira: あなない
+  roma: ananai
+'105':
+  code: '105'
+  name: 赤野出張所
+  kana: アカノ
+  hira: あかの
+  roma: akano
+'106':
+  code: '106'
+  name: 東洋
+  kana: トウヨウ
+  hira: とうよう
+  roma: touyou
+'107':
+  code: '107'
+  name: 室戸
+  kana: ムロト
+  hira: むろと
+  roma: muroto
+'108':
+  code: '108'
+  name: 吉良川
+  kana: キラガワ
+  hira: きらがわ
+  roma: kiragawa
+'109':
+  code: '109'
+  name: 奈半利
+  kana: ナハリ
+  hira: なはり
+  roma: nahari
+'110':
+  code: '110'
+  name: 北川
+  kana: キタガワ
+  hira: きたがわ
+  roma: kitagawa
+'111':
+  code: '111'
+  name: 田野
+  kana: タノ
+  hira: たの
+  roma: tano
+'112':
+  code: '112'
+  name: 安田
+  kana: ヤスダ
+  hira: やすだ
+  roma: yasuda
+'113':
+  code: '113'
+  name: わじき出張所
+  kana: ワジキ
+  hira: わじき
+  roma: wajiki
+'114':
+  code: '114'
+  name: 芸西
+  kana: ゲイセイ
+  hira: げいせい
+  roma: geisei
+'201':
+  code: '201'
+  name: 野市
+  kana: ノイチ
+  hira: のいち
+  roma: noichi
+'202':
+  code: '202'
+  name: 物部
+  kana: モノベ
+  hira: ものべ
+  roma: monobe
+'203':
+  code: '203'
+  name: 香北
+  kana: カホク
+  hira: かほく
+  roma: kahoku
+'204':
+  code: '204'
+  name: 土佐山田
+  kana: トサヤマダ
+  hira: とさやまだ
+  roma: tosayamada
+'205':
+  code: '205'
+  name: 赤岡
+  kana: アカオカ
+  hira: あかおか
+  roma: akaoka
+'206':
+  code: '206'
+  name: 夜須
+  kana: ヤス
+  hira: やす
+  roma: yasu
+'207':
+  code: '207'
+  name: 香我美
+  kana: カガミ
+  hira: かがみ
+  roma: kagami
+'301':
+  code: '301'
+  name: 南国
+  kana: ナンゴク
+  hira: なんごく
+  roma: nangoku
+'302':
+  code: '302'
+  name: 久礼田
+  kana: クレダ
+  hira: くれだ
+  roma: kureda
+'303':
+  code: '303'
+  name: 岡豊
+  kana: オコウ
+  hira: おこう
+  roma: okou
+'304':
+  code: '304'
+  name: 南国中央
+  kana: ナンゴクチユウオウ
+  hira: なんごくちゆうおう
+  roma: nangokuchiyuuou
+'305':
+  code: '305'
+  name: 大篠
+  kana: オオシノ
+  hira: おおしの
+  roma: ooshino
+'306':
+  code: '306'
+  name: 日章
+  kana: ニツシヨウ
+  hira: につしよう
+  roma: nitsushiyou
+'307':
+  code: '307'
+  name: 三和
+  kana: ミワ
+  hira: みわ
+  roma: miwa
+'308':
+  code: '308'
+  name: 長岡
+  kana: ナガオカ
+  hira: ながおか
+  roma: nagaoka
+'309':
+  code: '309'
+  name: ごめん出張所
+  kana: ゴメン
+  hira: ごめん
+  roma: gomen
+'310':
+  code: '310'
+  name: 十市
+  kana: トオチ
+  hira: とおち
+  roma: toochi
+'311':
+  code: '311'
+  name: れいほく
+  kana: レイホク
+  hira: れいほく
+  roma: reihoku
+'312':
+  code: '312'
+  name: 田井出張所
+  kana: タイ
+  hira: たい
+  roma: tai
+'313':
+  code: '313'
+  name: 本山
+  kana: モトヤマ
+  hira: もとやま
+  roma: motoyama
+'314':
+  code: '314'
+  name: 大杉
+  kana: オオスギ
+  hira: おおすぎ
+  roma: oosugi
+'315':
+  code: '315'
+  name: 大田口
+  kana: オオタグチ
+  hira: おおたぐち
+  roma: ootaguchi
+'316':
+  code: '316'
+  name: 大川
+  kana: オオカワ
+  hira: おおかわ
+  roma: ookawa
+'401':
+  code: '401'
+  name: 春野
+  kana: ハルノ
+  hira: はるの
+  roma: haruno
+'501':
+  code: '501'
+  name: 佐川
+  kana: サカワ
+  hira: さかわ
+  roma: sakawa
+'502':
+  code: '502'
   name: 吾川
   kana: アガワ
   hira: あがわ
   roma: agawa
-'021':
-  code: '021'
+'503':
+  code: '503'
   name: 池川
   kana: イケガワ
   hira: いけがわ
   roma: ikegawa
-'031':
-  code: '031'
+'504':
+  code: '504'
   name: 吾北
   kana: ゴホク
   hira: ごほく
   roma: gohoku
-'041':
-  code: '041'
+'505':
+  code: '505'
   name: 日高
   kana: ヒダカ
   hira: ひだか
   roma: hidaka
-'051':
-  code: '051'
+'506':
+  code: '506'
   name: 斗賀野
   kana: トカノ
   hira: とかの
   roma: tokano
-'061':
-  code: '061'
+'507':
+  code: '507'
   name: 越知
   kana: オチ
   hira: おち
   roma: ochi
-'071':
-  code: '071'
+'508':
+  code: '508'
   name: 仁淀
   kana: ニヨド
   hira: によど
   roma: niyodo
-'075':
-  code: '075'
+'509':
+  code: '509'
   name: 伊野
   kana: イノ
   hira: いの
   roma: ino
-'076':
-  code: '076'
+'510':
+  code: '510'
   name: 枝川出張所
   kana: エダガワ
   hira: えだがわ
   roma: edagawa
+'511':
+  code: '511'
+  name: 土佐市
+  kana: トサシ
+  hira: とさし
+  roma: tosashi
+'512':
+  code: '512'
+  name: 戸波
+  kana: ヘワ
+  hira: へわ
+  roma: hewa
+'513':
+  code: '513'
+  name: 新居
+  kana: ニイ
+  hira: にい
+  roma: nii
+'601':
+  code: '601'
+  name: 四万十
+  kana: シマント
+  hira: しまんと
+  roma: shimanto
+'602':
+  code: '602'
+  name: 興津
+  kana: オキツ
+  hira: おきつ
+  roma: okitsu
+'603':
+  code: '603'
+  name: 大野見
+  kana: オオノミ
+  hira: おおのみ
+  roma: oonomi
+'604':
+  code: '604'
+  name: 梼原
+  kana: ユスハラ
+  hira: ゆすはら
+  roma: yusuhara
+'605':
+  code: '605'
+  name: 東津野
+  kana: ヒガシツノ
+  hira: ひがしつの
+  roma: higashitsuno
+'701':
+  code: '701'
+  name: 中村
+  kana: ナカムラ
+  hira: なかむら
+  roma: nakamura
+'702':
+  code: '702'
+  name: 中村南部出張所
+  kana: ナカムラナンブ
+  hira: なかむらなんぶ
+  roma: nakamuranambu
+'703':
+  code: '703'
+  name: 中村東部出張所
+  kana: ナカムラトウブ
+  hira: なかむらとうぶ
+  roma: nakamuratoubu
+'704':
+  code: '704'
+  name: 中村北部出張所
+  kana: ナカムラホクブ
+  hira: なかむらほくぶ
+  roma: nakamurahokubu
+'705':
+  code: '705'
+  name: 宿毛
+  kana: スクモ
+  hira: すくも
+  roma: sukumo
+'706':
+  code: '706'
+  name: 宿毛東出張所
+  kana: スクモヒガシ
+  hira: すくもひがし
+  roma: sukumohigashi
+'707':
+  code: '707'
+  name: 三崎
+  kana: ミサキ
+  hira: みさき
+  roma: misaki
+'708':
+  code: '708'
+  name: 佐賀
+  kana: サガ
+  hira: さが
+  roma: saga
+'709':
+  code: '709'
+  name: 大方
+  kana: オオガタ
+  hira: おおがた
+  roma: oogata
+'710':
+  code: '710'
+  name: 大正
+  kana: タイシヨウ
+  hira: たいしよう
+  roma: taishiyou
+'711':
+  code: '711'
+  name: 十和
+  kana: トオワ
+  hira: とおわ
+  roma: toowa
+'712':
+  code: '712'
+  name: 西土佐
+  kana: ニシトサ
+  hira: にしとさ
+  roma: nishitosa
+'713':
+  code: '713'
+  name: 三原
+  kana: ミハラ
+  hira: みはら
+  roma: mihara
+'714':
+  code: '714'
+  name: 大月
+  kana: オオツキ
+  hira: おおつき
+  roma: ootsuki
+'801':
+  code: '801'
+  name: 本所
+  kana: ホンシヨ
+  hira: ほんしよ
+  roma: honshiyo

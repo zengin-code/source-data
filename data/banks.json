@@ -2290,10 +2290,10 @@
   },
   "1503":{
     "code":"1503",
-    "name":"浜松信金",
-    "kana":"ハママツシンキン",
-    "hira":"はままつしんきん",
-    "roma":"hamamatsushinkin"
+    "name":"浜松いわた信金",
+    "kana":"ハママツイワタシンキン",
+    "hira":"はままついわたしんきん",
+    "roma":"hamamatsuiwatashinkin"
   },
   "1505":{
     "code":"1505",
@@ -2322,13 +2322,6 @@
     "kana":"シマダシンキン",
     "hira":"しまだしんきん",
     "roma":"shimadashinkin"
-  },
-  "1511":{
-    "code":"1511",
-    "name":"磐田信金",
-    "kana":"イワタシンキン",
-    "hira":"いわたしんきん",
-    "roma":"iwatashinkin"
   },
   "1512":{
     "code":"1512",
@@ -7531,13 +7524,6 @@
     "hira":"ふくいたんなんのうきよう",
     "roma":"fukuitannannoukiyou"
   },
-  "6838":{
-    "code":"6838",
-    "name":"福井池田町農協",
-    "kana":"フクイイケダチヨウノウキヨウ",
-    "hira":"ふくいいけだちようのうきよう",
-    "roma":"fukuiikedachiyounoukiyou"
-  },
   "6841":{
     "code":"6841",
     "name":"越前丹生農協",
@@ -8441,48 +8427,6 @@
     "hira":"うまじむらのうきよう",
     "roma":"umajimuranoukiyou"
   },
-  "8512":{
-    "code":"8512",
-    "name":"土佐あき農協",
-    "kana":"トサアキノウキヨウ",
-    "hira":"とさあきのうきよう",
-    "roma":"tosaakinoukiyou"
-  },
-  "8514":{
-    "code":"8514",
-    "name":"土佐香美農協",
-    "kana":"トサカミノウキヨウ",
-    "hira":"とさかみのうきよう",
-    "roma":"tosakaminoukiyou"
-  },
-  "8524":{
-    "code":"8524",
-    "name":"南国市農協",
-    "kana":"ナンゴクシノウキヨウ",
-    "hira":"なんごくしのうきよう",
-    "roma":"nangokushinoukiyou"
-  },
-  "8528":{
-    "code":"8528",
-    "name":"長岡農協",
-    "kana":"ナガオカノウキヨウ",
-    "hira":"ながおかのうきよう",
-    "roma":"nagaokanoukiyou"
-  },
-  "8536":{
-    "code":"8536",
-    "name":"十市農協",
-    "kana":"トウチノウキヨウ",
-    "hira":"とうちのうきよう",
-    "roma":"touchinoukiyou"
-  },
-  "8544":{
-    "code":"8544",
-    "name":"土佐れいほく農協",
-    "kana":"トサレイホクノウキヨウ",
-    "hira":"とされいほくのうきよう",
-    "roma":"tosareihokunoukiyou"
-  },
   "8551":{
     "code":"8551",
     "name":"高知市農協",
@@ -8490,26 +8434,12 @@
     "hira":"こうちしのうきよう",
     "roma":"kouchishinoukiyou"
   },
-  "8559":{
-    "code":"8559",
-    "name":"高知春野農協",
-    "kana":"コウチハルノノウキヨウ",
-    "hira":"こうちはるののうきよう",
-    "roma":"kouchiharunonoukiyou"
-  },
-  "8575":{
-    "code":"8575",
-    "name":"土佐市農協",
-    "kana":"トサシノウキヨウ",
-    "hira":"とさしのうきよう",
-    "roma":"tosashinoukiyou"
-  },
   "8582":{
     "code":"8582",
-    "name":"コスモス農協",
-    "kana":"コスモスノウキヨウ",
-    "hira":"こすもすのうきよう",
-    "roma":"kosumosunoukiyou"
+    "name":"高知県農協",
+    "kana":"コウチケンノウキヨウ",
+    "hira":"こうちけんのうきよう",
+    "roma":"kouchikennoukiyou"
   },
   "8589":{
     "code":"8589",
@@ -8517,27 +8447,6 @@
     "kana":"トサクロシオノウキヨウ",
     "hira":"とさくろしおのうきよう",
     "roma":"tosakuroshionoukiyou"
-  },
-  "8592":{
-    "code":"8592",
-    "name":"津野山農協",
-    "kana":"ツノヤマノウキヨウ",
-    "hira":"つのやまのうきよう",
-    "roma":"tsunoyamanoukiyou"
-  },
-  "8593":{
-    "code":"8593",
-    "name":"四万十農協",
-    "kana":"シマントノウキヨウ",
-    "hira":"しまんとのうきよう",
-    "roma":"shimantonoukiyou"
-  },
-  "8610":{
-    "code":"8610",
-    "name":"高知はた農協",
-    "kana":"コウチハタノウキヨウ",
-    "hira":"こうちはたのうきよう",
-    "roma":"kouchihatanoukiyou"
   },
   "8621":{
     "code":"8621",
