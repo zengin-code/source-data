@@ -5517,17 +5517,10 @@
   },
   "3771":{
     "code":"3771",
-    "name":"鷹巣町農協",
-    "kana":"タカノスマチノウキヨウ",
-    "hira":"たかのすまちのうきよう",
-    "roma":"takanosumachinoukiyou"
-  },
-  "3773":{
-    "code":"3773",
-    "name":"あきた北央農協",
-    "kana":"アキタホクオウノウキヨウ",
-    "hira":"あきたほくおうのうきよう",
-    "roma":"akitahokuounoukiyou"
+    "name":"秋田たかのす",
+    "kana":"アキタタカノスノウキヨウ",
+    "hira":"あきたたかのすのうきよう",
+    "roma":"akitatakanosunoukiyou"
   },
   "3784":{
     "code":"3784",
@@ -5776,17 +5769,10 @@
   },
   "4301":{
     "code":"4301",
-    "name":"しおさい農協",
-    "kana":"シオサイノウキヨウ",
-    "hira":"しおさいのうきよう",
-    "roma":"shiosainoukiyou"
-  },
-  "4310":{
-    "code":"4310",
-    "name":"なめがた農協",
-    "kana":"ナメガタノウキヨウ",
-    "hira":"なめがたのうきよう",
-    "roma":"namegatanoukiyou"
+    "name":"なめがたしおさい農協",
+    "kana":"ナメガタシオサイノウキヨウ",
+    "hira":"なめがたしおさいのうきよう",
+    "roma":"namegatashiosainoukiyou"
   },
   "4322":{
     "code":"4322",
@@ -5795,26 +5781,12 @@
     "hira":"いなしきのうきよう",
     "roma":"inashikinoukiyou"
   },
-  "4324":{
-    "code":"4324",
-    "name":"茨城かすみ農協",
-    "kana":"イバラキカスミノウキヨウ",
-    "hira":"いばらきかすみのうきよう",
-    "roma":"ibarakikasuminoukiyou"
-  },
   "4344":{
     "code":"4344",
-    "name":"竜ケ崎農協",
-    "kana":"リユウガサキノウキヨウ",
-    "hira":"りゆうがさきのうきよう",
-    "roma":"riyuugasakinoukiyou"
-  },
-  "4357":{
-    "code":"4357",
-    "name":"土浦農協",
-    "kana":"ツチウラノウキヨウ",
-    "hira":"つちうらのうきよう",
-    "roma":"tsuchiuranoukiyou"
+    "name":"水郷つくば農協",
+    "kana":"スイゴウツクバノウキヨウ",
+    "hira":"すいごうつくばのうきよう",
+    "roma":"suigoutsukubanoukiyou"
   },
   "4363":{
     "code":"4363",
@@ -6504,31 +6476,10 @@
   },
   "5207":{
     "code":"5207",
-    "name":"西八代郡農協",
-    "kana":"ニシヤツシログンノウキヨウ",
-    "hira":"にしやつしろぐんのうきよう",
-    "roma":"nishiyatsushirogunnoukiyou"
-  },
-  "5209":{
-    "code":"5209",
-    "name":"ふじかわ農協",
-    "kana":"フジカワノウキヨウ",
-    "hira":"ふじかわのうきよう",
-    "roma":"fujikawanoukiyou"
-  },
-  "5222":{
-    "code":"5222",
-    "name":"甲府市農協",
-    "kana":"コウフシノウキヨウ",
-    "hira":"こうふしのうきよう",
-    "roma":"koufushinoukiyou"
-  },
-  "5234":{
-    "code":"5234",
-    "name":"中巨摩東部農協",
-    "kana":"ナカコマトウブノウキヨウ",
-    "hira":"なかこまとうぶのうきよう",
-    "roma":"nakakomatoubunoukiyou"
+    "name":"山梨みらい農協",
+    "kana":"ヤマナシミライノウキヨウ",
+    "hira":"やまなしみらいのうきよう",
+    "roma":"yamanashimirainoukiyou"
   },
   "5243":{
     "code":"5243",

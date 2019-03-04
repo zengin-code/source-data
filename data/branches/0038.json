@@ -40,5 +40,26 @@
     "kana":"ホウジンダイイチ",
     "hira":"ほうじんだいいち",
     "roma":"houjindaiichi"
+  },
+  "107":{
+    "code":"107",
+    "name":"バナナ",
+    "kana":"バナナ",
+    "hira":"ばなな",
+    "roma":"banana"
+  },
+  "108":{
+    "code":"108",
+    "name":"メロン",
+    "kana":"メロン",
+    "hira":"めろん",
+    "roma":"meron"
+  },
+  "109":{
+    "code":"109",
+    "name":"キウイ",
+    "kana":"キウイ",
+    "hira":"きうい",
+    "roma":"kiui"
   }
 }

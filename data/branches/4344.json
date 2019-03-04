@@ -8,17 +8,17 @@
   },
   "006":{
     "code":"006",
-    "name":"中央",
-    "kana":"チユウオウ",
-    "hira":"ちゆうおう",
-    "roma":"chiyuuou"
+    "name":"竜ケ崎中央",
+    "kana":"リユウガサキチユウオウ",
+    "hira":"りゆうがさきちゆうおう",
+    "roma":"riyuugasakichiyuuou"
   },
   "008":{
     "code":"008",
-    "name":"西部",
-    "kana":"セイブ",
-    "hira":"せいぶ",
-    "roma":"seibu"
+    "name":"竜ケ崎西",
+    "kana":"リユウガサキニシ",
+    "hira":"りゆうがさきにし",
+    "roma":"riyuugasakinishi"
   },
   "011":{
     "code":"011",
@@ -33,5 +33,68 @@
     "kana":"ワカクサ",
     "hira":"わかくさ",
     "roma":"wakakusa"
+  },
+  "015":{
+    "code":"015",
+    "name":"美浦",
+    "kana":"ミホ",
+    "hira":"みほ",
+    "roma":"miho"
+  },
+  "016":{
+    "code":"016",
+    "name":"阿見",
+    "kana":"アミ",
+    "hira":"あみ",
+    "roma":"ami"
+  },
+  "017":{
+    "code":"017",
+    "name":"土浦中央",
+    "kana":"ツチウラチユウオウ",
+    "hira":"つちうらちゆうおう",
+    "roma":"tsuchiurachiyuuou"
+  },
+  "018":{
+    "code":"018",
+    "name":"協同病院",
+    "kana":"キヨウドウビヨウイン",
+    "hira":"きようどうびよういん",
+    "roma":"kiyoudoubiyouin"
+  },
+  "019":{
+    "code":"019",
+    "name":"土浦南",
+    "kana":"ツチウラミナミ",
+    "hira":"つちうらみなみ",
+    "roma":"tsuchiuraminami"
+  },
+  "020":{
+    "code":"020",
+    "name":"土浦西",
+    "kana":"ツチウラニシ",
+    "hira":"つちうらにし",
+    "roma":"tsuchiuranishi"
+  },
+  "021":{
+    "code":"021",
+    "name":"霞ヶ浦",
+    "kana":"カスミガウラ",
+    "hira":"かすみがうら",
+    "roma":"kasumigaura"
+  },
+  "022":{
+    "code":"022",
+    "name":"土浦北",
+    "kana":"ツチウラキタ",
+    "hira":"つちうらきた",
+    "roma":"tsuchiurakita"
+  },
+  "023":{
+    "code":"023",
+    "name":"千代田",
+    "kana":"チヨダ",
+    "hira":"ちよだ",
+    "roma":"chiyoda"
   }
 }

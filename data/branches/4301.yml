@@ -23,6 +23,30 @@
   kana: ハサキ
   hira: はさき
   roma: hasaki
+'010':
+  code: '010'
+  name: 麻生
+  kana: アソウ
+  hira: あそう
+  roma: asou
+'011':
+  code: '011'
+  name: 潮来
+  kana: イタコ
+  hira: いたこ
+  roma: itako
+'013':
+  code: '013'
+  name: 北浦
+  kana: キタウラ
+  hira: きたうら
+  roma: kitaura
+'019':
+  code: '019'
+  name: 玉造
+  kana: タマツクリ
+  hira: たまつくり
+  roma: tamatsukuri
 '100':
   code: '100'
   name: 本店

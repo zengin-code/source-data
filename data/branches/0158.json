@@ -69,13 +69,6 @@
     "hira":"さい",
     "roma":"sai"
   },
-  "124":{
-    "code":"124",
-    "name":"西五条企業会館",
-    "kana":"ニシゴジヨウ",
-    "hira":"にしごじよう",
-    "roma":"nishigojiyou"
-  },
   "125":{
     "code":"125",
     "name":"西七条",
@@ -355,6 +348,13 @@
     "kana":"ヤマシナオノ",
     "hira":"やましなおの",
     "roma":"yamashinaono"
+  },
+  "189":{
+    "code":"189",
+    "name":"京都経済センター",
+    "kana":"キヨウトケイザイセンタ－",
+    "hira":"きようとけいざいせんた－",
+    "roma":"kiyoutokeizaisenta-"
   },
   "190":{
     "code":"190",
