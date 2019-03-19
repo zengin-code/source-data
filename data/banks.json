@@ -2512,19 +2512,12 @@
     "hira":"きたいせうえのしんきん",
     "roma":"kitaiseuenoshinkin"
   },
-  "1582":{
-    "code":"1582",
-    "name":"三重信金",
-    "kana":"ミエシンキン",
-    "hira":"みえしんきん",
-    "roma":"mieshinkin"
-  },
   "1583":{
     "code":"1583",
-    "name":"桑名信金",
-    "kana":"クワナシンキン",
-    "hira":"くわなしんきん",
-    "roma":"kuwanashinkin"
+    "name":"桑名三重信金",
+    "kana":"クワナミエシンキン",
+    "hira":"くわなみえしんきん",
+    "roma":"kuwanamieshinkin"
   },
   "1585":{
     "code":"1585",
@@ -6726,19 +6719,12 @@
     "hira":"きたうおぬまのうきよう",
     "roma":"kitauonumanoukiyou"
   },
-  "5706":{
-    "code":"5706",
-    "name":"しおざわ農協",
-    "kana":"シオザワノウキヨウ",
-    "hira":"しおざわのうきよう",
-    "roma":"shiozawanoukiyou"
-  },
   "5707":{
     "code":"5707",
-    "name":"魚沼みなみ農協",
-    "kana":"ウオヌマミナミノウキヨウ",
-    "hira":"うおぬまみなみのうきよう",
-    "roma":"uonumaminaminoukiyou"
+    "name":"みなみ魚沼農協",
+    "kana":"ミナミウオヌマノウキヨウ",
+    "hira":"みなみうおぬまのうきよう",
+    "roma":"minamiuonumanoukiyou"
   },
   "5714":{
     "code":"5714",

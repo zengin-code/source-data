@@ -137,3 +137,117 @@
   kana: タド
   hira: たど
   roma: tado
+'101':
+  code: '101'
+  name: 日野町
+  kana: ヒノマチ
+  hira: ひのまち
+  roma: hinomachi
+'103':
+  code: '103'
+  name: 新町
+  kana: シンマチ
+  hira: しんまち
+  roma: shimmachi
+'104':
+  code: '104'
+  name: 平生町
+  kana: ヒラオマチ
+  hira: ひらおまち
+  roma: hiraomachi
+'105':
+  code: '105'
+  name: 松阪営業部
+  kana: マツサカ
+  hira: まつさか
+  roma: matsusaka
+'106':
+  code: '106'
+  name: 川井町
+  kana: カワイマチ
+  hira: かわいまち
+  roma: kawaimachi
+'107':
+  code: '107'
+  name: 南郊
+  kana: ナンコウ
+  hira: なんこう
+  roma: nankou
+'110':
+  code: '110'
+  name: 徳和
+  kana: トクワ
+  hira: とくわ
+  roma: tokuwa
+'116':
+  code: '116'
+  name: 相可
+  kana: オウカ
+  hira: おうか
+  roma: ouka
+'117':
+  code: '117'
+  name: 三瀬谷
+  kana: ミセダニ
+  hira: みせだに
+  roma: misedani
+'118':
+  code: '118'
+  name: 飯南
+  kana: イイナン
+  hira: いいなん
+  roma: iinan
+'119':
+  code: '119'
+  name: 明和
+  kana: メイワ
+  hira: めいわ
+  roma: meiwa
+'120':
+  code: '120'
+  name: 御薗
+  kana: ミソノ
+  hira: みその
+  roma: misono
+'122':
+  code: '122'
+  name: 上口
+  kana: カミグチ
+  hira: かみぐち
+  roma: kamiguchi
+'123':
+  code: '123'
+  name: 伊勢
+  kana: イセ
+  hira: いせ
+  roma: ise
+'125':
+  code: '125'
+  name: 藤里
+  kana: フジサト
+  hira: ふじさと
+  roma: fujisato
+'136':
+  code: '136'
+  name: 鳥羽
+  kana: トバ
+  hira: とば
+  roma: toba
+'146':
+  code: '146'
+  name: 津
+  kana: ツ
+  hira: つ
+  roma: tsu
+'148':
+  code: '148'
+  name: 丸の内
+  kana: マルノウチ
+  hira: まるのうち
+  roma: marunouchi
+'156':
+  code: '156'
+  name: 久居
+  kana: ヒサイ
+  hira: ひさい
+  roma: hisai

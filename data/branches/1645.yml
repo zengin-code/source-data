@@ -119,12 +119,6 @@
   kana: ツカモト
   hira: つかもと
   roma: tsukamoto
-'029':
-  code: '029'
-  name: 三国本町出張所
-  kana: ミクニホンマチ
-  hira: みくにほんまち
-  roma: mikunihommachi
 '030':
   code: '030'
   name: 伊丹
@@ -269,12 +263,6 @@
   kana: アブヤマ
   hira: あぶやま
   roma: abuyama
-'075':
-  code: '075'
-  name: 千里山駅前
-  kana: センリヤマエキマエ
-  hira: せんりやまえきまえ
-  roma: senriyamaekimae
 '076':
   code: '076'
   name: 上牧
@@ -307,10 +295,10 @@
   roma: ishibashi
 '083':
   code: '083'
-  name: アルプラザ福井
-  kana: アルプラザフクイ
-  hira: あるぷらざふくい
-  roma: arupurazafukui
+  name: 福井
+  kana: フクイ
+  hira: ふくい
+  roma: fukui
 '091':
   code: '091'
   name: 江口出張所
