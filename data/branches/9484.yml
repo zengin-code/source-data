@@ -23,12 +23,6 @@
   kana: カミノセキ
   hira: かみのせき
   roma: kaminoseki
-'205':
-  code: '205'
-  name: 平生町
-  kana: ヒラオチヨウ
-  hira: ひらおちよう
-  roma: hiraochiyou
 '220':
   code: '220'
   name: 光
@@ -59,36 +53,12 @@
   kana: ウベミサキ
   hira: うべみさき
   roma: ubemisaki
-'700':
-  code: '700'
-  name: 豊浦室津
-  kana: トヨウラムロツ
-  hira: とようらむろつ
-  roma: toyouramurotsu
-'710':
-  code: '710'
-  name: 川棚
-  kana: カワタナ
-  hira: かわたな
-  roma: kawatana
-'715':
-  code: '715'
-  name: 小串
-  kana: コグシ
-  hira: こぐし
-  roma: kogushi
 '740':
   code: '740'
   name: 豊浦
   kana: トヨウラ
   hira: とようら
   roma: toyoura
-'742':
-  code: '742'
-  name: 矢玉
-  kana: ヤタマ
-  hira: やたま
-  roma: yatama
 '800':
   code: '800'
   name: 野波瀬
@@ -143,12 +113,6 @@
   kana: ハギ
   hira: はぎ
   roma: hagi
-'945':
-  code: '945'
-  name: 玉江浦
-  kana: タマエウラ
-  hira: たまえうら
-  roma: tamaeura
 '955':
   code: '955'
   name: 大島

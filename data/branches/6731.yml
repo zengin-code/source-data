@@ -89,6 +89,66 @@
   kana: オワセ
   hira: おわせ
   roma: owase
+'060':
+  code: '060'
+  name: 鳥羽
+  kana: トバ
+  hira: とば
+  roma: toba
+'061':
+  code: '061'
+  name: 磯部
+  kana: イソベ
+  hira: いそべ
+  roma: isobe
+'062':
+  code: '062'
+  name: 浜島
+  kana: ハマジマ
+  hira: はまじま
+  roma: hamajima
+'063':
+  code: '063'
+  name: 阿児
+  kana: アゴ
+  hira: あご
+  roma: ago
+'064':
+  code: '064'
+  name: 阿児東
+  kana: アゴヒガシ
+  hira: あごひがし
+  roma: agohigashi
+'065':
+  code: '065'
+  name: 大王
+  kana: ダイオウ
+  hira: だいおう
+  roma: daiou
+'066':
+  code: '066'
+  name: 志摩
+  kana: シマ
+  hira: しま
+  roma: shima
+'070':
+  code: '070'
+  name: 熊野
+  kana: クマノ
+  hira: くまの
+  roma: kumano
+'071':
+  code: '071'
+  name: 御浜
+  kana: ミハマ
+  hira: みはま
+  roma: mihama
+'072':
+  code: '072'
+  name: 紀宝
+  kana: キホウ
+  hira: きほう
+  roma: kihou
 '100':
   code: '100'
   name: 本店

@@ -6068,13 +6068,6 @@
     "hira":"さいたまおかべのうきよう",
     "roma":"saitamaokabenoukiyou"
   },
-  "4821":{
-    "code":"4821",
-    "name":"榛沢農協",
-    "kana":"ハンザワノウキヨウ",
-    "hira":"はんざわのうきよう",
-    "roma":"hanzawanoukiyou"
-  },
   "4823":{
     "code":"4823",
     "name":"花園農協",
@@ -6992,13 +6985,6 @@
     "hira":"おおぞらのうきよう",
     "roma":"oozoranoukiyou"
   },
-  "6117":{
-    "code":"6117",
-    "name":"町野町農協",
-    "kana":"マチノマチノウキヨウ",
-    "hira":"まちのまちのうきよう",
-    "roma":"machinomachinoukiyou"
-  },
   "6121":{
     "code":"6121",
     "name":"内浦町農協",
@@ -7384,26 +7370,12 @@
     "hira":"いせのうきよう",
     "roma":"isenoukiyou"
   },
-  "6741":{
-    "code":"6741",
-    "name":"鳥羽志摩農協",
-    "kana":"トバシマノウキヨウ",
-    "hira":"とばしまのうきよう",
-    "roma":"tobashimanoukiyou"
-  },
   "6758":{
     "code":"6758",
     "name":"伊賀ふるさと農協",
     "kana":"イガフルサトノウキヨウ",
     "hira":"いがふるさとのうきよう",
     "roma":"igafurusatonoukiyou"
-  },
-  "6770":{
-    "code":"6770",
-    "name":"三重南紀農協",
-    "kana":"ミエナンキノウキヨウ",
-    "hira":"みえなんきのうきよう",
-    "roma":"mienankinoukiyou"
   },
   "6785":{
     "code":"6785",
@@ -8070,89 +8042,12 @@
     "hira":"しようばらのうきよう",
     "roma":"shiyoubaranoukiyou"
   },
-  "8096":{
-    "code":"8096",
-    "name":"山口大島農協",
-    "kana":"ヤマグチオオシマノウキヨウ",
-    "hira":"やまぐちおおしまのうきよう",
-    "roma":"yamaguchiooshimanoukiyou"
-  },
-  "8102":{
-    "code":"8102",
-    "name":"岩国市農協",
-    "kana":"イワクニシノウキヨウ",
-    "hira":"いわくにしのうきよう",
-    "roma":"iwakunishinoukiyou"
-  },
-  "8103":{
-    "code":"8103",
-    "name":"山口東農協",
-    "kana":"ヤマグチヒガシノウキヨウ",
-    "hira":"やまぐちひがしのうきよう",
-    "roma":"yamaguchihigashinoukiyou"
-  },
-  "8118":{
-    "code":"8118",
-    "name":"南すおう農協",
-    "kana":"ミナミスオウノウキヨウ",
-    "hira":"みなみすおうのうきよう",
-    "roma":"minamisuounoukiyou"
-  },
   "8134":{
     "code":"8134",
-    "name":"周南農協",
-    "kana":"シユウナンノウキヨウ",
-    "hira":"しゆうなんのうきよう",
-    "roma":"shiyuunannoukiyou"
-  },
-  "8143":{
-    "code":"8143",
-    "name":"防府とくぢ農協",
-    "kana":"ホウフトクヂノウキヨウ",
-    "hira":"ほうふとくぢのうきよう",
-    "roma":"houfutokudinoukiyou"
-  },
-  "8153":{
-    "code":"8153",
-    "name":"山口中央農協",
-    "kana":"ヤマグチチユウオウノウキヨウ",
-    "hira":"やまぐちちゆうおうのうきよう",
-    "roma":"yamaguchichiyuuounoukiyou"
-  },
-  "8166":{
-    "code":"8166",
-    "name":"山口宇部農協",
-    "kana":"ヤマグチウベノウキヨウ",
-    "hira":"やまぐちうべのうきよう",
-    "roma":"yamaguchiubenoukiyou"
-  },
-  "8181":{
-    "code":"8181",
-    "name":"下関農協",
-    "kana":"シモノセキノウキヨウ",
-    "hira":"しものせきのうきよう",
-    "roma":"shimonosekinoukiyou"
-  },
-  "8197":{
-    "code":"8197",
-    "name":"山口美祢農協",
-    "kana":"ヤマグチミネノウキヨウ",
-    "hira":"やまぐちみねのうきよう",
-    "roma":"yamaguchiminenoukiyou"
-  },
-  "8200":{
-    "code":"8200",
-    "name":"長門大津農協",
-    "kana":"ナガトオオツノウキヨウ",
-    "hira":"ながとおおつのうきよう",
-    "roma":"nagatoootsunoukiyou"
-  },
-  "8223":{
-    "code":"8223",
-    "name":"あぶらんど萩農協",
-    "kana":"アブランドハギノウキヨウ",
-    "hira":"あぶらんどはぎのうきよう",
-    "roma":"aburandohaginoukiyou"
+    "name":"山口県農協",
+    "kana":"ヤマグチケンノウキヨウ",
+    "hira":"やまぐちけんのうきよう",
+    "roma":"yamaguchikennoukiyou"
   },
   "8231":{
     "code":"8231",
