@@ -41,30 +41,12 @@
   kana: センダイソウゴウ
   hira: せんだいそうごう
   roma: sendaisougou
-'101':
-  code: '101'
-  name: 上川内
-  kana: カミセンダイ
-  hira: かみせんだい
-  roma: kamisendai
-'102':
-  code: '102'
-  name: 隈之城
-  kana: クマノジヨウ
-  hira: くまのじよう
-  roma: kumanojiyou
 '103':
   code: '103'
   name: 水引
   kana: ミズヒキ
   hira: みずひき
   roma: mizuhiki
-'104':
-  code: '104'
-  name: 高江
-  kana: タカエ
-  hira: たかえ
-  roma: takae
 '105':
   code: '105'
   name: 永利
@@ -83,12 +65,6 @@
   kana: ヒワキ
   hira: ひわき
   roma: hiwaki
-'109':
-  code: '109'
-  name: 入来
-  kana: イリキ
-  hira: いりき
-  roma: iriki
 '110':
   code: '110'
   name: こしき

@@ -11,12 +11,6 @@
   kana: ミワ
   hira: みわ
   roma: miwa
-'022':
-  code: '022'
-  name: 足久保
-  kana: アシクボ
-  hira: あしくぼ
-  roma: ashikubo
 '024':
   code: '024'
   name: 松野
@@ -95,12 +89,6 @@
   kana: ナカワラ
   hira: なかわら
   roma: nakawara
-'136':
-  code: '136'
-  name: 飯間
-  kana: ハンマ
-  hira: はんま
-  roma: hamma
 '140':
   code: '140'
   name: 大里
@@ -191,9 +179,3 @@
   kana: アゲツチ
   hira: あげつち
   roma: agetsuchi
-'504':
-  code: '504'
-  name: 銭座
-  kana: ゼンザ
-  hira: ぜんざ
-  roma: zenza

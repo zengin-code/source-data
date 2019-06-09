@@ -41,12 +41,6 @@
   kana: イズコウゲン
   hira: いずこうげん
   roma: izukougen
-'012':
-  code: '012'
-  name: 静海
-  kana: シズミ
-  hira: しずみ
-  roma: shizumi
 '020':
   code: '020'
   name: 宇佐美
@@ -65,9 +59,3 @@
   kana: アタミ
   hira: あたみ
   roma: atami
-'025':
-  code: '025'
-  name: 伊豆山
-  kana: イズサン
-  hira: いずさん
-  roma: izusan

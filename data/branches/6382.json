@@ -13,13 +13,6 @@
     "hira":"おまえざき",
     "roma":"omaezaki"
   },
-  "003":{
-    "code":"003",
-    "name":"白羽",
-    "kana":"シロハ",
-    "hira":"しろは",
-    "roma":"shiroha"
-  },
   "004":{
     "code":"004",
     "name":"地頭方",
@@ -34,20 +27,6 @@
     "hira":"さがら",
     "roma":"sagara"
   },
-  "006":{
-    "code":"006",
-    "name":"片浜",
-    "kana":"カタハマ",
-    "hira":"かたはま",
-    "roma":"katahama"
-  },
-  "007":{
-    "code":"007",
-    "name":"菅山",
-    "kana":"スゲヤマ",
-    "hira":"すげやま",
-    "roma":"sugeyama"
-  },
   "008":{
     "code":"008",
     "name":"萩間",
@@ -61,20 +40,6 @@
     "kana":"ハイバラ",
     "hira":"はいばら",
     "roma":"haibara"
-  },
-  "103":{
-    "code":"103",
-    "name":"静波",
-    "kana":"シズナミ",
-    "hira":"しずなみ",
-    "roma":"shizunami"
-  },
-  "105":{
-    "code":"105",
-    "name":"細江",
-    "kana":"ホソエ",
-    "hira":"ほそえ",
-    "roma":"hosoe"
   },
   "107":{
     "code":"107",
@@ -110,13 +75,6 @@
     "kana":"スミヨシ",
     "hira":"すみよし",
     "roma":"sumiyoshi"
-  },
-  "203":{
-    "code":"203",
-    "name":"川尻",
-    "kana":"カワシリ",
-    "hira":"かわしり",
-    "roma":"kawashiri"
   },
   "204":{
     "code":"204",

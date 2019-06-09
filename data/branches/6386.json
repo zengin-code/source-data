@@ -13,13 +13,6 @@
     "hira":"ひがしやま",
     "roma":"higashiyama"
   },
-  "003":{
-    "code":"003",
-    "name":"日坂",
-    "kana":"ニツサカ",
-    "hira":"につさか",
-    "roma":"nitsusaka"
-  },
   "004":{
     "code":"004",
     "name":"東山口",
@@ -82,13 +75,6 @@
     "kana":"カケガワ",
     "hira":"かけがわ",
     "roma":"kakegawa"
-  },
-  "016":{
-    "code":"016",
-    "name":"西山口",
-    "kana":"ニシヤマグチ",
-    "hira":"にしやまぐち",
-    "roma":"nishiyamaguchi"
   },
   "017":{
     "code":"017",

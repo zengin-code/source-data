@@ -377,18 +377,12 @@
   kana: ナミオカ
   hira: なみおか
   roma: namioka
-'405':
-  code: '405'
-  name: 尾上
-  kana: オノエ
-  hira: おのえ
-  roma: onoe
 '406':
   code: '406'
-  name: 平賀
-  kana: ヒラカ
-  hira: ひらか
-  roma: hiraka
+  name: 平川
+  kana: ヒラカワ
+  hira: ひらかわ
+  roma: hirakawa
 '501':
   code: '501'
   name: 五所川原

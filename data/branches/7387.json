@@ -153,13 +153,6 @@
     "hira":"へいわ",
     "roma":"heiwa"
   },
-  "116":{
-    "code":"116",
-    "name":"治道",
-    "kana":"ハルミチ",
-    "hira":"はるみち",
-    "roma":"harumichi"
-  },
   "117":{
     "code":"117",
     "name":"矢田",
@@ -579,20 +572,6 @@
     "kana":"ゴジヨウ",
     "hira":"ごじよう",
     "roma":"gojiyou"
-  },
-  "213":{
-    "code":"213",
-    "name":"北宇智",
-    "kana":"キタウチ",
-    "hira":"きたうち",
-    "roma":"kitauchi"
-  },
-  "215":{
-    "code":"215",
-    "name":"野原",
-    "kana":"ノハラ",
-    "hira":"のはら",
-    "roma":"nohara"
   },
   "217":{
     "code":"217",

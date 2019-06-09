@@ -83,24 +83,12 @@
   kana: アサナミ
   hira: あさなみ
   roma: asanami
-'103':
-  code: '103'
-  name: 難波
-  kana: ナンバ
-  hira: なんば
-  roma: namba
 '104':
   code: '104'
   name: 立岩出張所
   kana: タテイワ
   hira: たていわ
   roma: tateiwa
-'105':
-  code: '105'
-  name: 正岡
-  kana: マサオカ
-  hira: まさおか
-  roma: masaoka
 '108':
   code: '108'
   name: 北条南
@@ -121,13 +109,13 @@
   roma: minamiyoshii
 '223':
   code: '223'
-  name: 北吉井
+  name: 北吉井出張所
   kana: キタヨシイ
   hira: きたよしい
   roma: kitayoshii
 '224':
   code: '224'
-  name: 拝志
+  name: 拝志出張所
   kana: ハイシ
   hira: はいし
   roma: haishi
@@ -145,7 +133,7 @@
   roma: asou
 '302':
   code: '302'
-  name: 宮内
+  name: 宮内出張所
   kana: ミヤウチ
   hira: みやうち
   roma: miyauchi
@@ -175,7 +163,7 @@
   roma: kaminada
 '332':
   code: '332'
-  name: 下灘
+  name: 下灘出張所
   kana: シモナダ
   hira: しもなだ
   roma: shimonada
@@ -187,7 +175,7 @@
   roma: iyochiyuuou
 '404':
   code: '404'
-  name: 南山崎
+  name: 南山崎出張所
   kana: ミナミヤマサキ
   hira: みなみやまさき
   roma: minamiyamasaki

@@ -55,33 +55,12 @@
     "hira":"みささ",
     "roma":"misasa"
   },
-  "225":{
-    "code":"225",
-    "name":"竹田出張所",
-    "kana":"タケダ",
-    "hira":"たけだ",
-    "roma":"takeda"
-  },
   "233":{
     "code":"233",
     "name":"関金",
     "kana":"セキガネ",
     "hira":"せきがね",
     "roma":"sekigane"
-  },
-  "235":{
-    "code":"235",
-    "name":"山守出張所",
-    "kana":"ヤマモリ",
-    "hira":"やまもり",
-    "roma":"yamamori"
-  },
-  "242":{
-    "code":"242",
-    "name":"湯梨浜営農センター出張所",
-    "kana":"ユリハマエイノウセンタ－",
-    "hira":"ゆりはまえいのうせんた－",
-    "roma":"yurihamaeinousenta-"
   },
   "244":{
     "code":"244",
@@ -132,25 +111,11 @@
     "hira":"とうはく",
     "roma":"touhaku"
   },
-  "289":{
-    "code":"289",
-    "name":"下郷出張所",
-    "kana":"シモゴウ",
-    "hira":"しもごう",
-    "roma":"shimogou"
-  },
   "291":{
     "code":"291",
     "name":"赤碕",
     "kana":"アカサキ",
     "hira":"あかさき",
     "roma":"akasaki"
-  },
-  "293":{
-    "code":"293",
-    "name":"以西出張所",
-    "kana":"イサイ",
-    "hira":"いさい",
-    "roma":"isai"
   }
 }

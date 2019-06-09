@@ -59,24 +59,6 @@
   kana: イトダ
   hira: いとだ
   roma: itoda
-'011':
-  code: '011'
-  name: 安真木出張所
-  kana: アマギ
-  hira: あまぎ
-  roma: amagi
-'012':
-  code: '012'
-  name: 弁城出張所
-  kana: ベンジヨウ
-  hira: べんじよう
-  roma: benjiyou
-'013':
-  code: '013'
-  name: 市場出張所
-  kana: イチバ
-  hira: いちば
-  roma: ichiba
 '014':
   code: '014'
   name: 金川
@@ -89,18 +71,6 @@
   kana: ソエダ
   hira: そえだ
   roma: soeda
-'017':
-  code: '017'
-  name: 彦山出張所
-  kana: ヒコサン
-  hira: ひこさん
-  roma: hikosan
-'018':
-  code: '018'
-  name: 津野出張所
-  kana: ツノ
-  hira: つの
-  roma: tsuno
 '019':
   code: '019'
   name: 採銅所
@@ -113,12 +83,6 @@
   kana: タカノ
   hira: たかの
   roma: takano
-'021':
-  code: '021'
-  name: 香春出張所
-  kana: カワラ
-  hira: かわら
-  roma: kawara
 '022':
   code: '022'
   name: 赤

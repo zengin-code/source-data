@@ -34,26 +34,12 @@
     "hira":"はいぬづか",
     "roma":"hainuduka"
   },
-  "012":{
-    "code":"012",
-    "name":"北部",
-    "kana":"ホクブ",
-    "hira":"ほくぶ",
-    "roma":"hokubu"
-  },
   "013":{
     "code":"013",
     "name":"筑後",
     "kana":"チクゴ",
     "hira":"ちくご",
     "roma":"chikugo"
-  },
-  "017":{
-    "code":"017",
-    "name":"上辺春",
-    "kana":"カミヘバル",
-    "hira":"かみへばる",
-    "roma":"kamihebaru"
   },
   "019":{
     "code":"019",
@@ -62,40 +48,12 @@
     "hira":"たちばな",
     "roma":"tachibana"
   },
-  "020":{
-    "code":"020",
-    "name":"白木",
-    "kana":"シラキ",
-    "hira":"しらき",
-    "roma":"shiraki"
-  },
-  "021":{
-    "code":"021",
-    "name":"北山",
-    "kana":"キタヤマ",
-    "hira":"きたやま",
-    "roma":"kitayama"
-  },
-  "022":{
-    "code":"022",
-    "name":"上広川",
-    "kana":"カミヒロカワ",
-    "hira":"かみひろかわ",
-    "roma":"kamihirokawa"
-  },
   "023":{
     "code":"023",
     "name":"広川",
     "kana":"ヒロカワ",
     "hira":"ひろかわ",
     "roma":"hirokawa"
-  },
-  "024":{
-    "code":"024",
-    "name":"下広川",
-    "kana":"シモヒロカワ",
-    "hira":"しもひろかわ",
-    "roma":"shimohirokawa"
   },
   "026":{
     "code":"026",
@@ -124,19 +82,5 @@
     "kana":"クロキ",
     "hira":"くろき",
     "roma":"kuroki"
-  },
-  "038":{
-    "code":"038",
-    "name":"笠原",
-    "kana":"カサハラ",
-    "hira":"かさはら",
-    "roma":"kasahara"
-  },
-  "039":{
-    "code":"039",
-    "name":"大渕",
-    "kana":"オオブチ",
-    "hira":"おおぶち",
-    "roma":"oobuchi"
   }
 }

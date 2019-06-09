@@ -13,19 +13,12 @@
     "hira":"てらどまり",
     "roma":"teradomari"
   },
-  "012":{
-    "code":"012",
-    "name":"寺泊西",
-    "kana":"テラドマリニシ",
-    "hira":"てらどまりにし",
-    "roma":"teradomarinishi"
-  },
   "021":{
     "code":"021",
-    "name":"北部中央",
-    "kana":"ホクブチユウオウ",
-    "hira":"ほくぶちゆうおう",
-    "roma":"hokubuchiyuuou"
+    "name":"わしま",
+    "kana":"ワシマ",
+    "hira":"わしま",
+    "roma":"washima"
   },
   "031":{
     "code":"031",
@@ -36,10 +29,10 @@
   },
   "051":{
     "code":"051",
-    "name":"中部中央",
-    "kana":"チユウブチユウオウ",
-    "hira":"ちゆうぶちゆうおう",
-    "roma":"chiyuubuchiyuuou"
+    "name":"みしま",
+    "kana":"ミシマ",
+    "hira":"みしま",
+    "roma":"mishima"
   },
   "058":{
     "code":"058",
@@ -50,10 +43,10 @@
   },
   "071":{
     "code":"071",
-    "name":"こしじ中央",
-    "kana":"コシジチユウオウ",
-    "hira":"こしじちゆうおう",
-    "roma":"koshijichiyuuou"
+    "name":"こしじ",
+    "kana":"コシジ",
+    "hira":"こしじ",
+    "roma":"koshiji"
   },
   "076":{
     "code":"076",

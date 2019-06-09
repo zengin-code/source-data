@@ -92,10 +92,10 @@
   },
   "090":{
     "code":"090",
-    "name":"糸魚川",
-    "kana":"イトイガワ",
-    "hira":"いといがわ",
-    "roma":"itoigawa"
+    "name":"糸魚川中央",
+    "kana":"イトイガワチユウオウ",
+    "hira":"いといがわちゆうおう",
+    "roma":"itoigawachiyuuou"
   },
   "100":{
     "code":"100",
@@ -127,10 +127,10 @@
   },
   "125":{
     "code":"125",
-    "name":"新井",
-    "kana":"アライ",
-    "hira":"あらい",
-    "roma":"arai"
+    "name":"新井中央",
+    "kana":"アライチユウオウ",
+    "hira":"あらいちゆうおう",
+    "roma":"araichiyuuou"
   },
   "130":{
     "code":"130",
@@ -204,10 +204,10 @@
   },
   "210":{
     "code":"210",
-    "name":"五泉",
-    "kana":"ゴセン",
-    "hira":"ごせん",
-    "roma":"gosen"
+    "name":"五泉中央",
+    "kana":"ゴセンチユウオウ",
+    "hira":"ごせんちゆうおう",
+    "roma":"gosenchiyuuou"
   },
   "215":{
     "code":"215",
@@ -246,10 +246,10 @@
   },
   "250":{
     "code":"250",
-    "name":"村上",
-    "kana":"ムラカミ",
-    "hira":"むらかみ",
-    "roma":"murakami"
+    "name":"村上中央",
+    "kana":"ムラカミチユウオウ",
+    "hira":"むらかみちゆうおう",
+    "roma":"murakamichiyuuou"
   },
   "260":{
     "code":"260",
@@ -323,10 +323,10 @@
   },
   "295":{
     "code":"295",
-    "name":"寺尾",
-    "kana":"テラオ",
-    "hira":"てらお",
-    "roma":"terao"
+    "name":"寺尾中央",
+    "kana":"テラオチユウオウ",
+    "hira":"てらおちゆうおう",
+    "roma":"teraochiyuuou"
   },
   "297":{
     "code":"297",
@@ -344,17 +344,31 @@
   },
   "300":{
     "code":"300",
-    "name":"沼垂",
-    "kana":"ヌツタリ",
-    "hira":"ぬつたり",
-    "roma":"nutsutari"
+    "name":"沼垂中央",
+    "kana":"ヌツタリチユウオウ",
+    "hira":"ぬつたりちゆうおう",
+    "roma":"nutsutarichiyuuou"
+  },
+  "305":{
+    "code":"305",
+    "name":"東新潟",
+    "kana":"ヒガシニイガタ",
+    "hira":"ひがしにいがた",
+    "roma":"higashiniigata"
+  },
+  "306":{
+    "code":"306",
+    "name":"物見山中央",
+    "kana":"モノミヤマチユウオウ",
+    "hira":"ものみやまちゆうおう",
+    "roma":"monomiyamachiyuuou"
   },
   "310":{
     "code":"310",
-    "name":"新潟駅前",
-    "kana":"ニイガタエキマエ",
-    "hira":"にいがたえきまえ",
-    "roma":"niigataekimae"
+    "name":"新潟東大通",
+    "kana":"ニイガタヒガシオオドオリ",
+    "hira":"にいがたひがしおおどおり",
+    "roma":"niigatahigashioodoori"
   },
   "311":{
     "code":"311",
@@ -369,20 +383,6 @@
     "kana":"キド",
     "hira":"きど",
     "roma":"kido"
-  },
-  "315":{
-    "code":"315",
-    "name":"藤見町",
-    "kana":"フジミチヨウ",
-    "hira":"ふじみちよう",
-    "roma":"fujimichiyou"
-  },
-  "316":{
-    "code":"316",
-    "name":"物見山",
-    "kana":"モノミヤマ",
-    "hira":"ものみやま",
-    "roma":"monomiyama"
   },
   "317":{
     "code":"317",
@@ -582,10 +582,10 @@
   },
   "540":{
     "code":"540",
-    "name":"東京",
-    "kana":"トウキヨウ",
-    "hira":"とうきよう",
-    "roma":"toukiyou"
+    "name":"東京中央",
+    "kana":"トウキヨウチユウオウ",
+    "hira":"とうきようちゆうおう",
+    "roma":"toukiyouchiyuuou"
   },
   "800":{
     "code":"800",

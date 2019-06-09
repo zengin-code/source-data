@@ -25,10 +25,10 @@
   roma: houtoku
 '007':
   code: '007'
-  name: 豊川
-  kana: トヨカワ
-  hira: とよかわ
-  roma: toyokawa
+  name: 成田
+  kana: ナリタ
+  hira: なりた
+  roma: narita
 '008':
   code: '008'
   name: 下府中
@@ -41,12 +41,6 @@
   kana: サカワ
   hira: さかわ
   roma: sakawa
-'010':
-  code: '010'
-  name: 上府中
-  kana: カミフナカ
-  hira: かみふなか
-  roma: kamifunaka
 '012':
   code: '012'
   name: 下曽我

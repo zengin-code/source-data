@@ -15,24 +15,10 @@
   },
   "004":{
     "code":"004",
-    "name":"黒川",
-    "kana":"クロガワ",
-    "hira":"くろがわ",
-    "roma":"kurogawa"
-  },
-  "005":{
-    "code":"005",
-    "name":"波多津",
-    "kana":"ハタツ",
-    "hira":"はたつ",
-    "roma":"hatatsu"
-  },
-  "006":{
-    "code":"006",
-    "name":"松浦",
-    "kana":"マツウラ",
-    "hira":"まつうら",
-    "roma":"matsuura"
+    "name":"北部",
+    "kana":"ホクブ",
+    "hira":"ほくぶ",
+    "roma":"hokubu"
   },
   "007":{
     "code":"007",
@@ -64,10 +50,10 @@
   },
   "021":{
     "code":"021",
-    "name":"大川",
-    "kana":"オオカワ",
-    "hira":"おおかわ",
-    "roma":"ookawa"
+    "name":"東部",
+    "kana":"トウブ",
+    "hira":"とうぶ",
+    "roma":"toubu"
   },
   "022":{
     "code":"022",

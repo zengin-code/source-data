@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "002":{
-    "code":"002",
-    "name":"太田",
-    "kana":"オオタ",
-    "hira":"おおた",
-    "roma":"oota"
-  },
   "003":{
     "code":"003",
     "name":"原町",
@@ -48,13 +41,6 @@
     "hira":"なかのじよう",
     "roma":"nakanojiyou"
   },
-  "008":{
-    "code":"008",
-    "name":"伊参",
-    "kana":"イサマ",
-    "hira":"いさま",
-    "roma":"isama"
-  },
   "009":{
     "code":"009",
     "name":"名久田",
@@ -75,13 +61,6 @@
     "kana":"ナガノハラ",
     "hira":"ながのはら",
     "roma":"naganohara"
-  },
-  "014":{
-    "code":"014",
-    "name":"六合",
-    "kana":"クニ",
-    "hira":"くに",
-    "roma":"kuni"
   },
   "015":{
     "code":"015",

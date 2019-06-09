@@ -5,24 +5,12 @@
   kana: ホンテン
   hira: ほんてん
   roma: honten
-'003':
-  code: '003'
-  name: 高野
-  kana: タカノ
-  hira: たかの
-  roma: takano
 '004':
   code: '004'
   name: 杉戸東
   kana: スギトヒガシ
   hira: すぎとひがし
   roma: sugitohigashi
-'006':
-  code: '006'
-  name: 豊岡
-  kana: トヨオカ
-  hira: とよおか
-  roma: toyooka
 '007':
   code: '007'
   name: 杉戸中央
@@ -41,12 +29,6 @@
   kana: サクラダ
   hira: さくらだ
   roma: sakurada
-'012':
-  code: '012'
-  name: 鷲宮
-  kana: ワシノミヤ
-  hira: わしのみや
-  roma: washinomiya
 '013':
   code: '013'
   name: 幸手

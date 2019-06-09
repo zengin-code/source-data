@@ -13,13 +13,6 @@
     "hira":"ほんごうちゆうおう",
     "roma":"hongouchiyuuou"
   },
-  "449":{
-    "code":"449",
-    "name":"忠海出張所",
-    "kana":"タダノウミ",
-    "hira":"ただのうみ",
-    "roma":"tadanoumi"
-  },
   "451":{
     "code":"451",
     "name":"竹原",
@@ -40,13 +33,6 @@
     "kana":"セトダ",
     "hira":"せとだ",
     "roma":"setoda"
-  },
-  "494":{
-    "code":"494",
-    "name":"せとだ南出張所",
-    "kana":"セトダミナミ",
-    "hira":"せとだみなみ",
-    "roma":"setodaminami"
   },
   "497":{
     "code":"497",
@@ -75,13 +61,6 @@
     "kana":"サギウラ",
     "hira":"さぎうら",
     "roma":"sagiura"
-  },
-  "511":{
-    "code":"511",
-    "name":"中之町出張所",
-    "kana":"ナカノチヨウ",
-    "hira":"なかのちよう",
-    "roma":"nakanochiyou"
   },
   "512":{
     "code":"512",

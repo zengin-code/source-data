@@ -104,13 +104,6 @@
     "hira":"きそがわ",
     "roma":"kisogawa"
   },
-  "197":{
-    "code":"197",
-    "name":"妙興寺",
-    "kana":"ミヨウコウジ",
-    "hira":"みようこうじ",
-    "roma":"miyoukouji"
-  },
   "201":{
     "code":"201",
     "name":"開明",
@@ -174,20 +167,6 @@
     "hira":"めいじ",
     "roma":"meiji"
   },
-  "529":{
-    "code":"529",
-    "name":"国分",
-    "kana":"コクブ",
-    "hira":"こくぶ",
-    "roma":"kokubu"
-  },
-  "537":{
-    "code":"537",
-    "name":"清水",
-    "kana":"シミズ",
-    "hira":"しみず",
-    "roma":"shimizu"
-  },
   "545":{
     "code":"545",
     "name":"大里",
@@ -208,20 +187,6 @@
     "kana":"チヨダ",
     "hira":"ちよだ",
     "roma":"chiyoda"
-  },
-  "570":{
-    "code":"570",
-    "name":"附島",
-    "kana":"ツケシマ",
-    "hira":"つけしま",
-    "roma":"tsukeshima"
-  },
-  "588":{
-    "code":"588",
-    "name":"今",
-    "kana":"イマ",
-    "hira":"いま",
-    "roma":"ima"
   },
   "600":{
     "code":"600",

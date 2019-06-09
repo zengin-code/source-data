@@ -29,12 +29,6 @@
   kana: アタガワ
   hira: あたがわ
   roma: atagawa
-'101':
-  code: '101'
-  name: 中部
-  kana: チユウブ
-  hira: ちゆうぶ
-  roma: chiyuubu
 '102':
   code: '102'
   name: 稲梓
@@ -77,24 +71,12 @@
   kana: ミナミナカ
   hira: みなみなか
   roma: minaminaka
-'210':
-  code: '210'
-  name: 三坂
-  kana: ミサカ
-  hira: みさか
-  roma: misaka
 '303':
   code: '303'
   name: 松崎
   kana: マツザキ
   hira: まつざき
   roma: matsuzaki
-'304':
-  code: '304'
-  name: 中川
-  kana: ナカガワ
-  hira: なかがわ
-  roma: nakagawa
 '305':
   code: '305'
   name: 仁科

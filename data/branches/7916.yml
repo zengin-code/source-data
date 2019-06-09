@@ -5,12 +5,6 @@
   kana: ホンテン
   hira: ほんてん
   roma: honten
-'173':
-  code: '173'
-  name: 船越
-  kana: フナコシ
-  hira: ふなこし
-  roma: funakoshi
 '174':
   code: '174'
   name: 海田市
@@ -41,24 +35,12 @@
   kana: セノ
   hira: せの
   roma: seno
-'179':
-  code: '179'
-  name: 上瀬野
-  kana: カミセノ
-  hira: かみせの
-  roma: kamiseno
 '180':
   code: '180'
   name: 阿戸
   kana: アト
   hira: あと
   roma: ato
-'181':
-  code: '181'
-  name: 追分
-  kana: オイワケ
-  hira: おいわけ
-  roma: oiwake
 '182':
   code: '182'
   name: 萩原

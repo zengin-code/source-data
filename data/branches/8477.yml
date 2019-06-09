@@ -17,39 +17,15 @@
   kana: ノムラ
   hira: のむら
   roma: nomura
-'023':
-  code: '023'
-  name: 中筋
-  kana: ナカスジ
-  hira: なかすじ
-  roma: nakasuji
-'026':
-  code: '026'
-  name: 惣川
-  kana: ソウガワ
-  hira: そうがわ
-  roma: sougawa
 '031':
   code: '031'
   name: 城川
   kana: シロカワ
   hira: しろかわ
   roma: shirokawa
-'035':
-  code: '035'
-  name: 魚成
-  kana: ウオナシ
-  hira: うおなし
-  roma: uonashi
 '041':
   code: '041'
   name: 明浜
   kana: アケハマ
   hira: あけはま
   roma: akehama
-'043':
-  code: '043'
-  name: 高山
-  kana: タカヤマ
-  hira: たかやま
-  roma: takayama

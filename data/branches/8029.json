@@ -20,13 +20,6 @@
     "hira":"よしわ",
     "roma":"yoshiwa"
   },
-  "518":{
-    "code":"518",
-    "name":"原田出張所",
-    "kana":"ハラダ",
-    "hira":"はらだ",
-    "roma":"harada"
-  },
   "519":{
     "code":"519",
     "name":"尾道東",
@@ -54,27 +47,6 @@
     "kana":"オノミチキタ",
     "hira":"おのみちきた",
     "roma":"onomichikita"
-  },
-  "523":{
-    "code":"523",
-    "name":"木ノ庄東出張所",
-    "kana":"キノシヨウヒガシ",
-    "hira":"きのしようひがし",
-    "roma":"kinoshiyouhigashi"
-  },
-  "528":{
-    "code":"528",
-    "name":"美ノ郷出張所",
-    "kana":"ミノゴウ",
-    "hira":"みのごう",
-    "roma":"minogou"
-  },
-  "529":{
-    "code":"529",
-    "name":"木ノ庄西出張所",
-    "kana":"キノシヨウニシ",
-    "hira":"きのしようにし",
-    "roma":"kinoshiyounishi"
   },
   "533":{
     "code":"533",

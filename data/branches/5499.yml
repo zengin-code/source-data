@@ -113,12 +113,6 @@
   kana: ヨマセ
   hira: よませ
   roma: yomase
-'050':
-  code: '050'
-  name: ちくま
-  kana: チクマ
-  hira: ちくま
-  roma: chikuma
 '051':
   code: '051'
   name: 戸倉
@@ -161,18 +155,6 @@
   kana: スザカ
   hira: すざか
   roma: suzaka
-'061':
-  code: '061'
-  name: 井上
-  kana: イノウエ
-  hira: いのうえ
-  roma: inoue
-'062':
-  code: '062'
-  name: 仁礼
-  kana: ニレイ
-  hira: にれい
-  roma: nirei
 '063':
   code: '063'
   name: 高山
@@ -185,12 +167,6 @@
   kana: オブセ
   hira: おぶせ
   roma: obuse
-'069':
-  code: '069'
-  name: みゆき
-  kana: ミユキ
-  hira: みゆき
-  roma: miyuki
 '070':
   code: '070'
   name: 飯山
