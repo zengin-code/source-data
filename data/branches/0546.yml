@@ -161,12 +161,6 @@
   kana: アタゴマチ
   hira: あたごまち
   roma: atagomachi
-'210':
-  code: '210'
-  name: 大石
-  kana: オイシ
-  hira: おいし
-  roma: oishi
 '215':
   code: '215'
   name: 嬉野
@@ -557,6 +551,12 @@
   kana: オオガキ
   hira: おおがき
   roma: oogaki
+'753':
+  code: '753'
+  name: 大石
+  kana: オイシ
+  hira: おいし
+  roma: oishi
 '800':
   code: '800'
   name: 東京

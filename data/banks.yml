@@ -1979,12 +1979,6 @@
   kana: フジノミヤシンキン
   hira: ふじのみやしんきん
   roma: fujinomiyashinkin
-'1509':
-  code: '1509'
-  name: 島田信金
-  kana: シマダシンキン
-  hira: しまだしんきん
-  roma: shimadashinkin
 '1512':
   code: '1512'
   name: 焼津信金
@@ -1993,10 +1987,10 @@
   roma: yaidushinkin
 '1513':
   code: '1513'
-  name: 掛川信金
-  kana: カケガワシンキン
-  hira: かけがわしんきん
-  roma: kakegawashinkin
+  name: 島田掛川信金
+  kana: シマダカケガワシンキン
+  hira: しまだかけがわしんきん
+  roma: shimadakakegawashinkin
 '1515':
   code: '1515'
   name: 富士信金

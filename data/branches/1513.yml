@@ -103,10 +103,10 @@
   roma: sakuragi
 '026':
   code: '026'
-  name: 相良
-  kana: サガラ
-  hira: さがら
-  roma: sagara
+  name: 相良北
+  kana: サガラキタ
+  hira: さがらきた
+  roma: sagarakita
 '027':
   code: '027'
   name: 駅南
@@ -121,16 +121,16 @@
   roma: asaba
 '029':
   code: '029'
-  name: 金谷
-  kana: カナヤ
-  hira: かなや
-  roma: kanaya
+  name: 金谷扇町
+  kana: カナヤオウギチヨウ
+  hira: かなやおうぎちよう
+  roma: kanayaougichiyou
 '030':
   code: '030'
-  name: 島田
-  kana: シマダ
-  hira: しまだ
-  roma: shimada
+  name: 島田西
+  kana: シマダニシ
+  hira: しまだにし
+  roma: shimadanishi
 '031':
   code: '031'
   name: 大東北
@@ -139,13 +139,205 @@
   roma: daitoukita
 '032':
   code: '032'
-  name: 榛原
-  kana: ハイバラ
-  hira: はいばら
-  roma: haibara
+  name: 細江
+  kana: ホソエ
+  hira: ほそえ
+  roma: hosoe
 '033':
   code: '033'
+  name: 吉田北
+  kana: ヨシダキタ
+  hira: よしだきた
+  roma: yoshidakita
+'101':
+  code: '101'
+  name: 島田本店営業部
+  kana: シマダホンテン
+  hira: しまだほんてん
+  roma: shimadahonten
+'102':
+  code: '102'
+  name: 向谷
+  kana: ムクヤ
+  hira: むくや
+  roma: mukuya
+'103':
+  code: '103'
+  name: 七丁目
+  kana: ナナチヨウメ
+  hira: ななちようめ
+  roma: nanachiyoume
+'104':
+  code: '104'
+  name: 初倉
+  kana: ハツクラ
+  hira: はつくら
+  roma: hatsukura
+'105':
+  code: '105'
+  name: 藤枝
+  kana: フジエダ
+  hira: ふじえだ
+  roma: fujieda
+'106':
+  code: '106'
+  name: 大井川
+  kana: オオイガワ
+  hira: おおいがわ
+  roma: ooigawa
+'107':
+  code: '107'
+  name: 川根
+  kana: カワネ
+  hira: かわね
+  roma: kawane
+'108':
+  code: '108'
+  name: 金谷
+  kana: カナヤ
+  hira: かなや
+  roma: kanaya
+'109':
+  code: '109'
   name: 吉田
   kana: ヨシダ
   hira: よしだ
   roma: yoshida
+'110':
+  code: '110'
+  name: 榛原
+  kana: ハイバラ
+  hira: はいばら
+  roma: haibara
+'111':
+  code: '111'
+  name: 相良
+  kana: サガラ
+  hira: さがら
+  roma: sagara
+'112':
+  code: '112'
+  name: 御前崎西
+  kana: オマエザキニシ
+  hira: おまえざきにし
+  roma: omaezakinishi
+'113':
+  code: '113'
+  name: 神戸
+  kana: カンド
+  hira: かんど
+  roma: kando
+'114':
+  code: '114'
+  name: 藤枝東
+  kana: フジエダヒガシ
+  hira: ふじえだひがし
+  roma: fujiedahigashi
+'115':
+  code: '115'
+  name: 静岡
+  kana: シズオカ
+  hira: しずおか
+  roma: shizuoka
+'116':
+  code: '116'
+  name: 清水
+  kana: シミズ
+  hira: しみず
+  roma: shimizu
+'117':
+  code: '117'
+  name: 六合
+  kana: ロクゴウ
+  hira: ろくごう
+  roma: rokugou
+'119':
+  code: '119'
+  name: 豊田
+  kana: トヨダ
+  hira: とよだ
+  roma: toyoda
+'121':
+  code: '121'
+  name: 西千代田
+  kana: ニシチヨダ
+  hira: にしちよだ
+  roma: nishichiyoda
+'122':
+  code: '122'
+  name: 焼津
+  kana: ヤイヅ
+  hira: やいづ
+  roma: yaidu
+'123':
+  code: '123'
+  name: 掛川駅前
+  kana: カケガワエキマエ
+  hira: かけがわえきまえ
+  roma: kakegawaekimae
+'124':
+  code: '124'
+  name: 浜岡北
+  kana: ハマオカキタ
+  hira: はまおかきた
+  roma: hamaokakita
+'125':
+  code: '125'
+  name: 大東南
+  kana: ダイトウミナミ
+  hira: だいとうみなみ
+  roma: daitouminami
+'126':
+  code: '126'
+  name: 小笠東
+  kana: オガサヒガシ
+  hira: おがさひがし
+  roma: ogasahigashi
+'127':
+  code: '127'
+  name: 菊川駅前
+  kana: キクガワエキマエ
+  hira: きくがわえきまえ
+  roma: kikugawaekimae
+'128':
+  code: '128'
+  name: 牧の原
+  kana: マキノハラ
+  hira: まきのはら
+  roma: makinohara
+'129':
+  code: '129'
+  name: 家山
+  kana: イエヤマ
+  hira: いえやま
+  roma: ieyama
+'134':
+  code: '134'
+  name: 西焼津
+  kana: ニシヤイヅ
+  hira: にしやいづ
+  roma: nishiyaidu
+'136':
+  code: '136'
+  name: 五和
+  kana: ゴカ
+  hira: ごか
+  roma: goka
+'137':
+  code: '137'
+  name: 藤枝南
+  kana: フジエダミナミ
+  hira: ふじえだみなみ
+  roma: fujiedaminami
+'138':
+  code: '138'
+  name: 榛原東
+  kana: ハイバラヒガシ
+  hira: はいばらひがし
+  roma: haibarahigashi
+'139':
+  code: '139'
+  name: 島田北
+  kana: シマダキタ
+  hira: しまだきた
+  roma: shimadakita
