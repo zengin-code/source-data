@@ -1,16 +1,16 @@
 ---
 '001':
   code: '001'
-  name: みどりの
-  kana: ミドリノ
-  hira: みどりの
-  roma: midorino
-'101':
-  code: '101'
   name: 本店
   kana: ホンテン
   hira: ほんてん
   roma: honten
+'101':
+  code: '101'
+  name: 小牛田駅前
+  kana: コゴタエキマエ
+  hira: こごたえきまえ
+  roma: kogotaekimae
 '102':
   code: '102'
   name: 小牛田
@@ -53,3 +53,153 @@
   kana: タジリ
   hira: たじり
   roma: tajiri
+'201':
+  code: '201'
+  name: 築館
+  kana: ツキダテ
+  hira: つきだて
+  roma: tsukidate
+'202':
+  code: '202'
+  name: 高清水
+  kana: タカシミズ
+  hira: たかしみず
+  roma: takashimizu
+'203':
+  code: '203'
+  name: 瀬峰
+  kana: セミネ
+  hira: せみね
+  roma: semine
+'204':
+  code: '204'
+  name: 志波姫
+  kana: シワヒメ
+  hira: しわひめ
+  roma: shiwahime
+'205':
+  code: '205'
+  name: 若柳
+  kana: ワカヤナギ
+  hira: わかやなぎ
+  roma: wakayanagi
+'206':
+  code: '206'
+  name: アクセス有賀大岡
+  kana: アクセスアリガオオオカ
+  hira: あくせすありがおおおか
+  roma: akusesuarigaoooka
+'207':
+  code: '207'
+  name: 一迫
+  kana: イチハサマ
+  hira: いちはさま
+  roma: ichihasama
+'208':
+  code: '208'
+  name: 花山
+  kana: ハナヤマ
+  hira: はなやま
+  roma: hanayama
+'209':
+  code: '209'
+  name: 金成中央
+  kana: カンナリチユウオウ
+  hira: かんなりちゆうおう
+  roma: kannarichiyuuou
+'210':
+  code: '210'
+  name: 萩野
+  kana: ハギノ
+  hira: はぎの
+  roma: hagino
+'211':
+  code: '211'
+  name: 栗駒中央
+  kana: クリコマチユウオウ
+  hira: くりこまちゆうおう
+  roma: kurikomachiyuuou
+'212':
+  code: '212'
+  name: 尾松
+  kana: オマツ
+  hira: おまつ
+  roma: omatsu
+'213':
+  code: '213'
+  name: 鶯沢
+  kana: ウグイスザワ
+  hira: うぐいすざわ
+  roma: uguisuzawa
+'301':
+  code: '301'
+  name: 志津川
+  kana: シヅガワ
+  hira: しづがわ
+  roma: shidugawa
+'302':
+  code: '302'
+  name: 津山
+  kana: ツヤマ
+  hira: つやま
+  roma: tsuyama
+'303':
+  code: '303'
+  name: 歌津
+  kana: ウタツ
+  hira: うたつ
+  roma: utatsu
+'304':
+  code: '304'
+  name: 本吉
+  kana: モトヨシ
+  hira: もとよし
+  roma: motoyoshi
+'305':
+  code: '305'
+  name: 階上
+  kana: ハシカミ
+  hira: はしかみ
+  roma: hashikami
+'306':
+  code: '306'
+  name: 気仙沼
+  kana: ケセンヌマ
+  hira: けせんぬま
+  roma: kesennuma
+'401':
+  code: '401'
+  name: 大和
+  kana: タイワ
+  hira: たいわ
+  roma: taiwa
+'402':
+  code: '402'
+  name: 大和インター
+  kana: タイワインタ－
+  hira: たいわいんた－
+  roma: taiwainta-
+'403':
+  code: '403'
+  name: 大郷
+  kana: オオサト
+  hira: おおさと
+  roma: oosato
+'404':
+  code: '404'
+  name: 富谷
+  kana: トミヤ
+  hira: とみや
+  roma: tomiya
+'405':
+  code: '405'
+  name: 大衡
+  kana: オオヒラ
+  hira: おおひら
+  roma: oohira
+'501':
+  code: '501'
+  name: いわでやま
+  kana: イワデヤマ
+  hira: いわでやま
+  roma: iwadeyama

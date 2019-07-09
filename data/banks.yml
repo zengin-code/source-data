@@ -4637,30 +4637,12 @@
   kana: ミヤギワタリノウキヨウ
   hira: みやぎわたりのうきよう
   roma: miyagiwatarinoukiyou
-'3664':
-  code: '3664'
-  name: あさひな農協
-  kana: アサヒナノウキヨウ
-  hira: あさひなのうきよう
-  roma: asahinanoukiyou
 '3665':
   code: '3665'
   name: みやぎ登米農協
   kana: ミヤギトメノウキヨウ
   hira: みやぎとめのうきよう
   roma: miyagitomenoukiyou
-'3682':
-  code: '3682'
-  name: 南三陸農協
-  kana: ミナミサンリクノウキヨウ
-  hira: みなみさんりくのうきよう
-  roma: minamisanrikunoukiyou
-'3702':
-  code: '3702'
-  name: 栗っこ農協
-  kana: クリツコノウキヨウ
-  hira: くりつこのうきよう
-  roma: kuritsukonoukiyou
 '3704':
   code: '3704'
   name: 古川農協
@@ -4673,18 +4655,12 @@
   kana: カミヨツバノウキヨウ
   hira: かみよつばのうきよう
   roma: kamiyotsubanoukiyou
-'3717':
-  code: '3717'
-  name: いわでやま農協
-  kana: イワデヤマノウキヨウ
-  hira: いわでやまのうきよう
-  roma: iwadeyamanoukiyou
 '3721':
   code: '3721'
-  name: みどりの農協
-  kana: ミドリノノウキヨウ
-  hira: みどりののうきよう
-  roma: midorinonoukiyou
+  name: 新みやぎ農協
+  kana: シンミヤギノウキヨウ
+  hira: しんみやぎのうきよう
+  roma: shimmiyaginoukiyou
 '3731':
   code: '3731'
   name: いしのまき農協

@@ -41,12 +41,6 @@
   kana: ヒラクボ
   hira: ひらくぼ
   roma: hirakubo
-'014':
-  code: '014'
-  name: 内郷
-  kana: ウチゴウ
-  hira: うちごう
-  roma: uchigou
 '017':
   code: '017'
   name: 好間
@@ -113,30 +107,12 @@
   kana: オナハマ
   hira: おなはま
   roma: onahama
-'033':
-  code: '033'
-  name: 玉川
-  kana: タマガワ
-  hira: たまがわ
-  roma: tamagawa
-'035':
-  code: '035'
-  name: 鹿島
-  kana: カシマ
-  hira: かしま
-  roma: kashima
 '036':
   code: '036'
   name: 泉
   kana: イズミ
   hira: いずみ
   roma: izumi
-'037':
-  code: '037'
-  name: 渡辺
-  kana: ワタナベ
-  hira: わたなべ
-  roma: watanabe
 '038':
   code: '038'
   name: 常磐

@@ -330,10 +330,10 @@
   },
   "332":{
     "code":"332",
-    "name":"屋富祖",
-    "kana":"ヤフソ",
-    "hira":"やふそ",
-    "roma":"yafuso"
+    "name":"学園通り",
+    "kana":"ガクエンドオリ",
+    "hira":"がくえんどおり",
+    "roma":"gakuendoori"
   },
   "333":{
     "code":"333",
@@ -342,26 +342,12 @@
     "hira":"うちま",
     "roma":"uchima"
   },
-  "334":{
-    "code":"334",
-    "name":"牧港",
-    "kana":"マキミナト",
-    "hira":"まきみなと",
-    "roma":"makiminato"
-  },
   "335":{
     "code":"335",
     "name":"沢岻",
     "kana":"タクシ",
     "hira":"たくし",
     "roma":"takushi"
-  },
-  "336":{
-    "code":"336",
-    "name":"伊祖",
-    "kana":"イソ",
-    "hira":"いそ",
-    "roma":"iso"
   },
   "337":{
     "code":"337",

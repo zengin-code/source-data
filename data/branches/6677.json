@@ -64,17 +64,10 @@
   },
   "017":{
     "code":"017",
-    "name":"大三",
-    "kana":"オオミツ",
-    "hira":"おおみつ",
-    "roma":"oomitsu"
-  },
-  "019":{
-    "code":"019",
-    "name":"みやま",
-    "kana":"ミヤマ",
-    "hira":"みやま",
-    "roma":"miyama"
+    "name":"白山北",
+    "kana":"ハクサンキタ",
+    "hira":"はくさんきた",
+    "roma":"hakusankita"
   },
   "022":{
     "code":"022",
