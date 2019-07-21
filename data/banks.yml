@@ -1945,10 +1945,10 @@
   roma: echizenshinkin
 '1501':
   code: '1501'
-  name: 静岡信金
-  kana: シズオカシンキン
-  hira: しずおかしんきん
-  roma: shizuokashinkin
+  name: しずおか焼津信金
+  kana: シズオカヤイヅシンキン
+  hira: しずおかやいづしんきん
+  roma: shizuokayaidushinkin
 '1502':
   code: '1502'
   name: 静清信金
@@ -1979,12 +1979,6 @@
   kana: フジノミヤシンキン
   hira: ふじのみやしんきん
   roma: fujinomiyashinkin
-'1512':
-  code: '1512'
-  name: 焼津信金
-  kana: ヤイヅシンキン
-  hira: やいづしんきん
-  roma: yaidushinkin
 '1513':
   code: '1513'
   name: 島田掛川信金
