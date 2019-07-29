@@ -83,18 +83,6 @@
   kana: ウガタ
   hira: うがた
   roma: ugata
-'110':
-  code: '110'
-  name: 浜島
-  kana: ハマジマ
-  hira: はまじま
-  roma: hamajima
-'120':
-  code: '120'
-  name: 和具
-  kana: ワグ
-  hira: わぐ
-  roma: wagu
 '130':
   code: '130'
   name: 高柳
@@ -161,12 +149,6 @@
   kana: アタゴマチ
   hira: あたごまち
   roma: atagomachi
-'215':
-  code: '215'
-  name: 嬉野
-  kana: ウレシノ
-  hira: うれしの
-  roma: ureshino
 '220':
   code: '220'
   name: 名張
@@ -551,12 +533,30 @@
   kana: オオガキ
   hira: おおがき
   roma: oogaki
+'751':
+  code: '751'
+  name: 浜島
+  kana: ハマジマ
+  hira: はまじま
+  roma: hamajima
+'752':
+  code: '752'
+  name: 和具
+  kana: ワグ
+  hira: わぐ
+  roma: wagu
 '753':
   code: '753'
   name: 大石
   kana: オイシ
   hira: おいし
   roma: oishi
+'754':
+  code: '754'
+  name: 嬉野
+  kana: ウレシノ
+  hira: うれしの
+  roma: ureshino
 '800':
   code: '800'
   name: 東京

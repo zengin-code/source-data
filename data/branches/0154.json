@@ -29,10 +29,10 @@
   },
   "106":{
     "code":"106",
-    "name":"富田",
-    "kana":"トミダ",
-    "hira":"とみだ",
-    "roma":"tomida"
+    "name":"富田駅前",
+    "kana":"トミダエキマエ",
+    "hira":"とみだえきまえ",
+    "roma":"tomidaekimae"
   },
   "107":{
     "code":"107",
@@ -211,10 +211,10 @@
   },
   "212":{
     "code":"212",
-    "name":"桑名",
-    "kana":"クワナ",
-    "hira":"くわな",
-    "roma":"kuwana"
+    "name":"桑名中央",
+    "kana":"クワナチユウオウ",
+    "hira":"くわなちゆうおう",
+    "roma":"kuwanachiyuuou"
   },
   "213":{
     "code":"213",
@@ -225,10 +225,10 @@
   },
   "214":{
     "code":"214",
-    "name":"鈴鹿",
-    "kana":"スズカ",
-    "hira":"すずか",
-    "roma":"suzuka"
+    "name":"神戸",
+    "kana":"カンベ",
+    "hira":"かんべ",
+    "roma":"kambe"
   },
   "215":{
     "code":"215",
@@ -281,17 +281,17 @@
   },
   "233":{
     "code":"233",
-    "name":"石薬師",
-    "kana":"イシヤクシ",
-    "hira":"いしやくし",
-    "roma":"ishiyakushi"
+    "name":"石薬師南",
+    "kana":"イシヤクシミナミ",
+    "hira":"いしやくしみなみ",
+    "roma":"ishiyakushiminami"
   },
   "234":{
     "code":"234",
-    "name":"玉垣",
-    "kana":"タマガキ",
-    "hira":"たまがき",
-    "roma":"tamagaki"
+    "name":"南玉垣",
+    "kana":"ミナミタマガキ",
+    "hira":"みなみたまがき",
+    "roma":"minamitamagaki"
   },
   "314":{
     "code":"314",
@@ -302,38 +302,38 @@
   },
   "315":{
     "code":"315",
-    "name":"亀山",
-    "kana":"カメヤマ",
-    "hira":"かめやま",
-    "roma":"kameyama"
+    "name":"亀山中央",
+    "kana":"カメヤマチユウオウ",
+    "hira":"かめやまちゆうおう",
+    "roma":"kameyamachiyuuou"
   },
   "316":{
     "code":"316",
-    "name":"津",
-    "kana":"ツ",
-    "hira":"つ",
-    "roma":"tsu"
+    "name":"津中央",
+    "kana":"ツチユウオウ",
+    "hira":"つちゆうおう",
+    "roma":"tsuchiyuuou"
   },
   "317":{
     "code":"317",
-    "name":"久居",
-    "kana":"ヒサイ",
-    "hira":"ひさい",
-    "roma":"hisai"
+    "name":"久居駅前",
+    "kana":"ヒサイエキマエ",
+    "hira":"ひさいえきまえ",
+    "roma":"hisaiekimae"
   },
   "318":{
     "code":"318",
-    "name":"松阪",
-    "kana":"マツザカ",
-    "hira":"まつざか",
-    "roma":"matsuzaka"
+    "name":"松阪中央",
+    "kana":"マツザカチユウオウ",
+    "hira":"まつざかちゆうおう",
+    "roma":"matsuzakachiyuuou"
   },
   "319":{
     "code":"319",
-    "name":"伊勢",
-    "kana":"イセ",
-    "hira":"いせ",
-    "roma":"ise"
+    "name":"伊勢中央",
+    "kana":"イセチユウオウ",
+    "hira":"いせちゆうおう",
+    "roma":"isechiyuuou"
   },
   "320":{
     "code":"320",
@@ -344,31 +344,31 @@
   },
   "324":{
     "code":"324",
-    "name":"高茶屋",
-    "kana":"タカジヤヤ",
-    "hira":"たかじやや",
-    "roma":"takajiyaya"
+    "name":"高茶屋小森",
+    "kana":"タカジヤヤコモリ",
+    "hira":"たかじややこもり",
+    "roma":"takajiyayakomori"
   },
   "325":{
     "code":"325",
-    "name":"鳥羽",
-    "kana":"トバ",
-    "hira":"とば",
-    "roma":"toba"
+    "name":"鳥羽中央",
+    "kana":"トバチユウオウ",
+    "hira":"とばちゆうおう",
+    "roma":"tobachiyuuou"
   },
   "326":{
     "code":"326",
-    "name":"鵜方",
-    "kana":"ウガタ",
-    "hira":"うがた",
-    "roma":"ugata"
+    "name":"志摩",
+    "kana":"シマ",
+    "hira":"しま",
+    "roma":"shima"
   },
   "430":{
     "code":"430",
-    "name":"名古屋",
-    "kana":"ナゴヤ",
-    "hira":"なごや",
-    "roma":"nagoya"
+    "name":"名古屋法人営業部",
+    "kana":"ナゴヤホウジン",
+    "hira":"なごやほうじん",
+    "roma":"nagoyahoujin"
   },
   "432":{
     "code":"432",
@@ -477,10 +477,10 @@
   },
   "521":{
     "code":"521",
-    "name":"上野",
-    "kana":"ウエノ",
-    "hira":"うえの",
-    "roma":"ueno"
+    "name":"伊賀",
+    "kana":"イガ",
+    "hira":"いが",
+    "roma":"iga"
   },
   "522":{
     "code":"522",
@@ -498,24 +498,24 @@
   },
   "527":{
     "code":"527",
-    "name":"名張",
-    "kana":"ナバリ",
-    "hira":"なばり",
-    "roma":"nabari"
+    "name":"名張中央",
+    "kana":"ナバリチユウオウ",
+    "hira":"なばりちゆうおう",
+    "roma":"nabarichiyuuou"
   },
   "601":{
     "code":"601",
-    "name":"東京",
-    "kana":"トウキヨウ",
-    "hira":"とうきよう",
-    "roma":"toukiyou"
+    "name":"東京法人営業部",
+    "kana":"トウキヨウホウジン",
+    "hira":"とうきようほうじん",
+    "roma":"toukiyouhoujin"
   },
   "701":{
     "code":"701",
-    "name":"大阪",
-    "kana":"オオサカ",
-    "hira":"おおさか",
-    "roma":"oosaka"
+    "name":"大阪法人営業部",
+    "kana":"オオサカホウジン",
+    "hira":"おおさかほうじん",
+    "roma":"oosakahoujin"
   },
   "801":{
     "code":"801",
