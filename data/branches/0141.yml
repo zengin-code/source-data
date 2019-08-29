@@ -1,10 +1,10 @@
 ---
 '020':
   code: '020'
-  name: 本店
-  kana: ホンテン
-  hira: ほんてん
-  roma: honten
+  name: 長岡本店営業部
+  kana: ナガオカホンテン
+  hira: ながおかほんてん
+  roma: nagaokahonten
 '021':
   code: '021'
   name: 長岡北
@@ -91,16 +91,16 @@
   roma: oumi
 '110':
   code: '110'
-  name: 直江津
-  kana: ナオエツ
-  hira: なおえつ
-  roma: naoetsu
+  name: 直江津中央
+  kana: ナオエツチユウオウ
+  hira: なおえつちゆうおう
+  roma: naoetsuchiyuuou
 '120':
   code: '120'
-  name: 高田
-  kana: タカダ
-  hira: たかだ
-  roma: takada
+  name: 高田中央
+  kana: タカダチユウオウ
+  hira: たかだちゆうおう
+  roma: takadachiyuuou
 '121':
   code: '121'
   name: 南高田
@@ -115,28 +115,28 @@
   roma: araichiyuuou
 '130':
   code: '130'
-  name: 柏崎
-  kana: カシワザキ
-  hira: かしわざき
-  roma: kashiwazaki
+  name: 柏崎中央
+  kana: カシワザキチユウオウ
+  hira: かしわざきちゆうおう
+  roma: kashiwazakichiyuuou
 '140':
   code: '140'
-  name: 柏崎東
-  kana: カシワザキヒガシ
-  hira: かしわざきひがし
-  roma: kashiwazakihigashi
+  name: 柏崎東本町
+  kana: カシワザキヒガシホンチヨウ
+  hira: かしわざきひがしほんちよう
+  roma: kashiwazakihigashihonchiyou
 '145':
   code: '145'
-  name: 柏崎南
-  kana: カシワザキミナミ
-  hira: かしわざきみなみ
-  roma: kashiwazakiminami
-'150':
-  code: '150'
-  name: 栃尾
-  kana: トチオ
-  hira: とちお
-  roma: tochio
+  name: 柏崎日吉町
+  kana: カシワザキヒヨシチヨウ
+  hira: かしわざきひよしちよう
+  roma: kashiwazakihiyoshichiyou
+'151':
+  code: '151'
+  name: 栃尾中央
+  kana: トチオチユウオウ
+  hira: とちおちゆうおう
+  roma: tochiochiyuuou
 '160':
   code: '160'
   name: 見附
@@ -161,18 +161,18 @@
   kana: カモ
   hira: かも
   roma: kamo
-'200':
-  code: '200'
-  name: 新津
-  kana: ニイツ
-  hira: にいつ
-  roma: niitsu
 '201':
   code: '201'
   name: 荻川
   kana: オギカワ
   hira: おぎかわ
   roma: ogikawa
+'209':
+  code: '209'
+  name: 新津中央
+  kana: ニイツチユウオウ
+  hira: にいつちゆうおう
+  roma: niitsuchiyuuou
 '210':
   code: '210'
   name: 五泉中央
@@ -233,18 +233,18 @@
   kana: ニイガタ
   hira: にいがた
   roma: niigata
-'271':
-  code: '271'
-  name: 県庁
-  kana: ケンチヨウ
-  hira: けんちよう
-  roma: kenchiyou
 '278':
   code: '278'
   name: 新潟東港
   kana: ニイガタヒガシコウ
   hira: にいがたひがしこう
   roma: niigatahigashikou
+'279':
+  code: '279'
+  name: 新潟県庁
+  kana: ニイガタケンチヨウ
+  hira: にいがたけんちよう
+  roma: niigatakenchiyou
 '280':
   code: '280'
   name: 古町

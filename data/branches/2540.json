@@ -103,5 +103,12 @@
     "kana":"ミクニ",
     "hira":"みくに",
     "roma":"mikuni"
+  },
+  "050":{
+    "code":"050",
+    "name":"堀江ゆめまち",
+    "kana":"ホリエユメマチ",
+    "hira":"ほりえゆめまち",
+    "roma":"horieyumemachi"
   }
 }

@@ -395,18 +395,6 @@
   kana: カミマエヅ
   hira: かみまえづ
   roma: kamimaedu
-'435':
-  code: '435'
-  name: 喜多山
-  kana: キタヤマ
-  hira: きたやま
-  roma: kitayama
-'436':
-  code: '436'
-  name: 猪子石
-  kana: イノコイシ
-  hira: いのこいし
-  roma: inokoishi
 '440':
   code: '440'
   name: 堀田
@@ -431,12 +419,6 @@
   kana: カミイイダ
   hira: かみいいだ
   roma: kamiiida
-'455':
-  code: '455'
-  name: 天白
-  kana: テンパク
-  hira: てんぱく
-  roma: tempaku
 '460':
   code: '460'
   name: 中川
@@ -557,6 +539,24 @@
   kana: ウレシノ
   hira: うれしの
   roma: ureshino
+'759':
+  code: '759'
+  name: 喜多山
+  kana: キタヤマ
+  hira: きたやま
+  roma: kitayama
+'760':
+  code: '760'
+  name: 猪子石
+  kana: イノコイシ
+  hira: いのこいし
+  roma: inokoishi
+'762':
+  code: '762'
+  name: 天白
+  kana: テンパク
+  hira: てんぱく
+  roma: tempaku
 '800':
   code: '800'
   name: 東京

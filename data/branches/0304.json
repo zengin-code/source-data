@@ -57,10 +57,10 @@
   },
   "013":{
     "code":"013",
-    "name":"たまプラーザ",
-    "kana":"タマプラ－ザ",
-    "hira":"たまぷら－ざ",
-    "roma":"tamapura-za"
+    "name":"たまプラーザ１３",
+    "kana":"タマプラ－ザイチサン",
+    "hira":"たまぷら－ざいちさん",
+    "roma":"tamapura-zaichisan"
   },
   "015":{
     "code":"015",
@@ -99,10 +99,10 @@
   },
   "021":{
     "code":"021",
-    "name":"吉祥寺",
-    "kana":"キチジヨウジ",
-    "hira":"きちじようじ",
-    "roma":"kichijiyouji"
+    "name":"吉祥寺２１",
+    "kana":"キチジヨウジニイチ",
+    "hira":"きちじようじにいち",
+    "roma":"kichijiyoujiniichi"
   },
   "022":{
     "code":"022",
@@ -134,10 +134,10 @@
   },
   "027":{
     "code":"027",
-    "name":"新宿",
-    "kana":"シンジユク",
-    "hira":"しんじゆく",
-    "roma":"shinjiyuku"
+    "name":"新宿２７",
+    "kana":"シンジユクニナナ",
+    "hira":"しんじゆくになな",
+    "roma":"shinjiyukuninana"
   },
   "029":{
     "code":"029",
@@ -155,17 +155,17 @@
   },
   "031":{
     "code":"031",
-    "name":"自由が丘",
-    "kana":"ジユウガオカ",
-    "hira":"じゆうがおか",
-    "roma":"jiyuugaoka"
+    "name":"自由が丘３１",
+    "kana":"ジユウガオカサンイチ",
+    "hira":"じゆうがおかさんいち",
+    "roma":"jiyuugaokasanichi"
   },
   "032":{
     "code":"032",
-    "name":"渋谷",
-    "kana":"シブヤ",
-    "hira":"しぶや",
-    "roma":"shibuya"
+    "name":"渋谷３２",
+    "kana":"シブヤサンニ",
+    "hira":"しぶやさんに",
+    "roma":"shibuyasanni"
   },
   "033":{
     "code":"033",
@@ -183,10 +183,10 @@
   },
   "035":{
     "code":"035",
-    "name":"川崎",
-    "kana":"カワサキ",
-    "hira":"かわさき",
-    "roma":"kawasaki"
+    "name":"川崎３５",
+    "kana":"カワサキサンゴ",
+    "hira":"かわさきさんご",
+    "roma":"kawasakisango"
   },
   "036":{
     "code":"036",
@@ -309,10 +309,10 @@
   },
   "054":{
     "code":"054",
-    "name":"金山",
-    "kana":"カナヤマ",
-    "hira":"かなやま",
-    "roma":"kanayama"
+    "name":"名古屋営業５４",
+    "kana":"ナゴヤエイギヨウゴヨン",
+    "hira":"なごやえいぎようごよん",
+    "roma":"nagoyaeigiyougoyon"
   },
   "055":{
     "code":"055",
@@ -386,17 +386,17 @@
   },
   "067":{
     "code":"067",
-    "name":"上本町",
-    "kana":"ウエホンマチ",
-    "hira":"うえほんまち",
-    "roma":"uehommachi"
+    "name":"なんば６７",
+    "kana":"ナンバロクナナ",
+    "hira":"なんばろくなな",
+    "roma":"nambarokunana"
   },
   "068":{
     "code":"068",
-    "name":"なんば",
-    "kana":"ナンバ",
-    "hira":"なんば",
-    "roma":"namba"
+    "name":"なんば６８",
+    "kana":"ナンバロクハチ",
+    "hira":"なんばろくはち",
+    "roma":"nambarokuhachi"
   },
   "069":{
     "code":"069",
@@ -421,17 +421,17 @@
   },
   "072":{
     "code":"072",
-    "name":"奈良",
-    "kana":"ナラ",
-    "hira":"なら",
-    "roma":"nara"
+    "name":"奈良７２",
+    "kana":"ナラナナニ",
+    "hira":"ならななに",
+    "roma":"narananani"
   },
   "073":{
     "code":"073",
-    "name":"神戸",
-    "kana":"コウベ",
-    "hira":"こうべ",
-    "roma":"koube"
+    "name":"神戸７３",
+    "kana":"コウベナナサン",
+    "hira":"こうべななさん",
+    "roma":"koubenanasan"
   },
   "074":{
     "code":"074",
@@ -638,17 +638,17 @@
   },
   "202":{
     "code":"202",
-    "name":"玉川",
-    "kana":"タマガワ",
-    "hira":"たまがわ",
-    "roma":"tamagawa"
+    "name":"渋谷２０２",
+    "kana":"シブヤニゼロニ",
+    "hira":"しぶやにぜろに",
+    "roma":"shibuyanizeroni"
   },
   "203":{
     "code":"203",
-    "name":"新宿野村ビル",
-    "kana":"シンジユクノムラビル",
-    "hira":"しんじゆくのむらびる",
-    "roma":"shinjiyukunomurabiru"
+    "name":"新宿２０３",
+    "kana":"シンジユクニゼロサン",
+    "hira":"しんじゆくにぜろさん",
+    "roma":"shinjiyukunizerosan"
   },
   "204":{
     "code":"204",
@@ -666,10 +666,10 @@
   },
   "208":{
     "code":"208",
-    "name":"町田",
-    "kana":"マチダ",
-    "hira":"まちだ",
-    "roma":"machida"
+    "name":"町田２０８",
+    "kana":"マチダニゼロハチ",
+    "hira":"まちだにぜろはち",
+    "roma":"machidanizerohachi"
   },
   "209":{
     "code":"209",
@@ -764,10 +764,10 @@
   },
   "251":{
     "code":"251",
-    "name":"岸和田",
-    "kana":"キシワダ",
-    "hira":"きしわだ",
-    "roma":"kishiwada"
+    "name":"なんば２５１",
+    "kana":"ナンバニゴイチ",
+    "hira":"なんばにごいち",
+    "roma":"nambanigoichi"
   },
   "252":{
     "code":"252",
@@ -778,17 +778,17 @@
   },
   "257":{
     "code":"257",
-    "name":"豊中",
-    "kana":"トヨナカ",
-    "hira":"とよなか",
-    "roma":"toyonaka"
+    "name":"豊中２５７",
+    "kana":"トヨナカニゴナナ",
+    "hira":"とよなかにごなな",
+    "roma":"toyonakanigonana"
   },
   "258":{
     "code":"258",
-    "name":"青葉台",
-    "kana":"アオバダイ",
-    "hira":"あおばだい",
-    "roma":"aobadai"
+    "name":"たまプラーザ２５８",
+    "kana":"タマプラ－ザニゴハチ",
+    "hira":"たまぷら－ざにごはち",
+    "roma":"tamapura-zanigohachi"
   },
   "260":{
     "code":"260",
@@ -813,10 +813,10 @@
   },
   "264":{
     "code":"264",
-    "name":"中野",
-    "kana":"ナカノ",
-    "hira":"なかの",
-    "roma":"nakano"
+    "name":"新宿２６４",
+    "kana":"シンジユクニロクヨン",
+    "hira":"しんじゆくにろくよん",
+    "roma":"shinjiyukunirokuyon"
   },
   "265":{
     "code":"265",
@@ -876,10 +876,10 @@
   },
   "273":{
     "code":"273",
-    "name":"相模原",
-    "kana":"サガミハラ",
-    "hira":"さがみはら",
-    "roma":"sagamihara"
+    "name":"町田２７３",
+    "kana":"マチダニナナサン",
+    "hira":"まちだにななさん",
+    "roma":"machidaninanasan"
   },
   "276":{
     "code":"276",
@@ -897,24 +897,24 @@
   },
   "280":{
     "code":"280",
-    "name":"岡本",
-    "kana":"オカモト",
-    "hira":"おかもと",
-    "roma":"okamoto"
+    "name":"神戸２８０",
+    "kana":"コウベニハチゼロ",
+    "hira":"こうべにはちぜろ",
+    "roma":"koubenihachizero"
   },
   "281":{
     "code":"281",
-    "name":"学園前",
-    "kana":"ガクエンマエ",
-    "hira":"がくえんまえ",
-    "roma":"gakuemmae"
+    "name":"奈良２８１",
+    "kana":"ナラニハチイチ",
+    "hira":"ならにはちいち",
+    "roma":"naranihachiichi"
   },
   "283":{
     "code":"283",
-    "name":"中目黒",
-    "kana":"ナカメグロ",
-    "hira":"なかめぐろ",
-    "roma":"nakameguro"
+    "name":"渋谷２８３",
+    "kana":"シブヤニハチサン",
+    "hira":"しぶやにはちさん",
+    "roma":"shibuyanihachisan"
   },
   "286":{
     "code":"286",
@@ -925,17 +925,17 @@
   },
   "287":{
     "code":"287",
-    "name":"鎌倉",
-    "kana":"カマクラ",
-    "hira":"かまくら",
-    "roma":"kamakura"
+    "name":"藤沢２８７",
+    "kana":"フジサワニハチナナ",
+    "hira":"ふじさわにはちなな",
+    "roma":"fujisawanihachinana"
   },
   "288":{
     "code":"288",
-    "name":"鶴見",
-    "kana":"ツルミ",
-    "hira":"つるみ",
-    "roma":"tsurumi"
+    "name":"川崎２８８",
+    "kana":"カワサキニハチハチ",
+    "hira":"かわさきにはちはち",
+    "roma":"kawasakinihachihachi"
   },
   "292":{
     "code":"292",
@@ -946,10 +946,10 @@
   },
   "299":{
     "code":"299",
-    "name":"田無",
-    "kana":"タナシ",
-    "hira":"たなし",
-    "roma":"tanashi"
+    "name":"吉祥寺２９９",
+    "kana":"キチジヨウジニキユウキユウ",
+    "hira":"きちじようじにきゆうきゆう",
+    "roma":"kichijiyoujinikiyuukiyuu"
   },
   "302":{
     "code":"302",
@@ -1051,10 +1051,10 @@
   },
   "408":{
     "code":"408",
-    "name":"藤沢",
-    "kana":"フジサワ",
-    "hira":"ふじさわ",
-    "roma":"fujisawa"
+    "name":"藤沢４０８",
+    "kana":"フジサワヨンゼロハチ",
+    "hira":"ふじさわよんぜろはち",
+    "roma":"fujisawayonzerohachi"
   },
   "409":{
     "code":"409",
@@ -1184,24 +1184,24 @@
   },
   "715":{
     "code":"715",
-    "name":"田園調布",
-    "kana":"デンエンチヨウフ",
-    "hira":"でんえんちようふ",
-    "roma":"denenchiyoufu"
+    "name":"自由が丘７１５",
+    "kana":"ジユウガオカナナイチゴ",
+    "hira":"じゆうがおかなないちご",
+    "roma":"jiyuugaokananaichigo"
   },
   "717":{
     "code":"717",
-    "name":"川西",
-    "kana":"カワニシ",
-    "hira":"かわにし",
-    "roma":"kawanishi"
+    "name":"豊中７１７",
+    "kana":"トヨナカナナイチナナ",
+    "hira":"とよなかなないちなな",
+    "roma":"toyonakananaichinana"
   },
   "719":{
     "code":"719",
-    "name":"武蔵小杉",
-    "kana":"ムサシコスギ",
-    "hira":"むさしこすぎ",
-    "roma":"musashikosugi"
+    "name":"川崎７１９",
+    "kana":"カワサキナナイチキユウ",
+    "hira":"かわさきなないちきゆう",
+    "roma":"kawasakinanaichikiyuu"
   },
   "738":{
     "code":"738",
