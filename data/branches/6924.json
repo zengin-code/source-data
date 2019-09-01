@@ -27,33 +27,19 @@
     "hira":"とらひめ",
     "roma":"torahime"
   },
-  "609":{
-    "code":"609",
-    "name":"竹生",
-    "kana":"チクブ",
-    "hira":"ちくぶ",
-    "roma":"chikubu"
-  },
   "610":{
     "code":"610",
-    "name":"大郷",
-    "kana":"オオザト",
-    "hira":"おおざと",
-    "roma":"oozato"
+    "name":"びわ",
+    "kana":"ビワ",
+    "hira":"びわ",
+    "roma":"biwa"
   },
   "614":{
     "code":"614",
-    "name":"速水",
-    "kana":"ハヤミ",
-    "hira":"はやみ",
-    "roma":"hayami"
-  },
-  "616":{
-    "code":"616",
-    "name":"朝日",
-    "kana":"アサヒ",
-    "hira":"あさひ",
-    "roma":"asahi"
+    "name":"湖北",
+    "kana":"コホク",
+    "hira":"こほく",
+    "roma":"kohoku"
   },
   "618":{
     "code":"618",

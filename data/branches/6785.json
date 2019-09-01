@@ -1,38 +1,10 @@
 {
-  "011":{
-    "code":"011",
-    "name":"和田",
-    "kana":"ワダ",
-    "hira":"わだ",
-    "roma":"wada"
-  },
-  "012":{
-    "code":"012",
-    "name":"岡保",
-    "kana":"オカボ",
-    "hira":"おかぼ",
-    "roma":"okabo"
-  },
-  "013":{
-    "code":"013",
-    "name":"東藤島",
-    "kana":"ヒガシフジシマ",
-    "hira":"ひがしふじしま",
-    "roma":"higashifujishima"
-  },
   "014":{
     "code":"014",
-    "name":"円山東",
-    "kana":"エンザンヒガシ",
-    "hira":"えんざんひがし",
-    "roma":"enzanhigashi"
-  },
-  "015":{
-    "code":"015",
-    "name":"円山西",
-    "kana":"エンザンニシ",
-    "hira":"えんざんにし",
-    "roma":"enzannishi"
+    "name":"東部",
+    "kana":"トウブ",
+    "hira":"とうぶ",
+    "roma":"toubu"
   },
   "016":{
     "code":"016",
@@ -50,52 +22,17 @@
   },
   "018":{
     "code":"018",
-    "name":"社",
-    "kana":"ヤシロ",
-    "hira":"やしろ",
-    "roma":"yashiro"
-  },
-  "019":{
-    "code":"019",
-    "name":"東安居",
-    "kana":"ヒガシアゴ",
-    "hira":"ひがしあご",
-    "roma":"higashiago"
-  },
-  "020":{
-    "code":"020",
-    "name":"西安居",
-    "kana":"ニシアゴ",
-    "hira":"にしあご",
-    "roma":"nishiago"
-  },
-  "022":{
-    "code":"022",
-    "name":"大安寺",
-    "kana":"ダイアンジ",
-    "hira":"だいあんじ",
-    "roma":"daianji"
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
   },
   "023":{
     "code":"023",
-    "name":"鶉",
-    "kana":"ウズラ",
-    "hira":"うずら",
-    "roma":"uzura"
-  },
-  "025":{
-    "code":"025",
-    "name":"棗",
-    "kana":"ナツメ",
-    "hira":"なつめ",
-    "roma":"natsume"
-  },
-  "026":{
-    "code":"026",
-    "name":"鷹巣",
-    "kana":"タカス",
-    "hira":"たかす",
-    "roma":"takasu"
+    "name":"西部",
+    "kana":"セイブ",
+    "hira":"せいぶ",
+    "roma":"seibu"
   },
   "029":{
     "code":"029",
@@ -127,24 +64,10 @@
   },
   "052":{
     "code":"052",
-    "name":"中藤島",
-    "kana":"ナカフジシマ",
-    "hira":"なかふじしま",
-    "roma":"nakafujishima"
-  },
-  "053":{
-    "code":"053",
-    "name":"河合",
-    "kana":"カワイ",
-    "hira":"かわい",
-    "roma":"kawai"
-  },
-  "054":{
-    "code":"054",
-    "name":"森田",
-    "kana":"モリタ",
-    "hira":"もりた",
-    "roma":"morita"
+    "name":"北部",
+    "kana":"ホクブ",
+    "hira":"ほくぶ",
+    "roma":"hokubu"
   },
   "056":{
     "code":"056",

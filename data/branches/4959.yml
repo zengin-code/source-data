@@ -47,12 +47,6 @@
   kana: バラキナカヤマ
   hira: ばらきなかやま
   roma: barakinakayama
-'012':
-  code: '012'
-  name: 南行徳
-  kana: ミナミギヨウトク
-  hira: みなみぎようとく
-  roma: minamigiyoutoku
 '013':
   code: '013'
   name: 浦安
@@ -71,12 +65,6 @@
   kana: トヨトミ
   hira: とよとみ
   roma: toyotomi
-'017':
-  code: '017'
-  name: 法典
-  kana: ホウデン
-  hira: ほうでん
-  roma: houden
 '018':
   code: '018'
   name: 船橋

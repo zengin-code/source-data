@@ -11,30 +11,12 @@
   kana: ノビトメ
   hira: のびとめ
   roma: nobitome
-'003':
-  code: '003'
-  name: 新座大和田
-  kana: ニイザオオワダ
-  hira: にいざおおわだ
-  roma: niizaoowada
 '004':
   code: '004'
-  name: 片山
-  kana: カタヤマ
-  hira: かたやま
-  roma: katayama
-'005':
-  code: '005'
-  name: 野寺
-  kana: ノデラ
-  hira: のでら
-  roma: nodera
-'006':
-  code: '006'
-  name: 西堀
-  kana: ニシボリ
-  hira: にしぼり
-  roma: nishibori
+  name: 新座
+  kana: ニイザ
+  hira: にいざ
+  roma: niiza
 '007':
   code: '007'
   name: 朝霞
