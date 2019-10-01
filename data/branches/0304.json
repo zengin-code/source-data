@@ -64,10 +64,10 @@
   },
   "015":{
     "code":"015",
-    "name":"大森",
-    "kana":"オオモリ",
-    "hira":"おおもり",
-    "roma":"oomori"
+    "name":"大森１５",
+    "kana":"オオモリイチゴ",
+    "hira":"おおもりいちご",
+    "roma":"oomoriichigo"
   },
   "016":{
     "code":"016",
@@ -141,10 +141,10 @@
   },
   "029":{
     "code":"029",
-    "name":"蒲田",
-    "kana":"カマタ",
-    "hira":"かまた",
-    "roma":"kamata"
+    "name":"大森２９",
+    "kana":"オオモリニキユウ",
+    "hira":"おおもりにきゆう",
+    "roma":"oomorinikiyuu"
   },
   "030":{
     "code":"030",
@@ -190,10 +190,10 @@
   },
   "036":{
     "code":"036",
-    "name":"横浜馬車道",
-    "kana":"ヨコハマバシヤミチ",
-    "hira":"よこはまばしやみち",
-    "roma":"yokohamabashiyamichi"
+    "name":"横浜３６",
+    "kana":"ヨコハマサンロク",
+    "hira":"よこはまさんろく",
+    "roma":"yokohamasanroku"
   },
   "037":{
     "code":"037",
@@ -358,10 +358,10 @@
   },
   "062":{
     "code":"062",
-    "name":"梅田",
-    "kana":"ウメダ",
-    "hira":"うめだ",
-    "roma":"umeda"
+    "name":"梅田６２",
+    "kana":"ウメダロクニ",
+    "hira":"うめだろくに",
+    "roma":"umedarokuni"
   },
   "063":{
     "code":"063",
@@ -372,17 +372,17 @@
   },
   "064":{
     "code":"064",
-    "name":"西宮",
-    "kana":"ニシノミヤ",
-    "hira":"にしのみや",
-    "roma":"nishinomiya"
+    "name":"西宮６４",
+    "kana":"ニシノミヤロクヨン",
+    "hira":"にしのみやろくよん",
+    "roma":"nishinomiyarokuyon"
   },
   "066":{
     "code":"066",
-    "name":"千里",
-    "kana":"センリ",
-    "hira":"せんり",
-    "roma":"senri"
+    "name":"梅田６６",
+    "kana":"ウメダロクロク",
+    "hira":"うめだろくろく",
+    "roma":"umedarokuroku"
   },
   "067":{
     "code":"067",
@@ -414,10 +414,10 @@
   },
   "071":{
     "code":"071",
-    "name":"高槻",
-    "kana":"タカツキ",
-    "hira":"たかつき",
-    "roma":"takatsuki"
+    "name":"高槻７１",
+    "kana":"タカツキナナイチ",
+    "hira":"たかつきなないち",
+    "roma":"takatsukinanaichi"
   },
   "072":{
     "code":"072",
@@ -673,10 +673,10 @@
   },
   "209":{
     "code":"209",
-    "name":"五反田",
-    "kana":"ゴタンダ",
-    "hira":"ごたんだ",
-    "roma":"gotanda"
+    "name":"品川２０９",
+    "kana":"シナガワニゼロキユウ",
+    "hira":"しながわにぜろきゆう",
+    "roma":"shinagawanizerokiyuu"
   },
   "213":{
     "code":"213",
@@ -701,10 +701,10 @@
   },
   "229":{
     "code":"229",
-    "name":"品川",
-    "kana":"シナガワ",
-    "hira":"しながわ",
-    "roma":"shinagawa"
+    "name":"品川２２９",
+    "kana":"シナガワニニキユウ",
+    "hira":"しながわににきゆう",
+    "roma":"shinagawaninikiyuu"
   },
   "230":{
     "code":"230",
@@ -722,10 +722,10 @@
   },
   "236":{
     "code":"236",
-    "name":"塚口",
-    "kana":"ツカグチ",
-    "hira":"つかぐち",
-    "roma":"tsukaguchi"
+    "name":"梅田２３６",
+    "kana":"ウメダニサンロク",
+    "hira":"うめだにさんろく",
+    "roma":"umedanisanroku"
   },
   "237":{
     "code":"237",
@@ -918,10 +918,10 @@
   },
   "286":{
     "code":"286",
-    "name":"茨木",
-    "kana":"イバラキ",
-    "hira":"いばらき",
-    "roma":"ibaraki"
+    "name":"高槻２８６",
+    "kana":"タカツキニハチロク",
+    "hira":"たかつきにはちろく",
+    "roma":"takatsukinihachiroku"
   },
   "287":{
     "code":"287",
@@ -939,10 +939,10 @@
   },
   "292":{
     "code":"292",
-    "name":"大東",
-    "kana":"ダイトウ",
-    "hira":"だいとう",
-    "roma":"daitou"
+    "name":"梅田２９２",
+    "kana":"ウメダニキユウニ",
+    "hira":"うめだにきゆうに",
+    "roma":"umedanikiyuuni"
   },
   "299":{
     "code":"299",
@@ -1023,10 +1023,10 @@
   },
   "403":{
     "code":"403",
-    "name":"横浜",
-    "kana":"ヨコハマ",
-    "hira":"よこはま",
-    "roma":"yokohama"
+    "name":"横浜４０３",
+    "kana":"ヨコハマヨンゼロサン",
+    "hira":"よこはまよんぜろさん",
+    "roma":"yokohamayonzerosan"
   },
   "404":{
     "code":"404",
@@ -1177,10 +1177,10 @@
   },
   "714":{
     "code":"714",
-    "name":"宝塚",
-    "kana":"タカラヅカ",
-    "hira":"たからづか",
-    "roma":"takaraduka"
+    "name":"西宮７１４",
+    "kana":"ニシノミヤナナイチヨン",
+    "hira":"にしのみやなないちよん",
+    "roma":"nishinomiyananaichiyon"
   },
   "715":{
     "code":"715",

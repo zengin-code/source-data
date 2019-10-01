@@ -27,26 +27,12 @@
     "hira":"しいだ",
     "roma":"shiida"
   },
-  "009":{
-    "code":"009",
-    "name":"豊前西部",
-    "kana":"ブゼンセイブ",
-    "hira":"ぶぜんせいぶ",
-    "roma":"buzenseibu"
-  },
   "012":{
     "code":"012",
     "name":"豊前中央",
     "kana":"ブゼンチユウオウ",
     "hira":"ぶぜんちゆうおう",
     "roma":"buzenchiyuuou"
-  },
-  "013":{
-    "code":"013",
-    "name":"三毛門",
-    "kana":"ミケカド",
-    "hira":"みけかど",
-    "roma":"mikekado"
   },
   "015":{
     "code":"015",
@@ -68,13 +54,6 @@
     "kana":"チクトウ",
     "hira":"ちくとう",
     "roma":"chikutou"
-  },
-  "023":{
-    "code":"023",
-    "name":"唐原",
-    "kana":"トウバル",
-    "hira":"とうばる",
-    "roma":"toubaru"
   },
   "100":{
     "code":"100",
@@ -131,13 +110,6 @@
     "kana":"サイガワ",
     "hira":"さいがわ",
     "roma":"saigawa"
-  },
-  "133":{
-    "code":"133",
-    "name":"伊良原",
-    "kana":"イラハラ",
-    "hira":"いらはら",
-    "roma":"irahara"
   },
   "141":{
     "code":"141",

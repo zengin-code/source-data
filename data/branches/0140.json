@@ -29,17 +29,17 @@
   },
   "234":{
     "code":"234",
-    "name":"古町",
-    "kana":"フルマチ",
-    "hira":"ふるまち",
-    "roma":"furumachi"
+    "name":"古町中央",
+    "kana":"フルマチチユウオウ",
+    "hira":"ふるまちちゆうおう",
+    "roma":"furumachichiyuuou"
   },
   "236":{
     "code":"236",
-    "name":"小針",
-    "kana":"コバリ",
-    "hira":"こばり",
-    "roma":"kobari"
+    "name":"小針が丘",
+    "kana":"コバリガオカ",
+    "hira":"こばりがおか",
+    "roma":"kobarigaoka"
   },
   "237":{
     "code":"237",
@@ -78,10 +78,10 @@
   },
   "247":{
     "code":"247",
-    "name":"関屋",
-    "kana":"セキヤ",
-    "hira":"せきや",
-    "roma":"sekiya"
+    "name":"関屋中央",
+    "kana":"セキヤチユウオウ",
+    "hira":"せきやちゆうおう",
+    "roma":"sekiyachiyuuou"
   },
   "248":{
     "code":"248",
@@ -127,10 +127,10 @@
   },
   "257":{
     "code":"257",
-    "name":"木戸",
-    "kana":"キド",
-    "hira":"きど",
-    "roma":"kido"
+    "name":"中山",
+    "kana":"ナカヤマ",
+    "hira":"なかやま",
+    "roma":"nakayama"
   },
   "258":{
     "code":"258",
@@ -162,10 +162,10 @@
   },
   "264":{
     "code":"264",
-    "name":"石山",
-    "kana":"イシヤマ",
-    "hira":"いしやま",
-    "roma":"ishiyama"
+    "name":"石山中央",
+    "kana":"イシヤマチユウオウ",
+    "hira":"いしやまちゆうおう",
+    "roma":"ishiyamachiyuuou"
   },
   "265":{
     "code":"265",
@@ -204,10 +204,10 @@
   },
   "271":{
     "code":"271",
-    "name":"小針南",
-    "kana":"コバリミナミ",
-    "hira":"こばりみなみ",
-    "roma":"kobariminami"
+    "name":"小針中央",
+    "kana":"コバリチユウオウ",
+    "hira":"こばりちゆうおう",
+    "roma":"kobarichiyuuou"
   },
   "273":{
     "code":"273",
@@ -316,17 +316,17 @@
   },
   "325":{
     "code":"325",
-    "name":"中条",
-    "kana":"ナカジヨウ",
-    "hira":"なかじよう",
-    "roma":"nakajiyou"
+    "name":"中条中央",
+    "kana":"ナカジヨウチユウオウ",
+    "hira":"なかじようちゆうおう",
+    "roma":"nakajiyouchiyuuou"
   },
   "326":{
     "code":"326",
-    "name":"豊栄",
-    "kana":"トヨサカ",
-    "hira":"とよさか",
-    "roma":"toyosaka"
+    "name":"豊栄中央",
+    "kana":"トヨサカチユウオウ",
+    "hira":"とよさかちゆうおう",
+    "roma":"toyosakachiyuuou"
   },
   "327":{
     "code":"327",
@@ -372,10 +372,10 @@
   },
   "336":{
     "code":"336",
-    "name":"村松",
-    "kana":"ムラマツ",
-    "hira":"むらまつ",
-    "roma":"muramatsu"
+    "name":"村松中央",
+    "kana":"ムラマツチユウオウ",
+    "hira":"むらまつちゆうおう",
+    "roma":"muramatsuchiyuuou"
   },
   "337":{
     "code":"337",
@@ -505,17 +505,17 @@
   },
   "422":{
     "code":"422",
-    "name":"見附",
-    "kana":"ミツケ",
-    "hira":"みつけ",
-    "roma":"mitsuke"
+    "name":"見附中央",
+    "kana":"ミツケチユウオウ",
+    "hira":"みつけちゆうおう",
+    "roma":"mitsukechiyuuou"
   },
   "423":{
     "code":"423",
-    "name":"今町",
-    "kana":"イママチ",
-    "hira":"いままち",
-    "roma":"imamachi"
+    "name":"今町中央",
+    "kana":"イママチチユウオウ",
+    "hira":"いままちちゆうおう",
+    "roma":"imamachichiyuuou"
   },
   "424":{
     "code":"424",
@@ -547,10 +547,10 @@
   },
   "432":{
     "code":"432",
-    "name":"神田",
-    "kana":"カンダ",
-    "hira":"かんだ",
-    "roma":"kanda"
+    "name":"神田中央",
+    "kana":"カンダチユウオウ",
+    "hira":"かんだちゆうおう",
+    "roma":"kandachiyuuou"
   },
   "434":{
     "code":"434",
@@ -610,10 +610,10 @@
   },
   "451":{
     "code":"451",
-    "name":"小千谷",
-    "kana":"オヂヤ",
-    "hira":"おぢや",
-    "roma":"odiya"
+    "name":"小千谷中央",
+    "kana":"オヂヤチユウオウ",
+    "hira":"おぢやちゆうおう",
+    "roma":"odiyachiyuuou"
   },
   "452":{
     "code":"452",
@@ -624,10 +624,10 @@
   },
   "453":{
     "code":"453",
-    "name":"十日町",
-    "kana":"トウカマチ",
-    "hira":"とうかまち",
-    "roma":"toukamachi"
+    "name":"十日町中央",
+    "kana":"トウカマチチユウオウ",
+    "hira":"とうかまちちゆうおう",
+    "roma":"toukamachichiyuuou"
   },
   "455":{
     "code":"455",
@@ -638,17 +638,17 @@
   },
   "456":{
     "code":"456",
-    "name":"小出",
-    "kana":"コイデ",
-    "hira":"こいで",
-    "roma":"koide"
+    "name":"小出中央",
+    "kana":"コイデチユウオウ",
+    "hira":"こいでちゆうおう",
+    "roma":"koidechiyuuou"
   },
   "457":{
     "code":"457",
-    "name":"六日町",
-    "kana":"ムイカマチ",
-    "hira":"むいかまち",
-    "roma":"muikamachi"
+    "name":"六日町中央",
+    "kana":"ムイカマチチユウオウ",
+    "hira":"むいかまちちゆうおう",
+    "roma":"muikamachichiyuuou"
   },
   "458":{
     "code":"458",
@@ -743,10 +743,10 @@
   },
   "556":{
     "code":"556",
-    "name":"青海",
-    "kana":"オウミ",
-    "hira":"おうみ",
-    "roma":"oumi"
+    "name":"青海中央",
+    "kana":"オウミチユウオウ",
+    "hira":"おうみちゆうおう",
+    "roma":"oumichiyuuou"
   },
   "582":{
     "code":"582",

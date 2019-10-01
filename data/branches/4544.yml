@@ -29,12 +29,6 @@
   kana: マエバシ
   hira: まえばし
   roma: maebashi
-'006':
-  code: '006'
-  name: 上川渕
-  kana: カミカワフチ
-  hira: かみかわふち
-  roma: kamikawafuchi
 '007':
   code: '007'
   name: 南部
@@ -47,12 +41,6 @@
   kana: ナンキツ
   hira: なんきつ
   roma: nankitsu
-'011':
-  code: '011'
-  name: 芳賀
-  kana: ハガ
-  hira: はが
-  roma: haga
 '012':
   code: '012'
   name: 桂萱
@@ -85,16 +73,10 @@
   roma: kiyosato
 '017':
   code: '017'
-  name: 富士見
-  kana: フジミ
-  hira: ふじみ
-  roma: fujimi
-'019':
-  code: '019'
-  name: 小暮出張所
-  kana: コグレ
-  hira: こぐれ
-  roma: kogure
+  name: 北部
+  kana: ホクブ
+  hira: ほくぶ
+  roma: hokubu
 '021':
   code: '021'
   name: 大胡

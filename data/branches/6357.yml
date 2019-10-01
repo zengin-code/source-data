@@ -23,12 +23,6 @@
   kana: トミオカ
   hira: とみおか
   roma: tomioka
-'005':
-  code: '005'
-  name: 西部
-  kana: セイブ
-  hira: せいぶ
-  roma: seibu
 '006':
   code: '006'
   name: 北山
@@ -53,18 +47,6 @@
   kana: フジネ
   hira: ふじね
   roma: fujine
-'012':
-  code: '012'
-  name: 山宮
-  kana: ヤマミヤ
-  hira: やまみや
-  roma: yamamiya
-'015':
-  code: '015'
-  name: 杉田
-  kana: スギタ
-  hira: すぎた
-  roma: sugita
 '016':
   code: '016'
   name: 中央

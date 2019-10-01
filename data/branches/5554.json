@@ -20,34 +20,6 @@
     "hira":"いじみの",
     "roma":"ijimino"
   },
-  "006":{
-    "code":"006",
-    "name":"松浦",
-    "kana":"マツウラ",
-    "hira":"まつうら",
-    "roma":"matsuura"
-  },
-  "007":{
-    "code":"007",
-    "name":"川東",
-    "kana":"カワヒガシ",
-    "hira":"かわひがし",
-    "roma":"kawahigashi"
-  },
-  "008":{
-    "code":"008",
-    "name":"菅谷",
-    "kana":"スガタニ",
-    "hira":"すがたに",
-    "roma":"sugatani"
-  },
-  "010":{
-    "code":"010",
-    "name":"佐々木",
-    "kana":"ササキ",
-    "hira":"ささき",
-    "roma":"sasaki"
-  },
   "020":{
     "code":"020",
     "name":"豊浦",

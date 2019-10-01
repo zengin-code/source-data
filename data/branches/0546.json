@@ -195,13 +195,6 @@
     "hira":"あかめ",
     "roma":"akame"
   },
-  "230":{
-    "code":"230",
-    "name":"上野",
-    "kana":"ウエノ",
-    "hira":"うえの",
-    "roma":"ueno"
-  },
   "240":{
     "code":"240",
     "name":"津",
@@ -253,10 +246,10 @@
   },
   "265":{
     "code":"265",
-    "name":"千里",
-    "kana":"チサト",
-    "hira":"ちさと",
-    "roma":"chisato"
+    "name":"千里ヶ丘",
+    "kana":"チサトガオカ",
+    "hira":"ちさとがおか",
+    "roma":"chisatogaoka"
   },
   "270":{
     "code":"270",
@@ -295,10 +288,10 @@
   },
   "290":{
     "code":"290",
-    "name":"白子",
-    "kana":"シロコ",
-    "hira":"しろこ",
-    "roma":"shiroko"
+    "name":"白子本町",
+    "kana":"シロコホンマチ",
+    "hira":"しろこほんまち",
+    "roma":"shirokohommachi"
   },
   "292":{
     "code":"292",
@@ -379,10 +372,10 @@
   },
   "355":{
     "code":"355",
-    "name":"大矢知",
-    "kana":"オオヤチ",
-    "hira":"おおやち",
-    "roma":"ooyachi"
+    "name":"大矢知東",
+    "kana":"オオヤチヒガシ",
+    "hira":"おおやちひがし",
+    "roma":"ooyachihigashi"
   },
   "360":{
     "code":"360",
@@ -454,13 +447,6 @@
     "hira":"はつた",
     "roma":"hatsuta"
   },
-  "430":{
-    "code":"430",
-    "name":"上前津",
-    "kana":"カミマエヅ",
-    "hira":"かみまえづ",
-    "roma":"kamimaedu"
-  },
   "440":{
     "code":"440",
     "name":"堀田",
@@ -481,13 +467,6 @@
     "kana":"トクシゲ",
     "hira":"とくしげ",
     "roma":"tokushige"
-  },
-  "450":{
-    "code":"450",
-    "name":"上飯田",
-    "kana":"カミイイダ",
-    "hira":"かみいいだ",
-    "roma":"kamiiida"
   },
   "460":{
     "code":"460",
@@ -629,6 +608,20 @@
     "hira":"うれしの",
     "roma":"ureshino"
   },
+  "755":{
+    "code":"755",
+    "name":"上野",
+    "kana":"ウエノ",
+    "hira":"うえの",
+    "roma":"ueno"
+  },
+  "758":{
+    "code":"758",
+    "name":"上前津",
+    "kana":"カミマエヅ",
+    "hira":"かみまえづ",
+    "roma":"kamimaedu"
+  },
   "759":{
     "code":"759",
     "name":"喜多山",
@@ -642,6 +635,13 @@
     "kana":"イノコイシ",
     "hira":"いのこいし",
     "roma":"inokoishi"
+  },
+  "761":{
+    "code":"761",
+    "name":"上飯田",
+    "kana":"カミイイダ",
+    "hira":"かみいいだ",
+    "roma":"kamiiida"
   },
   "762":{
     "code":"762",

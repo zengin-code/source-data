@@ -101,12 +101,6 @@
   kana: コマツ
   hira: こまつ
   roma: komatsu
-'025':
-  code: '025'
-  name: 高柳出張所
-  kana: タカヤナギ
-  hira: たかやなぎ
-  roma: takayanagi
 '026':
   code: '026'
   name: 新大阪駅前
@@ -299,12 +293,6 @@
   kana: フクイ
   hira: ふくい
   roma: fukui
-'091':
-  code: '091'
-  name: 江口出張所
-  kana: エグチ
-  hira: えぐち
-  roma: eguchi
 '101':
   code: '101'
   name: 豊中
