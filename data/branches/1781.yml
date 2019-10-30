@@ -13,7 +13,7 @@
   roma: hommura
 '014':
   code: '014'
-  name: 西山
+  name: 西山出張所
   kana: ニシヤマ
   hira: にしやま
   roma: nishiyama
@@ -37,7 +37,7 @@
   roma: karato
 '019':
   code: '019'
-  name: 後田
+  name: 後田出張所
   kana: ウシロダ
   hira: うしろだ
   roma: ushiroda
@@ -67,7 +67,7 @@
   roma: chiyoufu
 '024':
   code: '024'
-  name: 汐入
+  name: 汐入出張所
   kana: シオイリ
   hira: しおいり
   roma: shioiri
@@ -85,7 +85,7 @@
   roma: kawatana
 '027':
   code: '027'
-  name: シーモール代理店
+  name: シーモール出張所
   kana: シ－モ－ル
   hira: し－も－る
   roma: shi-mo-ru
@@ -97,7 +97,7 @@
   roma: takaramachi
 '030':
   code: '030'
-  name: 向井町代理店
+  name: 向井町出張所
   kana: ムカイチヨウ
   hira: むかいちよう
   roma: mukaichiyou
@@ -223,7 +223,7 @@
   roma: ajisu
 '327':
   code: '327'
-  name: 嘉川
+  name: 嘉川出張所
   kana: カガワ
   hira: かがわ
   roma: kagawa
@@ -235,7 +235,7 @@
   roma: aio
 '329':
   code: '329'
-  name: 秋芳
+  name: 秋芳出張所
   kana: シユウホウ
   hira: しゆうほう
   roma: shiyuuhou
@@ -265,13 +265,13 @@
   roma: masuda
 '452':
   code: '452'
-  name: 徳佐
+  name: 徳佐出張所
   kana: トクサ
   hira: とくさ
   roma: tokusa
 '453':
   code: '453'
-  name: 日原
+  name: 日原出張所
   kana: ニチハラ
   hira: にちはら
   roma: nichihara
@@ -307,13 +307,13 @@
   roma: minamiiwakuni
 '594':
   code: '594'
-  name: 通津代理店
+  name: 通津出張所
   kana: ツヅ
   hira: つづ
   roma: tsudu
 '595':
   code: '595'
-  name: 錦町代理店
+  name: 錦町出張所
   kana: ニシキチヨウ
   hira: にしきちよう
   roma: nishikichiyou

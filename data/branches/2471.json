@@ -6,20 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "002":{
-    "code":"002",
-    "name":"多治見",
-    "kana":"タジミ",
-    "hira":"たじみ",
-    "roma":"tajimi"
-  },
-  "007":{
-    "code":"007",
-    "name":"富山",
-    "kana":"トヤマ",
-    "hira":"とやま",
-    "roma":"toyama"
-  },
   "008":{
     "code":"008",
     "name":"金沢",

@@ -1,10 +1,10 @@
 {
   "020":{
     "code":"020",
-    "name":"本店",
-    "kana":"ホンテン",
-    "hira":"ほんてん",
-    "roma":"honten"
+    "name":"松坂本店",
+    "kana":"マツサカホンテン",
+    "hira":"まつさかほんてん",
+    "roma":"matsusakahonten"
   },
   "021":{
     "code":"021",
@@ -267,10 +267,10 @@
   },
   "285":{
     "code":"285",
-    "name":"平田駅前",
-    "kana":"ヒラタエキマエ",
-    "hira":"ひらたえきまえ",
-    "roma":"hirataekimae"
+    "name":"平田町",
+    "kana":"ヒラタチヨウ",
+    "hira":"ひらたちよう",
+    "roma":"hiratachiyou"
   },
   "286":{
     "code":"286",
@@ -328,20 +328,6 @@
     "hira":"ちゆうおうどおり",
     "roma":"chiyuuoudoori"
   },
-  "320":{
-    "code":"320",
-    "name":"四日市",
-    "kana":"ヨツカイチ",
-    "hira":"よつかいち",
-    "roma":"yotsukaichi"
-  },
-  "325":{
-    "code":"325",
-    "name":"日永",
-    "kana":"ヒナガ",
-    "hira":"ひなが",
-    "roma":"hinaga"
-  },
   "330":{
     "code":"330",
     "name":"西阿倉川",
@@ -358,10 +344,10 @@
   },
   "340":{
     "code":"340",
-    "name":"菰野",
-    "kana":"コモノ",
-    "hira":"こもの",
-    "roma":"komono"
+    "name":"菰野中央",
+    "kana":"コモノチユウオウ",
+    "hira":"こものちゆうおう",
+    "roma":"komonochiyuuou"
   },
   "350":{
     "code":"350",
@@ -467,13 +453,6 @@
     "kana":"トクシゲ",
     "hira":"とくしげ",
     "roma":"tokushige"
-  },
-  "460":{
-    "code":"460",
-    "name":"中川",
-    "kana":"ナカガワ",
-    "hira":"なかがわ",
-    "roma":"nakagawa"
   },
   "465":{
     "code":"465",
@@ -615,6 +594,20 @@
     "hira":"うえの",
     "roma":"ueno"
   },
+  "756":{
+    "code":"756",
+    "name":"四日市",
+    "kana":"ヨツカイチ",
+    "hira":"よつかいち",
+    "roma":"yotsukaichi"
+  },
+  "757":{
+    "code":"757",
+    "name":"日永西",
+    "kana":"ヒナガニシ",
+    "hira":"ひながにし",
+    "roma":"hinaganishi"
+  },
   "758":{
     "code":"758",
     "name":"上前津",
@@ -649,6 +642,13 @@
     "kana":"テンパク",
     "hira":"てんぱく",
     "roma":"tempaku"
+  },
+  "763":{
+    "code":"763",
+    "name":"中川",
+    "kana":"ナカガワ",
+    "hira":"なかがわ",
+    "roma":"nakagawa"
   },
   "800":{
     "code":"800",

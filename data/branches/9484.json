@@ -69,54 +69,12 @@
     "hira":"とようら",
     "roma":"toyoura"
   },
-  "800":{
-    "code":"800",
-    "name":"野波瀬",
-    "kana":"ノバセ",
-    "hira":"のばせ",
-    "roma":"nobase"
-  },
-  "810":{
-    "code":"810",
-    "name":"通",
-    "kana":"カヨイ",
-    "hira":"かよい",
-    "roma":"kayoi"
-  },
   "815":{
     "code":"815",
     "name":"長門",
     "kana":"ナガト",
     "hira":"ながと",
     "roma":"nagato"
-  },
-  "820":{
-    "code":"820",
-    "name":"湊",
-    "kana":"ミナト",
-    "hira":"みなと",
-    "roma":"minato"
-  },
-  "825":{
-    "code":"825",
-    "name":"黄波戸",
-    "kana":"キワド",
-    "hira":"きわど",
-    "roma":"kiwado"
-  },
-  "830":{
-    "code":"830",
-    "name":"掛渕",
-    "kana":"カケブチ",
-    "hira":"かけぶち",
-    "roma":"kakebuchi"
-  },
-  "860":{
-    "code":"860",
-    "name":"大浦",
-    "kana":"オオウラ",
-    "hira":"おおうら",
-    "roma":"ooura"
   },
   "915":{
     "code":"915",

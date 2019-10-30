@@ -176,17 +176,17 @@
   },
   "170":{
     "code":"170",
-    "name":"三条",
-    "kana":"サンジヨウ",
-    "hira":"さんじよう",
-    "roma":"sanjiyou"
+    "name":"三条中央",
+    "kana":"サンジヨウチユウオウ",
+    "hira":"さんじようちゆうおう",
+    "roma":"sanjiyouchiyuuou"
   },
   "190":{
     "code":"190",
-    "name":"加茂",
-    "kana":"カモ",
-    "hira":"かも",
-    "roma":"kamo"
+    "name":"加茂中央",
+    "kana":"カモチユウオウ",
+    "hira":"かもちゆうおう",
+    "roma":"kamochiyuuou"
   },
   "201":{
     "code":"201",
@@ -421,45 +421,45 @@
   },
   "340":{
     "code":"340",
-    "name":"白根",
-    "kana":"シロネ",
-    "hira":"しろね",
-    "roma":"shirone"
+    "name":"白根中央",
+    "kana":"シロネチユウオウ",
+    "hira":"しろねちゆうおう",
+    "roma":"shironechiyuuou"
   },
   "350":{
     "code":"350",
-    "name":"燕",
-    "kana":"ツバメ",
-    "hira":"つばめ",
-    "roma":"tsubame"
+    "name":"燕中央",
+    "kana":"ツバメチユウオウ",
+    "hira":"つばめちゆうおう",
+    "roma":"tsubamechiyuuou"
   },
-  "351":{
-    "code":"351",
-    "name":"県央つばめ",
-    "kana":"ケンオウツバメ",
-    "hira":"けんおうつばめ",
-    "roma":"kenoutsubame"
+  "352":{
+    "code":"352",
+    "name":"つばめ物流センター",
+    "kana":"ツバメブツリユウセンタ－",
+    "hira":"つばめぶつりゆうせんた－",
+    "roma":"tsubamebutsuriyuusenta-"
   },
   "360":{
     "code":"360",
-    "name":"巻",
-    "kana":"マキ",
-    "hira":"まき",
-    "roma":"maki"
+    "name":"巻中央",
+    "kana":"マキチユウオウ",
+    "hira":"まきちゆうおう",
+    "roma":"makichiyuuou"
   },
   "370":{
     "code":"370",
-    "name":"吉田",
-    "kana":"ヨシダ",
-    "hira":"よしだ",
-    "roma":"yoshida"
+    "name":"吉田中央",
+    "kana":"ヨシダチユウオウ",
+    "hira":"よしだちゆうおう",
+    "roma":"yoshidachiyuuou"
   },
   "380":{
     "code":"380",
-    "name":"分水",
-    "kana":"ブンスイ",
-    "hira":"ぶんすい",
-    "roma":"bunsui"
+    "name":"分水中央",
+    "kana":"ブンスイチユウオウ",
+    "hira":"ぶんすいちゆうおう",
+    "roma":"bunsuichiyuuou"
   },
   "390":{
     "code":"390",
@@ -559,12 +559,12 @@
     "hira":"たかさき",
     "roma":"takasaki"
   },
-  "521":{
-    "code":"521",
-    "name":"前橋",
-    "kana":"マエバシ",
-    "hira":"まえばし",
-    "roma":"maebashi"
+  "526":{
+    "code":"526",
+    "name":"前橋東",
+    "kana":"マエバシヒガシ",
+    "hira":"まえばしひがし",
+    "roma":"maebashihigashi"
   },
   "530":{
     "code":"530",
@@ -573,12 +573,12 @@
     "hira":"くまがや",
     "roma":"kumagaya"
   },
-  "531":{
-    "code":"531",
-    "name":"浦和",
-    "kana":"ウラワ",
-    "hira":"うらわ",
-    "roma":"urawa"
+  "532":{
+    "code":"532",
+    "name":"北浦和",
+    "kana":"キタウラワ",
+    "hira":"きたうらわ",
+    "roma":"kitaurawa"
   },
   "540":{
     "code":"540",

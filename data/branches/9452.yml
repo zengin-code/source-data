@@ -59,27 +59,9 @@
   kana: キタリアス
   hira: きたりあす
   roma: kitariasu
-'370':
-  code: '370'
-  name: 普代村
-  kana: フダイムラ
-  hira: ふだいむら
-  roma: fudaimura
-'400':
-  code: '400'
-  name: 野田村
-  kana: ノダムラ
-  hira: のだむら
-  roma: nodamura
 '410':
   code: '410'
-  name: くじ
-  kana: クジ
-  hira: くじ
-  roma: kuji
-'500':
-  code: '500'
-  name: 種市
-  kana: タネイチ
-  hira: たねいち
-  roma: taneichi
+  name: 北三陸
+  kana: キタサンリク
+  hira: きたさんりく
+  roma: kitasanriku
