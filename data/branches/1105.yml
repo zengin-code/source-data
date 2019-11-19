@@ -89,12 +89,6 @@
   kana: ニイダ
   hira: にいだ
   roma: niida
-'021':
-  code: '021'
-  name: 大杉平出張所
-  kana: オオスギタイ
-  hira: おおすぎたい
-  roma: oosugitai
 '022':
   code: '022'
   name: 大久保
@@ -209,12 +203,6 @@
   kana: ヒロサキエキマエ
   hira: ひろさきえきまえ
   roma: hirosakiekimae
-'052':
-  code: '052'
-  name: 油川出張所
-  kana: アブラカワ
-  hira: あぶらかわ
-  roma: aburakawa
 '053':
   code: '053'
   name: 八重田
@@ -299,12 +287,6 @@
   kana: アジガサワ
   hira: あじがさわ
   roma: ajigasawa
-'071':
-  code: '071'
-  name: 桜ヶ丘出張所
-  kana: サクラガオカ
-  hira: さくらがおか
-  roma: sakuragaoka
 '072':
   code: '072'
   name: 下北営業部

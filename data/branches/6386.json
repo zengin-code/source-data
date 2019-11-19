@@ -41,13 +41,6 @@
     "hira":"はらや",
     "roma":"haraya"
   },
-  "010":{
-    "code":"010",
-    "name":"和田岡",
-    "kana":"ワダオカ",
-    "hira":"わだおか",
-    "roma":"wadaoka"
-  },
   "011":{
     "code":"011",
     "name":"桜木",
@@ -82,13 +75,6 @@
     "kana":"カミウチダ",
     "hira":"かみうちだ",
     "roma":"kamiuchida"
-  },
-  "019":{
-    "code":"019",
-    "name":"西部",
-    "kana":"セイブ",
-    "hira":"せいぶ",
-    "roma":"seibu"
   },
   "021":{
     "code":"021",

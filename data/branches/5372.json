@@ -1,66 +1,24 @@
 {
   "001":{
     "code":"001",
-    "name":"宮川",
-    "kana":"ミヤガワ",
-    "hira":"みやがわ",
-    "roma":"miyagawa"
-  },
-  "002":{
-    "code":"002",
-    "name":"米沢",
-    "kana":"ヨネザワ",
-    "hira":"よねざわ",
-    "roma":"yonezawa"
-  },
-  "003":{
-    "code":"003",
-    "name":"湖東",
-    "kana":"コヒガシ",
-    "hira":"こひがし",
-    "roma":"kohigashi"
+    "name":"茅野中央",
+    "kana":"チノチユウオウ",
+    "hira":"ちのちゆうおう",
+    "roma":"chinochiyuuou"
   },
   "004":{
     "code":"004",
-    "name":"豊平",
-    "kana":"トヨヒラ",
-    "hira":"とよひら",
-    "roma":"toyohira"
-  },
-  "005":{
-    "code":"005",
-    "name":"泉野",
-    "kana":"イズミノ",
-    "hira":"いずみの",
-    "roma":"izumino"
+    "name":"茅野北部",
+    "kana":"チノホクブ",
+    "hira":"ちのほくぶ",
+    "roma":"chinohokubu"
   },
   "006":{
     "code":"006",
-    "name":"玉川",
-    "kana":"タマガワ",
-    "hira":"たまがわ",
-    "roma":"tamagawa"
-  },
-  "007":{
-    "code":"007",
-    "name":"金沢",
-    "kana":"カナザワ",
-    "hira":"かなざわ",
-    "roma":"kanazawa"
-  },
-  "009":{
-    "code":"009",
-    "name":"茅野市中央",
-    "kana":"チノシチユウオウ",
-    "hira":"ちのしちゆうおう",
-    "roma":"chinoshichiyuuou"
-  },
-  "010":{
-    "code":"010",
-    "name":"北山",
-    "kana":"キタヤマ",
-    "hira":"きたやま",
-    "roma":"kitayama"
+    "name":"茅野南部",
+    "kana":"チノナンブ",
+    "hira":"ちのなんぶ",
+    "roma":"chinonambu"
   },
   "020":{
     "code":"020",
@@ -69,61 +27,12 @@
     "hira":"はらむら",
     "roma":"haramura"
   },
-  "021":{
-    "code":"021",
-    "name":"中新田",
-    "kana":"ナカシンデン",
-    "hira":"なかしんでん",
-    "roma":"nakashinden"
-  },
-  "022":{
-    "code":"022",
-    "name":"北部",
-    "kana":"ホクブ",
-    "hira":"ほくぶ",
-    "roma":"hokubu"
-  },
   "030":{
     "code":"030",
     "name":"富士見町中央",
     "kana":"フジミマチチユウオウ",
     "hira":"ふじみまちちゆうおう",
     "roma":"fujimimachichiyuuou"
-  },
-  "033":{
-    "code":"033",
-    "name":"西山",
-    "kana":"ニシヤマ",
-    "hira":"にしやま",
-    "roma":"nishiyama"
-  },
-  "035":{
-    "code":"035",
-    "name":"落合",
-    "kana":"オチアイ",
-    "hira":"おちあい",
-    "roma":"ochiai"
-  },
-  "038":{
-    "code":"038",
-    "name":"立沢",
-    "kana":"タツザワ",
-    "hira":"たつざわ",
-    "roma":"tatsuzawa"
-  },
-  "039":{
-    "code":"039",
-    "name":"乙事",
-    "kana":"オツコト",
-    "hira":"おつこと",
-    "roma":"otsukoto"
-  },
-  "040":{
-    "code":"040",
-    "name":"境",
-    "kana":"サカイ",
-    "hira":"さかい",
-    "roma":"sakai"
   },
   "050":{
     "code":"050",

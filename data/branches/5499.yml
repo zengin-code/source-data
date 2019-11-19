@@ -23,12 +23,6 @@
   kana: ナガノダイラミナミ
   hira: ながのだいらみなみ
   roma: naganodairaminami
-'017':
-  code: '017'
-  name: 西部
-  kana: セイブ
-  hira: せいぶ
-  roma: seibu
 '020':
   code: '020'
   name: 裾花
@@ -37,7 +31,7 @@
   roma: susobana
 '023':
   code: '023'
-  name: 鬼無里
+  name: 鬼無里出張所
   kana: キナサ
   hira: きなさ
   roma: kinasa
@@ -47,12 +41,6 @@
   kana: ニシヤマ
   hira: にしやま
   roma: nishiyama
-'025':
-  code: '025'
-  name: 中条
-  kana: ナカジヨウ
-  hira: なかじよう
-  roma: nakajiyou
 '026':
   code: '026'
   name: 信州新町
@@ -89,12 +77,6 @@
   kana: アモリ
   hira: あもり
   roma: amori
-'043':
-  code: '043'
-  name: 西長野
-  kana: ニシナガノ
-  hira: にしながの
-  roma: nishinagano
 '045':
   code: '045'
   name: 志賀高原
@@ -173,18 +155,6 @@
   kana: イイヤマ
   hira: いいやま
   roma: iiyama
-'071':
-  code: '071'
-  name: 秋津出張所
-  kana: アキツ
-  hira: あきつ
-  roma: akitsu
-'072':
-  code: '072'
-  name: 柳原出張所
-  kana: ヤナギハラ
-  hira: やなぎはら
-  roma: yanagihara
 '073':
   code: '073'
   name: 野沢温泉
@@ -203,24 +173,12 @@
   kana: キジマダイラ
   hira: きじまだいら
   roma: kijimadaira
-'076':
-  code: '076'
-  name: 木島出張所
-  kana: キジマ
-  hira: きじま
-  roma: kijima
 '077':
   code: '077'
   name: 常盤
   kana: トキワ
   hira: ときわ
   roma: tokiwa
-'078':
-  code: '078'
-  name: 太田出張所
-  kana: オオタ
-  hira: おおた
-  roma: oota
 '079':
   code: '079'
   name: 豊田

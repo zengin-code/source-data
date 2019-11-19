@@ -6,19 +6,12 @@
     "hira":"とうぶ",
     "roma":"toubu"
   },
-  "016":{
-    "code":"016",
-    "name":"木田",
-    "kana":"キダ",
-    "hira":"きだ",
-    "roma":"kida"
-  },
   "017":{
     "code":"017",
-    "name":"六条",
-    "kana":"ロクジヨウ",
-    "hira":"ろくじよう",
-    "roma":"rokujiyou"
+    "name":"南部",
+    "kana":"ナンブ",
+    "hira":"なんぶ",
+    "roma":"nambu"
   },
   "018":{
     "code":"018",
@@ -33,20 +26,6 @@
     "kana":"セイブ",
     "hira":"せいぶ",
     "roma":"seibu"
-  },
-  "029":{
-    "code":"029",
-    "name":"東郷",
-    "kana":"トウゴウ",
-    "hira":"とうごう",
-    "roma":"tougou"
-  },
-  "030":{
-    "code":"030",
-    "name":"酒生",
-    "kana":"サコウ",
-    "hira":"さこう",
-    "roma":"sakou"
   },
   "038":{
     "code":"038",

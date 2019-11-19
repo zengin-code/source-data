@@ -1,10 +1,10 @@
 {
   "001":{
     "code":"001",
-    "name":"本所",
-    "kana":"ホンシヨ",
-    "hira":"ほんしよ",
-    "roma":"honshiyo"
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
   },
   "002":{
     "code":"002",
@@ -124,5 +124,61 @@
     "kana":"ヒラツカ",
     "hira":"ひらつか",
     "roma":"hiratsuka"
+  },
+  "032":{
+    "code":"032",
+    "name":"伊勢原",
+    "kana":"イセハラ",
+    "hira":"いせはら",
+    "roma":"isehara"
+  },
+  "033":{
+    "code":"033",
+    "name":"大山",
+    "kana":"オオヤマ",
+    "hira":"おおやま",
+    "roma":"ooyama"
+  },
+  "034":{
+    "code":"034",
+    "name":"高部屋",
+    "kana":"タカベヤ",
+    "hira":"たかべや",
+    "roma":"takabeya"
+  },
+  "035":{
+    "code":"035",
+    "name":"成瀬",
+    "kana":"ナルセ",
+    "hira":"なるせ",
+    "roma":"naruse"
+  },
+  "036":{
+    "code":"036",
+    "name":"比々多",
+    "kana":"ヒビタ",
+    "hira":"ひびた",
+    "roma":"hibita"
+  },
+  "037":{
+    "code":"037",
+    "name":"大田",
+    "kana":"オオタ",
+    "hira":"おおた",
+    "roma":"oota"
+  },
+  "038":{
+    "code":"038",
+    "name":"石田",
+    "kana":"イシダ",
+    "hira":"いしだ",
+    "roma":"ishida"
+  },
+  "039":{
+    "code":"039",
+    "name":"いせはら駅前",
+    "kana":"イセハラエキマエ",
+    "hira":"いせはらえきまえ",
+    "roma":"iseharaekimae"
   }
 }

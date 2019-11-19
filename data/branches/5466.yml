@@ -19,16 +19,10 @@
   roma: nishihotaka
 '004':
   code: '004'
-  name: 烏川
-  kana: カラスガワ
-  hira: からすがわ
-  roma: karasugawa
-'005':
-  code: '005'
-  name: 三田
-  kana: ミタ
-  hira: みた
-  roma: mita
+  name: 堀金
+  kana: ホリガネ
+  hira: ほりがね
+  roma: horigane
 '006':
   code: '006'
   name: 豊科

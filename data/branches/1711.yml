@@ -23,12 +23,6 @@
   kana: ナガハマ
   hira: ながはま
   roma: nagahama
-'006':
-  code: '006'
-  name: 駅前
-  kana: エキマエ
-  hira: えきまえ
-  roma: ekimae
 '007':
   code: '007'
   name: 三隅
@@ -59,12 +53,6 @@
   kana: ツノヅ
   hira: つのづ
   roma: tsunodu
-'043':
-  code: '043'
-  name: 国府
-  kana: コクフ
-  hira: こくふ
-  roma: kokufu
 '049':
   code: '049'
   name: 江津

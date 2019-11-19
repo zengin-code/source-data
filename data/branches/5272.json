@@ -6,26 +6,12 @@
     "hira":"おおめ",
     "roma":"oome"
   },
-  "003":{
-    "code":"003",
-    "name":"甲東",
-    "kana":"コオトウ",
-    "hira":"こおとう",
-    "roma":"kootou"
-  },
   "004":{
     "code":"004",
     "name":"巌",
     "kana":"イワオ",
     "hira":"いわお",
     "roma":"iwao"
-  },
-  "005":{
-    "code":"005",
-    "name":"大鶴",
-    "kana":"オオツル",
-    "hira":"おおつる",
-    "roma":"ootsuru"
   },
   "006":{
     "code":"006",
@@ -40,13 +26,6 @@
     "kana":"ユズリハラ",
     "hira":"ゆずりはら",
     "roma":"yuzurihara"
-  },
-  "009":{
-    "code":"009",
-    "name":"西原",
-    "kana":"サイハラ",
-    "hira":"さいはら",
-    "roma":"saihara"
   },
   "011":{
     "code":"011",
@@ -68,13 +47,6 @@
     "kana":"オオツキ",
     "hira":"おおつき",
     "roma":"ootsuki"
-  },
-  "016":{
-    "code":"016",
-    "name":"七保",
-    "kana":"ナナホ",
-    "hira":"ななほ",
-    "roma":"nanaho"
   },
   "017":{
     "code":"017",

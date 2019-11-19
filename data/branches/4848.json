@@ -50,24 +50,10 @@
   },
   "014":{
     "code":"014",
-    "name":"幸松",
-    "kana":"コウマツ",
-    "hira":"こうまつ",
-    "roma":"koumatsu"
-  },
-  "015":{
-    "code":"015",
-    "name":"豊野",
-    "kana":"トヨノ",
-    "hira":"とよの",
-    "roma":"toyono"
-  },
-  "021":{
-    "code":"021",
-    "name":"黒浜",
-    "kana":"クロハマ",
-    "hira":"くろはま",
-    "roma":"kurohama"
+    "name":"春日部東",
+    "kana":"カスカベヒガシ",
+    "hira":"かすかべひがし",
+    "roma":"kasukabehigashi"
   },
   "022":{
     "code":"022",

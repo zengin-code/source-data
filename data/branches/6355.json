@@ -97,13 +97,6 @@
     "hira":"よしなが",
     "roma":"yoshinaga"
   },
-  "018":{
-    "code":"018",
-    "name":"北",
-    "kana":"キタ",
-    "hira":"きた",
-    "roma":"kita"
-  },
   "021":{
     "code":"021",
     "name":"富士",
@@ -139,25 +132,11 @@
     "hira":"はしした",
     "roma":"hashishita"
   },
-  "031":{
-    "code":"031",
-    "name":"青葉通り",
-    "kana":"アオバドオリ",
-    "hira":"あおばどおり",
-    "roma":"aobadoori"
-  },
   "032":{
     "code":"032",
     "name":"富士川",
     "kana":"フジカワ",
     "hira":"ふじかわ",
     "roma":"fujikawa"
-  },
-  "033":{
-    "code":"033",
-    "name":"松野",
-    "kana":"マツノ",
-    "hira":"まつの",
-    "roma":"matsuno"
   }
 }

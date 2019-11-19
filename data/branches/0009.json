@@ -2799,6 +2799,13 @@
     "hira":"きゆうしゆう",
     "roma":"kiyuushiyuu"
   },
+  "732":{
+    "code":"732",
+    "name":"浜田山",
+    "kana":"ハマダヤマ",
+    "hira":"はまだやま",
+    "roma":"hamadayama"
+  },
   "733":{
     "code":"733",
     "name":"八事",
@@ -3036,6 +3043,13 @@
     "kana":"オオモリ",
     "hira":"おおもり",
     "roma":"oomori"
+  },
+  "786":{
+    "code":"786",
+    "name":"仙川",
+    "kana":"センガワ",
+    "hira":"せんがわ",
+    "roma":"sengawa"
   },
   "788":{
     "code":"788",

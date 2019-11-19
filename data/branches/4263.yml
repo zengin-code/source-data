@@ -85,10 +85,10 @@
   roma: gozenyama
 '020':
   code: '020'
-  name: 緒川
-  kana: オガワ
-  hira: おがわ
-  roma: ogawa
+  name: 美川
+  kana: ミガワ
+  hira: みがわ
+  roma: migawa
 '021':
   code: '021'
   name: 大子
@@ -101,12 +101,6 @@
   kana: ヤマガタ
   hira: やまがた
   roma: yamagata
-'023':
-  code: '023'
-  name: 美和
-  kana: ミワ
-  hira: みわ
-  roma: miwa
 '024':
   code: '024'
   name: 太田
@@ -125,24 +119,6 @@
   kana: サトミ
   hira: さとみ
   roma: satomi
-'029':
-  code: '029'
-  name: 世矢
-  kana: セヤ
-  hira: せや
-  roma: seya
-'030':
-  code: '030'
-  name: 幸久
-  kana: サキク
-  hira: さきく
-  roma: sakiku
-'031':
-  code: '031'
-  name: 佐都
-  kana: サト
-  hira: さと
-  roma: sato
 '032':
   code: '032'
   name: 金砂郷

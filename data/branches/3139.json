@@ -6,13 +6,6 @@
     "hira":"きたひろしま",
     "roma":"kitahiroshima"
   },
-  "002":{
-    "code":"002",
-    "name":"西部",
-    "kana":"セイブ",
-    "hira":"せいぶ",
-    "roma":"seibu"
-  },
   "003":{
     "code":"003",
     "name":"大曲",
@@ -27,26 +20,12 @@
     "hira":"えべつ",
     "roma":"ebetsu"
   },
-  "006":{
-    "code":"006",
-    "name":"五丁目",
-    "kana":"ゴチヨウメ",
-    "hira":"ごちようめ",
-    "roma":"gochiyoume"
-  },
   "007":{
     "code":"007",
     "name":"野幌",
     "kana":"ノツポロ",
     "hira":"のつぽろ",
     "roma":"notsuporo"
-  },
-  "008":{
-    "code":"008",
-    "name":"大麻",
-    "kana":"オオアサ",
-    "hira":"おおあさ",
-    "roma":"ooasa"
   },
   "010":{
     "code":"010",

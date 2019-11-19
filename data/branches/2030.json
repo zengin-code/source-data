@@ -125,13 +125,6 @@
     "hira":"こみなと",
     "roma":"kominato"
   },
-  "023":{
-    "code":"023",
-    "name":"三厩",
-    "kana":"ミンマヤ",
-    "hira":"みんまや",
-    "roma":"mimmaya"
-  },
   "024":{
     "code":"024",
     "name":"木造",
@@ -180,13 +173,6 @@
     "kana":"オオハタ",
     "hira":"おおはた",
     "roma":"oohata"
-  },
-  "038":{
-    "code":"038",
-    "name":"東通南",
-    "kana":"ヒガシドオリミナミ",
-    "hira":"ひがしどおりみなみ",
-    "roma":"higashidooriminami"
   },
   "039":{
     "code":"039",
