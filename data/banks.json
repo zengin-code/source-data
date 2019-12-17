@@ -3585,17 +3585,10 @@
   },
   "2357":{
     "code":"2357",
-    "name":"新栄信組",
-    "kana":"シンエイシンクミ",
-    "hira":"しんえいしんくみ",
-    "roma":"shineishinkumi"
-  },
-  "2358":{
-    "code":"2358",
-    "name":"さくらの街信組",
-    "kana":"サクラノマチシンクミ",
-    "hira":"さくらのまちしんくみ",
-    "roma":"sakuranomachishinkumi"
+    "name":"はばたき信組",
+    "kana":"ハバタキシンクミ",
+    "hira":"はばたきしんくみ",
+    "roma":"habatakishinkumi"
   },
   "2360":{
     "code":"2360",

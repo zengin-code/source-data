@@ -893,6 +893,18 @@
   kana: ダイレクト
   hira: だいれくと
   roma: dairekuto
+'410':
+  code: '410'
+  name: ローソン店
+  kana: ロ－ソンテン
+  hira: ろ－そんてん
+  roma: ro-sonten
+'411':
+  code: '411'
+  name: イーネット店
+  kana: イ－ネツトテン
+  hira: い－ねつとてん
+  roma: i-netsutoten
 '719':
   code: '719'
   name: ごうぎん証券

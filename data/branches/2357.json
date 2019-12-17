@@ -47,5 +47,47 @@
     "kana":"ヨコゴシ",
     "hira":"よこごし",
     "roma":"yokogoshi"
+  },
+  "021":{
+    "code":"021",
+    "name":"阿賀野",
+    "kana":"アガノ",
+    "hira":"あがの",
+    "roma":"agano"
+  },
+  "022":{
+    "code":"022",
+    "name":"安田",
+    "kana":"ヤスダ",
+    "hira":"やすだ",
+    "roma":"yasuda"
+  },
+  "024":{
+    "code":"024",
+    "name":"豊栄",
+    "kana":"トヨサカ",
+    "hira":"とよさか",
+    "roma":"toyosaka"
+  },
+  "031":{
+    "code":"031",
+    "name":"五泉",
+    "kana":"ゴセン",
+    "hira":"ごせん",
+    "roma":"gosen"
+  },
+  "032":{
+    "code":"032",
+    "name":"村松",
+    "kana":"ムラマツ",
+    "hira":"むらまつ",
+    "roma":"muramatsu"
+  },
+  "034":{
+    "code":"034",
+    "name":"新津",
+    "kana":"ニイツ",
+    "hira":"にいつ",
+    "roma":"niitsu"
   }
 }

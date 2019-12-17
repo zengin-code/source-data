@@ -29,30 +29,12 @@
   kana: カマイシオオツチ
   hira: かまいしおおつち
   roma: kamaishiootsuchi
-'260':
-  code: '260'
-  name: 船越湾
-  kana: フナコシワン
-  hira: ふなこしわん
-  roma: funakoshiwan
-'290':
-  code: '290'
-  name: 山田
-  kana: ヤマダ
-  hira: やまだ
-  roma: yamada
-'310':
-  code: '310'
-  name: 重茂
-  kana: オモエ
-  hira: おもえ
-  roma: omoe
 '320':
   code: '320'
-  name: 宮古
-  kana: ミヤコ
-  hira: みやこ
-  roma: miyako
+  name: 宮古山田
+  kana: ミヤコヤマダ
+  hira: みやこやまだ
+  roma: miyakoyamada
 '330':
   code: '330'
   name: 北りあす

@@ -11,12 +11,6 @@
   kana: トヨナリ
   hira: とよなり
   roma: toyonari
-'004':
-  code: '004'
-  name: 福岡
-  kana: フクオカ
-  hira: ふくおか
-  roma: fukuoka
 '005':
   code: '005'
   name: 九十九里
@@ -61,22 +55,16 @@
   roma: mutsuoka
 '013':
   code: '013'
-  name: 蓮沼
-  kana: ハスヌマ
-  hira: はすぬま
-  roma: hasunuma
+  name: やさいの里
+  kana: ヤサイノサト
+  hira: やさいのさと
+  roma: yasainosato
 '014':
   code: '014'
   name: 松尾
   kana: マツオ
   hira: まつお
   roma: matsuo
-'015':
-  code: '015'
-  name: 大平
-  kana: オオヒラ
-  hira: おおひら
-  roma: oohira
 '017':
   code: '017'
   name: 横芝
