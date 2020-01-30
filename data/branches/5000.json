@@ -54,5 +54,19 @@
     "kana":"クリモト",
     "hira":"くりもと",
     "roma":"kurimoto"
+  },
+  "026":{
+    "code":"026",
+    "name":"佐原",
+    "kana":"サワラ",
+    "hira":"さわら",
+    "roma":"sawara"
+  },
+  "027":{
+    "code":"027",
+    "name":"多古",
+    "kana":"タコ",
+    "hira":"たこ",
+    "roma":"tako"
   }
 }

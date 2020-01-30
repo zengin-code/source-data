@@ -50,10 +50,10 @@
   },
   "180":{
     "code":"180",
-    "name":"ゆうちょ専用",
-    "kana":"ユウチヨセンヨウ",
-    "hira":"ゆうちよせんよう",
-    "roma":"yuuchiyosenyou"
+    "name":"個人専用",
+    "kana":"コジンセンヨウ",
+    "hira":"こじんせんよう",
+    "roma":"kojinsenyou"
   },
   "201":{
     "code":"201",

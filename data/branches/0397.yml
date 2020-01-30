@@ -1,4 +1,16 @@
 ---
+'350':
+  code: '350'
+  name: 法人第一
+  kana: ホウジンダイイチ
+  hira: ほうじんだいいち
+  roma: houjindaiichi
+'351':
+  code: '351'
+  name: 法人第二
+  kana: ホウジンダイニ
+  hira: ほうじんだいに
+  roma: houjindaini
 '400':
   code: '400'
   name: 本店

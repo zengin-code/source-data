@@ -905,12 +905,6 @@
   kana: ダイサン
   hira: だいさん
   roma: daisan
-'0555':
-  code: '0555'
-  name: 大正
-  kana: タイシヨウ
-  hira: たいしよう
-  roma: taishiyou
 '0562':
   code: '0562'
   name: みなと
@@ -943,10 +937,10 @@
   roma: saikiyou
 '0572':
   code: '0572'
-  name: 徳島
-  kana: トクシマ
-  hira: とくしま
-  roma: tokushima
+  name: 徳島大正
+  kana: トクシマタイシヨウ
+  hira: とくしまたいしよう
+  roma: tokushimataishiyou
 '0573':
   code: '0573'
   name: 香川
@@ -3929,30 +3923,12 @@
   kana: モンベツチヨウノウキヨウ
   hira: もんべつちようのうきよう
   roma: mombetsuchiyounoukiyou
-'3124':
-  code: '3124'
-  name: 新冠町農協
-  kana: ニイカツプチヨウノウキヨウ
-  hira: にいかつぷちようのうきよう
-  roma: niikatsupuchiyounoukiyou
-'3125':
-  code: '3125'
-  name: しずない農協
-  kana: シズナイノウキヨウ
-  hira: しずないのうきよう
-  roma: shizunainoukiyou
 '3126':
   code: '3126'
   name: みついし農協
   kana: ミツイシノウキヨウ
   hira: みついしのうきよう
   roma: mitsuishinoukiyou
-'3129':
-  code: '3129'
-  name: ひだか東農協
-  kana: ヒダカヒガシノウキヨウ
-  hira: ひだかひがしのうきよう
-  roma: hidakahigashinoukiyou
 '3133':
   code: '3133'
   name: 札幌市農協
@@ -5297,18 +5273,6 @@
   kana: カトリノウキヨウ
   hira: かとりのうきよう
   roma: katorinoukiyou
-'5002':
-  code: '5002'
-  name: 佐原農協
-  kana: サワラノウキヨウ
-  hira: さわらのうきよう
-  roma: sawaranoukiyou
-'5011':
-  code: '5011'
-  name: 多古町農協
-  kana: タコマチノウキヨウ
-  hira: たこまちのうきよう
-  roma: takomachinoukiyou
 '5016':
   code: '5016'
   name: ちばみどり農協
