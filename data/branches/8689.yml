@@ -43,10 +43,10 @@
   roma: higashiyama
 '111':
   code: '111'
-  name: 本所
-  kana: ホンシヨ
-  hira: ほんしよ
-  roma: honshiyo
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
+  roma: honten
 '200':
   code: '200'
   name: 山川

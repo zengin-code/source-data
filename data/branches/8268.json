@@ -20,13 +20,6 @@
     "hira":"ほくぶ",
     "roma":"hokubu"
   },
-  "070":{
-    "code":"070",
-    "name":"加茂谷",
-    "kana":"カモダニ",
-    "hira":"かもだに",
-    "roma":"kamodani"
-  },
   "085":{
     "code":"085",
     "name":"南部",
@@ -40,13 +33,6 @@
     "kana":"アラタノ",
     "hira":"あらたの",
     "roma":"aratano"
-  },
-  "100":{
-    "code":"100",
-    "name":"鷲敷",
-    "kana":"ワジキ",
-    "hira":"わじき",
-    "roma":"wajiki"
   },
   "110":{
     "code":"110",
