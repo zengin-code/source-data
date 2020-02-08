@@ -119,3 +119,63 @@
   kana: オキミズ
   hira: おきみず
   roma: okimizu
+'101':
+  code: '101'
+  name: 目井津
+  kana: メイツ
+  hira: めいつ
+  roma: meitsu
+'102':
+  code: '102'
+  name: 串間
+  kana: クシマ
+  hira: くしま
+  roma: kushima
+'104':
+  code: '104'
+  name: 駅前
+  kana: エキマエ
+  hira: えきまえ
+  roma: ekimae
+'107':
+  code: '107'
+  name: 田野
+  kana: タノ
+  hira: たの
+  roma: tano
+'108':
+  code: '108'
+  name: 木花
+  kana: キバナ
+  hira: きばな
+  roma: kibana
+'111':
+  code: '111'
+  name: 日南
+  kana: ニチナン
+  hira: にちなん
+  roma: nichinan
+'112':
+  code: '112'
+  name: 油津
+  kana: アブラツ
+  hira: あぶらつ
+  roma: aburatsu
+'113':
+  code: '113'
+  name: 飫肥
+  kana: オビ
+  hira: おび
+  roma: obi
+'115':
+  code: '115'
+  name: 北郷
+  kana: キタゴウ
+  hira: きたごう
+  roma: kitagou
+'116':
+  code: '116'
+  name: 大堂津出張所
+  kana: オオドウツ
+  hira: おおどうつ
+  roma: oodoutsu

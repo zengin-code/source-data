@@ -3060,10 +3060,10 @@
   },
   "1980":{
     "code":"1980",
-    "name":"宮崎都城信金",
-    "kana":"ミヤザキシンキン",
-    "hira":"みやざきしんきん",
-    "roma":"miyazakishinkin"
+    "name":"宮崎第一信金",
+    "kana":"ミヤザキダイイチシンキン",
+    "hira":"みやざきだいいちしんきん",
+    "roma":"miyazakidaiichishinkin"
   },
   "1982":{
     "code":"1982",
@@ -3078,13 +3078,6 @@
     "kana":"タカナベシンキン",
     "hira":"たかなべしんきん",
     "roma":"takanabeshinkin"
-  },
-  "1986":{
-    "code":"1986",
-    "name":"南郷信金",
-    "kana":"ナンゴウシンキン",
-    "hira":"なんごうしんきん",
-    "roma":"nangoushinkin"
   },
   "1990":{
     "code":"1990",
