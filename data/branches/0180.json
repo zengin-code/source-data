@@ -1,11 +1,4 @@
 {
-  "076":{
-    "code":"076",
-    "name":"シーボルト",
-    "kana":"シ－ボルト",
-    "hira":"し－ぼると",
-    "roma":"shi-boruto"
-  },
   "100":{
     "code":"100",
     "name":"本店",
@@ -13,43 +6,43 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "101":{
-    "code":"101",
+  "133":{
+    "code":"133",
     "name":"県庁",
     "kana":"ケンチヨウ",
     "hira":"けんちよう",
     "roma":"kenchiyou"
   },
-  "102":{
-    "code":"102",
+  "134":{
+    "code":"134",
     "name":"長崎市役所",
     "kana":"ナガサキシヤクシヨ",
     "hira":"ながさきしやくしよ",
     "roma":"nagasakishiyakushiyo"
   },
-  "105":{
-    "code":"105",
+  "135":{
+    "code":"135",
     "name":"デジタル出島",
     "kana":"デジタルデジマ",
     "hira":"でじたるでじま",
     "roma":"dejitarudejima"
   },
-  "110":{
-    "code":"110",
+  "136":{
+    "code":"136",
     "name":"北",
     "kana":"キタ",
     "hira":"きた",
     "roma":"kita"
   },
-  "130":{
-    "code":"130",
+  "137":{
+    "code":"137",
     "name":"稲佐",
     "kana":"イナサ",
     "hira":"いなさ",
     "roma":"inasa"
   },
-  "140":{
-    "code":"140",
+  "138":{
+    "code":"138",
     "name":"稲佐中央通",
     "kana":"イナサチユウオウドオリ",
     "hira":"いなさちゆうおうどおり",
@@ -62,22 +55,22 @@
     "hira":"うらかみ",
     "roma":"urakami"
   },
-  "160":{
-    "code":"160",
+  "159":{
+    "code":"159",
     "name":"大学病院前",
     "kana":"ダイガクビヨウインマエ",
     "hira":"だいがくびよういんまえ",
     "roma":"daigakubiyouimmae"
   },
-  "170":{
-    "code":"170",
+  "175":{
+    "code":"175",
     "name":"城山",
     "kana":"シロヤマ",
     "hira":"しろやま",
     "roma":"shiroyama"
   },
-  "171":{
-    "code":"171",
+  "176":{
+    "code":"176",
     "name":"小江原出張所",
     "kana":"コエバル",
     "hira":"こえばる",
@@ -265,27 +258,6 @@
     "hira":"させほ",
     "roma":"saseho"
   },
-  "401":{
-    "code":"401",
-    "name":"佐世保駅前",
-    "kana":"サセホエキマエ",
-    "hira":"させほえきまえ",
-    "roma":"sasehoekimae"
-  },
-  "402":{
-    "code":"402",
-    "name":"早岐",
-    "kana":"ハイキ",
-    "hira":"はいき",
-    "roma":"haiki"
-  },
-  "403":{
-    "code":"403",
-    "name":"佐世保俵町",
-    "kana":"サセホタワラマチ",
-    "hira":"させほたわらまち",
-    "roma":"sasehotawaramachi"
-  },
   "405":{
     "code":"405",
     "name":"大宮",
@@ -314,26 +286,47 @@
     "hira":"ひらど",
     "roma":"hirado"
   },
-  "411":{
-    "code":"411",
+  "414":{
+    "code":"414",
+    "name":"佐世保駅前",
+    "kana":"サセホエキマエ",
+    "hira":"させほえきまえ",
+    "roma":"sasehoekimae"
+  },
+  "415":{
+    "code":"415",
+    "name":"佐世保俵町",
+    "kana":"サセホタワラマチ",
+    "hira":"させほたわらまち",
+    "roma":"sasehotawaramachi"
+  },
+  "416":{
+    "code":"416",
     "name":"大塔",
     "kana":"ダイトウ",
     "hira":"だいとう",
     "roma":"daitou"
   },
-  "412":{
-    "code":"412",
+  "417":{
+    "code":"417",
     "name":"日野",
     "kana":"ヒノ",
     "hira":"ひの",
     "roma":"hino"
   },
-  "413":{
-    "code":"413",
+  "418":{
+    "code":"418",
     "name":"佐世保市役所出張所",
     "kana":"サセホシヤクシヨ",
     "hira":"させほしやくしよ",
     "roma":"sasehoshiyakushiyo"
+  },
+  "419":{
+    "code":"419",
+    "name":"早岐",
+    "kana":"ハイキ",
+    "hira":"はいき",
+    "roma":"haiki"
   },
   "420":{
     "code":"420",
@@ -377,13 +370,6 @@
     "hira":"いさはや",
     "roma":"isahaya"
   },
-  "501":{
-    "code":"501",
-    "name":"諌早駅前",
-    "kana":"イサハヤエキマエ",
-    "hira":"いさはやえきまえ",
-    "roma":"isahayaekimae"
-  },
   "502":{
     "code":"502",
     "name":"西諌早",
@@ -426,26 +412,33 @@
     "hira":"おおむら",
     "roma":"oomura"
   },
-  "511":{
-    "code":"511",
-    "name":"西大村",
-    "kana":"ニシオオムラ",
-    "hira":"にしおおむら",
-    "roma":"nishioomura"
-  },
-  "512":{
-    "code":"512",
-    "name":"諏訪出張所",
-    "kana":"スワ",
-    "hira":"すわ",
-    "roma":"suwa"
-  },
   "513":{
     "code":"513",
     "name":"竹松",
     "kana":"タケマツ",
     "hira":"たけまつ",
     "roma":"takematsu"
+  },
+  "514":{
+    "code":"514",
+    "name":"諌早駅前",
+    "kana":"イサハヤエキマエ",
+    "hira":"いさはやえきまえ",
+    "roma":"isahayaekimae"
+  },
+  "515":{
+    "code":"515",
+    "name":"西大村",
+    "kana":"ニシオオムラ",
+    "hira":"にしおおむら",
+    "roma":"nishioomura"
+  },
+  "516":{
+    "code":"516",
+    "name":"諏訪出張所",
+    "kana":"スワ",
+    "hira":"すわ",
+    "roma":"suwa"
   },
   "520":{
     "code":"520",
@@ -468,8 +461,8 @@
     "hira":"みずほ",
     "roma":"mizuho"
   },
-  "560":{
-    "code":"560",
+  "563":{
+    "code":"563",
     "name":"小浜",
     "kana":"オバマ",
     "hira":"おばま",
@@ -489,8 +482,8 @@
     "hira":"しまばら",
     "roma":"shimabara"
   },
-  "601":{
-    "code":"601",
+  "603":{
+    "code":"603",
     "name":"湊",
     "kana":"ミナト",
     "hira":"みなと",
@@ -503,15 +496,15 @@
     "hira":"くにみ",
     "roma":"kunimi"
   },
-  "611":{
-    "code":"611",
+  "613":{
+    "code":"613",
     "name":"有明",
     "kana":"アリアケ",
     "hira":"ありあけ",
     "roma":"ariake"
   },
-  "612":{
-    "code":"612",
+  "614":{
+    "code":"614",
     "name":"深江",
     "kana":"フカエ",
     "hira":"ふかえ",
@@ -524,8 +517,8 @@
     "hira":"ありえ",
     "roma":"arie"
   },
-  "621":{
-    "code":"621",
+  "624":{
+    "code":"624",
     "name":"西有家",
     "kana":"ニシアリエ",
     "hira":"にしありえ",
@@ -538,8 +531,8 @@
     "hira":"ありま",
     "roma":"arima"
   },
-  "641":{
-    "code":"641",
+  "642":{
+    "code":"642",
     "name":"北有馬出張所",
     "kana":"キタアリマ",
     "hira":"きたありま",
@@ -552,8 +545,8 @@
     "hira":"くちのつ",
     "roma":"kuchinotsu"
   },
-  "660":{
-    "code":"660",
+  "659":{
+    "code":"659",
     "name":"加津佐",
     "kana":"カヅサ",
     "hira":"かづさ",
@@ -573,8 +566,8 @@
     "hira":"とみえ",
     "roma":"tomie"
   },
-  "711":{
-    "code":"711",
+  "712":{
+    "code":"712",
     "name":"上五島",
     "kana":"カミゴトウ",
     "hira":"かみごとう",
@@ -629,47 +622,33 @@
     "hira":"ふくおか",
     "roma":"fukuoka"
   },
-  "801":{
-    "code":"801",
-    "name":"博多",
-    "kana":"ハカタ",
-    "hira":"はかた",
-    "roma":"hakata"
-  },
-  "802":{
-    "code":"802",
-    "name":"東福岡",
-    "kana":"ヒガシフクオカ",
-    "hira":"ひがしふくおか",
-    "roma":"higashifukuoka"
-  },
-  "803":{
-    "code":"803",
-    "name":"西福岡",
-    "kana":"ニシフクオカ",
-    "hira":"にしふくおか",
-    "roma":"nishifukuoka"
-  },
-  "805":{
-    "code":"805",
-    "name":"大野城",
-    "kana":"オオノジヨウ",
-    "hira":"おおのじよう",
-    "roma":"oonojiyou"
-  },
-  "808":{
-    "code":"808",
-    "name":"久留米",
-    "kana":"クルメ",
-    "hira":"くるめ",
-    "roma":"kurume"
-  },
   "810":{
     "code":"810",
     "name":"北九州",
     "kana":"キタキユウシユウ",
     "hira":"きたきゆうしゆう",
     "roma":"kitakiyuushiyuu"
+  },
+  "816":{
+    "code":"816",
+    "name":"博多",
+    "kana":"ハカタ",
+    "hira":"はかた",
+    "roma":"hakata"
+  },
+  "817":{
+    "code":"817",
+    "name":"東福岡",
+    "kana":"ヒガシフクオカ",
+    "hira":"ひがしふくおか",
+    "roma":"higashifukuoka"
+  },
+  "818":{
+    "code":"818",
+    "name":"西福岡",
+    "kana":"ニシフクオカ",
+    "hira":"にしふくおか",
+    "roma":"nishifukuoka"
   },
   "820":{
     "code":"820",
@@ -678,25 +657,46 @@
     "hira":"くまもと",
     "roma":"kumamoto"
   },
-  "860":{
-    "code":"860",
+  "833":{
+    "code":"833",
+    "name":"大野城",
+    "kana":"オオノジヨウ",
+    "hira":"おおのじよう",
+    "roma":"oonojiyou"
+  },
+  "834":{
+    "code":"834",
+    "name":"久留米",
+    "kana":"クルメ",
+    "hira":"くるめ",
+    "roma":"kurume"
+  },
+  "835":{
+    "code":"835",
     "name":"下関",
     "kana":"シモノセキ",
     "hira":"しものせき",
     "roma":"shimonoseki"
   },
-  "880":{
-    "code":"880",
+  "836":{
+    "code":"836",
     "name":"大阪",
     "kana":"オオサカ",
     "hira":"おおさか",
     "roma":"oosaka"
   },
-  "890":{
-    "code":"890",
+  "837":{
+    "code":"837",
     "name":"東京",
     "kana":"トウキヨウ",
     "hira":"とうきよう",
     "roma":"toukiyou"
+  },
+  "876":{
+    "code":"876",
+    "name":"シーボルト",
+    "kana":"シ－ボルト",
+    "hira":"し－ぼると",
+    "roma":"shi-boruto"
   }
 }

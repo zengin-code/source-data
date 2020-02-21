@@ -50,10 +50,10 @@
   },
   "012":{
     "code":"012",
-    "name":"片上",
-    "kana":"カタカミ",
-    "hira":"かたかみ",
-    "roma":"katakami"
+    "name":"片上中央",
+    "kana":"カタカミチユウオウ",
+    "hira":"かたかみちゆうおう",
+    "roma":"katakamichiyuuou"
   },
   "013":{
     "code":"013",
@@ -64,10 +64,10 @@
   },
   "014":{
     "code":"014",
-    "name":"山陽",
-    "kana":"サンヨウ",
-    "hira":"さんよう",
-    "roma":"sanyou"
+    "name":"桜が丘",
+    "kana":"サクラガオカ",
+    "hira":"さくらがおか",
+    "roma":"sakuragaoka"
   },
   "015":{
     "code":"015",
@@ -78,9 +78,79 @@
   },
   "016":{
     "code":"016",
-    "name":"上道",
-    "kana":"ジヨウトウ",
-    "hira":"じようとう",
-    "roma":"jiyoutou"
+    "name":"上道駅前",
+    "kana":"ジヨウトウエキマエ",
+    "hira":"じようとうえきまえ",
+    "roma":"jiyoutouekimae"
+  },
+  "101":{
+    "code":"101",
+    "name":"日生営業部",
+    "kana":"ヒナセ",
+    "hira":"ひなせ",
+    "roma":"hinase"
+  },
+  "102":{
+    "code":"102",
+    "name":"三石",
+    "kana":"ミツイシ",
+    "hira":"みついし",
+    "roma":"mitsuishi"
+  },
+  "103":{
+    "code":"103",
+    "name":"伊里中央",
+    "kana":"イリチユウオウ",
+    "hira":"いりちゆうおう",
+    "roma":"irichiyuuou"
+  },
+  "104":{
+    "code":"104",
+    "name":"吉永",
+    "kana":"ヨシナガ",
+    "hira":"よしなが",
+    "roma":"yoshinaga"
+  },
+  "106":{
+    "code":"106",
+    "name":"片上",
+    "kana":"カタカミ",
+    "hira":"かたかみ",
+    "roma":"katakami"
+  },
+  "107":{
+    "code":"107",
+    "name":"和気中央",
+    "kana":"ワケチユウオウ",
+    "hira":"わけちゆうおう",
+    "roma":"wakechiyuuou"
+  },
+  "108":{
+    "code":"108",
+    "name":"赤穂",
+    "kana":"アコウ",
+    "hira":"あこう",
+    "roma":"akou"
+  },
+  "109":{
+    "code":"109",
+    "name":"赤磐",
+    "kana":"アカイワ",
+    "hira":"あかいわ",
+    "roma":"akaiwa"
+  },
+  "111":{
+    "code":"111",
+    "name":"長船中央",
+    "kana":"オサフネチユウオウ",
+    "hira":"おさふねちゆうおう",
+    "roma":"osafunechiyuuou"
+  },
+  "114":{
+    "code":"114",
+    "name":"邑久中央",
+    "kana":"オクチユウオウ",
+    "hira":"おくちゆうおう",
+    "roma":"okuchiyuuou"
   }
 }

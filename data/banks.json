@@ -71,10 +71,10 @@
   },
   "0039":{
     "code":"0039",
-    "name":"じぶん",
-    "kana":"ジブン",
-    "hira":"じぶん",
-    "roma":"jibun"
+    "name":"ａｕじぶん",
+    "kana":"エ－ユ－ジブン",
+    "hira":"え－ゆ－じぶん",
+    "roma":"e-yu-jibun"
   },
   "0040":{
     "code":"0040",
@@ -2785,19 +2785,12 @@
     "hira":"きびしんきん",
     "roma":"kibishinkin"
   },
-  "1742":{
-    "code":"1742",
-    "name":"日生信金",
-    "kana":"ヒナセシンキン",
-    "hira":"ひなせしんきん",
-    "roma":"hinaseshinkin"
-  },
   "1743":{
     "code":"1743",
-    "name":"備前信金",
-    "kana":"ビゼンシンキン",
-    "hira":"びぜんしんきん",
-    "roma":"bizenshinkin"
+    "name":"備前日生信金",
+    "kana":"ビゼンヒナセシンキン",
+    "hira":"びぜんひなせしんきん",
+    "roma":"bizenhinaseshinkin"
   },
   "1750":{
     "code":"1750",

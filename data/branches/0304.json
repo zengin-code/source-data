@@ -43,10 +43,10 @@
   },
   "008":{
     "code":"008",
-    "name":"本店営業０８",
-    "kana":"ホンテンエイギヨウゼロハチ",
-    "hira":"ほんてんえいぎようぜろはち",
-    "roma":"honteneigiyouzerohachi"
+    "name":"本店営業一０８",
+    "kana":"ホンテンエイイチゼロハチ",
+    "hira":"ほんてんえいいちぜろはち",
+    "roma":"honteneiichizerohachi"
   },
   "012":{
     "code":"012",
@@ -148,10 +148,10 @@
   },
   "030":{
     "code":"030",
-    "name":"東京",
-    "kana":"トウキヨウ",
-    "hira":"とうきよう",
-    "roma":"toukiyou"
+    "name":"本店営業二３０",
+    "kana":"ホンテンエイニサンゼロ",
+    "hira":"ほんてんえいにさんぜろ",
+    "roma":"honteneinisanzero"
   },
   "031":{
     "code":"031",
@@ -610,17 +610,17 @@
   },
   "165":{
     "code":"165",
-    "name":"本店営業１６５",
-    "kana":"ホンテンエイギヨウイチロクコ",
-    "hira":"ほんてんえいぎよういちろくこ",
-    "roma":"honteneigiyouichirokuko"
+    "name":"本店営業一１６５",
+    "kana":"ホンテンエイイチイチロクゴ",
+    "hira":"ほんてんえいいちいちろくご",
+    "roma":"honteneiichiichirokugo"
   },
   "172":{
     "code":"172",
-    "name":"本店営業１７２",
-    "kana":"ホンテンエイギヨウイチナナニ",
-    "hira":"ほんてんえいぎよういちななに",
-    "roma":"honteneigiyouichinanani"
+    "name":"本店営業一１７２",
+    "kana":"ホンテンエイイチイチナナニ",
+    "hira":"ほんてんえいいちいちななに",
+    "roma":"honteneiichiichinanani"
   },
   "182":{
     "code":"182",
