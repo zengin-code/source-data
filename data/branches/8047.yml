@@ -31,7 +31,7 @@
   roma: matsunaga
 '590':
   code: '590'
-  name: 内海
+  name: 内海出張所
   kana: ウツミ
   hira: うつみ
   roma: utsumi
@@ -307,13 +307,13 @@
   roma: ekiya
 '665':
   code: '665'
-  name: 宜山
+  name: 宜山出張所
   kana: ムベヤマ
   hira: むべやま
   roma: mubeyama
 '670':
   code: '670'
-  name: 戸手
+  name: 戸手出張所
   kana: トデ
   hira: とで
   roma: tode
@@ -331,7 +331,7 @@
   roma: abiki
 '674':
   code: '674'
-  name: 常金丸
+  name: 常金丸出張所
   kana: ツネカネマル
   hira: つねかねまる
   roma: tsunekanemaru
@@ -343,13 +343,13 @@
   roma: yuki
 '682':
   code: '682'
-  name: 神石
+  name: 神石出張所
   kana: ジンセキ
   hira: じんせき
   roma: jinseki
 '692':
   code: '692'
-  name: 豊松
+  name: 豊松出張所
   kana: トヨマツ
   hira: とよまつ
   roma: toyomatsu

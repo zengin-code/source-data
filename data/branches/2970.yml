@@ -131,12 +131,6 @@
   kana: タンナン
   hira: たんなん
   roma: tannan
-'474':
-  code: '474'
-  name: 勝山
-  kana: カツヤマ
-  hira: かつやま
-  roma: katsuyama
 '475':
   code: '475'
   name: 小浜
@@ -151,10 +145,10 @@
   roma: kanadu
 '477':
   code: '477'
-  name: 大野
-  kana: オオノ
-  hira: おおの
-  roma: oono
+  name: 奥越
+  kana: オクエツ
+  hira: おくえつ
+  roma: okuetsu
 '480':
   code: '480'
   name: 福井北

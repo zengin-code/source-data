@@ -11,12 +11,6 @@
   kana: カミナガ
   hira: かみなが
   roma: kaminaga
-'006':
-  code: '006'
-  name: 豊崎
-  kana: トヨサキ
-  hira: とよさき
-  roma: toyosaki
 '007':
   code: '007'
   name: 下長
@@ -53,12 +47,6 @@
   kana: クライシ
   hira: くらいし
   roma: kuraishi
-'018':
-  code: '018'
-  name: 新郷
-  kana: シンゴウ
-  hira: しんごう
-  roma: shingou
 '019':
   code: '019'
   name: 三戸
