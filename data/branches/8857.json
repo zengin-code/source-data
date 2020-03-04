@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "002":{
-    "code":"002",
-    "name":"針尾",
-    "kana":"ハリオ",
-    "hira":"はりお",
-    "roma":"hario"
-  },
   "009":{
     "code":"009",
     "name":"北部中央",
@@ -33,13 +26,6 @@
     "kana":"アイノウラ",
     "hira":"あいのうら",
     "roma":"ainoura"
-  },
-  "014":{
-    "code":"014",
-    "name":"宮",
-    "kana":"ミヤ",
-    "hira":"みや",
-    "roma":"miya"
   },
   "015":{
     "code":"015",
@@ -69,26 +55,12 @@
     "hira":"おぢか",
     "roma":"odika"
   },
-  "024":{
-    "code":"024",
-    "name":"吉井",
-    "kana":"ヨシイ",
-    "hira":"よしい",
-    "roma":"yoshii"
-  },
   "026":{
     "code":"026",
     "name":"江迎鹿町",
     "kana":"エムカエシカマチ",
     "hira":"えむかえしかまち",
     "roma":"emukaeshikamachi"
-  },
-  "031":{
-    "code":"031",
-    "name":"御厨",
-    "kana":"ミクリヤ",
-    "hira":"みくりや",
-    "roma":"mikuriya"
   },
   "032":{
     "code":"032",

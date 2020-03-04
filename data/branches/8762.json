@@ -328,27 +328,6 @@
     "hira":"しろいし",
     "roma":"shiroishi"
   },
-  "732":{
-    "code":"732",
-    "name":"六角",
-    "kana":"ロツカク",
-    "hira":"ろつかく",
-    "roma":"rotsukaku"
-  },
-  "733":{
-    "code":"733",
-    "name":"北有明",
-    "kana":"キタアリアケ",
-    "hira":"きたありあけ",
-    "roma":"kitaariake"
-  },
-  "734":{
-    "code":"734",
-    "name":"須古",
-    "kana":"スコ",
-    "hira":"すこ",
-    "roma":"suko"
-  },
   "735":{
     "code":"735",
     "name":"福富",
@@ -383,12 +362,5 @@
     "kana":"アリアケカンタク",
     "hira":"ありあけかんたく",
     "roma":"ariakekantaku"
-  },
-  "740":{
-    "code":"740",
-    "name":"秀津出張所",
-    "kana":"ヒデツ",
-    "hira":"ひでつ",
-    "roma":"hidetsu"
   }
 }

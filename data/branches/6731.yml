@@ -59,24 +59,12 @@
   kana: キセイ
   hira: きせい
   roma: kisei
-'044':
-  code: '044'
-  name: 鵜倉
-  kana: ウグラ
-  hira: うぐら
-  roma: ugura
 '046':
   code: '046'
   name: 南島
   kana: ナントウ
   hira: なんとう
   roma: nantou
-'053':
-  code: '053'
-  name: 伊勢南部
-  kana: イセナンブ
-  hira: いせなんぶ
-  roma: isenambu
 '054':
   code: '054'
   name: 紀北

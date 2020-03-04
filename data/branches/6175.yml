@@ -151,46 +151,16 @@
   roma: sunomata
 '038':
   code: '038'
-  name: 高須
-  kana: タカス
-  hira: たかす
-  roma: takasu
-'039':
-  code: '039'
-  name: 吉里
-  kana: ヨシサト
-  hira: よしさと
-  roma: yoshisato
-'040':
-  code: '040'
-  name: 東江
-  kana: ヒガシエ
-  hira: ひがしえ
-  roma: higashie
-'041':
-  code: '041'
-  name: 大江
-  kana: オオエ
-  hira: おおえ
-  roma: ooe
-'043':
-  code: '043'
-  name: 西江
-  kana: ニシエ
-  hira: にしえ
-  roma: nishie
+  name: 海津中
+  kana: カイヅナカ
+  hira: かいづなか
+  roma: kaidunaka
 '044':
   code: '044'
-  name: 平田
-  kana: ヒラタ
-  hira: ひらた
-  roma: hirata
-'045':
-  code: '045'
-  name: 野寺
-  kana: ノデラ
-  hira: のでら
-  roma: nodera
+  name: 海津北
+  kana: カイヅキタ
+  hira: かいづきた
+  roma: kaidukita
 '046':
   code: '046'
   name: 南濃
@@ -311,9 +281,3 @@
   kana: セキガハラ
   hira: せきがはら
   roma: sekigahara
-'078':
-  code: '078'
-  name: 今須
-  kana: イマス
-  hira: います
-  roma: imasu

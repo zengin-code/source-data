@@ -5,18 +5,12 @@
   kana: タカマツ
   hira: たかまつ
   roma: takamatsu
-'002':
-  code: '002'
-  name: 荒茅
-  kana: アラカヤ
-  hira: あらかや
-  roma: arakaya
 '003':
   code: '003'
-  name: 園
-  kana: ソノ
-  hira: その
-  roma: sono
+  name: 長浜
+  kana: ナガハマ
+  hira: ながはま
+  roma: nagahama
 '004':
   code: '004'
   name: 神西
@@ -89,12 +83,6 @@
   kana: イズモシヤクシヨ
   hira: いずもしやくしよ
   roma: izumoshiyakushiyo
-'030':
-  code: '030'
-  name: 有原
-  kana: アリハラ
-  hira: ありはら
-  roma: arihara
 '041':
   code: '041'
   name: 平田中央
