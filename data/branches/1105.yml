@@ -125,12 +125,6 @@
   kana: ミサワ
   hira: みさわ
   roma: misawa
-'031':
-  code: '031'
-  name: 野辺地
-  kana: ノヘジ
-  hira: のへじ
-  roma: noheji
 '032':
   code: '032'
   name: 六戸
@@ -191,12 +185,6 @@
   kana: ヒロサキ
   hira: ひろさき
   roma: hirosaki
-'048':
-  code: '048'
-  name: 碇ケ関出張所
-  kana: イカリガセキ
-  hira: いかりがせき
-  roma: ikarigaseki
 '049':
   code: '049'
   name: 弘前駅前
@@ -275,12 +263,6 @@
   kana: カナギ
   hira: かなぎ
   roma: kanagi
-'068':
-  code: '068'
-  name: 木造出張所
-  kana: キヅクリ
-  hira: きづくり
-  roma: kidukuri
 '069':
   code: '069'
   name: 鰺ケ沢
@@ -293,12 +275,6 @@
   kana: シモキタ
   hira: しもきた
   roma: shimokita
-'073':
-  code: '073'
-  name: 大畑出張所
-  kana: オオハタ
-  hira: おおはた
-  roma: oohata
 '074':
   code: '074'
   name: 大湊

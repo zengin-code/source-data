@@ -5,12 +5,6 @@
   kana: ホンテン
   hira: ほんてん
   roma: honten
-'002':
-  code: '002'
-  name: 大手町
-  kana: オオテマチ
-  hira: おおてまち
-  roma: ootemachi
 '003':
   code: '003'
   name: 境
@@ -65,12 +59,6 @@
   kana: アカボリ
   hira: あかぼり
   roma: akabori
-'012':
-  code: '012'
-  name: 渕名
-  kana: フチナ
-  hira: ふちな
-  roma: fuchina
 '014':
   code: '014'
   name: 豊受
