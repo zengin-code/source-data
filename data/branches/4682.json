@@ -62,26 +62,12 @@
     "hira":"おまぎ",
     "roma":"omagi"
   },
-  "010":{
-    "code":"010",
-    "name":"東浦和",
-    "kana":"ヒガシウラワ",
-    "hira":"ひがしうらわ",
-    "roma":"higashiurawa"
-  },
   "011":{
     "code":"011",
     "name":"大門",
     "kana":"ダイモン",
     "hira":"だいもん",
     "roma":"daimon"
-  },
-  "012":{
-    "code":"012",
-    "name":"土合西",
-    "kana":"ツチアイニシ",
-    "hira":"つちあいにし",
-    "roma":"tsuchiainishi"
   },
   "013":{
     "code":"013",
@@ -404,13 +390,6 @@
     "kana":"カノウ",
     "hira":"かのう",
     "roma":"kanou"
-  },
-  "059":{
-    "code":"059",
-    "name":"川田谷",
-    "kana":"カワタヤ",
-    "hira":"かわたや",
-    "roma":"kawataya"
   },
   "060":{
     "code":"060",

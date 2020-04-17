@@ -7048,13 +7048,6 @@
     "hira":"みつかびちようのうきよう",
     "roma":"mitsukabichiyounoukiyou"
   },
-  "6426":{
-    "code":"6426",
-    "name":"三方原開拓農協",
-    "kana":"ミカタハラカイタクノウキヨウ",
-    "hira":"みかたはらかいたくのうきよう",
-    "roma":"mikataharakaitakunoukiyou"
-  },
   "6430":{
     "code":"6430",
     "name":"なごや農協",
@@ -7260,59 +7253,10 @@
   },
   "6785":{
     "code":"6785",
-    "name":"福井市農協",
-    "kana":"フクイシノウキヨウ",
-    "hira":"ふくいしのうきよう",
-    "roma":"fukuishinoukiyou"
-  },
-  "6789":{
-    "code":"6789",
-    "name":"福井市南部農協",
-    "kana":"フクイシナンブノウキヨウ",
-    "hira":"ふくいしなんぶのうきよう",
-    "roma":"fukuishinambunoukiyou"
-  },
-  "6805":{
-    "code":"6805",
-    "name":"永平寺町農協",
-    "kana":"エイヘイジチヨウノウキヨウ",
-    "hira":"えいへいじちようのうきよう",
-    "roma":"eiheijichiyounoukiyou"
-  },
-  "6810":{
-    "code":"6810",
-    "name":"花咲ふくい農協",
-    "kana":"ハナサキフクイノウキヨウ",
-    "hira":"はなさきふくいのうきよう",
-    "roma":"hanasakifukuinoukiyou"
-  },
-  "6823":{
-    "code":"6823",
-    "name":"春江農協",
-    "kana":"ハルエノウキヨウ",
-    "hira":"はるえのうきよう",
-    "roma":"haruenoukiyou"
-  },
-  "6832":{
-    "code":"6832",
-    "name":"テラル越前農協",
-    "kana":"テラルエチゼンノウキヨウ",
-    "hira":"てらるえちぜんのうきよう",
-    "roma":"teraruechizennoukiyou"
-  },
-  "6836":{
-    "code":"6836",
-    "name":"福井丹南農協",
-    "kana":"フクイタンナンノウキヨウ",
-    "hira":"ふくいたんなんのうきよう",
-    "roma":"fukuitannannoukiyou"
-  },
-  "6841":{
-    "code":"6841",
-    "name":"越前丹生農協",
-    "kana":"エチゼンニユウノウキヨウ",
-    "hira":"えちぜんにゆうのうきよう",
-    "roma":"echizenniyuunoukiyou"
+    "name":"福井県農協",
+    "kana":"フクイケンノウキヨウ",
+    "hira":"ふくいけんのうきよう",
+    "roma":"fukuikennoukiyou"
   },
   "6853":{
     "code":"6853",
@@ -7320,20 +7264,6 @@
     "kana":"エチゼンタケフノウキヨウ",
     "hira":"えちぜんたけふのうきよう",
     "roma":"echizentakefunoukiyou"
-  },
-  "6860":{
-    "code":"6860",
-    "name":"敦賀美方農協",
-    "kana":"ツルガミカタノウキヨウ",
-    "hira":"つるがみかたのうきよう",
-    "roma":"tsurugamikatanoukiyou"
-  },
-  "6863":{
-    "code":"6863",
-    "name":"若狭農協",
-    "kana":"ワカサノウキヨウ",
-    "hira":"わかさのうきよう",
-    "roma":"wakasanoukiyou"
   },
   "6874":{
     "code":"6874",
@@ -7776,61 +7706,12 @@
     "hira":"おかやましのうきよう",
     "roma":"okayamashinoukiyou"
   },
-  "7768":{
-    "code":"7768",
-    "name":"岡山東農協",
-    "kana":"オカヤマヒガシノウキヨウ",
-    "hira":"おかやまひがしのうきよう",
-    "roma":"okayamahigashinoukiyou"
-  },
-  "7794":{
-    "code":"7794",
-    "name":"岡山西農協",
-    "kana":"オカヤマニシノウキヨウ",
-    "hira":"おかやまにしのうきよう",
-    "roma":"okayamanishinoukiyou"
-  },
-  "7825":{
-    "code":"7825",
-    "name":"倉敷かさや農協",
-    "kana":"クラシキカサヤノウキヨウ",
-    "hira":"くらしきかさやのうきよう",
-    "roma":"kurashikikasayanoukiyou"
-  },
   "7837":{
     "code":"7837",
-    "name":"びほく農協",
-    "kana":"ビホクノウキヨウ",
-    "hira":"びほくのうきよう",
-    "roma":"bihokunoukiyou"
-  },
-  "7847":{
-    "code":"7847",
-    "name":"阿新農協",
-    "kana":"アシンノウキヨウ",
-    "hira":"あしんのうきよう",
-    "roma":"ashinnoukiyou"
-  },
-  "7859":{
-    "code":"7859",
-    "name":"真庭農協",
-    "kana":"マニワノウキヨウ",
-    "hira":"まにわのうきよう",
-    "roma":"maniwanoukiyou"
-  },
-  "7868":{
-    "code":"7868",
-    "name":"津山農協",
-    "kana":"ツヤマノウキヨウ",
-    "hira":"つやまのうきよう",
-    "roma":"tsuyamanoukiyou"
-  },
-  "7889":{
-    "code":"7889",
-    "name":"勝英農協",
-    "kana":"シヨウエイノウキヨウ",
-    "hira":"しようえいのうきよう",
-    "roma":"shiyoueinoukiyou"
+    "name":"晴れの国岡山農協",
+    "kana":"ハレノクニオカヤマノウキヨウ",
+    "hira":"はれのくにおかやまのうきよう",
+    "roma":"harenokuniokayamanoukiyou"
   },
   "7909":{
     "code":"7909",
@@ -8384,13 +8265,6 @@
     "kana":"タマナノウキヨウ",
     "hira":"たまなのうきよう",
     "roma":"tamananoukiyou"
-  },
-  "8934":{
-    "code":"8934",
-    "name":"玉名市大浜町農協",
-    "kana":"タマナシオオハママチノウキヨウ",
-    "hira":"たまなしおおはままちのうきよう",
-    "roma":"tamanashioohamamachinoukiyou"
   },
   "8941":{
     "code":"8941",

@@ -29,3 +29,33 @@
   kana: ホテイ
   hira: ほてい
   roma: hotei
+'201':
+  code: '201'
+  name: さくら
+  kana: サクラ
+  hira: さくら
+  roma: sakura
+'202':
+  code: '202'
+  name: すずらん
+  kana: スズラン
+  hira: すずらん
+  roma: suzuran
+'203':
+  code: '203'
+  name: なでしこ
+  kana: ナデシコ
+  hira: なでしこ
+  roma: nadeshiko
+'204':
+  code: '204'
+  name: はなみずき
+  kana: ハナミズキ
+  hira: はなみずき
+  roma: hanamizuki
+'205':
+  code: '205'
+  name: ひまわり
+  kana: ヒマワリ
+  hira: ひまわり
+  roma: himawari

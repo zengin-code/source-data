@@ -27,26 +27,12 @@
     "hira":"よつや",
     "roma":"yotsuya"
   },
-  "006":{
-    "code":"006",
-    "name":"大曲南",
-    "kana":"オオマガリミナミ",
-    "hira":"おおまがりみなみ",
-    "roma":"oomagariminami"
-  },
   "008":{
     "code":"008",
     "name":"病院",
     "kana":"ビヨウイン",
     "hira":"びよういん",
     "roma":"biyouin"
-  },
-  "009":{
-    "code":"009",
-    "name":"内小友",
-    "kana":"ウチオトモ",
-    "hira":"うちおとも",
-    "roma":"uchiotomo"
   },
   "010":{
     "code":"010",
@@ -55,33 +41,12 @@
     "hira":"きようわ",
     "roma":"kiyouwa"
   },
-  "011":{
-    "code":"011",
-    "name":"淀川",
-    "kana":"ヨドカワ",
-    "hira":"よどかわ",
-    "roma":"yodokawa"
-  },
   "014":{
     "code":"014",
     "name":"西仙北",
     "kana":"ニシセンボク",
     "hira":"にしせんぼく",
     "roma":"nishisemboku"
-  },
-  "015":{
-    "code":"015",
-    "name":"土川",
-    "kana":"ツチカワ",
-    "hira":"つちかわ",
-    "roma":"tsuchikawa"
-  },
-  "017":{
-    "code":"017",
-    "name":"強首",
-    "kana":"コワクビ",
-    "hira":"こわくび",
-    "roma":"kowakubi"
   },
   "018":{
     "code":"018",
@@ -118,26 +83,12 @@
     "hira":"せんはた",
     "roma":"senhata"
   },
-  "025":{
-    "code":"025",
-    "name":"畑屋",
-    "kana":"ハタヤ",
-    "hira":"はたや",
-    "roma":"hataya"
-  },
   "026":{
     "code":"026",
     "name":"中仙",
     "kana":"ナカセン",
     "hira":"なかせん",
     "roma":"nakasen"
-  },
-  "028":{
-    "code":"028",
-    "name":"豊成",
-    "kana":"ホウセイ",
-    "hira":"ほうせい",
-    "roma":"housei"
   },
   "030":{
     "code":"030",
@@ -152,13 +103,6 @@
     "kana":"カクダテ",
     "hira":"かくだて",
     "roma":"kakudate"
-  },
-  "033":{
-    "code":"033",
-    "name":"角館駅前",
-    "kana":"カクダテエキマエ",
-    "hira":"かくだてえきまえ",
-    "roma":"kakudateekimae"
   },
   "034":{
     "code":"034",

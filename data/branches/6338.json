@@ -90,33 +90,12 @@
     "hira":"やぎさわ",
     "roma":"yagisawa"
   },
-  "052":{
-    "code":"052",
-    "name":"温泉場",
-    "kana":"オンセンバ",
-    "hira":"おんせんば",
-    "roma":"onsemba"
-  },
-  "053":{
-    "code":"053",
-    "name":"熊坂",
-    "kana":"クマサカ",
-    "hira":"くまさか",
-    "roma":"kumasaka"
-  },
   "054":{
     "code":"054",
-    "name":"駅前",
-    "kana":"エキマエ",
-    "hira":"えきまえ",
-    "roma":"ekimae"
-  },
-  "055":{
-    "code":"055",
-    "name":"本立野",
-    "kana":"ホンタチノ",
-    "hira":"ほんたちの",
-    "roma":"hontachino"
+    "name":"修善寺",
+    "kana":"シユゼンジ",
+    "hira":"しゆぜんじ",
+    "roma":"shiyuzenji"
   },
   "056":{
     "code":"056",

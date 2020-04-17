@@ -13,28 +13,16 @@
   roma: miato
 '003':
   code: '003'
-  name: 田原
+  name: 田原出張所
   kana: タワラ
   hira: たわら
   roma: tawara
-'004':
-  code: '004'
-  name: 柳生
-  kana: ヤギユウ
-  hira: やぎゆう
-  roma: yagiyuu
 '006':
   code: '006'
-  name: 大柳生
-  kana: オオヤギユウ
-  hira: おおやぎゆう
-  roma: ooyagiyuu
-'007':
-  code: '007'
-  name: 奈良東里
-  kana: ナラヒガシサト
-  hira: ならひがしさと
-  roma: narahigashisato
+  name: 奈良東部
+  kana: ナラトウブ
+  hira: ならとうぶ
+  roma: naratoubu
 '010':
   code: '010'
   name: 奈良
@@ -131,12 +119,6 @@
   kana: ヘイワ
   hira: へいわ
   roma: heiwa
-'117':
-  code: '117'
-  name: 矢田
-  kana: ヤタ
-  hira: やた
-  roma: yata
 '118':
   code: '118'
   name: 昭和
@@ -203,24 +185,12 @@
   kana: サクライ
   hira: さくらい
   roma: sakurai
-'138':
-  code: '138'
-  name: 三輪
-  kana: ミワ
-  hira: みわ
-  roma: miwa
 '139':
   code: '139'
   name: 織田
   kana: オダ
   hira: おだ
   roma: oda
-'140':
-  code: '140'
-  name: 纒向
-  kana: マキムク
-  hira: まきむく
-  roma: makimuku
 '141':
   code: '141'
   name: 初瀬
@@ -275,18 +245,6 @@
   kana: コウリヨウ
   hira: こうりよう
   roma: kouriyou
-'154':
-  code: '154'
-  name: 広陵南
-  kana: コウリヨウミナミ
-  hira: こうりようみなみ
-  roma: kouriyouminami
-'155':
-  code: '155'
-  name: 広陵東
-  kana: コウリヨウヒガシ
-  hira: こうりようひがし
-  roma: kouriyouhigashi
 '156':
   code: '156'
   name: 広陵北
@@ -313,7 +271,7 @@
   roma: haibara
 '168':
   code: '168'
-  name: 室生
+  name: 室生出張所
   kana: ムロウ
   hira: むろう
   roma: murou
@@ -367,7 +325,7 @@
   roma: masugaekimae
 '181':
   code: '181'
-  name: 高取
+  name: 高取出張所
   kana: タカトリ
   hira: たかとり
   roma: takatori
@@ -431,30 +389,12 @@
   kana: カシバ
   hira: かしば
   roma: kashiba
-'197':
-  code: '197'
-  name: かしば南
-  kana: カシバミナミ
-  hira: かしばみなみ
-  roma: kashibaminami
-'198':
-  code: '198'
-  name: かしば北
-  kana: カシバキタ
-  hira: かしばきた
-  roma: kashibakita
 '199':
   code: '199'
   name: 二上
   kana: ニジヨウ
   hira: にじよう
   roma: nijiyou
-'200':
-  code: '200'
-  name: 関屋
-  kana: セキヤ
-  hira: せきや
-  roma: sekiya
 '203':
   code: '203'
   name: 御所
@@ -511,22 +451,16 @@
   roma: totsukawamura
 '226':
   code: '226'
-  name: 竜門
-  kana: リユウモン
-  hira: りゆうもん
-  roma: riyuumon
+  name: 吉野
+  kana: ヨシノ
+  hira: よしの
+  roma: yoshino
 '227':
   code: '227'
   name: 吉野郷
   kana: ヨシノゴウ
   hira: よしのごう
   roma: yoshinogou
-'228':
-  code: '228'
-  name: 中荘
-  kana: ナカシヨウ
-  hira: なかしよう
-  roma: nakashiyou
 '232':
   code: '232'
   name: 大淀西部
@@ -535,7 +469,7 @@
   roma: ooyodoseibu
 '233':
   code: '233'
-  name: 下市口駅前
+  name: 下市口駅前出張所
   kana: シモイチグチエキマエ
   hira: しもいちぐちえきまえ
   roma: shimoichiguchiekimae

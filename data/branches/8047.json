@@ -43,10 +43,10 @@
   },
   "595":{
     "code":"595",
-    "name":"千年",
-    "kana":"チトセ",
-    "hira":"ちとせ",
-    "roma":"chitose"
+    "name":"沼隈",
+    "kana":"ヌマクマ",
+    "hira":"ぬまくま",
+    "roma":"numakuma"
   },
   "597":{
     "code":"597",
@@ -414,9 +414,9 @@
   },
   "693":{
     "code":"693",
-    "name":"三和",
-    "kana":"サンワ",
-    "hira":"さんわ",
-    "roma":"sanwa"
+    "name":"神石高原出張所",
+    "kana":"ジンセキコウゲン",
+    "hira":"じんせきこうげん",
+    "roma":"jinsekikougen"
   }
 }

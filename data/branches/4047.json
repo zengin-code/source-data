@@ -454,25 +454,11 @@
     "hira":"おだかそうごう",
     "roma":"odakasougou"
   },
-  "090":{
-    "code":"090",
-    "name":"福浦",
-    "kana":"フクウラ",
-    "hira":"ふくうら",
-    "roma":"fukuura"
-  },
   "091":{
     "code":"091",
     "name":"飯舘総合",
     "kana":"イイタテソウゴウ",
     "hira":"いいたてそうごう",
     "roma":"iitatesougou"
-  },
-  "092":{
-    "code":"092",
-    "name":"飯樋出張所",
-    "kana":"イイトイ",
-    "hira":"いいとい",
-    "roma":"iitoi"
   }
 }
