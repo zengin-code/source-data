@@ -53,12 +53,6 @@
   kana: ヒガシ
   hira: ひがし
   roma: higashi
-'017':
-  code: '017'
-  name: 新斎町
-  kana: シンサイマチ
-  hira: しんさいまち
-  roma: shinsaimachi
 '022':
   code: '022'
   name: 戸野町
@@ -77,12 +71,6 @@
   kana: ヒガシオオマチ
   hira: ひがしおおまち
   roma: higashioomachi
-'025':
-  code: '025'
-  name: 若宮町
-  kana: ワカミヤチヨウ
-  hira: わかみやちよう
-  roma: wakamiyachiyou
 '026':
   code: '026'
   name: 富士見町
