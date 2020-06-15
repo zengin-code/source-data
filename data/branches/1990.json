@@ -292,5 +292,12 @@
     "kana":"チラン",
     "hira":"ちらん",
     "roma":"chiran"
+  },
+  "055":{
+    "code":"055",
+    "name":"インターネット",
+    "kana":"インタ－ネツト",
+    "hira":"いんた－ねつと",
+    "roma":"inta-netsuto"
   }
 }
