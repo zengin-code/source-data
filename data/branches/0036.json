@@ -216,6 +216,20 @@
     "hira":"だいにえいぎよう",
     "roma":"dainieigiyou"
   },
+  "253":{
+    "code":"253",
+    "name":"第三営業",
+    "kana":"ダイサンエイギヨウ",
+    "hira":"だいさんえいぎよう",
+    "roma":"daisaneigiyou"
+  },
+  "254":{
+    "code":"254",
+    "name":"第四営業",
+    "kana":"ダイヨンエイギヨウ",
+    "hira":"だいよんえいぎよう",
+    "roma":"daiyoneigiyou"
+  },
   "301":{
     "code":"301",
     "name":"ひかり",
