@@ -541,16 +541,10 @@
   roma: nitsushiyoukinshintaku
 '0324':
   code: '0324'
-  name: 日本トラスティ・サービス信託
-  kana: ニホントラステイサ－ビスシン
-  hira: にほんとらすていさ－びすしん
-  roma: nihontorasuteisa-bisushin
-'0325':
-  code: '0325'
-  name: 資産管理サービス信託
-  kana: シサンカンリサ－ビスシンタク
-  hira: しさんかんりさ－びすしんたく
-  roma: shisankanrisa-bisushintaku
+  name: 日本カストディ
+  kana: ニホンカストデイ
+  hira: にほんかすとでい
+  roma: nihonkasutodei
 '0397':
   code: '0397'
   name: 新生
