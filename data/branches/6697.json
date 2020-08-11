@@ -1,17 +1,10 @@
 {
-  "001":{
-    "code":"001",
-    "name":"大淀",
-    "kana":"オオヨド",
-    "hira":"おおよど",
-    "roma":"ooyodo"
-  },
   "002":{
     "code":"002",
-    "name":"上御糸",
-    "kana":"カミミイト",
-    "hira":"かみみいと",
-    "roma":"kamimiito"
+    "name":"明和北",
+    "kana":"メイワキタ",
+    "hira":"めいわきた",
+    "roma":"meiwakita"
   },
   "003":{
     "code":"003",
@@ -19,13 +12,6 @@
     "kana":"サイクウ",
     "hira":"さいくう",
     "roma":"saikuu"
-  },
-  "004":{
-    "code":"004",
-    "name":"下御糸",
-    "kana":"シモミイト",
-    "hira":"しもみいと",
-    "roma":"shimomiito"
   },
   "005":{
     "code":"005",

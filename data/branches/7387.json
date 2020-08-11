@@ -76,13 +76,6 @@
     "hira":"つきがせ",
     "roma":"tsukigase"
   },
-  "102":{
-    "code":"102",
-    "name":"櫟本",
-    "kana":"イチノモト",
-    "hira":"いちのもと",
-    "roma":"ichinomoto"
-  },
   "103":{
     "code":"103",
     "name":"天理",
@@ -99,17 +92,10 @@
   },
   "105":{
     "code":"105",
-    "name":"朝和",
-    "kana":"アサワ",
-    "hira":"あさわ",
-    "roma":"asawa"
-  },
-  "106":{
-    "code":"106",
-    "name":"柳本",
-    "kana":"ヤナギモト",
-    "hira":"やなぎもと",
-    "roma":"yanagimoto"
+    "name":"天理南",
+    "kana":"テンリミナミ",
+    "hira":"てんりみなみ",
+    "roma":"tenriminami"
   },
   "108":{
     "code":"108",
@@ -337,10 +323,10 @@
   },
   "173":{
     "code":"173",
-    "name":"耳成",
-    "kana":"ミミナシ",
-    "hira":"みみなし",
-    "roma":"miminashi"
+    "name":"まほろば",
+    "kana":"マホロバ",
+    "hira":"まほろば",
+    "roma":"mahoroba"
   },
   "174":{
     "code":"174",

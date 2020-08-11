@@ -29,12 +29,6 @@
   kana: ニシノ
   hira: にしの
   roma: nishino
-'006':
-  code: '006'
-  name: 大沢
-  kana: オオサワ
-  hira: おおさわ
-  roma: oosawa
 '007':
   code: '007'
   name: 小平
@@ -47,12 +41,6 @@
   kana: スズキチヨウ
   hira: すずきちよう
   roma: suzukichiyou
-'010':
-  code: '010'
-  name: たかの台
-  kana: タカノダイ
-  hira: たかのだい
-  roma: takanodai
 '011':
   code: '011'
   name: 国分寺

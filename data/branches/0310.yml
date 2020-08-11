@@ -23,6 +23,12 @@
   kana: ホウジンダイニ
   hira: ほうじんだいに
   roma: houjindaini
+'110':
+  code: '110'
+  name: 法人第十営業部
+  kana: ホウジンダイジユウ
+  hira: ほうじんだいじゆう
+  roma: houjindaijiyuu
 '201':
   code: '201'
   name: ビジネス
@@ -35,6 +41,12 @@
   kana: ビジネスダイニ
   hira: びじねすだいに
   roma: bijinesudaini
+'210':
+  code: '210'
+  name: ビジネス第十
+  kana: ビジネスダイジユウ
+  hira: びじねすだいじゆう
+  roma: bijinesudaijiyuu
 '301':
   code: '301'
   name: うみ
@@ -47,6 +59,12 @@
   kana: ニジ
   hira: にじ
   roma: niji
+'310':
+  code: '310'
+  name: しろ
+  kana: シロ
+  hira: しろ
+  roma: shiro
 '501':
   code: '501'
   name: ふるさとチョイス

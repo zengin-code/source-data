@@ -47,12 +47,6 @@
   kana: カムイ
   hira: かむい
   roma: kamui
-'020':
-  code: '020'
-  name: 忠和
-  kana: チユウワ
-  hira: ちゆうわ
-  roma: chiyuuwa
 '021':
   code: '021'
   name: 江丹別
@@ -65,12 +59,6 @@
   kana: キタノ
   hira: きたの
   roma: kitano
-'023':
-  code: '023'
-  name: 春光台
-  kana: シユンコウダイ
-  hira: しゆんこうだい
-  roma: shiyunkoudai
 '100':
   code: '100'
   name: 本所

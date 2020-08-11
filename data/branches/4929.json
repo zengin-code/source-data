@@ -27,13 +27,6 @@
     "hira":"なるとう",
     "roma":"narutou"
   },
-  "008":{
-    "code":"008",
-    "name":"日向",
-    "kana":"ヒユウガ",
-    "hira":"ひゆうが",
-    "roma":"hiyuuga"
-  },
   "009":{
     "code":"009",
     "name":"南郷",
@@ -57,10 +50,10 @@
   },
   "012":{
     "code":"012",
-    "name":"睦岡",
-    "kana":"ムツオカ",
-    "hira":"むつおか",
-    "roma":"mutsuoka"
+    "name":"さんぶ",
+    "kana":"サンブ",
+    "hira":"さんぶ",
+    "roma":"sambu"
   },
   "013":{
     "code":"013",
