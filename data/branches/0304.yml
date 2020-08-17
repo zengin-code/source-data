@@ -533,6 +533,12 @@
   kana: ホンテンエイイチイチナナニ
   hira: ほんてんえいいちいちななに
   roma: honteneiichiichinanani
+'176':
+  code: '176'
+  name: イチナナロク
+  kana: イチナナロク
+  hira: いちななろく
+  roma: ichinanaroku
 '182':
   code: '182'
   name: ほっとダイレクト部１８２
@@ -989,6 +995,24 @@
   kana: オオサカエイギヨウロクロクセ
   hira: おおさかえいぎようろくろくせ
   roma: oosakaeigiyourokurokuse
+'667':
+  code: '667'
+  name: ロクロクナナ
+  kana: ロクロクナナ
+  hira: ろくろくなな
+  roma: rokurokunana
+'668':
+  code: '668'
+  name: ロクロクハチ
+  kana: ロクロクハチ
+  hira: ろくろくはち
+  roma: rokurokuhachi
+'669':
+  code: '669'
+  name: ロクロクキュウ
+  kana: ロクロクキユウ
+  hira: ろくろくきゆう
+  roma: rokurokukiyuu
 '701':
   code: '701'
   name: 天王寺

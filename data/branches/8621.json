@@ -34,27 +34,6 @@
     "hira":"とうごう",
     "roma":"tougou"
   },
-  "016":{
-    "code":"016",
-    "name":"赤間駅前",
-    "kana":"アカマエキマエ",
-    "hira":"あかまえきまえ",
-    "roma":"akamaekimae"
-  },
-  "017":{
-    "code":"017",
-    "name":"自由ケ丘",
-    "kana":"ジユウガオカ",
-    "hira":"じゆうがおか",
-    "roma":"jiyuugaoka"
-  },
-  "021":{
-    "code":"021",
-    "name":"神興",
-    "kana":"ジンゴウ",
-    "hira":"じんごう",
-    "roma":"jingou"
-  },
   "022":{
     "code":"022",
     "name":"上西郷",
