@@ -230,6 +230,20 @@
     "hira":"だいよんえいぎよう",
     "roma":"daiyoneigiyou"
   },
+  "261":{
+    "code":"261",
+    "name":"売上入金第一",
+    "kana":"ウリアゲニユウキンダイイチ",
+    "hira":"うりあげにゆうきんだいいち",
+    "roma":"uriageniyuukindaiichi"
+  },
+  "262":{
+    "code":"262",
+    "name":"売上入金第二",
+    "kana":"ウリアゲニユウキンダイニ",
+    "hira":"うりあげにゆうきんだいに",
+    "roma":"uriageniyuukindaini"
+  },
   "301":{
     "code":"301",
     "name":"ひかり",
