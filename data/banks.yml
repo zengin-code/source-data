@@ -1885,16 +1885,10 @@
   roma: notokiyoueishinkin
 '1444':
   code: '1444'
-  name: 北陸信金
-  kana: ホクリクシンキン
-  hira: ほくりくしんきん
-  roma: hokurikushinkin
-'1445':
-  code: '1445'
-  name: 鶴来信金
-  kana: ツルギシンキン
-  hira: つるぎしんきん
-  roma: tsurugishinkin
+  name: はくさん信金
+  kana: ハクサンシンキン
+  hira: はくさんしんきん
+  roma: hakusanshinkin
 '1448':
   code: '1448'
   name: 興能信金
