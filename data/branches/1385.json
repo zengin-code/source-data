@@ -20,13 +20,6 @@
     "hira":"みどりまち",
     "roma":"midorimachi"
   },
-  "015":{
-    "code":"015",
-    "name":"北",
-    "kana":"キタ",
-    "hira":"きた",
-    "roma":"kita"
-  },
   "016":{
     "code":"016",
     "name":"南",
@@ -125,19 +118,12 @@
     "hira":"たとみ",
     "roma":"tatomi"
   },
-  "072":{
-    "code":"072",
-    "name":"竜王",
-    "kana":"リユウオウ",
-    "hira":"りゆうおう",
-    "roma":"riyuuou"
-  },
   "073":{
     "code":"073",
-    "name":"敷島",
-    "kana":"シキシマ",
-    "hira":"しきしま",
-    "roma":"shikishima"
+    "name":"甲斐",
+    "kana":"カイ",
+    "hira":"かい",
+    "roma":"kai"
   },
   "075":{
     "code":"075",
