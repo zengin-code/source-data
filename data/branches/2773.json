@@ -90,13 +90,6 @@
     "hira":"たかみや",
     "roma":"takamiya"
   },
-  "024":{
-    "code":"024",
-    "name":"春日",
-    "kana":"カスガ",
-    "hira":"かすが",
-    "roma":"kasuga"
-  },
   "027":{
     "code":"027",
     "name":"青果市場",
@@ -160,26 +153,12 @@
     "hira":"きたの",
     "roma":"kitano"
   },
-  "108":{
-    "code":"108",
-    "name":"国分",
-    "kana":"コクブ",
-    "hira":"こくぶ",
-    "roma":"kokubu"
-  },
   "109":{
     "code":"109",
     "name":"小郡",
     "kana":"オゴオリ",
     "hira":"おごおり",
     "roma":"ogoori"
-  },
-  "110":{
-    "code":"110",
-    "name":"津福",
-    "kana":"ツブク",
-    "hira":"つぶく",
-    "roma":"tsubuku"
   },
   "112":{
     "code":"112",

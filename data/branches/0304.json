@@ -484,17 +484,17 @@
   },
   "081":{
     "code":"081",
-    "name":"松江",
-    "kana":"マツエ",
-    "hira":"まつえ",
-    "roma":"matsue"
+    "name":"鳥取島根法人８１",
+    "kana":"トツトリシマネハチイチ",
+    "hira":"とつとりしまねはちいち",
+    "roma":"totsutorishimanehachiichi"
   },
   "082":{
     "code":"082",
-    "name":"米子",
-    "kana":"ヨナゴ",
-    "hira":"よなご",
-    "roma":"yonago"
+    "name":"鳥取島根法人８２",
+    "kana":"トツトリシマネハチニ",
+    "hira":"とつとりしまねはちに",
+    "roma":"totsutorishimanehachini"
   },
   "083":{
     "code":"083",
@@ -1118,6 +1118,20 @@
     "kana":"ナゴヤエイギヨウゴゴセ",
     "hira":"なごやえいぎようごごせ",
     "roma":"nagoyaeigiyougogose"
+  },
+  "591":{
+    "code":"591",
+    "name":"鳥取島根法人５９１",
+    "kana":"トツトリシマネゴキユウイチ",
+    "hira":"とつとりしまねごきゆういち",
+    "roma":"totsutorishimanegokiyuuichi"
+  },
+  "592":{
+    "code":"592",
+    "name":"鳥取島根法人５９２",
+    "kana":"トツトリシマネゴキユウニ",
+    "hira":"とつとりしまねごきゆうに",
+    "roma":"totsutorishimanegokiyuuni"
   },
   "607":{
     "code":"607",
