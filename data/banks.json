@@ -475,19 +475,12 @@
     "hira":"さが",
     "roma":"saga"
   },
-  "0180":{
-    "code":"0180",
-    "name":"十八",
-    "kana":"ジユウハチ",
-    "hira":"じゆうはち",
-    "roma":"jiyuuhachi"
-  },
   "0181":{
     "code":"0181",
-    "name":"親和",
-    "kana":"シンワ",
-    "hira":"しんわ",
-    "roma":"shinwa"
+    "name":"十八親和",
+    "kana":"ジユウハチシンワ",
+    "hira":"じゆうはちしんわ",
+    "roma":"jiyuuhachishinwa"
   },
   "0182":{
     "code":"0182",
