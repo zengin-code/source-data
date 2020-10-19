@@ -146,13 +146,6 @@
     "hira":"とまこまい",
     "roma":"tomakomai"
   },
-  "032":{
-    "code":"032",
-    "name":"早来",
-    "kana":"ハヤキタ",
-    "hira":"はやきた",
-    "roma":"hayakita"
-  },
   "033":{
     "code":"033",
     "name":"鵡川",
@@ -173,20 +166,6 @@
     "kana":"アサヒカワ",
     "hira":"あさひかわ",
     "roma":"asahikawa"
-  },
-  "036":{
-    "code":"036",
-    "name":"四条東",
-    "kana":"ヨジヨウヒガシ",
-    "hira":"よじようひがし",
-    "roma":"yojiyouhigashi"
-  },
-  "037":{
-    "code":"037",
-    "name":"春光",
-    "kana":"シユンコウ",
-    "hira":"しゆんこう",
-    "roma":"shiyunkou"
   },
   "038":{
     "code":"038",

@@ -15,10 +15,10 @@
   },
   "003":{
     "code":"003",
-    "name":"岸ノ里",
-    "kana":"キシノサト",
-    "hira":"きしのさと",
-    "roma":"kishinosato"
+    "name":"花園",
+    "kana":"ハナゾノ",
+    "hira":"はなぞの",
+    "roma":"hanazono"
   },
   "004":{
     "code":"004",
@@ -26,13 +26,6 @@
     "kana":"イマザト",
     "hira":"いまざと",
     "roma":"imazato"
-  },
-  "005":{
-    "code":"005",
-    "name":"今宮戎",
-    "kana":"イマミヤエビス",
-    "hira":"いまみやえびす",
-    "roma":"imamiyaebisu"
   },
   "006":{
     "code":"006",

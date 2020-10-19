@@ -223,6 +223,13 @@
     "hira":"ながい",
     "roma":"nagai"
   },
+  "040":{
+    "code":"040",
+    "name":"横浜西口",
+    "kana":"ヨコハマニシグチ",
+    "hira":"よこはまにしぐち",
+    "roma":"yokohamanishiguchi"
+  },
   "043":{
     "code":"043",
     "name":"藤沢営業部",

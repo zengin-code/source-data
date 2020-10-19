@@ -77,12 +77,6 @@
   kana: ワクラ
   hira: わくら
   roma: wakura
-'018':
-  code: '018'
-  name: 金沢南
-  kana: カナザワミナミ
-  hira: かなざわみなみ
-  roma: kanazawaminami
 '019':
   code: '019'
   name: 穴水
@@ -95,12 +89,6 @@
   kana: ウノケ
   hira: うのけ
   roma: unoke
-'021':
-  code: '021'
-  name: 小丸山
-  kana: コマルヤマ
-  hira: こまるやま
-  roma: komaruyama
 '022':
   code: '022'
   name: 輪島
@@ -161,9 +149,3 @@
   kana: モリノサト
   hira: もりのさと
   roma: morinosato
-'052':
-  code: '052'
-  name: 木越出張所
-  kana: キゴシ
-  hira: きごし
-  roma: kigoshi

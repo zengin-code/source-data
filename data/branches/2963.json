@@ -356,13 +356,6 @@
     "hira":"ちちぶ",
     "roma":"chichibu"
   },
-  "245":{
-    "code":"245",
-    "name":"川口出張所",
-    "kana":"カワグチ",
-    "hira":"かわぐち",
-    "roma":"kawaguchi"
-  },
   "246":{
     "code":"246",
     "name":"熊谷",
@@ -393,10 +386,10 @@
   },
   "251":{
     "code":"251",
-    "name":"春日部",
-    "kana":"カスカベ",
-    "hira":"かすかべ",
-    "roma":"kasukabe"
+    "name":"久喜",
+    "kana":"クキ",
+    "hira":"くき",
+    "roma":"kuki"
   },
   "252":{
     "code":"252",

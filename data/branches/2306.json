@@ -194,5 +194,12 @@
     "kana":"クラシキ",
     "hira":"くらしき",
     "roma":"kurashiki"
+  },
+  "200":{
+    "code":"200",
+    "name":"つばさ",
+    "kana":"ツバサ",
+    "hira":"つばさ",
+    "roma":"tsubasa"
   }
 }

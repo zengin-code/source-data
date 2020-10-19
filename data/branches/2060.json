@@ -57,17 +57,10 @@
   },
   "017":{
     "code":"017",
-    "name":"浦和",
-    "kana":"ウラワ",
-    "hira":"うらわ",
-    "roma":"urawa"
-  },
-  "018":{
-    "code":"018",
-    "name":"熊谷",
-    "kana":"クマガヤ",
-    "hira":"くまがや",
-    "roma":"kumagaya"
+    "name":"大宮",
+    "kana":"オオミヤ",
+    "hira":"おおみや",
+    "roma":"oomiya"
   },
   "021":{
     "code":"021",
