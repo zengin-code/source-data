@@ -92,10 +92,10 @@
   },
   "020":{
     "code":"020",
-    "name":"池袋",
-    "kana":"イケブクロ",
-    "hira":"いけぶくろ",
-    "roma":"ikebukuro"
+    "name":"池袋２０",
+    "kana":"イケブクロニゼロ",
+    "hira":"いけぶくろにぜろ",
+    "roma":"ikebukuronizero"
   },
   "021":{
     "code":"021",
@@ -806,10 +806,10 @@
   },
   "262":{
     "code":"262",
-    "name":"練馬",
-    "kana":"ネリマ",
-    "hira":"ねりま",
-    "roma":"nerima"
+    "name":"池袋２６２",
+    "kana":"イケブクロニロクニ",
+    "hira":"いけぶくろにろくに",
+    "roma":"ikebukuronirokuni"
   },
   "263":{
     "code":"263",
@@ -974,10 +974,10 @@
   },
   "304":{
     "code":"304",
-    "name":"池袋メトロポリタンプラザ",
-    "kana":"イケブクロメトロポリタン",
-    "hira":"いけぶくろめとろぽりたん",
-    "roma":"ikebukurometoroporitan"
+    "name":"池袋３０４",
+    "kana":"イケブクロサンゼロヨン",
+    "hira":"いけぶくろさんぜろよん",
+    "roma":"ikebukurosanzeroyon"
   },
   "305":{
     "code":"305",
