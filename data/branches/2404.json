@@ -15,10 +15,10 @@
   },
   "003":{
     "code":"003",
-    "name":"庄川",
-    "kana":"シヨウガワ",
-    "hira":"しようがわ",
-    "roma":"shiyougawa"
+    "name":"庄川井波",
+    "kana":"シヨウガワイナミ",
+    "hira":"しようがわいなみ",
+    "roma":"shiyougawainami"
   },
   "004":{
     "code":"004",
@@ -54,13 +54,6 @@
     "kana":"デマチ",
     "hira":"でまち",
     "roma":"demachi"
-  },
-  "010":{
-    "code":"010",
-    "name":"井波",
-    "kana":"イナミ",
-    "hira":"いなみ",
-    "roma":"inami"
   },
   "011":{
     "code":"011",

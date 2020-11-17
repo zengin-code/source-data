@@ -20,13 +20,6 @@
     "hira":"うらやす",
     "roma":"urayasu"
   },
-  "005":{
-    "code":"005",
-    "name":"東郷",
-    "kana":"トウゴウ",
-    "hira":"とうごう",
-    "roma":"tougou"
-  },
   "006":{
     "code":"006",
     "name":"倉吉駅前",
@@ -47,13 +40,6 @@
     "kana":"ニシクラヨシ",
     "hira":"にしくらよし",
     "roma":"nishikurayoshi"
-  },
-  "012":{
-    "code":"012",
-    "name":"三朝",
-    "kana":"ミササ",
-    "hira":"みささ",
-    "roma":"misasa"
   },
   "013":{
     "code":"013",

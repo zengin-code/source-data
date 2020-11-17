@@ -132,6 +132,27 @@
     "hira":"あさひ",
     "roma":"asahi"
   },
+  "031":{
+    "code":"031",
+    "name":"松本",
+    "kana":"マツモト",
+    "hira":"まつもと",
+    "roma":"matsumoto"
+  },
+  "032":{
+    "code":"032",
+    "name":"塩尻",
+    "kana":"シオジリ",
+    "hira":"しおじり",
+    "roma":"shiojiri"
+  },
+  "036":{
+    "code":"036",
+    "name":"広丘",
+    "kana":"ヒロオカ",
+    "hira":"ひろおか",
+    "roma":"hirooka"
+  },
   "100":{
     "code":"100",
     "name":"本所",

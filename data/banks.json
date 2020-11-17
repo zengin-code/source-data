@@ -6418,26 +6418,12 @@
     "hira":"きそのうきよう",
     "roma":"kisonoukiyou"
   },
-  "5447":{
-    "code":"5447",
-    "name":"松本市農協",
-    "kana":"マツモトシノウキヨウ",
-    "hira":"まつもとしのうきよう",
-    "roma":"matsumotoshinoukiyou"
-  },
   "5448":{
     "code":"5448",
     "name":"松本ハイランド農協",
     "kana":"マツモトハイランドノウキヨウ",
     "hira":"まつもとはいらんどのうきよう",
     "roma":"matsumotohairandonoukiyou"
-  },
-  "5449":{
-    "code":"5449",
-    "name":"塩尻市農協",
-    "kana":"シオジリシノウキヨウ",
-    "hira":"しおじりしのうきよう",
-    "roma":"shiojirishinoukiyou"
   },
   "5462":{
     "code":"5462",
@@ -7909,19 +7895,12 @@
     "hira":"うまのうきよう",
     "roma":"umanoukiyou"
   },
-  "8395":{
-    "code":"8395",
-    "name":"西条市農協",
-    "kana":"サイジヨウシノウキヨウ",
-    "hira":"さいじようしのうきよう",
-    "roma":"saijiyoushinoukiyou"
-  },
   "8397":{
     "code":"8397",
-    "name":"新居浜市農協",
-    "kana":"ニイハマシノウキヨウ",
-    "hira":"にいはましのうきよう",
-    "roma":"niihamashinoukiyou"
+    "name":"えひめ未来農協",
+    "kana":"エヒメミライノウキヨウ",
+    "hira":"えひめみらいのうきよう",
+    "roma":"ehimemirainoukiyou"
   },
   "8398":{
     "code":"8398",

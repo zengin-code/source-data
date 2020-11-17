@@ -1,10 +1,10 @@
 {
   "001":{
     "code":"001",
-    "name":"本店",
-    "kana":"ホンテン",
-    "hira":"ほんてん",
-    "roma":"honten"
+    "name":"本所",
+    "kana":"ホンシヨ",
+    "hira":"ほんしよ",
+    "roma":"honshiyo"
   },
   "002":{
     "code":"002",
@@ -40,5 +40,68 @@
     "kana":"カネコ",
     "hira":"かねこ",
     "roma":"kaneko"
+  },
+  "021":{
+    "code":"021",
+    "name":"西条",
+    "kana":"サイジヨウ",
+    "hira":"さいじよう",
+    "roma":"saijiyou"
+  },
+  "022":{
+    "code":"022",
+    "name":"飯岡",
+    "kana":"イイオカ",
+    "hira":"いいおか",
+    "roma":"iioka"
+  },
+  "023":{
+    "code":"023",
+    "name":"玉津",
+    "kana":"タマツ",
+    "hira":"たまつ",
+    "roma":"tamatsu"
+  },
+  "024":{
+    "code":"024",
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
+  },
+  "025":{
+    "code":"025",
+    "name":"大町",
+    "kana":"オオマチ",
+    "hira":"おおまち",
+    "roma":"oomachi"
+  },
+  "026":{
+    "code":"026",
+    "name":"神戸",
+    "kana":"カンベ",
+    "hira":"かんべ",
+    "roma":"kambe"
+  },
+  "027":{
+    "code":"027",
+    "name":"橘",
+    "kana":"タチバナ",
+    "hira":"たちばな",
+    "roma":"tachibana"
+  },
+  "028":{
+    "code":"028",
+    "name":"氷見",
+    "kana":"ヒミ",
+    "hira":"ひみ",
+    "roma":"himi"
+  },
+  "029":{
+    "code":"029",
+    "name":"禎瑞",
+    "kana":"テイズイ",
+    "hira":"ていずい",
+    "roma":"teizui"
   }
 }

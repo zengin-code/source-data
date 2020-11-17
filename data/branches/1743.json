@@ -97,13 +97,6 @@
     "hira":"みついし",
     "roma":"mitsuishi"
   },
-  "103":{
-    "code":"103",
-    "name":"伊里中央",
-    "kana":"イリチユウオウ",
-    "hira":"いりちゆうおう",
-    "roma":"irichiyuuou"
-  },
   "104":{
     "code":"104",
     "name":"吉永",
@@ -138,19 +131,5 @@
     "kana":"アカイワ",
     "hira":"あかいわ",
     "roma":"akaiwa"
-  },
-  "111":{
-    "code":"111",
-    "name":"長船中央",
-    "kana":"オサフネチユウオウ",
-    "hira":"おさふねちゆうおう",
-    "roma":"osafunechiyuuou"
-  },
-  "114":{
-    "code":"114",
-    "name":"邑久中央",
-    "kana":"オクチユウオウ",
-    "hira":"おくちゆうおう",
-    "roma":"okuchiyuuou"
   }
 }

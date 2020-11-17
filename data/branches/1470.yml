@@ -77,12 +77,6 @@
   kana: シヒグチ
   hira: しひぐち
   roma: shihiguchi
-'024':
-  code: '024'
-  name: 四ツ居
-  kana: ヨツイ
-  hira: よつい
-  roma: yotsui
 '026':
   code: '026'
   name: 堀ノ宮
@@ -227,12 +221,6 @@
   kana: サバエホンマチ
   hira: さばえほんまち
   roma: sabaehommachi
-'213':
-  code: '213'
-  name: 北野
-  kana: キタノ
-  hira: きたの
-  roma: kitano
 '214':
   code: '214'
   name: 神中
@@ -269,12 +257,6 @@
   kana: ムラクニ
   hira: むらくに
   roma: murakuni
-'312':
-  code: '312'
-  name: 王子保
-  kana: オウシオ
-  hira: おうしお
-  roma: oushio
 '314':
   code: '314'
   name: 神山
