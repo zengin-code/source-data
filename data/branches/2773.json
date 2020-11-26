@@ -237,20 +237,6 @@
     "hira":"ぜんどうじ",
     "roma":"zendouji"
   },
-  "203":{
-    "code":"203",
-    "name":"草野",
-    "kana":"クサノ",
-    "hira":"くさの",
-    "roma":"kusano"
-  },
-  "205":{
-    "code":"205",
-    "name":"南町",
-    "kana":"ミナミマチ",
-    "hira":"みなみまち",
-    "roma":"minamimachi"
-  },
   "206":{
     "code":"206",
     "name":"瀬高",
@@ -264,13 +250,6 @@
     "kana":"タカダ",
     "hira":"たかだ",
     "roma":"takada"
-  },
-  "208":{
-    "code":"208",
-    "name":"山川",
-    "kana":"ヤマカワ",
-    "hira":"やまかわ",
-    "roma":"yamakawa"
   },
   "209":{
     "code":"209",

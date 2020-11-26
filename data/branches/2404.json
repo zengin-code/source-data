@@ -6,13 +6,6 @@
     "hira":"となみ",
     "roma":"tonami"
   },
-  "002":{
-    "code":"002",
-    "name":"庄東",
-    "kana":"シヨウトウ",
-    "hira":"しようとう",
-    "roma":"shiyoutou"
-  },
   "003":{
     "code":"003",
     "name":"庄川井波",
@@ -47,13 +40,6 @@
     "kana":"ホンテン",
     "hira":"ほんてん",
     "roma":"honten"
-  },
-  "008":{
-    "code":"008",
-    "name":"出町",
-    "kana":"デマチ",
-    "hira":"でまち",
-    "roma":"demachi"
   },
   "011":{
     "code":"011",
