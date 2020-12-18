@@ -54,5 +54,12 @@
     "kana":"ヒガシヤマシロ",
     "hira":"ひがしやましろ",
     "roma":"higashiyamashiro"
+  },
+  "009":{
+    "code":"009",
+    "name":"松浦",
+    "kana":"マツウラ",
+    "hira":"まつうら",
+    "roma":"matsuura"
   }
 }
