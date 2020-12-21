@@ -34,33 +34,12 @@
     "hira":"ふじみまちちゆうおう",
     "roma":"fujimimachichiyuuou"
   },
-  "050":{
-    "code":"050",
-    "name":"湊",
-    "kana":"ミナト",
-    "hira":"みなと",
-    "roma":"minato"
-  },
-  "051":{
-    "code":"051",
-    "name":"川岸",
-    "kana":"カワギシ",
-    "hira":"かわぎし",
-    "roma":"kawagishi"
-  },
   "052":{
     "code":"052",
     "name":"岡谷",
     "kana":"オカヤ",
     "hira":"おかや",
     "roma":"okaya"
-  },
-  "054":{
-    "code":"054",
-    "name":"長地",
-    "kana":"オサチ",
-    "hira":"おさち",
-    "roma":"osachi"
   },
   "060":{
     "code":"060",
@@ -69,47 +48,19 @@
     "hira":"しもすわ",
     "roma":"shimosuwa"
   },
-  "070":{
-    "code":"070",
-    "name":"上諏訪",
-    "kana":"カミスワ",
-    "hira":"かみすわ",
-    "roma":"kamisuwa"
-  },
   "071":{
     "code":"071",
-    "name":"小和田",
-    "kana":"コワタ",
-    "hira":"こわた",
-    "roma":"kowata"
-  },
-  "073":{
-    "code":"073",
-    "name":"四賀",
-    "kana":"シガ",
-    "hira":"しが",
-    "roma":"shiga"
+    "name":"諏訪",
+    "kana":"スワ",
+    "hira":"すわ",
+    "roma":"suwa"
   },
   "074":{
     "code":"074",
-    "name":"豊田",
-    "kana":"トヨダ",
-    "hira":"とよだ",
-    "roma":"toyoda"
-  },
-  "075":{
-    "code":"075",
-    "name":"湖南",
-    "kana":"コナミ",
-    "hira":"こなみ",
-    "roma":"konami"
-  },
-  "076":{
-    "code":"076",
-    "name":"中洲",
-    "kana":"ナカス",
-    "hira":"なかす",
-    "roma":"nakasu"
+    "name":"諏訪中央",
+    "kana":"スワチユウオウ",
+    "hira":"すわちゆうおう",
+    "roma":"suwachiyuuou"
   },
   "100":{
     "code":"100",

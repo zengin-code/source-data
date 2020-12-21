@@ -111,25 +111,11 @@
     "hira":"おおいずみ",
     "roma":"ooizumi"
   },
-  "025":{
-    "code":"025",
-    "name":"長柄",
-    "kana":"ナガエ",
-    "hira":"ながえ",
-    "roma":"nagae"
-  },
   "026":{
     "code":"026",
-    "name":"中野",
-    "kana":"ナカノ",
-    "hira":"なかの",
-    "roma":"nakano"
-  },
-  "027":{
-    "code":"027",
-    "name":"高島",
-    "kana":"タカシマ",
-    "hira":"たかしま",
-    "roma":"takashima"
+    "name":"邑楽",
+    "kana":"オウラ",
+    "hira":"おうら",
+    "roma":"oura"
   }
 }

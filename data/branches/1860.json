@@ -118,13 +118,6 @@
     "hira":"いまばり",
     "roma":"imabari"
   },
-  "031":{
-    "code":"031",
-    "name":"本町",
-    "kana":"ホンマチ",
-    "hira":"ほんまち",
-    "roma":"hommachi"
-  },
   "032":{
     "code":"032",
     "name":"常盤町",
@@ -348,13 +341,6 @@
     "kana":"ヤワタハマ",
     "hira":"やわたはま",
     "roma":"yawatahama"
-  },
-  "081":{
-    "code":"081",
-    "name":"江戸岡",
-    "kana":"エドオカ",
-    "hira":"えどおか",
-    "roma":"edooka"
   },
   "084":{
     "code":"084",
