@@ -34,12 +34,33 @@
     "hira":"みすぎ",
     "roma":"misugi"
   },
+  "011":{
+    "code":"011",
+    "name":"やまゆり",
+    "kana":"ヤマユリ",
+    "hira":"やまゆり",
+    "roma":"yamayuri"
+  },
+  "013":{
+    "code":"013",
+    "name":"やまびこ",
+    "kana":"ヤマビコ",
+    "hira":"やまびこ",
+    "roma":"yamabiko"
+  },
   "015":{
     "code":"015",
     "name":"白山",
     "kana":"ハクサン",
     "hira":"はくさん",
     "roma":"hakusan"
+  },
+  "016":{
+    "code":"016",
+    "name":"家城",
+    "kana":"イエキ",
+    "hira":"いえき",
+    "roma":"ieki"
   },
   "017":{
     "code":"017",
@@ -55,12 +76,26 @@
     "hira":"ひさい",
     "roma":"hisai"
   },
+  "024":{
+    "code":"024",
+    "name":"桃園",
+    "kana":"モモゾノ",
+    "hira":"ももぞの",
+    "roma":"momozono"
+  },
   "027":{
     "code":"027",
-    "name":"久居西",
-    "kana":"ヒサイニシ",
-    "hira":"ひさいにし",
-    "roma":"hisainishi"
+    "name":"栗葉",
+    "kana":"リツヨウ",
+    "hira":"りつよう",
+    "roma":"ritsuyou"
+  },
+  "030":{
+    "code":"030",
+    "name":"榊原",
+    "kana":"サカキバラ",
+    "hira":"さかきばら",
+    "roma":"sakakibara"
   },
   "100":{
     "code":"100",

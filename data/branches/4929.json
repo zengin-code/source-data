@@ -27,12 +27,26 @@
     "hira":"なるとう",
     "roma":"narutou"
   },
+  "009":{
+    "code":"009",
+    "name":"南郷",
+    "kana":"ナンゴウ",
+    "hira":"なんごう",
+    "roma":"nangou"
+  },
   "010":{
     "code":"010",
-    "name":"中央",
-    "kana":"チユウオウ",
-    "hira":"ちゆうおう",
-    "roma":"chiyuuou"
+    "name":"緑海",
+    "kana":"ミドリミ",
+    "hira":"みどりみ",
+    "roma":"midorimi"
+  },
+  "011":{
+    "code":"011",
+    "name":"鳴浜",
+    "kana":"ナルハマ",
+    "hira":"なるはま",
+    "roma":"naruhama"
   },
   "012":{
     "code":"012",

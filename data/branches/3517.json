@@ -202,11 +202,25 @@
     "hira":"やまだ",
     "roma":"yamada"
   },
+  "151":{
+    "code":"151",
+    "name":"川井",
+    "kana":"カワイ",
+    "hira":"かわい",
+    "roma":"kawai"
+  },
   "152":{
     "code":"152",
     "name":"岩泉",
     "kana":"イワイズミ",
     "hira":"いわいずみ",
     "roma":"iwaizumi"
+  },
+  "153":{
+    "code":"153",
+    "name":"田野畑",
+    "kana":"タノハタ",
+    "hira":"たのはた",
+    "roma":"tanohata"
   }
 }

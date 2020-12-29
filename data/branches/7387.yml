@@ -5,6 +5,12 @@
   kana: ナラシカシワギ
   hira: ならしかしわぎ
   roma: narashikashiwagi
+'002':
+  code: '002'
+  name: 都跡
+  kana: ミアト
+  hira: みあと
+  roma: miato
 '003':
   code: '003'
   name: 田原出張所
@@ -43,7 +49,7 @@
   roma: tomio
 '099':
   code: '099'
-  name: 伏見出張所
+  name: 伏見
   kana: フシミ
   hira: ふしみ
   roma: fushimi
@@ -241,7 +247,7 @@
   roma: oouda
 '162':
   code: '162'
-  name: 菟田野出張所
+  name: 菟田野
   kana: ウタノ
   hira: うたの
   roma: utano
@@ -259,13 +265,13 @@
   roma: murou
 '169':
   code: '169'
-  name: 曽爾出張所
+  name: 曽爾
   kana: ソニ
   hira: そに
   roma: soni
 '171':
   code: '171'
-  name: みつえ出張所
+  name: みつえ
   kana: ミツエ
   hira: みつえ
   roma: mitsue
@@ -301,7 +307,7 @@
   roma: masuga
 '180':
   code: '180'
-  name: 真菅駅前出張所
+  name: 真菅駅前
   kana: マスガエキマエ
   hira: ますがえきまえ
   roma: masugaekimae

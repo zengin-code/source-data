@@ -6,12 +6,19 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
+  "002":{
+    "code":"002",
+    "name":"彦成北",
+    "kana":"ヒコナリキタ",
+    "hira":"ひこなりきた",
+    "roma":"hikonarikita"
+  },
   "003":{
     "code":"003",
-    "name":"彦成",
-    "kana":"ヒコナリ",
-    "hira":"ひこなり",
-    "roma":"hikonari"
+    "name":"彦成南",
+    "kana":"ヒコナリミナミ",
+    "hira":"ひこなりみなみ",
+    "roma":"hikonariminami"
   },
   "004":{
     "code":"004",

@@ -1,4 +1,10 @@
 ---
+'002':
+  code: '002'
+  name: 大目
+  kana: オオメ
+  hira: おおめ
+  roma: oome
 '004':
   code: '004'
   name: 巌
@@ -23,6 +29,12 @@
   kana: コスゲ
   hira: こすげ
   roma: kosuge
+'012':
+  code: '012'
+  name: 笹子川
+  kana: ササゴガワ
+  hira: ささごがわ
+  roma: sasagogawa
 '014':
   code: '014'
   name: 大月
@@ -65,6 +77,12 @@
   kana: ヤムラ
   hira: やむら
   roma: yamura
+'024':
+  code: '024'
+  name: 秋山
+  kana: アキヤマ
+  hira: あきやま
+  roma: akiyama
 '025':
   code: '025'
   name: 忍野

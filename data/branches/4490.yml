@@ -5,6 +5,12 @@
   kana: オオヤ
   hira: おおや
   roma: ooya
+'002':
+  code: '002'
+  name: 大谷南
+  kana: オオヤミナミ
+  hira: おおやみなみ
+  roma: ooyaminami
 '003':
   code: '003'
   name: 間々田
@@ -35,6 +41,12 @@
   kana: トヨダ
   hira: とよだ
   roma: toyoda
+'009':
+  code: '009'
+  name: 大谷北
+  kana: オオヤキタ
+  hira: おおやきた
+  roma: ooyakita
 '010':
   code: '010'
   name: 絹

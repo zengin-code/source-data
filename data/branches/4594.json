@@ -13,6 +13,13 @@
     "hira":"かんな",
     "roma":"kanna"
   },
+  "004":{
+    "code":"004",
+    "name":"美土里",
+    "kana":"ミドリ",
+    "hira":"みどり",
+    "roma":"midori"
+  },
   "005":{
     "code":"005",
     "name":"平井",
@@ -27,12 +34,19 @@
     "hira":"みくり",
     "roma":"mikuri"
   },
+  "012":{
+    "code":"012",
+    "name":"藤岡",
+    "kana":"フジオカ",
+    "hira":"ふじおか",
+    "roma":"fujioka"
+  },
   "013":{
     "code":"013",
-    "name":"藤岡中央",
-    "kana":"フジオカチユウオウ",
-    "hira":"ふじおかちゆうおう",
-    "roma":"fujiokachiyuuou"
+    "name":"小野",
+    "kana":"オノ",
+    "hira":"おの",
+    "roma":"ono"
   },
   "014":{
     "code":"014",
