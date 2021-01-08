@@ -117,7 +117,7 @@ class ZenginCLI < Thor
   def download_archive
     puts "Download: #{SOURCE_ARCHIVE_URL}"
     pb = ProgressBar.create(title: 'Downloading', total: nil, format: '%t: |%B| %E')
-    open(
+    URI.open(
       SOURCE_ARCHIVE_URL,
       content_length_proc: proc { |total| pb.total = total  if total.to_i > 0 },
       progress_proc: proc { |step| pb.progress = step }
