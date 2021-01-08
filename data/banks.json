@@ -239,17 +239,10 @@
   },
   "0140":{
     "code":"0140",
-    "name":"第四",
-    "kana":"ダイシ",
-    "hira":"だいし",
-    "roma":"daishi"
-  },
-  "0141":{
-    "code":"0141",
-    "name":"北越",
-    "kana":"ホクエツ",
-    "hira":"ほくえつ",
-    "roma":"hokuetsu"
+    "name":"第四北越",
+    "kana":"ダイシホクエツ",
+    "hira":"だいしほくえつ",
+    "roma":"daishihokuetsu"
   },
   "0142":{
     "code":"0142",

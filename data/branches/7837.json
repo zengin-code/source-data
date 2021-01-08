@@ -747,40 +747,5 @@
     "kana":"エイホク",
     "hira":"えいほく",
     "roma":"eihoku"
-  },
-  "251":{
-    "code":"251",
-    "name":"岡山東中央",
-    "kana":"オカヤマヒガシチユウオウ",
-    "hira":"おかやまひがしちゆうおう",
-    "roma":"okayamahigashichiyuuou"
-  },
-  "253":{
-    "code":"253",
-    "name":"倉敷かさや中央",
-    "kana":"クラシキカサヤチユウオウ",
-    "hira":"くらしきかさやちゆうおう",
-    "roma":"kurashikikasayachiyuuou"
-  },
-  "255":{
-    "code":"255",
-    "name":"阿新中央",
-    "kana":"アシンチユウオウ",
-    "hira":"あしんちゆうおう",
-    "roma":"ashinchiyuuou"
-  },
-  "256":{
-    "code":"256",
-    "name":"真庭中央",
-    "kana":"マニワチユウオウ",
-    "hira":"まにわちゆうおう",
-    "roma":"maniwachiyuuou"
-  },
-  "258":{
-    "code":"258",
-    "name":"勝英中央",
-    "kana":"シヨウエイチユウオウ",
-    "hira":"しようえいちゆうおう",
-    "roma":"shiyoueichiyuuou"
   }
 }

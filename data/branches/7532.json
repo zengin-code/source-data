@@ -104,33 +104,12 @@
     "hira":"さいか",
     "roma":"saika"
   },
-  "062":{
-    "code":"062",
-    "name":"岡崎",
-    "kana":"オカザキ",
-    "hira":"おかざき",
-    "roma":"okazaki"
-  },
-  "063":{
-    "code":"063",
-    "name":"西山東",
-    "kana":"ニシサンドウ",
-    "hira":"にしさんどう",
-    "roma":"nishisandou"
-  },
-  "064":{
-    "code":"064",
-    "name":"東山東",
-    "kana":"ヒガシサンドウ",
-    "hira":"ひがしさんどう",
-    "roma":"higashisandou"
-  },
   "065":{
     "code":"065",
-    "name":"安原",
-    "kana":"ヤスハラ",
-    "hira":"やすはら",
-    "roma":"yasuhara"
+    "name":"東部",
+    "kana":"トウブ",
+    "hira":"とうぶ",
+    "roma":"toubu"
   },
   "100":{
     "code":"100",

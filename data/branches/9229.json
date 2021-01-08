@@ -104,13 +104,6 @@
     "hira":"よしだ",
     "roma":"yoshida"
   },
-  "040":{
-    "code":"040",
-    "name":"菖蒲谷",
-    "kana":"シヨウブダニ",
-    "hira":"しようぶだに",
-    "roma":"shiyoubudani"
-  },
   "041":{
     "code":"041",
     "name":"花野",
@@ -201,19 +194,5 @@
     "kana":"タニヤマトウブ",
     "hira":"たにやまとうぶ",
     "roma":"taniyamatoubu"
-  },
-  "203":{
-    "code":"203",
-    "name":"笹貫",
-    "kana":"ササヌキ",
-    "hira":"ささぬき",
-    "roma":"sasanuki"
-  },
-  "204":{
-    "code":"204",
-    "name":"薬師堂",
-    "kana":"ヤクシドウ",
-    "hira":"やくしどう",
-    "roma":"yakushidou"
   }
 }

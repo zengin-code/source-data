@@ -23,12 +23,6 @@
   kana: ゴコウムツミ
   hira: ごこうむつみ
   roma: gokoumutsumi
-'007':
-  code: '007'
-  name: 六和
-  kana: ロクワ
-  hira: ろくわ
-  roma: rokuwa
 '008':
   code: '008'
   name: 稔台
@@ -37,10 +31,10 @@
   roma: minoridai
 '009':
   code: '009'
-  name: 古ケ崎
-  kana: コガサキ
-  hira: こがさき
-  roma: kogasaki
+  name: 松戸西
+  kana: マツドニシ
+  hira: まつどにし
+  roma: matsudonishi
 '010':
   code: '010'
   name: 中央
