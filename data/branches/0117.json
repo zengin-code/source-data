@@ -139,13 +139,6 @@
     "hira":"つくだ",
     "roma":"tsukuda"
   },
-  "121":{
-    "code":"121",
-    "name":"筒井",
-    "kana":"ツツイ",
-    "hira":"つつい",
-    "roma":"tsutsui"
-  },
   "123":{
     "code":"123",
     "name":"新城出張所",
@@ -369,13 +362,6 @@
     "kana":"ネジヨウ",
     "hira":"ねじよう",
     "roma":"nejiyou"
-  },
-  "317":{
-    "code":"317",
-    "name":"岬白銀出張所",
-    "kana":"ミサキシロガネ",
-    "hira":"みさきしろがね",
-    "roma":"misakishirogane"
   },
   "319":{
     "code":"319",
