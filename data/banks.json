@@ -4675,33 +4675,12 @@
     "hira":"きたそらちのうきよう",
     "roma":"kitasorachinoukiyou"
   },
-  "3200":{
-    "code":"3200",
-    "name":"南るもい農協",
-    "kana":"ミナミルモイノウキヨウ",
-    "hira":"みなみるもいのうきよう",
-    "roma":"minamirumoinoukiyou"
-  },
-  "3201":{
-    "code":"3201",
-    "name":"苫前町農協",
-    "kana":"トママエチヨウノウキヨウ",
-    "hira":"とままえちようのうきよう",
-    "roma":"tomamaechiyounoukiyou"
-  },
   "3202":{
     "code":"3202",
-    "name":"オロロン農協",
-    "kana":"オロロンノウキヨウ",
-    "hira":"おろろんのうきよう",
-    "roma":"ororonnoukiyou"
-  },
-  "3206":{
-    "code":"3206",
-    "name":"天塩町農協",
-    "kana":"テシオチヨウノウキヨウ",
-    "hira":"てしおちようのうきよう",
-    "roma":"teshiochiyounoukiyou"
+    "name":"るもい農協",
+    "kana":"ルモイウキヨウ",
+    "hira":"るもいうきよう",
+    "roma":"rumoiukiyou"
   },
   "3208":{
     "code":"3208",
@@ -5090,10 +5069,10 @@
   },
   "3329":{
     "code":"3329",
-    "name":"斜里町農協",
-    "kana":"シヤリチヨウノウキヨウ",
-    "hira":"しやりちようのうきよう",
-    "roma":"shiyarichiyounoukiyou"
+    "name":"しれとこ斜里農協",
+    "kana":"シレトコシヤリノウキヨウ",
+    "hira":"しれとこしやりのうきよう",
+    "roma":"shiretokoshiyarinoukiyou"
   },
   "3330":{
     "code":"3330",

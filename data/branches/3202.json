@@ -19,5 +19,33 @@
     "kana":"エンベツ",
     "hira":"えんべつ",
     "roma":"embetsu"
+  },
+  "005":{
+    "code":"005",
+    "name":"増毛",
+    "kana":"マシケ",
+    "hira":"ましけ",
+    "roma":"mashike"
+  },
+  "006":{
+    "code":"006",
+    "name":"小平",
+    "kana":"オビラ",
+    "hira":"おびら",
+    "roma":"obira"
+  },
+  "007":{
+    "code":"007",
+    "name":"苫前",
+    "kana":"トマエ",
+    "hira":"とまえ",
+    "roma":"tomae"
+  },
+  "008":{
+    "code":"008",
+    "name":"天塩",
+    "kana":"テシオ",
+    "hira":"てしお",
+    "roma":"teshio"
   }
 }

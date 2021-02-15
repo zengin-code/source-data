@@ -48,13 +48,6 @@
     "hira":"むしあけ",
     "roma":"mushiake"
   },
-  "012":{
-    "code":"012",
-    "name":"片上中央",
-    "kana":"カタカミチユウオウ",
-    "hira":"かたかみちゆうおう",
-    "roma":"katakamichiyuuou"
-  },
   "013":{
     "code":"013",
     "name":"平島",
@@ -110,13 +103,6 @@
     "kana":"カタカミ",
     "hira":"かたかみ",
     "roma":"katakami"
-  },
-  "107":{
-    "code":"107",
-    "name":"和気中央",
-    "kana":"ワケチユウオウ",
-    "hira":"わけちゆうおう",
-    "roma":"wakechiyuuou"
   },
   "108":{
     "code":"108",

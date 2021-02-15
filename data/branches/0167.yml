@@ -49,13 +49,13 @@
   roma: iya
 '013':
   code: '013'
-  name: 玉造
+  name: 玉造出張所
   kana: タマツクリ
   hira: たまつくり
   roma: tamatsukuri
 '014':
   code: '014'
-  name: 宍道
+  name: 宍道出張所
   kana: シンジ
   hira: しんじ
   roma: shinji
@@ -73,7 +73,7 @@
   roma: uragou
 '017':
   code: '017'
-  name: 大東
+  name: 大東出張所
   kana: ダイトウ
   hira: だいとう
   roma: daitou
@@ -139,7 +139,7 @@
   roma: shimaneidaidoori
 '030':
   code: '030'
-  name: 大社
+  name: 大社出張所
   kana: タイシヤ
   hira: たいしや
   roma: taishiya
@@ -157,7 +157,7 @@
   roma: ooda
 '035':
   code: '035'
-  name: 温泉津
+  name: 温泉津出張所
   kana: ユノツ
   hira: ゆのつ
   roma: yunotsu
@@ -169,7 +169,7 @@
   roma: kawamoto
 '037':
   code: '037'
-  name: 粕淵
+  name: 粕淵出張所
   kana: カスブチ
   hira: かすぶち
   roma: kasubuchi
@@ -271,7 +271,7 @@
   roma: totsutorinishi
 '057':
   code: '057'
-  name: 岩美
+  name: 岩美出張所
   kana: イワミ
   hira: いわみ
   roma: iwami
@@ -295,7 +295,7 @@
   roma: kawahara
 '062':
   code: '062'
-  name: 智頭
+  name: 智頭出張所
   kana: チズ
   hira: ちず
   roma: chizu
@@ -391,7 +391,7 @@
   roma: neu
 '079':
   code: '079'
-  name: 生山
+  name: 生山出張所
   kana: シヨウヤマ
   hira: しようやま
   roma: shiyouyama
@@ -451,7 +451,7 @@
   roma: tsuda
 '091':
   code: '091'
-  name: 六日市
+  name: 六日市出張所
   kana: ムイカイチ
   hira: むいかいち
   roma: muikaichi
@@ -905,9 +905,3 @@
   kana: イ－ネツトテン
   hira: い－ねつとてん
   roma: i-netsutoten
-'719':
-  code: '719'
-  name: ごうぎん証券
-  kana: ゴウギンシヨウケン
-  hira: ごうぎんしようけん
-  roma: gouginshiyouken
