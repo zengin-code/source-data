@@ -6,19 +6,12 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "605":{
-    "code":"605",
-    "name":"浅井東部",
-    "kana":"アザイトウブ",
-    "hira":"あざいとうぶ",
-    "roma":"azaitoubu"
-  },
   "606":{
     "code":"606",
-    "name":"浅井西",
-    "kana":"アザイニシ",
-    "hira":"あざいにし",
-    "roma":"azainishi"
+    "name":"浅井",
+    "kana":"アザイ",
+    "hira":"あざい",
+    "roma":"azai"
   },
   "608":{
     "code":"608",
@@ -47,13 +40,6 @@
     "kana":"タカツキ",
     "hira":"たかつき",
     "roma":"takatsuki"
-  },
-  "620":{
-    "code":"620",
-    "name":"古保利",
-    "kana":"コホリ",
-    "hira":"こほり",
-    "roma":"kohori"
   },
   "622":{
     "code":"622",

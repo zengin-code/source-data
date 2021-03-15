@@ -15,10 +15,10 @@
   },
   "030":{
     "code":"030",
-    "name":"野並",
-    "kana":"ノナミ",
-    "hira":"のなみ",
-    "roma":"nonami"
+    "name":"南天白",
+    "kana":"ミナミテンパク",
+    "hira":"みなみてんぱく",
+    "roma":"minamitempaku"
   },
   "048":{
     "code":"048",
@@ -40,12 +40,5 @@
     "kana":"ウエダエキマエ",
     "hira":"うえだえきまえ",
     "roma":"uedaekimae"
-  },
-  "072":{
-    "code":"072",
-    "name":"菅田",
-    "kana":"スゲタ",
-    "hira":"すげた",
-    "roma":"sugeta"
   }
 }

@@ -8,17 +8,10 @@
   },
   "002":{
     "code":"002",
-    "name":"大岡",
-    "kana":"オオオカ",
-    "hira":"おおおか",
-    "roma":"oooka"
-  },
-  "003":{
-    "code":"003",
-    "name":"唐子",
-    "kana":"カラコ",
-    "hira":"からこ",
-    "roma":"karako"
+    "name":"東松山北",
+    "kana":"ヒガシマツヤマキタ",
+    "hira":"ひがしまつやまきた",
+    "roma":"higashimatsuyamakita"
   },
   "004":{
     "code":"004",
@@ -29,10 +22,10 @@
   },
   "005":{
     "code":"005",
-    "name":"野本",
-    "kana":"ノモト",
-    "hira":"のもと",
-    "roma":"nomoto"
+    "name":"東松山南",
+    "kana":"ヒガシマツヤマミナミ",
+    "hira":"ひがしまつやまみなみ",
+    "roma":"higashimatsuyamaminami"
   },
   "008":{
     "code":"008",
@@ -78,17 +71,10 @@
   },
   "018":{
     "code":"018",
-    "name":"都幾川",
+    "name":"ときがわ",
     "kana":"トキガワ",
     "hira":"ときがわ",
     "roma":"tokigawa"
-  },
-  "020":{
-    "code":"020",
-    "name":"玉川",
-    "kana":"タマガワ",
-    "hira":"たまがわ",
-    "roma":"tamagawa"
   },
   "021":{
     "code":"021",

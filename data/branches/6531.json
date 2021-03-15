@@ -244,26 +244,12 @@
     "hira":"こうわなんぶ",
     "roma":"kouwanambu"
   },
-  "651":{
-    "code":"651",
-    "name":"上野間",
-    "kana":"カミノマ",
-    "hira":"かみのま",
-    "roma":"kaminoma"
-  },
   "677":{
     "code":"677",
-    "name":"奥田",
-    "kana":"オクダ",
-    "hira":"おくだ",
-    "roma":"okuda"
-  },
-  "685":{
-    "code":"685",
-    "name":"野間",
-    "kana":"ノマ",
-    "hira":"のま",
-    "roma":"noma"
+    "name":"美浜西",
+    "kana":"ミハマニシ",
+    "hira":"みはまにし",
+    "roma":"mihamanishi"
   },
   "707":{
     "code":"707",

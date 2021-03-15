@@ -337,30 +337,9 @@
   },
   "736":{
     "code":"736",
-    "name":"南有明",
-    "kana":"ミナミアリアケ",
-    "hira":"みなみありあけ",
-    "roma":"minamiariake"
-  },
-  "737":{
-    "code":"737",
-    "name":"錦江",
-    "kana":"ニシキエ",
-    "hira":"にしきえ",
-    "roma":"nishikie"
-  },
-  "738":{
-    "code":"738",
-    "name":"竜王",
-    "kana":"リユウオウ",
-    "hira":"りゆうおう",
-    "roma":"riyuuou"
-  },
-  "739":{
-    "code":"739",
-    "name":"有明干拓",
-    "kana":"アリアケカンタク",
-    "hira":"ありあけかんたく",
-    "roma":"ariakekantaku"
+    "name":"有明",
+    "kana":"アリアケ",
+    "hira":"ありあけ",
+    "roma":"ariake"
   }
 }

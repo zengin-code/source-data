@@ -34,13 +34,6 @@
     "hira":"かもの",
     "roma":"kamono"
   },
-  "006":{
-    "code":"006",
-    "name":"伊深",
-    "kana":"イブカ",
-    "hira":"いぶか",
-    "roma":"ibuka"
-  },
   "008":{
     "code":"008",
     "name":"下米田",
@@ -61,13 +54,6 @@
     "kana":"サカホギ",
     "hira":"さかほぎ",
     "roma":"sakahogi"
-  },
-  "016":{
-    "code":"016",
-    "name":"坂祝北",
-    "kana":"サカホギキタ",
-    "hira":"さかほぎきた",
-    "roma":"sakahogikita"
   },
   "018":{
     "code":"018",
@@ -131,13 +117,6 @@
     "kana":"クロカワ",
     "hira":"くろかわ",
     "roma":"kurokawa"
-  },
-  "047":{
-    "code":"047",
-    "name":"佐見",
-    "kana":"サミ",
-    "hira":"さみ",
-    "roma":"sami"
   },
   "050":{
     "code":"050",
@@ -222,20 +201,6 @@
     "kana":"シモマキ",
     "hira":"しもまき",
     "roma":"shimomaki"
-  },
-  "077":{
-    "code":"077",
-    "name":"美濃西",
-    "kana":"ミノニシ",
-    "hira":"みのにし",
-    "roma":"minonishi"
-  },
-  "079":{
-    "code":"079",
-    "name":"中有知",
-    "kana":"ナカウチ",
-    "hira":"なかうち",
-    "roma":"nakauchi"
   },
   "080":{
     "code":"080",

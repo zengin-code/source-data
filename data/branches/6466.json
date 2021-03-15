@@ -41,13 +41,6 @@
     "hira":"とうごう",
     "roma":"tougou"
   },
-  "210":{
-    "code":"210",
-    "name":"諸輪",
-    "kana":"モロワ",
-    "hira":"もろわ",
-    "roma":"morowa"
-  },
   "228":{
     "code":"228",
     "name":"春木",
@@ -96,13 +89,6 @@
     "kana":"ヤマグチ",
     "hira":"やまぐち",
     "roma":"yamaguchi"
-  },
-  "422":{
-    "code":"422",
-    "name":"本地",
-    "kana":"ホンジ",
-    "hira":"ほんじ",
-    "roma":"honji"
   },
   "449":{
     "code":"449",

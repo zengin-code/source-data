@@ -22,10 +22,10 @@
   },
   "005":{
     "code":"005",
-    "name":"岩手出張所",
-    "kana":"イワテ",
-    "hira":"いわて",
-    "roma":"iwate"
+    "name":"北東北盛岡",
+    "kana":"キタトウホクモリオカ",
+    "hira":"きたとうほくもりおか",
+    "roma":"kitatouhokumorioka"
   },
   "007":{
     "code":"007",
@@ -33,13 +33,6 @@
     "kana":"フクシマ",
     "hira":"ふくしま",
     "roma":"fukushima"
-  },
-  "010":{
-    "code":"010",
-    "name":"青森出張所",
-    "kana":"アオモリ",
-    "hira":"あおもり",
-    "roma":"aomori"
   },
   "011":{
     "code":"011",

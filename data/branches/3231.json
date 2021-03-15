@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "002":{
-    "code":"002",
-    "name":"東部出張所",
-    "kana":"トウブ",
-    "hira":"とうぶ",
-    "roma":"toubu"
-  },
   "004":{
     "code":"004",
     "name":"春日出張所",
@@ -54,12 +47,5 @@
     "kana":"ミナミフラノ",
     "hira":"みなみふらの",
     "roma":"minamifurano"
-  },
-  "012":{
-    "code":"012",
-    "name":"占冠出張所",
-    "kana":"シムカツプ",
-    "hira":"しむかつぷ",
-    "roma":"shimukatsupu"
   }
 }

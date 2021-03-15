@@ -1,58 +1,37 @@
 {
   "001":{
     "code":"001",
-    "name":"本所",
-    "kana":"ホンシヨ",
-    "hira":"ほんしよ",
-    "roma":"honshiyo"
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
   },
   "002":{
     "code":"002",
-    "name":"子持",
-    "kana":"コモチ",
-    "hira":"こもち",
-    "roma":"komochi"
-  },
-  "006":{
-    "code":"006",
-    "name":"小野上",
-    "kana":"オノガミ",
-    "hira":"おのがみ",
-    "roma":"onogami"
+    "name":"北",
+    "kana":"キタ",
+    "hira":"きた",
+    "roma":"kita"
   },
   "007":{
     "code":"007",
-    "name":"榛東",
+    "name":"榛東出張所",
     "kana":"シントウ",
     "hira":"しんとう",
     "roma":"shintou"
   },
   "010":{
     "code":"010",
-    "name":"吉岡",
-    "kana":"ヨシオカ",
-    "hira":"よしおか",
-    "roma":"yoshioka"
+    "name":"南",
+    "kana":"ミナミ",
+    "hira":"みなみ",
+    "roma":"minami"
   },
   "014":{
     "code":"014",
-    "name":"渋川",
-    "kana":"シブカワ",
-    "hira":"しぶかわ",
-    "roma":"shibukawa"
-  },
-  "015":{
-    "code":"015",
-    "name":"豊秋",
-    "kana":"トヨアキ",
-    "hira":"とよあき",
-    "roma":"toyoaki"
-  },
-  "017":{
-    "code":"017",
-    "name":"古巻",
-    "kana":"フルマキ",
-    "hira":"ふるまき",
-    "roma":"furumaki"
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
   }
 }

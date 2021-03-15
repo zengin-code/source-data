@@ -27,13 +27,6 @@
     "hira":"いきめ",
     "roma":"ikime"
   },
-  "108":{
-    "code":"108",
-    "name":"北",
-    "kana":"キタ",
-    "hira":"きた",
-    "roma":"kita"
-  },
   "109":{
     "code":"109",
     "name":"住吉",
@@ -48,33 +41,12 @@
     "hira":"みなみみやざき",
     "roma":"minamimiyazaki"
   },
-  "121":{
-    "code":"121",
-    "name":"加納",
-    "kana":"カノウ",
-    "hira":"かのう",
-    "roma":"kanou"
-  },
   "122":{
     "code":"122",
     "name":"赤江",
     "kana":"アカエ",
     "hira":"あかえ",
     "roma":"akae"
-  },
-  "123":{
-    "code":"123",
-    "name":"赤江南",
-    "kana":"アカエミナミ",
-    "hira":"あかえみなみ",
-    "roma":"akaeminami"
-  },
-  "124":{
-    "code":"124",
-    "name":"恒久",
-    "kana":"ツネヒサ",
-    "hira":"つねひさ",
-    "roma":"tsunehisa"
   },
   "125":{
     "code":"125",
@@ -97,20 +69,6 @@
     "hira":"さどわら",
     "roma":"sadowara"
   },
-  "141":{
-    "code":"141",
-    "name":"那珂",
-    "kana":"ナカ",
-    "hira":"なか",
-    "roma":"naka"
-  },
-  "142":{
-    "code":"142",
-    "name":"西佐土原",
-    "kana":"ニシサドワラ",
-    "hira":"にしさどわら",
-    "roma":"nishisadowara"
-  },
   "150":{
     "code":"150",
     "name":"高岡",
@@ -118,39 +76,11 @@
     "hira":"たかおか",
     "roma":"takaoka"
   },
-  "151":{
-    "code":"151",
-    "name":"穆佐",
-    "kana":"ムカサ",
-    "hira":"むかさ",
-    "roma":"mukasa"
-  },
   "160":{
     "code":"160",
     "name":"国富",
     "kana":"クニトミ",
     "hira":"くにとみ",
     "roma":"kunitomi"
-  },
-  "161":{
-    "code":"161",
-    "name":"八代",
-    "kana":"ヤツシロ",
-    "hira":"やつしろ",
-    "roma":"yatsushiro"
-  },
-  "162":{
-    "code":"162",
-    "name":"木脇",
-    "kana":"キワキ",
-    "hira":"きわき",
-    "roma":"kiwaki"
-  },
-  "163":{
-    "code":"163",
-    "name":"森永",
-    "kana":"モリナガ",
-    "hira":"もりなが",
-    "roma":"morinaga"
   }
 }

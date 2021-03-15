@@ -20,20 +20,6 @@
     "hira":"いいの",
     "roma":"iino"
   },
-  "004":{
-    "code":"004",
-    "name":"高久",
-    "kana":"タカク",
-    "hira":"たかく",
-    "roma":"takaku"
-  },
-  "006":{
-    "code":"006",
-    "name":"夏井",
-    "kana":"ナツイ",
-    "hira":"なつい",
-    "roma":"natsui"
-  },
   "007":{
     "code":"007",
     "name":"草野",
@@ -69,20 +55,6 @@
     "hira":"みわ",
     "roma":"miwa"
   },
-  "020":{
-    "code":"020",
-    "name":"大野",
-    "kana":"オオノ",
-    "hira":"おおの",
-    "roma":"oono"
-  },
-  "021":{
-    "code":"021",
-    "name":"川前",
-    "kana":"カワマエ",
-    "hira":"かわまえ",
-    "roma":"kawamae"
-  },
   "022":{
     "code":"022",
     "name":"久之浜",
@@ -92,10 +64,10 @@
   },
   "023":{
     "code":"023",
-    "name":"大浦",
-    "kana":"オオウラ",
-    "hira":"おおうら",
-    "roma":"ooura"
+    "name":"四倉",
+    "kana":"ヨツクラ",
+    "hira":"よつくら",
+    "roma":"yotsukura"
   },
   "024":{
     "code":"024",
@@ -110,13 +82,6 @@
     "kana":"ナコソ",
     "hira":"なこそ",
     "roma":"nakoso"
-  },
-  "030":{
-    "code":"030",
-    "name":"田人",
-    "kana":"タビト",
-    "hira":"たびと",
-    "roma":"tabito"
   },
   "032":{
     "code":"032",
@@ -145,20 +110,6 @@
     "kana":"タムラ",
     "hira":"たむら",
     "roma":"tamura"
-  },
-  "042":{
-    "code":"042",
-    "name":"二瀬",
-    "kana":"フタセ",
-    "hira":"ふたせ",
-    "roma":"futase"
-  },
-  "043":{
-    "code":"043",
-    "name":"御代田",
-    "kana":"ミヨタ",
-    "hira":"みよた",
-    "roma":"miyota"
   },
   "044":{
     "code":"044",
@@ -195,20 +146,6 @@
     "hira":"こおりやま",
     "roma":"kooriyama"
   },
-  "049":{
-    "code":"049",
-    "name":"富田",
-    "kana":"トミタ",
-    "hira":"とみた",
-    "roma":"tomita"
-  },
-  "050":{
-    "code":"050",
-    "name":"芳賀",
-    "kana":"ハガ",
-    "hira":"はが",
-    "roma":"haga"
-  },
   "051":{
     "code":"051",
     "name":"大槻",
@@ -237,13 +174,6 @@
     "hira":"こなんひがし",
     "roma":"konanhigashi"
   },
-  "055":{
-    "code":"055",
-    "name":"湖南西",
-    "kana":"コナンニシ",
-    "hira":"こなんにし",
-    "roma":"konannishi"
-  },
   "056":{
     "code":"056",
     "name":"三穂田",
@@ -271,20 +201,6 @@
     "kana":"フネヒキ",
     "hira":"ふねひき",
     "roma":"funehiki"
-  },
-  "062":{
-    "code":"062",
-    "name":"移",
-    "kana":"ウツシ",
-    "hira":"うつし",
-    "roma":"utsushi"
-  },
-  "063":{
-    "code":"063",
-    "name":"七郷",
-    "kana":"ナナゴウ",
-    "hira":"ななごう",
-    "roma":"nanagou"
   },
   "064":{
     "code":"064",

@@ -405,33 +405,12 @@
     "hira":"ひた",
     "roma":"hita"
   },
-  "622":{
-    "code":"622",
-    "name":"南部出張所",
-    "kana":"ナンブ",
-    "hira":"なんぶ",
-    "roma":"nambu"
-  },
   "624":{
     "code":"624",
     "name":"玉川",
     "kana":"タマガワ",
     "hira":"たまがわ",
     "roma":"tamagawa"
-  },
-  "626":{
-    "code":"626",
-    "name":"大明出張所",
-    "kana":"ダイメイ",
-    "hira":"だいめい",
-    "roma":"daimei"
-  },
-  "629":{
-    "code":"629",
-    "name":"天瀬",
-    "kana":"アマガセ",
-    "hira":"あまがせ",
-    "roma":"amagase"
   },
   "640":{
     "code":"640",

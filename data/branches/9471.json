@@ -34,32 +34,11 @@
     "hira":"ひまかじま",
     "roma":"himakajima"
   },
-  "120":{
-    "code":"120",
-    "name":"西三河",
-    "kana":"ニシミカワ",
-    "hira":"にしみかわ",
-    "roma":"nishimikawa"
-  },
-  "130":{
-    "code":"130",
-    "name":"衣崎",
-    "kana":"コロモザキ",
-    "hira":"ころもざき",
-    "roma":"koromozaki"
-  },
   "180":{
     "code":"180",
     "name":"蒲郡",
     "kana":"ガマゴオリ",
     "hira":"がまごおり",
     "roma":"gamagoori"
-  },
-  "300":{
-    "code":"300",
-    "name":"一色うなぎ",
-    "kana":"イシキウナギ",
-    "hira":"いしきうなぎ",
-    "roma":"ishikiunagi"
   }
 }

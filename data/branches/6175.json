@@ -125,26 +125,12 @@
     "hira":"ごうど",
     "roma":"goudo"
   },
-  "022":{
-    "code":"022",
-    "name":"南平野",
-    "kana":"ミナミヒラノ",
-    "hira":"みなみひらの",
-    "roma":"minamihirano"
-  },
   "023":{
     "code":"023",
     "name":"下宮",
     "kana":"シモミヤ",
     "hira":"しもみや",
     "roma":"shimomiya"
-  },
-  "024":{
-    "code":"024",
-    "name":"神戸北",
-    "kana":"ゴウドキタ",
-    "hira":"ごうどきた",
-    "roma":"goudokita"
   },
   "030":{
     "code":"030",
@@ -159,20 +145,6 @@
     "kana":"ナモリ",
     "hira":"なもり",
     "roma":"namori"
-  },
-  "034":{
-    "code":"034",
-    "name":"結",
-    "kana":"ムスブ",
-    "hira":"むすぶ",
-    "roma":"musubu"
-  },
-  "035":{
-    "code":"035",
-    "name":"墨俣",
-    "kana":"スノマタ",
-    "hira":"すのまた",
-    "roma":"sunomata"
   },
   "038":{
     "code":"038",

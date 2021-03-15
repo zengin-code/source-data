@@ -100,9 +100,9 @@
   "019":{
     "code":"019",
     "name":"美幸町",
-    "kana":"ミユキマチ",
-    "hira":"みゆきまち",
-    "roma":"miyukimachi"
+    "kana":"ミユキチヨウ",
+    "hira":"みゆきちよう",
+    "roma":"miyukichiyou"
   },
   "021":{
     "code":"021",
@@ -131,20 +131,6 @@
     "kana":"トイデ",
     "hira":"といで",
     "roma":"toide"
-  },
-  "026":{
-    "code":"026",
-    "name":"長慶寺",
-    "kana":"チヨウケイジ",
-    "hira":"ちようけいじ",
-    "roma":"chiyoukeiji"
-  },
-  "027":{
-    "code":"027",
-    "name":"みずほ",
-    "kana":"ミズホ",
-    "hira":"みずほ",
-    "roma":"mizuho"
   },
   "028":{
     "code":"028",

@@ -13,13 +13,6 @@
     "hira":"たきざわ",
     "roma":"takizawa"
   },
-  "105":{
-    "code":"105",
-    "name":"滝沢山麓",
-    "kana":"タキザワサンロク",
-    "hira":"たきざわさんろく",
-    "roma":"takizawasanroku"
-  },
   "108":{
     "code":"108",
     "name":"滝沢市役所出張所",
@@ -69,26 +62,12 @@
     "hira":"あしろ",
     "roma":"ashiro"
   },
-  "124":{
-    "code":"124",
-    "name":"田山出張所",
-    "kana":"タヤマ",
-    "hira":"たやま",
-    "roma":"tayama"
-  },
   "125":{
     "code":"125",
     "name":"玉山",
     "kana":"タマヤマ",
     "hira":"たまやま",
     "roma":"tamayama"
-  },
-  "126":{
-    "code":"126",
-    "name":"好摩",
-    "kana":"コウマ",
-    "hira":"こうま",
-    "roma":"kouma"
   },
   "128":{
     "code":"128",
@@ -166,13 +145,6 @@
     "kana":"カルマイ",
     "hira":"かるまい",
     "roma":"karumai"
-  },
-  "145":{
-    "code":"145",
-    "name":"奥中山",
-    "kana":"オクナカヤマ",
-    "hira":"おくなかやま",
-    "roma":"okunakayama"
   },
   "146":{
     "code":"146",

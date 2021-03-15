@@ -1,28 +1,14 @@
 {
-  "001":{
-    "code":"001",
-    "name":"大田原",
-    "kana":"オオタワラ",
-    "hira":"おおたわら",
-    "roma":"ootawara"
-  },
-  "002":{
-    "code":"002",
-    "name":"野崎出張所",
-    "kana":"ノザキ",
-    "hira":"のざき",
-    "roma":"nozaki"
-  },
   "004":{
     "code":"004",
-    "name":"親園",
+    "name":"大田原南",
     "kana":"チカソノ",
     "hira":"ちかその",
     "roma":"chikasono"
   },
   "005":{
     "code":"005",
-    "name":"金田",
+    "name":"大田原北",
     "kana":"カネダ",
     "hira":"かねだ",
     "roma":"kaneda"
@@ -61,20 +47,6 @@
     "kana":"ナス",
     "hira":"なす",
     "roma":"nasu"
-  },
-  "021":{
-    "code":"021",
-    "name":"高久",
-    "kana":"タカク",
-    "hira":"たかく",
-    "roma":"takaku"
-  },
-  "023":{
-    "code":"023",
-    "name":"伊王野出張所",
-    "kana":"イオノ",
-    "hira":"いおの",
-    "roma":"iono"
   },
   "024":{
     "code":"024",

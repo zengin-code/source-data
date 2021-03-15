@@ -90,19 +90,12 @@
     "hira":"かわたな",
     "roma":"kawatana"
   },
-  "305":{
-    "code":"305",
-    "name":"波佐見南",
-    "kana":"ハサミミナミ",
-    "hira":"はさみみなみ",
-    "roma":"hasamiminami"
-  },
   "306":{
     "code":"306",
-    "name":"波佐見東",
-    "kana":"ハサミヒガシ",
-    "hira":"はさみひがし",
-    "roma":"hasamihigashi"
+    "name":"波佐見",
+    "kana":"ハサミ",
+    "hira":"はさみ",
+    "roma":"hasami"
   },
   "402":{
     "code":"402",
