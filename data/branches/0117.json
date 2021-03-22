@@ -146,13 +146,6 @@
     "hira":"しんじよう",
     "roma":"shinjiyou"
   },
-  "125":{
-    "code":"125",
-    "name":"戸山出張所",
-    "kana":"トヤマ",
-    "hira":"とやま",
-    "roma":"toyama"
-  },
   "127":{
     "code":"127",
     "name":"松原通り",
@@ -271,13 +264,6 @@
     "kana":"キキヨウノ",
     "hira":"ききようの",
     "roma":"kikiyouno"
-  },
-  "213":{
-    "code":"213",
-    "name":"亀甲町",
-    "kana":"カメノコウマチ",
-    "hira":"かめのこうまち",
-    "roma":"kamenokoumachi"
   },
   "214":{
     "code":"214",

@@ -76,11 +76,25 @@
     "hira":"ＪＡＬ",
     "roma":"jal"
   },
+  "202":{
+    "code":"202",
+    "name":"ツツジ",
+    "kana":"ツツジ",
+    "hira":"つつじ",
+    "roma":"tsutsuji"
+  },
   "203":{
     "code":"203",
     "name":"Ｔポイント",
     "kana":"Ｔポイント",
     "hira":"Ｔぽいんと",
     "roma":"tpointo"
+  },
+  "301":{
+    "code":"301",
+    "name":"第一ビジネス営業部",
+    "kana":"ダイイチビジネス",
+    "hira":"だいいちびじねす",
+    "roma":"daiichibijinesu"
   }
 }
