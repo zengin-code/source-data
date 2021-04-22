@@ -314,33 +314,12 @@
     "hira":"あわの",
     "roma":"awano"
   },
-  "611":{
-    "code":"611",
-    "name":"三十三",
-    "kana":"ミソミ",
-    "hira":"みそみ",
-    "roma":"misomi"
-  },
-  "612":{
-    "code":"612",
-    "name":"西田",
-    "kana":"ニシタ",
-    "hira":"にした",
-    "roma":"nishita"
-  },
   "613":{
     "code":"613",
     "name":"三方五湖",
     "kana":"ミカタゴコ",
     "hira":"みかたごこ",
     "roma":"mikatagoko"
-  },
-  "621":{
-    "code":"621",
-    "name":"みはま東",
-    "kana":"ミハマヒガシ",
-    "hira":"みはまひがし",
-    "roma":"mihamahigashi"
   },
   "623":{
     "code":"623",

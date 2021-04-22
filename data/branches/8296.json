@@ -5,5 +5,19 @@
     "kana":"ホンシヨ",
     "hira":"ほんしよ",
     "roma":"honshiyo"
+  },
+  "110":{
+    "code":"110",
+    "name":"市場",
+    "kana":"イチバ",
+    "hira":"いちば",
+    "roma":"ichiba"
+  },
+  "120":{
+    "code":"120",
+    "name":"東部",
+    "kana":"トウブ",
+    "hira":"とうぶ",
+    "roma":"toubu"
   }
 }

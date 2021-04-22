@@ -1,10 +1,4 @@
 ---
-'002':
-  code: '002'
-  name: 南城東
-  kana: ミナミキトウ
-  hira: みなみきとう
-  roma: minamikitou
 '003':
   code: '003'
   name: 稲取
@@ -17,12 +11,6 @@
   kana: シモカワヅ
   hira: しもかわづ
   roma: shimokawadu
-'005':
-  code: '005'
-  name: 上河津
-  kana: カミカワヅ
-  hira: かみかわづ
-  roma: kamikawadu
 '006':
   code: '006'
   name: 熱川
@@ -83,12 +71,6 @@
   kana: ニシナ
   hira: にしな
   roma: nishina
-'306':
-  code: '306'
-  name: 安良里
-  kana: アラリ
-  hira: あらり
-  roma: arari
 '307':
   code: '307'
   name: 宇久須

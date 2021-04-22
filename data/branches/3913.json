@@ -13,20 +13,6 @@
     "hira":"ちゆうおうそうごう",
     "roma":"chiyuuousougou"
   },
-  "006":{
-    "code":"006",
-    "name":"湯沢南",
-    "kana":"ユザワミナミ",
-    "hira":"ゆざわみなみ",
-    "roma":"yuzawaminami"
-  },
-  "011":{
-    "code":"011",
-    "name":"雄勝中央病院出張所",
-    "kana":"オガチチユウオウビヨウイン",
-    "hira":"おがちちゆうおうびよういん",
-    "roma":"ogachichiyuuoubiyouin"
-  },
   "013":{
     "code":"013",
     "name":"湯沢",
@@ -48,13 +34,6 @@
     "hira":"とうぶそうごう",
     "roma":"toubusougou"
   },
-  "021":{
-    "code":"021",
-    "name":"皆瀬",
-    "kana":"ミナセ",
-    "hira":"みなせ",
-    "roma":"minase"
-  },
   "023":{
     "code":"023",
     "name":"南部総合",
@@ -68,12 +47,5 @@
     "kana":"セイブソウゴウ",
     "hira":"せいぶそうごう",
     "roma":"seibusougou"
-  },
-  "029":{
-    "code":"029",
-    "name":"高瀬",
-    "kana":"タカセ",
-    "hira":"たかせ",
-    "roma":"takase"
   }
 }

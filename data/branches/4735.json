@@ -13,19 +13,12 @@
     "hira":"よしの",
     "roma":"yoshino"
   },
-  "003":{
-    "code":"003",
-    "name":"古谷",
-    "kana":"フルヤ",
-    "hira":"ふるや",
-    "roma":"furuya"
-  },
   "004":{
     "code":"004",
-    "name":"南古谷",
-    "kana":"ミナミフルヤ",
-    "hira":"みなみふるや",
-    "roma":"minamifuruya"
+    "name":"川越東",
+    "kana":"カワゴエヒガシ",
+    "hira":"かわごえひがし",
+    "roma":"kawagoehigashi"
   },
   "005":{
     "code":"005",
@@ -41,19 +34,12 @@
     "hira":"ふくはら",
     "roma":"fukuhara"
   },
-  "007":{
-    "code":"007",
-    "name":"日東",
-    "kana":"ニツトウ",
-    "hira":"につとう",
-    "roma":"nitsutou"
-  },
   "009":{
     "code":"009",
-    "name":"大田",
-    "kana":"オオタ",
-    "hira":"おおた",
-    "roma":"oota"
+    "name":"大東",
+    "kana":"ダイトウ",
+    "hira":"だいとう",
+    "roma":"daitou"
   },
   "010":{
     "code":"010",
@@ -62,19 +48,12 @@
     "hira":"なぐわし",
     "roma":"naguwashi"
   },
-  "012":{
-    "code":"012",
-    "name":"山田",
-    "kana":"ヤマダ",
-    "hira":"やまだ",
-    "roma":"yamada"
-  },
   "013":{
     "code":"013",
-    "name":"田面沢",
-    "kana":"タノモザワ",
-    "hira":"たのもざわ",
-    "roma":"tanomozawa"
+    "name":"小江戸",
+    "kana":"コエド",
+    "hira":"こえど",
+    "roma":"koedo"
   },
   "014":{
     "code":"014",
@@ -89,13 +68,6 @@
     "kana":"カスミガセキ",
     "hira":"かすみがせき",
     "roma":"kasumigaseki"
-  },
-  "016":{
-    "code":"016",
-    "name":"的場",
-    "kana":"マトバ",
-    "hira":"まとば",
-    "roma":"matoba"
   },
   "020":{
     "code":"020",

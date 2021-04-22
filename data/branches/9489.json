@@ -1,10 +1,17 @@
 {
   "001":{
     "code":"001",
-    "name":"本所",
-    "kana":"ホンシヨ",
-    "hira":"ほんしよ",
-    "roma":"honshiyo"
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "002":{
+    "code":"002",
+    "name":"佐賀統括",
+    "kana":"サガトウカツ",
+    "hira":"さがとうかつ",
+    "roma":"sagatoukatsu"
   },
   "003":{
     "code":"003",
@@ -12,5 +19,75 @@
     "kana":"アリアケ",
     "hira":"ありあけ",
     "roma":"ariake"
+  },
+  "004":{
+    "code":"004",
+    "name":"長崎統括",
+    "kana":"ナガサキトウカツ",
+    "hira":"ながさきとうかつ",
+    "roma":"nagasakitoukatsu"
+  },
+  "005":{
+    "code":"005",
+    "name":"宮崎統括",
+    "kana":"ミヤザキトウカツ",
+    "hira":"みやざきとうかつ",
+    "roma":"miyazakitoukatsu"
+  },
+  "006":{
+    "code":"006",
+    "name":"鹿児島統括",
+    "kana":"カゴシマトウカツ",
+    "hira":"かごしまとうかつ",
+    "roma":"kagoshimatoukatsu"
+  },
+  "007":{
+    "code":"007",
+    "name":"沖縄統括",
+    "kana":"オキナワトウカツ",
+    "hira":"おきなわとうかつ",
+    "roma":"okinawatoukatsu"
+  },
+  "125":{
+    "code":"125",
+    "name":"北浦",
+    "kana":"キタウラ",
+    "hira":"きたうら",
+    "roma":"kitaura"
+  },
+  "127":{
+    "code":"127",
+    "name":"庵川",
+    "kana":"イオリガワ",
+    "hira":"いおりがわ",
+    "roma":"iorigawa"
+  },
+  "133":{
+    "code":"133",
+    "name":"南郷",
+    "kana":"ナンゴウ",
+    "hira":"なんごう",
+    "roma":"nangou"
+  },
+  "500":{
+    "code":"500",
+    "name":"唐津",
+    "kana":"カラツ",
+    "hira":"からつ",
+    "roma":"karatsu"
+  },
+  "505":{
+    "code":"505",
+    "name":"南川副",
+    "kana":"ミナミカワソエ",
+    "hira":"みなみかわそえ",
+    "roma":"minamikawasoe"
+  },
+  "517":{
+    "code":"517",
+    "name":"鹿島",
+    "kana":"カシマ",
+    "hira":"かしま",
+    "roma":"kashima"
   }
 }

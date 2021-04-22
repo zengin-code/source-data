@@ -302,10 +302,10 @@
   },
   "053":{
     "code":"053",
-    "name":"名古屋駅前",
-    "kana":"ナゴヤエキマエ",
-    "hira":"なごやえきまえ",
-    "roma":"nagoyaekimae"
+    "name":"名古屋駅前５３",
+    "kana":"ナゴヤエキマエゴサン",
+    "hira":"なごやえきまえごさん",
+    "roma":"nagoyaekimaegosan"
   },
   "054":{
     "code":"054",
@@ -687,10 +687,10 @@
   },
   "213":{
     "code":"213",
-    "name":"府中",
-    "kana":"フチユウ",
-    "hira":"ふちゆう",
-    "roma":"fuchiyuu"
+    "name":"調布２１３",
+    "kana":"チヨウフニイチサン",
+    "hira":"ちようふにいちさん",
+    "roma":"chiyoufuniichisan"
   },
   "215":{
     "code":"215",
@@ -827,10 +827,10 @@
   },
   "265":{
     "code":"265",
-    "name":"調布",
-    "kana":"チヨウフ",
-    "hira":"ちようふ",
-    "roma":"chiyoufu"
+    "name":"調布２６５",
+    "kana":"チヨウフニロクゴ",
+    "hira":"ちようふにろくご",
+    "roma":"chiyoufunirokugo"
   },
   "266":{
     "code":"266",
@@ -897,10 +897,10 @@
   },
   "278":{
     "code":"278",
-    "name":"春日井",
-    "kana":"カスガイ",
-    "hira":"かすがい",
-    "roma":"kasugai"
+    "name":"名古屋駅前２７８",
+    "kana":"ナゴヤエキマエニナナハチ",
+    "hira":"なごやえきまえにななはち",
+    "roma":"nagoyaekimaeninanahachi"
   },
   "280":{
     "code":"280",

@@ -27,13 +27,6 @@
     "hira":"なんぶちゆうおう",
     "roma":"nambuchiyuuou"
   },
-  "005":{
-    "code":"005",
-    "name":"南押原",
-    "kana":"ミナミオシハラ",
-    "hira":"みなみおしはら",
-    "roma":"minamioshihara"
-  },
   "008":{
     "code":"008",
     "name":"東大芦",
@@ -61,20 +54,6 @@
     "kana":"ニツコウチユウオウ",
     "hira":"につこうちゆうおう",
     "roma":"nitsukouchiyuuou"
-  },
-  "020":{
-    "code":"020",
-    "name":"落合",
-    "kana":"オチアイ",
-    "hira":"おちあい",
-    "roma":"ochiai"
-  },
-  "022":{
-    "code":"022",
-    "name":"豊岡",
-    "kana":"トヨオカ",
-    "hira":"とよおか",
-    "roma":"toyooka"
   },
   "023":{
     "code":"023",

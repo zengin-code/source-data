@@ -181,13 +181,6 @@
     "hira":"とだこうえん",
     "roma":"todakouen"
   },
-  "029":{
-    "code":"029",
-    "name":"美笹",
-    "kana":"ミササ",
-    "hira":"みささ",
-    "roma":"misasa"
-  },
   "030":{
     "code":"030",
     "name":"蕨",
@@ -222,20 +215,6 @@
     "kana":"ハトガヤ",
     "hira":"はとがや",
     "roma":"hatogaya"
-  },
-  "035":{
-    "code":"035",
-    "name":"鳩ヶ谷南",
-    "kana":"ハトガヤミナミ",
-    "hira":"はとがやみなみ",
-    "roma":"hatogayaminami"
-  },
-  "036":{
-    "code":"036",
-    "name":"八幡木",
-    "kana":"ハチマンギ",
-    "hira":"はちまんぎ",
-    "roma":"hachimangi"
   },
   "037":{
     "code":"037",
@@ -393,16 +372,9 @@
   },
   "060":{
     "code":"060",
-    "name":"石戸",
-    "kana":"イシト",
-    "hira":"いしと",
-    "roma":"ishito"
-  },
-  "061":{
-    "code":"061",
-    "name":"中丸",
-    "kana":"ナカマル",
-    "hira":"なかまる",
-    "roma":"nakamaru"
+    "name":"北本",
+    "kana":"キタモト",
+    "hira":"きたもと",
+    "roma":"kitamoto"
   }
 }

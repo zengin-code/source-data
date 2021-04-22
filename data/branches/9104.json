@@ -398,6 +398,27 @@
     "hira":"おぎ",
     "roma":"ogi"
   },
+  "560":{
+    "code":"560",
+    "name":"玖珠",
+    "kana":"クス",
+    "hira":"くす",
+    "roma":"kusu"
+  },
+  "561":{
+    "code":"561",
+    "name":"九重",
+    "kana":"ココノエ",
+    "hira":"ここのえ",
+    "roma":"kokonoe"
+  },
+  "570":{
+    "code":"570",
+    "name":"飯田高原",
+    "kana":"ハンダコウゲン",
+    "hira":"はんだこうげん",
+    "roma":"handakougen"
+  },
   "620":{
     "code":"620",
     "name":"日田",

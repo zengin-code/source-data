@@ -97,26 +97,12 @@
     "hira":"おおいそ",
     "roma":"ooiso"
   },
-  "015":{
-    "code":"015",
-    "name":"大磯東",
-    "kana":"オオイソヒガシ",
-    "hira":"おおいそひがし",
-    "roma":"ooisohigashi"
-  },
   "018":{
     "code":"018",
     "name":"二宮町",
     "kana":"ニノミヤマチ",
     "hira":"にのみやまち",
     "roma":"ninomiyamachi"
-  },
-  "019":{
-    "code":"019",
-    "name":"八重咲",
-    "kana":"ヤエザキ",
-    "hira":"やえざき",
-    "roma":"yaezaki"
   },
   "021":{
     "code":"021",

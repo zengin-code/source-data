@@ -13,27 +13,6 @@
     "hira":"きた",
     "roma":"kita"
   },
-  "007":{
-    "code":"007",
-    "name":"三好",
-    "kana":"ミヨシ",
-    "hira":"みよし",
-    "roma":"miyoshi"
-  },
-  "010":{
-    "code":"010",
-    "name":"五所川原",
-    "kana":"ゴシヨガワラ",
-    "hira":"ごしよがわら",
-    "roma":"goshiyogawara"
-  },
-  "011":{
-    "code":"011",
-    "name":"七和",
-    "kana":"ナナワ",
-    "hira":"ななわ",
-    "roma":"nanawa"
-  },
   "012":{
     "code":"012",
     "name":"木造",

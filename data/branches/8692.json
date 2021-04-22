@@ -62,20 +62,6 @@
     "hira":"わかまつ",
     "roma":"wakamatsu"
   },
-  "015":{
-    "code":"015",
-    "name":"二島",
-    "kana":"フタジマ",
-    "hira":"ふたじま",
-    "roma":"futajima"
-  },
-  "016":{
-    "code":"016",
-    "name":"戸畑",
-    "kana":"トバタ",
-    "hira":"とばた",
-    "roma":"tobata"
-  },
   "101":{
     "code":"101",
     "name":"遠賀",
@@ -89,13 +75,6 @@
     "kana":"オカガキ",
     "hira":"おかがき",
     "roma":"okagaki"
-  },
-  "105":{
-    "code":"105",
-    "name":"岡垣東部",
-    "kana":"オカガキトウブ",
-    "hira":"おかがきとうぶ",
-    "roma":"okagakitoubu"
   },
   "106":{
     "code":"106",
@@ -145,13 +124,6 @@
     "kana":"ヒガシタニ",
     "hira":"ひがしたに",
     "roma":"higashitani"
-  },
-  "250":{
-    "code":"250",
-    "name":"朽網",
-    "kana":"クサミ",
-    "hira":"くさみ",
-    "roma":"kusami"
   },
   "260":{
     "code":"260",

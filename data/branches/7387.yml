@@ -91,7 +91,7 @@
   roma: yamazoe
 '112':
   code: '112'
-  name: 郡山
+  name: 郡山出張所
   kana: コオリヤマ
   hira: こおりやま
   roma: kooriyama
@@ -103,7 +103,7 @@
   roma: heiwa
 '118':
   code: '118'
-  name: 昭和
+  name: 昭和出張所
   kana: シヨウワ
   hira: しようわ
   roma: shiyouwa
@@ -121,7 +121,7 @@
   roma: ikoma
 '121':
   code: '121'
-  name: 北倭
+  name: 北倭出張所
   kana: キタヤマト
   hira: きたやまと
   roma: kitayamato
@@ -335,12 +335,6 @@
   kana: テンマ
   hira: てんま
   roma: temma
-'191':
-  code: '191'
-  name: 新庄東
-  kana: シンジヨウヒガシ
-  hira: しんじようひがし
-  roma: shinjiyouhigashi
 '192':
   code: '192'
   name: 新庄
@@ -349,7 +343,7 @@
   roma: shinjiyou
 '193':
   code: '193'
-  name: 忍海
+  name: 忍海出張所
   kana: オシミ
   hira: おしみ
   roma: oshimi
@@ -359,12 +353,6 @@
   kana: タイマ
   hira: たいま
   roma: taima
-'195':
-  code: '195'
-  name: 当麻北
-  kana: タイマキタ
-  hira: たいまきた
-  roma: taimakita
 '196':
   code: '196'
   name: かしば
@@ -385,16 +373,10 @@
   roma: gose
 '205':
   code: '205'
-  name: 掖上
+  name: 掖上出張所
   kana: ワキガミ
   hira: わきがみ
   roma: wakigami
-'206':
-  code: '206'
-  name: 秋津
-  kana: アキツ
-  hira: あきつ
-  roma: akitsu
 '207':
   code: '207'
   name: 御所葛

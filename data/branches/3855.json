@@ -13,19 +13,12 @@
     "hira":"おおまがり",
     "roma":"oomagari"
   },
-  "003":{
-    "code":"003",
-    "name":"花館",
-    "kana":"ハナダテ",
-    "hira":"はなだて",
-    "roma":"hanadate"
-  },
   "005":{
     "code":"005",
-    "name":"四ツ屋",
-    "kana":"ヨツヤ",
-    "hira":"よつや",
-    "roma":"yotsuya"
+    "name":"大曲北",
+    "kana":"オオマガリキタ",
+    "hira":"おおまがりきた",
+    "roma":"oomagarikita"
   },
   "008":{
     "code":"008",
@@ -68,13 +61,6 @@
     "kana":"センボク",
     "hira":"せんぼく",
     "roma":"semboku"
-  },
-  "023":{
-    "code":"023",
-    "name":"横堀",
-    "kana":"ヨコボリ",
-    "hira":"よこぼり",
-    "roma":"yokobori"
   },
   "024":{
     "code":"024",

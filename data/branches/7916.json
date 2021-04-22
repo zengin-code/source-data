@@ -20,13 +20,6 @@
     "hira":"ひがしかいた",
     "roma":"higashikaita"
   },
-  "176":{
-    "code":"176",
-    "name":"畑賀",
-    "kana":"ハタカ",
-    "hira":"はたか",
-    "roma":"hataka"
-  },
   "177":{
     "code":"177",
     "name":"中野",
@@ -82,12 +75,5 @@
     "kana":"サカ",
     "hira":"さか",
     "roma":"saka"
-  },
-  "817":{
-    "code":"817",
-    "name":"中須賀",
-    "kana":"ナカスガ",
-    "hira":"なかすが",
-    "roma":"nakasuga"
   }
 }

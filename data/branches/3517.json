@@ -13,13 +13,6 @@
     "hira":"たきざわ",
     "roma":"takizawa"
   },
-  "108":{
-    "code":"108",
-    "name":"滝沢市役所出張所",
-    "kana":"タキザワシヤクシヨ",
-    "hira":"たきざわしやくしよ",
-    "roma":"takizawashiyakushiyo"
-  },
   "109":{
     "code":"109",
     "name":"雫石",
@@ -27,33 +20,12 @@
     "hira":"しずくいし",
     "roma":"shizukuishi"
   },
-  "115":{
-    "code":"115",
-    "name":"雫石町役場出張所",
-    "kana":"シズクイシチヨウヤクバ",
-    "hira":"しずくいしちようやくば",
-    "roma":"shizukuishichiyouyakuba"
-  },
   "116":{
     "code":"116",
-    "name":"西根",
-    "kana":"ニシネ",
-    "hira":"にしね",
-    "roma":"nishine"
-  },
-  "121":{
-    "code":"121",
-    "name":"西根北",
-    "kana":"ニシネキタ",
-    "hira":"にしねきた",
-    "roma":"nishinekita"
-  },
-  "122":{
-    "code":"122",
-    "name":"松尾",
-    "kana":"マツオ",
-    "hira":"まつお",
-    "roma":"matsuo"
+    "name":"八幡平",
+    "kana":"ハチマンタイ",
+    "hira":"はちまんたい",
+    "roma":"hachimantai"
   },
   "123":{
     "code":"123",
@@ -90,13 +62,6 @@
     "hira":"くじ",
     "roma":"kuji"
   },
-  "136":{
-    "code":"136",
-    "name":"種市",
-    "kana":"タネイチ",
-    "hira":"たねいち",
-    "roma":"taneichi"
-  },
   "137":{
     "code":"137",
     "name":"大野",
@@ -104,26 +69,12 @@
     "hira":"おおの",
     "roma":"oono"
   },
-  "138":{
-    "code":"138",
-    "name":"山形",
-    "kana":"ヤマガタ",
-    "hira":"やまがた",
-    "roma":"yamagata"
-  },
   "139":{
     "code":"139",
     "name":"野田",
     "kana":"ノダ",
     "hira":"のだ",
     "roma":"noda"
-  },
-  "140":{
-    "code":"140",
-    "name":"普代",
-    "kana":"フダイ",
-    "hira":"ふだい",
-    "roma":"fudai"
   },
   "141":{
     "code":"141",
@@ -145,13 +96,6 @@
     "kana":"カルマイ",
     "hira":"かるまい",
     "roma":"karumai"
-  },
-  "146":{
-    "code":"146",
-    "name":"浄法寺",
-    "kana":"ジヨウボウジ",
-    "hira":"じようぼうじ",
-    "roma":"jiyoubouji"
   },
   "148":{
     "code":"148",

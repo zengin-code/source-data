@@ -55,26 +55,12 @@
     "hira":"どいちゆうおう",
     "roma":"doichiyuuou"
   },
-  "022":{
-    "code":"022",
-    "name":"長津",
-    "kana":"ナガツ",
-    "hira":"ながつ",
-    "roma":"nagatsu"
-  },
   "025":{
     "code":"025",
     "name":"川下",
     "kana":"カワシモ",
     "hira":"かわしも",
     "roma":"kawashimo"
-  },
-  "027":{
-    "code":"027",
-    "name":"関川",
-    "kana":"セキガワ",
-    "hira":"せきがわ",
-    "roma":"sekigawa"
   },
   "031":{
     "code":"031",
@@ -89,12 +75,5 @@
     "kana":"カワノエ",
     "hira":"かわのえ",
     "roma":"kawanoe"
-  },
-  "033":{
-    "code":"033",
-    "name":"川滝",
-    "kana":"カワタキ",
-    "hira":"かわたき",
-    "roma":"kawataki"
   }
 }

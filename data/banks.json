@@ -7141,24 +7141,10 @@
   },
   "6677":{
     "code":"6677",
-    "name":"三重中央農協",
-    "kana":"ミエチユウオウノウキヨウ",
-    "hira":"みえちゆうおうのうきよう",
-    "roma":"miechiyuuounoukiyou"
-  },
-  "6678":{
-    "code":"6678",
-    "name":"一志東部農協",
-    "kana":"イチシトウブノウキヨウ",
-    "hira":"いちしとうぶのうきよう",
-    "roma":"ichishitoubunoukiyou"
-  },
-  "6690":{
-    "code":"6690",
-    "name":"松阪農協",
-    "kana":"マツサカノウキヨウ",
-    "hira":"まつさかのうきよう",
-    "roma":"matsusakanoukiyou"
+    "name":"みえなか農協",
+    "kana":"ミエナカノウキヨウ",
+    "hira":"みえなかのうきよう",
+    "roma":"mienakanoukiyou"
   },
   "6697":{
     "code":"6697",
@@ -7197,31 +7183,10 @@
   },
   "6874":{
     "code":"6874",
-    "name":"レーク大津農協",
-    "kana":"レ－クオオツノウキヨウ",
-    "hira":"れ－くおおつのうきよう",
-    "roma":"re-kuootsunoukiyou"
-  },
-  "6883":{
-    "code":"6883",
-    "name":"草津市農協",
-    "kana":"クサツシノウキヨウ",
-    "hira":"くさつしのうきよう",
-    "roma":"kusatsushinoukiyou"
-  },
-  "6885":{
-    "code":"6885",
-    "name":"栗東市農協",
-    "kana":"リツトウシノウキヨウ",
-    "hira":"りつとうしのうきよう",
-    "roma":"ritsutoushinoukiyou"
-  },
-  "6888":{
-    "code":"6888",
-    "name":"おうみ冨士農協",
-    "kana":"オウミフジノウキヨウ",
-    "hira":"おうみふじのうきよう",
-    "roma":"oumifujinoukiyou"
+    "name":"レーク滋賀農協",
+    "kana":"レ－クシガノウキヨウ",
+    "hira":"れ－くしがのうきよう",
+    "roma":"re-kushiganoukiyou"
   },
   "6889":{
     "code":"6889",
@@ -7278,34 +7243,6 @@
     "kana":"キタビワコノウキヨウ",
     "hira":"きたびわこのうきよう",
     "roma":"kitabiwakonoukiyou"
-  },
-  "6931":{
-    "code":"6931",
-    "name":"マキノ町農協",
-    "kana":"マキノチヨウノウキヨウ",
-    "hira":"まきのちようのうきよう",
-    "roma":"makinochiyounoukiyou"
-  },
-  "6932":{
-    "code":"6932",
-    "name":"今津町農協",
-    "kana":"イマヅチヨウノウキヨウ",
-    "hira":"いまづちようのうきよう",
-    "roma":"imaduchiyounoukiyou"
-  },
-  "6933":{
-    "code":"6933",
-    "name":"新旭町農協",
-    "kana":"シンアサヒチヨウノウキヨウ",
-    "hira":"しんあさひちようのうきよう",
-    "roma":"shinasahichiyounoukiyou"
-  },
-  "6935":{
-    "code":"6935",
-    "name":"西びわこ農協",
-    "kana":"ニシビワコノウキヨウ",
-    "hira":"にしびわこのうきよう",
-    "roma":"nishibiwakonoukiyou"
   },
   "6941":{
     "code":"6941",
@@ -7806,10 +7743,10 @@
   },
   "8296":{
     "code":"8296",
-    "name":"阿波町農協",
-    "kana":"アワチヨウノウキヨウ",
-    "hira":"あわちようのうきよう",
-    "roma":"awachiyounoukiyou"
+    "name":"阿波市農協",
+    "kana":"アワシノウキヨウ",
+    "hira":"あわしのうきよう",
+    "roma":"awashinoukiyou"
   },
   "8300":{
     "code":"8300",
@@ -8273,20 +8210,6 @@
     "hira":"おおいたけんのうきよう",
     "roma":"ooitakennoukiyou"
   },
-  "9137":{
-    "code":"9137",
-    "name":"玖珠九重農協",
-    "kana":"クスココノエノウキヨウ",
-    "hira":"くすここのえのうきよう",
-    "roma":"kusukokonoenoukiyou"
-  },
-  "9140":{
-    "code":"9140",
-    "name":"九重町飯田農協",
-    "kana":"ココノエマチハンダノウキヨウ",
-    "hira":"ここのえまちはんだのうきよう",
-    "roma":"kokonoemachihandanoukiyou"
-  },
   "9145":{
     "code":"9145",
     "name":"大分大山町農協",
@@ -8490,20 +8413,6 @@
     "hira":"ほつかいどうしんぎよれん",
     "roma":"hotsukaidoushingiyoren"
   },
-  "9451":{
-    "code":"9451",
-    "name":"青森県信漁連",
-    "kana":"アオモリケンシンギヨレン",
-    "hira":"あおもりけんしんぎよれん",
-    "roma":"aomorikenshingiyoren"
-  },
-  "9452":{
-    "code":"9452",
-    "name":"岩手県信漁連",
-    "kana":"イワテケンシンギヨレン",
-    "hira":"いわてけんしんぎよれん",
-    "roma":"iwatekenshingiyoren"
-  },
   "9453":{
     "code":"9453",
     "name":"宮城県漁協",
@@ -8518,26 +8427,12 @@
     "hira":"ふくしまけんしんぎよれん",
     "roma":"fukushimakenshingiyoren"
   },
-  "9457":{
-    "code":"9457",
-    "name":"茨城県信漁連",
-    "kana":"イバラキケンシンギヨレン",
-    "hira":"いばらきけんしんぎよれん",
-    "roma":"ibarakikenshingiyoren"
-  },
   "9461":{
     "code":"9461",
-    "name":"千葉県信漁連",
-    "kana":"チバケンシンギヨレン",
-    "hira":"ちばけんしんぎよれん",
-    "roma":"chibakenshingiyoren"
-  },
-  "9462":{
-    "code":"9462",
-    "name":"東京都信漁連",
-    "kana":"トウキヨウトシンギヨレン",
-    "hira":"とうきようとしんぎよれん",
-    "roma":"toukiyoutoshingiyoren"
+    "name":"東日本信漁連",
+    "kana":"ヒガシニホンシンギヨレン",
+    "hira":"ひがしにほんしんぎよれん",
+    "roma":"higashinihonshingiyoren"
   },
   "9463":{
     "code":"9463",
@@ -8546,54 +8441,12 @@
     "hira":"かながわけんしんぎよれん",
     "roma":"kanagawakenshingiyoren"
   },
-  "9466":{
-    "code":"9466",
-    "name":"新潟県信漁連",
-    "kana":"ニイガタケンシンギヨレン",
-    "hira":"にいがたけんしんぎよれん",
-    "roma":"niigatakenshingiyoren"
-  },
-  "9467":{
-    "code":"9467",
-    "name":"富山県信漁連",
-    "kana":"トヤマケンシンギヨレン",
-    "hira":"とやまけんしんぎよれん",
-    "roma":"toyamakenshingiyoren"
-  },
-  "9468":{
-    "code":"9468",
-    "name":"石川県信漁連",
-    "kana":"イシカワケンシンギヨレン",
-    "hira":"いしかわけんしんぎよれん",
-    "roma":"ishikawakenshingiyoren"
-  },
-  "9470":{
-    "code":"9470",
-    "name":"静岡県信漁連",
-    "kana":"シズオカケンシンギヨレン",
-    "hira":"しずおかけんしんぎよれん",
-    "roma":"shizuokakenshingiyoren"
-  },
   "9471":{
     "code":"9471",
     "name":"愛知県信漁連",
     "kana":"アイチケンシンギヨレン",
     "hira":"あいちけんしんぎよれん",
     "roma":"aichikenshingiyoren"
-  },
-  "9472":{
-    "code":"9472",
-    "name":"三重県信漁連",
-    "kana":"ミエケンシンギヨレン",
-    "hira":"みえけんしんぎよれん",
-    "roma":"miekenshingiyoren"
-  },
-  "9473":{
-    "code":"9473",
-    "name":"福井県信漁連",
-    "kana":"フクイケンシンギヨレン",
-    "hira":"ふくいけんしんぎよれん",
-    "roma":"fukuikenshingiyoren"
   },
   "9475":{
     "code":"9475",
@@ -8667,24 +8520,10 @@
   },
   "9489":{
     "code":"9489",
-    "name":"福岡県信漁連",
-    "kana":"フクオカケンシンギヨレン",
-    "hira":"ふくおかけんしんぎよれん",
-    "roma":"fukuokakenshingiyoren"
-  },
-  "9490":{
-    "code":"9490",
-    "name":"佐賀県信漁連",
-    "kana":"サガケンシンギヨレン",
-    "hira":"さがけんしんぎよれん",
-    "roma":"sagakenshingiyoren"
-  },
-  "9491":{
-    "code":"9491",
-    "name":"長崎県信漁連",
-    "kana":"ナガサキケンシンギヨレン",
-    "hira":"ながさきけんしんぎよれん",
-    "roma":"nagasakikenshingiyoren"
+    "name":"九州信漁連",
+    "kana":"キユウシユウシンギヨレン",
+    "hira":"きゆうしゆうしんぎよれん",
+    "roma":"kiyuushiyuushingiyoren"
   },
   "9493":{
     "code":"9493",
@@ -8692,27 +8531,6 @@
     "kana":"オオイタケンギヨキヨウ",
     "hira":"おおいたけんぎよきよう",
     "roma":"ooitakengiyokiyou"
-  },
-  "9494":{
-    "code":"9494",
-    "name":"宮崎県信漁連",
-    "kana":"ミヤザキケンシンギヨレン",
-    "hira":"みやざきけんしんぎよれん",
-    "roma":"miyazakikenshingiyoren"
-  },
-  "9495":{
-    "code":"9495",
-    "name":"鹿児島県信漁連",
-    "kana":"カゴシマケンシンギヨレン",
-    "hira":"かごしまけんしんぎよれん",
-    "roma":"kagoshimakenshingiyoren"
-  },
-  "9496":{
-    "code":"9496",
-    "name":"沖縄県信漁連",
-    "kana":"オキナワケンシンギヨレン",
-    "hira":"おきなわけんしんぎよれん",
-    "roma":"okinawakenshingiyoren"
   },
   "9900":{
     "code":"9900",

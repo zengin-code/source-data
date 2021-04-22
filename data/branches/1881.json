@@ -36,10 +36,10 @@
   },
   "029":{
     "code":"029",
-    "name":"万々",
-    "kana":"ママ",
-    "hira":"まま",
-    "roma":"mama"
+    "name":"万々みかづき",
+    "kana":"ママミカヅキ",
+    "hira":"ままみかづき",
+    "roma":"mamamikaduki"
   },
   "030":{
     "code":"030",
@@ -106,17 +106,10 @@
   },
   "040":{
     "code":"040",
-    "name":"須崎",
-    "kana":"スサキ",
-    "hira":"すさき",
-    "roma":"susaki"
-  },
-  "042":{
-    "code":"042",
-    "name":"横内",
-    "kana":"ヨコウチ",
-    "hira":"よこうち",
-    "roma":"yokouchi"
+    "name":"須崎つのやま",
+    "kana":"スサキツノヤマ",
+    "hira":"すさきつのやま",
+    "roma":"susakitsunoyama"
   },
   "043":{
     "code":"043",
@@ -166,13 +159,6 @@
     "kana":"シマントチヨウ",
     "hira":"しまんとちよう",
     "roma":"shimantochiyou"
-  },
-  "053":{
-    "code":"053",
-    "name":"葉山",
-    "kana":"ハヤマ",
-    "hira":"はやま",
-    "roma":"hayama"
   },
   "057":{
     "code":"057",

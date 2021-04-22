@@ -13,20 +13,6 @@
     "hira":"にらやま",
     "roma":"nirayama"
   },
-  "003":{
-    "code":"003",
-    "name":"奈古谷",
-    "kana":"ナゴヤ",
-    "hira":"なごや",
-    "roma":"nagoya"
-  },
-  "004":{
-    "code":"004",
-    "name":"原木",
-    "kana":"バラキ",
-    "hira":"ばらき",
-    "roma":"baraki"
-  },
   "005":{
     "code":"005",
     "name":"長岡",
@@ -47,20 +33,6 @@
     "kana":"タナカ",
     "hira":"たなか",
     "roma":"tanaka"
-  },
-  "008":{
-    "code":"008",
-    "name":"浮橋",
-    "kana":"ウキハシ",
-    "hira":"うきはし",
-    "roma":"ukihashi"
-  },
-  "012":{
-    "code":"012",
-    "name":"北条",
-    "kana":"ホウジヨウ",
-    "hira":"ほうじよう",
-    "roma":"houjiyou"
   },
   "013":{
     "code":"013",
@@ -83,13 +55,6 @@
     "hira":"とい",
     "roma":"toi"
   },
-  "032":{
-    "code":"032",
-    "name":"八木沢",
-    "kana":"ヤギサワ",
-    "hira":"やぎさわ",
-    "roma":"yagisawa"
-  },
   "054":{
     "code":"054",
     "name":"修善寺",
@@ -104,25 +69,11 @@
     "hira":"かの",
     "roma":"kano"
   },
-  "058":{
-    "code":"058",
-    "name":"湯ケ島",
-    "kana":"ユガシマ",
-    "hira":"ゆがしま",
-    "roma":"yugashima"
-  },
   "060":{
     "code":"060",
     "name":"八幡",
     "kana":"ハツマ",
     "hira":"はつま",
     "roma":"hatsuma"
-  },
-  "061":{
-    "code":"061",
-    "name":"原保",
-    "kana":"ワラボ",
-    "hira":"わらぼ",
-    "roma":"warabo"
   }
 }
