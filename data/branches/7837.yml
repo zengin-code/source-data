@@ -389,18 +389,6 @@
   kana: ヤカゲ
   hira: やかげ
   roma: yakage
-'154':
-  code: '154'
-  name: 千屋
-  kana: チヤ
-  hira: ちや
-  roma: chiya
-'155':
-  code: '155'
-  name: 上市出張所
-  kana: カミイチ
-  hira: かみいち
-  roma: kamiichi
 '156':
   code: '156'
   name: 熊谷
@@ -497,12 +485,6 @@
   kana: マニワオチアイ
   hira: まにわおちあい
   roma: maniwaochiai
-'172':
-  code: '172'
-  name: 真庭出張所
-  kana: マニワ
-  hira: まにわ
-  roma: maniwa
 '173':
   code: '173'
   name: 津山東

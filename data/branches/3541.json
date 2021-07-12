@@ -22,44 +22,16 @@
   },
   "024":{
     "code":"024",
-    "name":"飯岡",
-    "kana":"イイオカ",
-    "hira":"いいおか",
-    "roma":"iioka"
-  },
-  "027":{
-    "code":"027",
-    "name":"見前",
-    "kana":"ミルマエ",
-    "hira":"みるまえ",
-    "roma":"mirumae"
-  },
-  "028":{
-    "code":"028",
-    "name":"都南乙部出張所",
-    "kana":"トナンオトベ",
-    "hira":"となんおとべ",
-    "roma":"tonanotobe"
-  },
-  "031":{
-    "code":"031",
-    "name":"本宮",
-    "kana":"モトミヤ",
-    "hira":"もとみや",
-    "roma":"motomiya"
+    "name":"都南",
+    "kana":"トナン",
+    "hira":"となん",
+    "roma":"tonan"
   },
   "032":{
     "code":"032",
-    "name":"太田",
-    "kana":"オオタ",
-    "hira":"おおた",
-    "roma":"oota"
-  },
-  "033":{
-    "code":"033",
-    "name":"盛岡東出張所",
-    "kana":"モリオカヒガシ",
-    "hira":"もりおかひがし",
-    "roma":"moriokahigashi"
+    "name":"盛岡",
+    "kana":"モリオカ",
+    "hira":"もりおか",
+    "roma":"morioka"
   }
 }

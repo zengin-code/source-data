@@ -259,10 +259,10 @@
   roma: koube
 '676':
   code: '676'
-  name: 姫路
-  kana: ヒメジ
-  hira: ひめじ
-  roma: himeji
+  name: 東京第３
+  kana: トウキヨウダイサン
+  hira: とうきようだいさん
+  roma: toukiyoudaisan
 '677':
   code: '677'
   name: 西宮
@@ -277,10 +277,10 @@
   roma: hiroshima
 '730':
   code: '730'
-  name: 岡山
-  kana: オカヤマ
-  hira: おかやま
-  roma: okayama
+  name: 東京第２
+  kana: トウキヨウダイニ
+  hira: とうきようだいに
+  roma: toukiyoudaini
 '770':
   code: '770'
   name: 高松

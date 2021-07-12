@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "003":{
-    "code":"003",
-    "name":"猿沢出張所",
-    "kana":"サルサワ",
-    "hira":"さるさわ",
-    "roma":"sarusawa"
-  },
   "009":{
     "code":"009",
     "name":"朝日",
@@ -33,13 +26,6 @@
     "kana":"アラカワ",
     "hira":"あらかわ",
     "roma":"arakawa"
-  },
-  "031":{
-    "code":"031",
-    "name":"村上",
-    "kana":"ムラカミ",
-    "hira":"むらかみ",
-    "roma":"murakami"
   },
   "051":{
     "code":"051",

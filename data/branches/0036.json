@@ -411,5 +411,26 @@
     "kana":"ホウジンダイジユウナナ",
     "hira":"ほうじんだいじゆうなな",
     "roma":"houjindaijiyuunana"
+  },
+  "718":{
+    "code":"718",
+    "name":"楽天証券第二",
+    "kana":"ラクテンシヨウケンダイニ",
+    "hira":"らくてんしようけんだいに",
+    "roma":"rakutenshiyoukendaini"
+  },
+  "719":{
+    "code":"719",
+    "name":"法人第十九",
+    "kana":"ホウジンダイジユウキユウ",
+    "hira":"ほうじんだいじゆうきゆう",
+    "roma":"houjindaijiyuukiyuu"
+  },
+  "720":{
+    "code":"720",
+    "name":"法人第二十",
+    "kana":"ホウジンダイニジユウ",
+    "hira":"ほうじんだいにじゆう",
+    "roma":"houjindainijiyuu"
   }
 }

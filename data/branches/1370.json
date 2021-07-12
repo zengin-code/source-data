@@ -92,10 +92,10 @@
   },
   "015":{
     "code":"015",
-    "name":"真砂",
-    "kana":"マサゴ",
-    "hira":"まさご",
-    "roma":"masago"
+    "name":"新潟西",
+    "kana":"ニイガタニシ",
+    "hira":"にいがたにし",
+    "roma":"niigatanishi"
   },
   "016":{
     "code":"016",
@@ -124,13 +124,6 @@
     "kana":"カメダ",
     "hira":"かめだ",
     "roma":"kameda"
-  },
-  "021":{
-    "code":"021",
-    "name":"坂井",
-    "kana":"サカイ",
-    "hira":"さかい",
-    "roma":"sakai"
   },
   "022":{
     "code":"022",

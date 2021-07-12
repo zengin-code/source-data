@@ -13,18 +13,11 @@
     "hira":"ほつきつ",
     "roma":"hotsukitsu"
   },
-  "004":{
-    "code":"004",
-    "name":"横野",
-    "kana":"ヨコノ",
-    "hira":"よこの",
-    "roma":"yokono"
-  },
   "005":{
     "code":"005",
-    "name":"しきしま",
-    "kana":"シキシマ",
-    "hira":"しきしま",
-    "roma":"shikishima"
+    "name":"赤城",
+    "kana":"アカギ",
+    "hira":"あかぎ",
+    "roma":"akagi"
   }
 }

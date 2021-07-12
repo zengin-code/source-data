@@ -111,13 +111,6 @@
     "hira":"いしかわ",
     "roma":"ishikawa"
   },
-  "218":{
-    "code":"218",
-    "name":"伊波",
-    "kana":"イハ",
-    "hira":"いは",
-    "roma":"iha"
-  },
   "222":{
     "code":"222",
     "name":"登川",
@@ -131,13 +124,6 @@
     "kana":"ミサト",
     "hira":"みさと",
     "roma":"misato"
-  },
-  "231":{
-    "code":"231",
-    "name":"越来",
-    "kana":"ゴエク",
-    "hira":"ごえく",
-    "roma":"goeku"
   },
   "239":{
     "code":"239",
@@ -187,13 +173,6 @@
     "kana":"ユンタ",
     "hira":"ゆんた",
     "roma":"yunta"
-  },
-  "279":{
-    "code":"279",
-    "name":"読谷",
-    "kana":"ヨミタン",
-    "hira":"よみたん",
-    "roma":"yomitan"
   },
   "282":{
     "code":"282",
@@ -356,20 +335,6 @@
     "hira":"あじや",
     "roma":"ajiya"
   },
-  "414":{
-    "code":"414",
-    "name":"繁多川",
-    "kana":"ハンタガワ",
-    "hira":"はんたがわ",
-    "roma":"hantagawa"
-  },
-  "416":{
-    "code":"416",
-    "name":"与儀",
-    "kana":"ヨギ",
-    "hira":"よぎ",
-    "roma":"yogi"
-  },
   "417":{
     "code":"417",
     "name":"上間",
@@ -447,13 +412,6 @@
     "hira":"たまぐすく",
     "roma":"tamagusuku"
   },
-  "529":{
-    "code":"529",
-    "name":"知念",
-    "kana":"チネン",
-    "hira":"ちねん",
-    "roma":"chinen"
-  },
   "539":{
     "code":"539",
     "name":"佐敷",
@@ -516,13 +474,6 @@
     "kana":"ツカザン",
     "hira":"つかざん",
     "roma":"tsukazan"
-  },
-  "592":{
-    "code":"592",
-    "name":"久米島具志川",
-    "kana":"クメジマグシカワ",
-    "hira":"くめじまぐしかわ",
-    "roma":"kumejimagushikawa"
   },
   "599":{
     "code":"599",

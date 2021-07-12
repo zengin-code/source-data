@@ -29,24 +29,10 @@
   },
   "011":{
     "code":"011",
-    "name":"八木",
-    "kana":"ヤギ",
-    "hira":"やぎ",
-    "roma":"yagi"
-  },
-  "012":{
-    "code":"012",
-    "name":"市",
-    "kana":"イチ",
-    "hira":"いち",
-    "roma":"ichi"
-  },
-  "013":{
-    "code":"013",
-    "name":"神代",
-    "kana":"ジンダイ",
-    "hira":"じんだい",
-    "roma":"jindai"
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
   },
   "014":{
     "code":"014",

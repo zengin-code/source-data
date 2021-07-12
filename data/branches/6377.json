@@ -146,13 +146,6 @@
     "hira":"ろくごう",
     "roma":"rokugou"
   },
-  "467":{
-    "code":"467",
-    "name":"東",
-    "kana":"ヒガシ",
-    "hira":"ひがし",
-    "roma":"higashi"
-  },
   "469":{
     "code":"469",
     "name":"島田北",
@@ -181,26 +174,12 @@
     "hira":"かなや",
     "roma":"kanaya"
   },
-  "583":{
-    "code":"583",
-    "name":"牧之原",
-    "kana":"マキノハラ",
-    "hira":"まきのはら",
-    "roma":"makinohara"
-  },
   "584":{
     "code":"584",
     "name":"五和",
     "kana":"ゴカ",
     "hira":"ごか",
     "roma":"goka"
-  },
-  "587":{
-    "code":"587",
-    "name":"川根",
-    "kana":"カワネ",
-    "hira":"かわね",
-    "roma":"kawane"
   },
   "588":{
     "code":"588",
