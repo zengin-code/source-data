@@ -139,13 +139,6 @@
     "hira":"つくだ",
     "roma":"tsukuda"
   },
-  "123":{
-    "code":"123",
-    "name":"新城出張所",
-    "kana":"シンジヨウ",
-    "hira":"しんじよう",
-    "roma":"shinjiyou"
-  },
   "127":{
     "code":"127",
     "name":"松原通り",
@@ -369,13 +362,6 @@
     "kana":"ハチノヘエキマエ",
     "hira":"はちのへえきまえ",
     "roma":"hachinoheekimae"
-  },
-  "323":{
-    "code":"323",
-    "name":"八戸ニュータウン",
-    "kana":"ハチノヘニユ－タウン",
-    "hira":"はちのへにゆ－たうん",
-    "roma":"hachinoheniyu-taun"
   },
   "401":{
     "code":"401",

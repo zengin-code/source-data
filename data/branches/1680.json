@@ -173,5 +173,12 @@
     "kana":"キタノホウジン",
     "hira":"きたのほうじん",
     "roma":"kitanohoujin"
+  },
+  "030":{
+    "code":"030",
+    "name":"法人営業部",
+    "kana":"ホウジン",
+    "hira":"ほうじん",
+    "roma":"houjin"
   }
 }

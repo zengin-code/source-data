@@ -20,13 +20,6 @@
     "hira":"こいえきまえ",
     "roma":"koiekimae"
   },
-  "106":{
-    "code":"106",
-    "name":"江波",
-    "kana":"エバ",
-    "hira":"えば",
-    "roma":"eba"
-  },
   "107":{
     "code":"107",
     "name":"横川",
@@ -40,13 +33,6 @@
     "kana":"シノノメ",
     "hira":"しののめ",
     "roma":"shinonome"
-  },
-  "110":{
-    "code":"110",
-    "name":"青崎",
-    "kana":"アオサキ",
-    "hira":"あおさき",
-    "roma":"aosaki"
   },
   "111":{
     "code":"111",
@@ -97,13 +83,6 @@
     "hira":"へさか",
     "roma":"hesaka"
   },
-  "125":{
-    "code":"125",
-    "name":"井口",
-    "kana":"イノクチ",
-    "hira":"いのくち",
-    "roma":"inokuchi"
-  },
   "190":{
     "code":"190",
     "name":"矢野",
@@ -139,33 +118,12 @@
     "hira":"こうち",
     "roma":"kouchi"
   },
-  "208":{
-    "code":"208",
-    "name":"海老",
-    "kana":"カイロウ",
-    "hira":"かいろう",
-    "roma":"kairou"
-  },
   "210":{
     "code":"210",
     "name":"砂谷",
     "kana":"サゴタニ",
     "hira":"さごたに",
     "roma":"sagotani"
-  },
-  "211":{
-    "code":"211",
-    "name":"水内",
-    "kana":"ミノチ",
-    "hira":"みのち",
-    "roma":"minochi"
-  },
-  "255":{
-    "code":"255",
-    "name":"長束",
-    "kana":"ナガツカ",
-    "hira":"ながつか",
-    "roma":"nagatsuka"
   },
   "256":{
     "code":"256",
@@ -279,13 +237,6 @@
     "hira":"おちあい",
     "roma":"ochiai"
   },
-  "304":{
-    "code":"304",
-    "name":"口田",
-    "kana":"クチタ",
-    "hira":"くちた",
-    "roma":"kuchita"
-  },
   "306":{
     "code":"306",
     "name":"加計",
@@ -307,13 +258,6 @@
     "hira":"げいほく",
     "roma":"geihoku"
   },
-  "343":{
-    "code":"343",
-    "name":"久保角",
-    "kana":"クボスミ",
-    "hira":"くぼすみ",
-    "roma":"kubosumi"
-  },
   "346":{
     "code":"346",
     "name":"豊平",
@@ -327,13 +271,6 @@
     "kana":"シラキ",
     "hira":"しらき",
     "roma":"shiraki"
-  },
-  "377":{
-    "code":"377",
-    "name":"井原",
-    "kana":"イバラ",
-    "hira":"いばら",
-    "roma":"ibara"
   },
   "379":{
     "code":"379",

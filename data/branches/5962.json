@@ -43,17 +43,10 @@
   },
   "013":{
     "code":"013",
-    "name":"国府",
-    "kana":"コクフ",
-    "hira":"こくふ",
-    "roma":"kokufu"
-  },
-  "014":{
-    "code":"014",
-    "name":"中海",
-    "kana":"ナカウミ",
-    "hira":"なかうみ",
-    "roma":"nakaumi"
+    "name":"ひがし",
+    "kana":"ヒガシ",
+    "hira":"ひがし",
+    "roma":"higashi"
   },
   "017":{
     "code":"017",
