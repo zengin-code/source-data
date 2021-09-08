@@ -76,13 +76,6 @@
     "hira":"いいざかひがし",
     "roma":"iizakahigashi"
   },
-  "028":{
-    "code":"028",
-    "name":"茂庭",
-    "kana":"モニワ",
-    "hira":"もにわ",
-    "roma":"moniwa"
-  },
   "029":{
     "code":"029",
     "name":"庭坂",
@@ -117,13 +110,6 @@
     "kana":"カワマタ",
     "hira":"かわまた",
     "roma":"kawamata"
-  },
-  "039":{
-    "code":"039",
-    "name":"山木屋",
-    "kana":"ヤマキヤ",
-    "hira":"やまきや",
-    "roma":"yamakiya"
   },
   "040":{
     "code":"040",

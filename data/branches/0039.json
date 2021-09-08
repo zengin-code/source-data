@@ -54,5 +54,40 @@
     "kana":"ムラサキ",
     "hira":"むらさき",
     "roma":"murasaki"
+  },
+  "108":{
+    "code":"108",
+    "name":"そら",
+    "kana":"ソラ",
+    "hira":"そら",
+    "roma":"sora"
+  },
+  "109":{
+    "code":"109",
+    "name":"みずうみ",
+    "kana":"ミズウミ",
+    "hira":"みずうみ",
+    "roma":"mizuumi"
+  },
+  "110":{
+    "code":"110",
+    "name":"だいち",
+    "kana":"ダイチ",
+    "hira":"だいち",
+    "roma":"daichi"
+  },
+  "111":{
+    "code":"111",
+    "name":"もり",
+    "kana":"モリ",
+    "hira":"もり",
+    "roma":"mori"
+  },
+  "112":{
+    "code":"112",
+    "name":"かわ",
+    "kana":"カワ",
+    "hira":"かわ",
+    "roma":"kawa"
   }
 }

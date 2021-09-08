@@ -5,33 +5,5 @@
     "kana":"ホンテン",
     "hira":"ほんてん",
     "roma":"honten"
-  },
-  "030":{
-    "code":"030",
-    "name":"豊浜",
-    "kana":"トヨハマ",
-    "hira":"とよはま",
-    "roma":"toyohama"
-  },
-  "040":{
-    "code":"040",
-    "name":"師崎",
-    "kana":"モロザキ",
-    "hira":"もろざき",
-    "roma":"morozaki"
-  },
-  "050":{
-    "code":"050",
-    "name":"篠島",
-    "kana":"シノジマ",
-    "hira":"しのじま",
-    "roma":"shinojima"
-  },
-  "060":{
-    "code":"060",
-    "name":"日間賀島",
-    "kana":"ヒマカジマ",
-    "hira":"ひまかじま",
-    "roma":"himakajima"
   }
 }
