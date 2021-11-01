@@ -17,12 +17,6 @@
   kana: シンジユク
   hira: しんじゆく
   roma: shinjiyuku
-'157':
-  code: '157'
-  name: ミッドタウン
-  kana: ミツドタウン
-  hira: みつどたうん
-  roma: mitsudotaun
 '160':
   code: '160'
   name: 大宮出張所
@@ -347,12 +341,6 @@
   kana: ヌマヅミナミ
   hira: ぬまづみなみ
   roma: numaduminami
-'647':
-  code: '647'
-  name: 沼津静浦
-  kana: ヌマヅシズウラ
-  hira: ぬまづしずうら
-  roma: numadushizuura
 '648':
   code: '648'
   name: 沼津青野
@@ -443,12 +431,6 @@
   kana: シユゼンジ
   hira: しゆぜんじ
   roma: shiyuzenji
-'682':
-  code: '682'
-  name: 伊豆中央
-  kana: イズチユウオウ
-  hira: いずちゆうおう
-  roma: izuchiyuuou
 '683':
   code: '683'
   name: 伊豆長岡

@@ -20,19 +20,12 @@
     "hira":"あたがわ",
     "roma":"atagawa"
   },
-  "102":{
-    "code":"102",
-    "name":"稲梓",
-    "kana":"イナズサ",
-    "hira":"いなずさ",
-    "roma":"inazusa"
-  },
   "103":{
     "code":"103",
-    "name":"稲生沢",
-    "kana":"イノウザワ",
-    "hira":"いのうざわ",
-    "roma":"inouzawa"
+    "name":"下田北",
+    "kana":"シモダキタ",
+    "hira":"しもだきた",
+    "roma":"shimodakita"
   },
   "104":{
     "code":"104",

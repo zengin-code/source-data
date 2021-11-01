@@ -54,5 +54,19 @@
     "kana":"ゴ－ルデンゲ－ト",
     "hira":"ご－るでんげ－と",
     "roma":"go-rudenge-to"
+  },
+  "201":{
+    "code":"201",
+    "name":"ピクシブ",
+    "kana":"ピクシブ",
+    "hira":"ぴくしぶ",
+    "roma":"pikushibu"
+  },
+  "202":{
+    "code":"202",
+    "name":"テンプスタッフ",
+    "kana":"テンプスタツフ",
+    "hira":"てんぷすたつふ",
+    "roma":"tempusutatsufu"
   }
 }

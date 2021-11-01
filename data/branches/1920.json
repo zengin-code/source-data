@@ -103,5 +103,12 @@
     "kana":"クウコウヒガシ",
     "hira":"くうこうひがし",
     "roma":"kuukouhigashi"
+  },
+  "050":{
+    "code":"050",
+    "name":"おんしんネット",
+    "kana":"オンシンネツト",
+    "hira":"おんしんねつと",
+    "roma":"onshinnetsuto"
   }
 }

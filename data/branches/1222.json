@@ -41,13 +41,6 @@
     "hira":"えきまえ",
     "roma":"ekimae"
   },
-  "008":{
-    "code":"008",
-    "name":"西",
-    "kana":"ニシ",
-    "hira":"にし",
-    "roma":"nishi"
-  },
   "009":{
     "code":"009",
     "name":"都賀",
@@ -76,26 +69,12 @@
     "hira":"さのみなみ",
     "roma":"sanominami"
   },
-  "018":{
-    "code":"018",
-    "name":"壬生",
-    "kana":"ミブ",
-    "hira":"みぶ",
-    "roma":"mibu"
-  },
   "020":{
     "code":"020",
     "name":"宇都宮営業部",
     "kana":"ウツノミヤ",
     "hira":"うつのみや",
     "roma":"utsunomiya"
-  },
-  "021":{
-    "code":"021",
-    "name":"馬場通り",
-    "kana":"ババドオリ",
-    "hira":"ばばどおり",
-    "roma":"babadoori"
   },
   "022":{
     "code":"022",

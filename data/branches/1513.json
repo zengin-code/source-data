@@ -237,13 +237,6 @@
     "hira":"さがら",
     "roma":"sagara"
   },
-  "112":{
-    "code":"112",
-    "name":"御前崎西",
-    "kana":"オマエザキニシ",
-    "hira":"おまえざきにし",
-    "roma":"omaezakinishi"
-  },
   "113":{
     "code":"113",
     "name":"神戸",
@@ -306,13 +299,6 @@
     "kana":"カケガワエキマエ",
     "hira":"かけがわえきまえ",
     "roma":"kakegawaekimae"
-  },
-  "127":{
-    "code":"127",
-    "name":"菊川駅前",
-    "kana":"キクガワエキマエ",
-    "hira":"きくがわえきまえ",
-    "roma":"kikugawaekimae"
   },
   "128":{
     "code":"128",

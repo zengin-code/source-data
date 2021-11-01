@@ -121,22 +121,16 @@
   roma: hashihama
 '035':
   code: '035'
-  name: 喜田村
-  kana: キタムラ
-  hira: きたむら
-  roma: kitamura
+  name: 今治南
+  kana: イマバリミナミ
+  hira: いまばりみなみ
+  roma: imabariminami
 '037':
   code: '037'
   name: 今治立花
   kana: イマバリタチバナ
   hira: いまばりたちばな
   roma: imabaritachibana
-'041':
-  code: '041'
-  name: 土居田
-  kana: ドイダ
-  hira: どいだ
-  roma: doida
 '042':
   code: '042'
   name: 宮西
