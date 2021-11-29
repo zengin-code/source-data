@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "002":{
-    "code":"002",
-    "name":"巻",
-    "kana":"マキ",
-    "hira":"まき",
-    "roma":"maki"
-  },
   "006":{
     "code":"006",
     "name":"こしわ",
@@ -55,20 +48,6 @@
     "hira":"くろさき",
     "roma":"kurosaki"
   },
-  "021":{
-    "code":"021",
-    "name":"鳥原",
-    "kana":"トツパラ",
-    "hira":"とつぱら",
-    "roma":"totsupara"
-  },
-  "023":{
-    "code":"023",
-    "name":"味方",
-    "kana":"アジカタ",
-    "hira":"あじかた",
-    "roma":"ajikata"
-  },
   "024":{
     "code":"024",
     "name":"中央",
@@ -96,12 +75,5 @@
     "kana":"ツバメ",
     "hira":"つばめ",
     "roma":"tsubame"
-  },
-  "030":{
-    "code":"030",
-    "name":"北",
-    "kana":"キタ",
-    "hira":"きた",
-    "roma":"kita"
   }
 }

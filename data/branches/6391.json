@@ -34,20 +34,6 @@
     "hira":"やまなし",
     "roma":"yamanashi"
   },
-  "010":{
-    "code":"010",
-    "name":"袋井西",
-    "kana":"フクロイニシ",
-    "hira":"ふくろいにし",
-    "roma":"fukuroinishi"
-  },
-  "015":{
-    "code":"015",
-    "name":"飯田",
-    "kana":"イイダ",
-    "hira":"いいだ",
-    "roma":"iida"
-  },
   "016":{
     "code":"016",
     "name":"園田",
@@ -62,26 +48,12 @@
     "hira":"もり",
     "roma":"mori"
   },
-  "020":{
-    "code":"020",
-    "name":"天方",
-    "kana":"アマガタ",
-    "hira":"あまがた",
-    "roma":"amagata"
-  },
   "023":{
     "code":"023",
     "name":"春野",
     "kana":"ハルノ",
     "hira":"はるの",
     "roma":"haruno"
-  },
-  "024":{
-    "code":"024",
-    "name":"犬居",
-    "kana":"イヌイ",
-    "hira":"いぬい",
-    "roma":"inui"
   },
   "029":{
     "code":"029",
@@ -153,13 +125,6 @@
     "hira":"とよはま",
     "roma":"toyohama"
   },
-  "054":{
-    "code":"054",
-    "name":"福田南",
-    "kana":"フクデミナミ",
-    "hira":"ふくでみなみ",
-    "roma":"fukudeminami"
-  },
   "057":{
     "code":"057",
     "name":"竜洋",
@@ -216,13 +181,6 @@
     "hira":"しもあたご",
     "roma":"shimoatago"
   },
-  "076":{
-    "code":"076",
-    "name":"竜山",
-    "kana":"タツヤマ",
-    "hira":"たつやま",
-    "roma":"tatsuyama"
-  },
   "077":{
     "code":"077",
     "name":"豊岡",
@@ -236,13 +194,6 @@
     "kana":"タツカワ",
     "hira":"たつかわ",
     "roma":"tatsukawa"
-  },
-  "089":{
-    "code":"089",
-    "name":"浦川",
-    "kana":"ウラカワ",
-    "hira":"うらかわ",
-    "roma":"urakawa"
   },
   "090":{
     "code":"090",

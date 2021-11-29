@@ -194,5 +194,12 @@
     "kana":"ウエホンマチ",
     "hira":"うえほんまち",
     "roma":"uehommachi"
+  },
+  "030":{
+    "code":"030",
+    "name":"阪急茨木",
+    "kana":"ハンキユウイバラキ",
+    "hira":"はんきゆういばらき",
+    "roma":"hankiyuuibaraki"
   }
 }

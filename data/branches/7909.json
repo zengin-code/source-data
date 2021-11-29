@@ -34,20 +34,6 @@
     "hira":"しののめ",
     "roma":"shinonome"
   },
-  "111":{
-    "code":"111",
-    "name":"牛田",
-    "kana":"ウシタ",
-    "hira":"うした",
-    "roma":"ushita"
-  },
-  "112":{
-    "code":"112",
-    "name":"似島",
-    "kana":"ニノシマ",
-    "hira":"にのしま",
-    "roma":"ninoshima"
-  },
   "115":{
     "code":"115",
     "name":"温品",
@@ -146,26 +132,12 @@
     "hira":"やす",
     "roma":"yasu"
   },
-  "264":{
-    "code":"264",
-    "name":"大須",
-    "kana":"オオヅ",
-    "hira":"おおづ",
-    "roma":"oodu"
-  },
   "266":{
     "code":"266",
     "name":"伴",
     "kana":"トモ",
     "hira":"とも",
     "roma":"tomo"
-  },
-  "271":{
-    "code":"271",
-    "name":"戸山",
-    "kana":"トヤマ",
-    "hira":"とやま",
-    "roma":"toyama"
   },
   "275":{
     "code":"275",
@@ -194,20 +166,6 @@
     "kana":"アサ",
     "hira":"あさ",
     "roma":"asa"
-  },
-  "294":{
-    "code":"294",
-    "name":"三入",
-    "kana":"ミイリ",
-    "hira":"みいり",
-    "roma":"miiri"
-  },
-  "295":{
-    "code":"295",
-    "name":"亀山",
-    "kana":"カメヤマ",
-    "hira":"かめやま",
-    "roma":"kameyama"
   },
   "297":{
     "code":"297",
@@ -278,20 +236,6 @@
     "kana":"ミタ",
     "hira":"みた",
     "roma":"mita"
-  },
-  "792":{
-    "code":"792",
-    "name":"あさひが丘",
-    "kana":"アサヒガオカ",
-    "hira":"あさひがおか",
-    "roma":"asahigaoka"
-  },
-  "802":{
-    "code":"802",
-    "name":"久地南",
-    "kana":"クチミナミ",
-    "hira":"くちみなみ",
-    "roma":"kuchiminami"
   },
   "824":{
     "code":"824",

@@ -41,13 +41,6 @@
     "hira":"くろほねあずま",
     "roma":"kurohoneazuma"
   },
-  "011":{
-    "code":"011",
-    "name":"木崎",
-    "kana":"キザキ",
-    "hira":"きざき",
-    "roma":"kizaki"
-  },
   "012":{
     "code":"012",
     "name":"生品",
@@ -68,12 +61,5 @@
     "kana":"オジマ",
     "hira":"おじま",
     "roma":"ojima"
-  },
-  "015":{
-    "code":"015",
-    "name":"世良田",
-    "kana":"セラダ",
-    "hira":"せらだ",
-    "roma":"serada"
   }
 }

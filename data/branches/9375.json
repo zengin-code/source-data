@@ -505,10 +505,10 @@
   },
   "701":{
     "code":"701",
-    "name":"平良",
-    "kana":"ヒララ",
-    "hira":"ひらら",
-    "roma":"hirara"
+    "name":"宮古島",
+    "kana":"ミヤコジマ",
+    "hira":"みやこじま",
+    "roma":"miyakojima"
   },
   "702":{
     "code":"702",
@@ -517,40 +517,12 @@
     "hira":"ぐすくべ",
     "roma":"gusukube"
   },
-  "703":{
-    "code":"703",
-    "name":"上野",
-    "kana":"ウエノ",
-    "hira":"うえの",
-    "roma":"ueno"
-  },
   "704":{
     "code":"704",
     "name":"多良間",
     "kana":"タラマ",
     "hira":"たらま",
     "roma":"tarama"
-  },
-  "709":{
-    "code":"709",
-    "name":"宮古",
-    "kana":"ミヤコ",
-    "hira":"みやこ",
-    "roma":"miyako"
-  },
-  "719":{
-    "code":"719",
-    "name":"下地",
-    "kana":"シモヂ",
-    "hira":"しもぢ",
-    "roma":"shimodi"
-  },
-  "729":{
-    "code":"729",
-    "name":"伊良部",
-    "kana":"イラブ",
-    "hira":"いらぶ",
-    "roma":"irabu"
   },
   "749":{
     "code":"749",

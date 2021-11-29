@@ -76,13 +76,6 @@
     "hira":"にのみや",
     "roma":"ninomiya"
   },
-  "021":{
-    "code":"021",
-    "name":"大名町",
-    "kana":"ダイミヨウマチ",
-    "hira":"だいみようまち",
-    "roma":"daimiyoumachi"
-  },
   "022":{
     "code":"022",
     "name":"志比口",
@@ -173,13 +166,6 @@
     "kana":"カワニシ",
     "hira":"かわにし",
     "roma":"kawanishi"
-  },
-  "123":{
-    "code":"123",
-    "name":"雄島",
-    "kana":"オシマ",
-    "hira":"おしま",
-    "roma":"oshima"
   },
   "125":{
     "code":"125",

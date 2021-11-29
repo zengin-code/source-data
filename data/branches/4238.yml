@@ -7,10 +7,10 @@
   roma: honten
 '002':
   code: '002'
-  name: 緑岡
-  kana: ミドリオカ
-  hira: みどりおか
-  roma: midorioka
+  name: 千波
+  kana: センバ
+  hira: せんば
+  roma: semba
 '004':
   code: '004'
   name: 上中妻
@@ -23,12 +23,6 @@
   kana: ワタリ
   hira: わたり
   roma: watari
-'012':
-  code: '012'
-  name: 酒門
-  kana: サカド
-  hira: さかど
-  roma: sakado
 '018':
   code: '018'
   name: いばらき

@@ -225,17 +225,17 @@
   },
   "530":{
     "code":"530",
-    "name":"静岡",
-    "kana":"シズオカ",
-    "hira":"しずおか",
-    "roma":"shizuoka"
+    "name":"東京第五",
+    "kana":"トウキヨウダイゴ",
+    "hira":"とうきようだいご",
+    "roma":"toukiyoudaigo"
   },
   "540":{
     "code":"540",
-    "name":"浜松",
-    "kana":"ハママツ",
-    "hira":"はままつ",
-    "roma":"hamamatsu"
+    "name":"東京第四",
+    "kana":"トウキヨウダイヨン",
+    "hira":"とうきようだいよん",
+    "roma":"toukiyoudaiyon"
   },
   "550":{
     "code":"550",

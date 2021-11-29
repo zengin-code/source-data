@@ -41,13 +41,6 @@
     "hira":"にじゆうさんにちまち",
     "roma":"nijiyuusannichimachi"
   },
-  "008":{
-    "code":"008",
-    "name":"五戸",
-    "kana":"ゴノヘ",
-    "hira":"ごのへ",
-    "roma":"gonohe"
-  },
   "010":{
     "code":"010",
     "name":"八戸桔梗野",
@@ -174,13 +167,6 @@
     "hira":"ふるかわ",
     "roma":"furukawa"
   },
-  "043":{
-    "code":"043",
-    "name":"筒井",
-    "kana":"ツツイ",
-    "hira":"つつい",
-    "roma":"tsutsui"
-  },
   "044":{
     "code":"044",
     "name":"浪岡",
@@ -285,13 +271,6 @@
     "kana":"カナギ",
     "hira":"かなぎ",
     "roma":"kanagi"
-  },
-  "069":{
-    "code":"069",
-    "name":"鰺ケ沢",
-    "kana":"アジガサワ",
-    "hira":"あじがさわ",
-    "roma":"ajigasawa"
   },
   "072":{
     "code":"072",

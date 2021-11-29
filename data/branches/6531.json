@@ -34,19 +34,12 @@
     "hira":"さわやか",
     "roma":"sawayaka"
   },
-  "189":{
-    "code":"189",
-    "name":"常滑南部",
-    "kana":"トコナメナンブ",
-    "hira":"とこなめなんぶ",
-    "roma":"tokonamenambu"
-  },
   "201":{
     "code":"201",
-    "name":"ふれあい",
-    "kana":"フレアイ",
-    "hira":"ふれあい",
-    "roma":"fureai"
+    "name":"常滑南",
+    "kana":"トコナメミナミ",
+    "hira":"とこなめみなみ",
+    "roma":"tokonameminami"
   },
   "227":{
     "code":"227",
@@ -369,12 +362,5 @@
     "kana":"ダイコウジ",
     "hira":"だいこうじ",
     "roma":"daikouji"
-  },
-  "987":{
-    "code":"987",
-    "name":"日長",
-    "kana":"ヒナガ",
-    "hira":"ひなが",
-    "roma":"hinaga"
   }
 }

@@ -13,13 +13,6 @@
     "hira":"いちかわ",
     "roma":"ichikawa"
   },
-  "007":{
-    "code":"007",
-    "name":"上野",
-    "kana":"ウエノ",
-    "hira":"うえの",
-    "roma":"ueno"
-  },
   "012":{
     "code":"012",
     "name":"六郷",
@@ -27,33 +20,12 @@
     "hira":"ろくごう",
     "roma":"rokugou"
   },
-  "102":{
-    "code":"102",
-    "name":"増穂",
-    "kana":"マスホ",
-    "hira":"ますほ",
-    "roma":"masuho"
-  },
   "103":{
     "code":"103",
     "name":"青柳",
     "kana":"アオヤギ",
     "hira":"あおやぎ",
     "roma":"aoyagi"
-  },
-  "106":{
-    "code":"106",
-    "name":"鰍沢",
-    "kana":"カジカザワ",
-    "hira":"かじかざわ",
-    "roma":"kajikazawa"
-  },
-  "108":{
-    "code":"108",
-    "name":"中富",
-    "kana":"ナカトミ",
-    "hira":"なかとみ",
-    "roma":"nakatomi"
   },
   "111":{
     "code":"111",
@@ -68,20 +40,6 @@
     "kana":"サカエ",
     "hira":"さかえ",
     "roma":"sakae"
-  },
-  "113":{
-    "code":"113",
-    "name":"南部",
-    "kana":"ナンブ",
-    "hira":"なんぶ",
-    "roma":"nambu"
-  },
-  "116":{
-    "code":"116",
-    "name":"富沢",
-    "kana":"トミサワ",
-    "hira":"とみさわ",
-    "roma":"tomisawa"
   },
   "202":{
     "code":"202",

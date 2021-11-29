@@ -167,6 +167,13 @@
     "hira":"ひがしあおた",
     "roma":"higashiaota"
   },
+  "150":{
+    "code":"150",
+    "name":"山形北営業部",
+    "kana":"ヤマガタキタ",
+    "hira":"やまがたきた",
+    "roma":"yamagatakita"
+  },
   "221":{
     "code":"221",
     "name":"米沢",
@@ -264,6 +271,13 @@
     "kana":"カナイケ",
     "hira":"かないけ",
     "roma":"kanaike"
+  },
+  "240":{
+    "code":"240",
+    "name":"南陽",
+    "kana":"ナンヨウ",
+    "hira":"なんよう",
+    "roma":"nanyou"
   },
   "337":{
     "code":"337",
