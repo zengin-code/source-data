@@ -8,17 +8,10 @@
   },
   "002":{
     "code":"002",
-    "name":"古井",
-    "kana":"コビ",
-    "hira":"こび",
-    "roma":"kobi"
-  },
-  "003":{
-    "code":"003",
-    "name":"山之上",
-    "kana":"ヤマノウエ",
-    "hira":"やまのうえ",
-    "roma":"yamanoue"
+    "name":"みのかも東",
+    "kana":"ミノカモヒガシ",
+    "hira":"みのかもひがし",
+    "roma":"minokamohigashi"
   },
   "004":{
     "code":"004",
@@ -33,13 +26,6 @@
     "kana":"カモノ",
     "hira":"かもの",
     "roma":"kamono"
-  },
-  "008":{
-    "code":"008",
-    "name":"下米田",
-    "kana":"シモヨネダ",
-    "hira":"しもよねだ",
-    "roma":"shimoyoneda"
   },
   "010":{
     "code":"010",

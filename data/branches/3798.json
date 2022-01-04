@@ -20,19 +20,12 @@
     "hira":"いかわ",
     "roma":"ikawa"
   },
-  "009":{
-    "code":"009",
-    "name":"飯田川",
-    "kana":"イイタガワ",
-    "hira":"いいたがわ",
-    "roma":"iitagawa"
-  },
   "010":{
     "code":"010",
-    "name":"昭和",
-    "kana":"シヨウワ",
-    "hira":"しようわ",
-    "roma":"shiyouwa"
+    "name":"潟上",
+    "kana":"カタガミ",
+    "hira":"かたがみ",
+    "roma":"katagami"
   },
   "011":{
     "code":"011",

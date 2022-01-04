@@ -11,12 +11,6 @@
   kana: トミオカニシ
   hira: とみおかにし
   roma: tomiokanishi
-'005':
-  code: '005'
-  name: かぶら
-  kana: カブラ
-  hira: かぶら
-  roma: kabura
 '007':
   code: '007'
   name: 富岡南
@@ -35,12 +29,6 @@
   kana: ミヨウギ
   hira: みようぎ
   roma: miyougi
-'016':
-  code: '016'
-  name: 西牧出張所
-  kana: サイモク
-  hira: さいもく
-  roma: saimoku
 '017':
   code: '017'
   name: 下仁田

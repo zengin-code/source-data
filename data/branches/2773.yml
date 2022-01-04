@@ -23,12 +23,6 @@
   kana: フクマ
   hira: ふくま
   roma: fukuma
-'010':
-  code: '010'
-  name: 古賀
-  kana: コガ
-  hira: こが
-  roma: koga
 '011':
   code: '011'
   name: 清川
@@ -167,12 +161,6 @@
   kana: ドイ
   hira: どい
   roma: doi
-'119':
-  code: '119'
-  name: 和白出張所
-  kana: ワジロ
-  hira: わじろ
-  roma: wajiro
 '120':
   code: '120'
   name: 新宮

@@ -48,27 +48,6 @@
     "hira":"りゆうおう",
     "roma":"riyuuou"
   },
-  "203":{
-    "code":"203",
-    "name":"玉幡",
-    "kana":"タマハタ",
-    "hira":"たまはた",
-    "roma":"tamahata"
-  },
-  "206":{
-    "code":"206",
-    "name":"敷島",
-    "kana":"シキシマ",
-    "hira":"しきしま",
-    "roma":"shikishima"
-  },
-  "208":{
-    "code":"208",
-    "name":"玉穂",
-    "kana":"タマホ",
-    "hira":"たまほ",
-    "roma":"tamaho"
-  },
   "210":{
     "code":"210",
     "name":"昭和",
@@ -76,40 +55,12 @@
     "hira":"しようわ",
     "roma":"shiyouwa"
   },
-  "213":{
-    "code":"213",
-    "name":"田富",
-    "kana":"タトミ",
-    "hira":"たとみ",
-    "roma":"tatomi"
-  },
   "302":{
     "code":"302",
     "name":"山城",
     "kana":"ヤマシロ",
     "hira":"やましろ",
     "roma":"yamashiro"
-  },
-  "303":{
-    "code":"303",
-    "name":"大鎌田",
-    "kana":"オオカマタ",
-    "hira":"おおかまた",
-    "roma":"ookamata"
-  },
-  "306":{
-    "code":"306",
-    "name":"玉諸",
-    "kana":"タマモロ",
-    "hira":"たまもろ",
-    "roma":"tamamoro"
-  },
-  "309":{
-    "code":"309",
-    "name":"千塚",
-    "kana":"チヅカ",
-    "hira":"ちづか",
-    "roma":"chiduka"
   },
   "311":{
     "code":"311",

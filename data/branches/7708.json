@@ -580,20 +580,6 @@
     "hira":"さくらえ",
     "roma":"sakurae"
   },
-  "700":{
-    "code":"700",
-    "name":"島根おおち",
-    "kana":"シマネオオチ",
-    "hira":"しまねおおち",
-    "roma":"shimaneoochi"
-  },
-  "730":{
-    "code":"730",
-    "name":"いわみ中央",
-    "kana":"イワミチユウオウ",
-    "hira":"いわみちゆうおう",
-    "roma":"iwamichiyuuou"
-  },
   "731":{
     "code":"731",
     "name":"浜田",
@@ -754,13 +740,6 @@
     "kana":"ムイカイチ",
     "hira":"むいかいち",
     "roma":"muikaichi"
-  },
-  "833":{
-    "code":"833",
-    "name":"西いわみ",
-    "kana":"ニシイワミ",
-    "hira":"にしいわみ",
-    "roma":"nishiiwami"
   },
   "900":{
     "code":"900",
