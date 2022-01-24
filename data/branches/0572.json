@@ -650,20 +650,6 @@
     "hira":"さやま",
     "roma":"sayama"
   },
-  "157":{
-    "code":"157",
-    "name":"守口出張所",
-    "kana":"モリグチ",
-    "hira":"もりぐち",
-    "roma":"moriguchi"
-  },
-  "158":{
-    "code":"158",
-    "name":"大和田出張所",
-    "kana":"オオワダ",
-    "hira":"おおわだ",
-    "roma":"oowada"
-  },
   "159":{
     "code":"159",
     "name":"大阪北",
@@ -719,20 +705,6 @@
     "kana":"イナノ",
     "hira":"いなの",
     "roma":"inano"
-  },
-  "194":{
-    "code":"194",
-    "name":"六甲出張所",
-    "kana":"ロツコウ",
-    "hira":"ろつこう",
-    "roma":"rotsukou"
-  },
-  "195":{
-    "code":"195",
-    "name":"雲雀丘花屋敷",
-    "kana":"ヒバリガオカハナヤシキ",
-    "hira":"ひばりがおかはなやしき",
-    "roma":"hibarigaokahanayashiki"
   },
   "199":{
     "code":"199",

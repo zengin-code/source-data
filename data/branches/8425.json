@@ -244,13 +244,6 @@
     "hira":"かわかみ",
     "roma":"kawakami"
   },
-  "043":{
-    "code":"043",
-    "name":"明神",
-    "kana":"ミヨウジン",
-    "hira":"みようじん",
-    "roma":"miyoujin"
-  },
   "044":{
     "code":"044",
     "name":"久万",
@@ -258,40 +251,12 @@
     "hira":"くま",
     "roma":"kuma"
   },
-  "045":{
-    "code":"045",
-    "name":"父二峰",
-    "kana":"フジミネ",
-    "hira":"ふじみね",
-    "roma":"fujimine"
-  },
-  "046":{
-    "code":"046",
-    "name":"畑野川",
-    "kana":"ハタノカワ",
-    "hira":"はたのかわ",
-    "roma":"hatanokawa"
-  },
-  "047":{
-    "code":"047",
-    "name":"直瀬",
-    "kana":"ナオセ",
-    "hira":"なおせ",
-    "roma":"naose"
-  },
   "050":{
     "code":"050",
     "name":"御三戸",
     "kana":"ミミド",
     "hira":"みみど",
     "roma":"mimido"
-  },
-  "051":{
-    "code":"051",
-    "name":"柳谷",
-    "kana":"ヤナダニ",
-    "hira":"やなだに",
-    "roma":"yanadani"
   },
   "052":{
     "code":"052",
