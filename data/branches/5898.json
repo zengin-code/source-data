@@ -6,26 +6,12 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "244":{
-    "code":"244",
-    "name":"東部",
-    "kana":"トウブ",
-    "hira":"とうぶ",
-    "roma":"toubu"
-  },
-  "248":{
-    "code":"248",
-    "name":"北部",
-    "kana":"ホクブ",
-    "hira":"ほくぶ",
-    "roma":"hokubu"
-  },
   "249":{
     "code":"249",
-    "name":"中部",
-    "kana":"チユウブ",
-    "hira":"ちゆうぶ",
-    "roma":"chiyuubu"
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
   },
   "251":{
     "code":"251",

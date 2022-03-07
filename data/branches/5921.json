@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "602":{
-    "code":"602",
-    "name":"出町",
-    "kana":"デマチ",
-    "hira":"でまち",
-    "roma":"demachi"
-  },
   "603":{
     "code":"603",
     "name":"庄西",
@@ -34,13 +27,6 @@
     "hira":"ほくぶ",
     "roma":"hokubu"
   },
-  "611":{
-    "code":"611",
-    "name":"油田",
-    "kana":"アブラデン",
-    "hira":"あぶらでん",
-    "roma":"aburaden"
-  },
   "615":{
     "code":"615",
     "name":"庄東",
@@ -61,13 +47,6 @@
     "kana":"シヨウガワ",
     "hira":"しようがわ",
     "roma":"shiyougawa"
-  },
-  "657":{
-    "code":"657",
-    "name":"井波本町",
-    "kana":"イナミホンマチ",
-    "hira":"いなみほんまち",
-    "roma":"inamihommachi"
   },
   "665":{
     "code":"665",

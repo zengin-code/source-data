@@ -13,33 +13,12 @@
     "hira":"ちゆうおうかしわざき",
     "roma":"chiyuuoukashiwazaki"
   },
-  "013":{
-    "code":"013",
-    "name":"南部高田",
-    "kana":"ナンブタカダ",
-    "hira":"なんぶたかだ",
-    "roma":"nambutakada"
-  },
   "014":{
     "code":"014",
     "name":"東部田尻",
     "kana":"トウブタジリ",
     "hira":"とうぶたじり",
     "roma":"toubutajiri"
-  },
-  "016":{
-    "code":"016",
-    "name":"北部西中通",
-    "kana":"ホクブニシナカドオリ",
-    "hira":"ほくぶにしなかどおり",
-    "roma":"hokubunishinakadoori"
-  },
-  "030":{
-    "code":"030",
-    "name":"高柳",
-    "kana":"タカヤナギ",
-    "hira":"たかやなぎ",
-    "roma":"takayanagi"
   },
   "040":{
     "code":"040",
@@ -54,12 +33,5 @@
     "kana":"カリワ",
     "hira":"かりわ",
     "roma":"kariwa"
-  },
-  "060":{
-    "code":"060",
-    "name":"西山",
-    "kana":"ニシヤマ",
-    "hira":"にしやま",
-    "roma":"nishiyama"
   }
 }

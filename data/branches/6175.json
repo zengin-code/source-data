@@ -181,20 +181,6 @@
     "hira":"いしづ",
     "roma":"ishidu"
   },
-  "054":{
-    "code":"054",
-    "name":"広幡",
-    "kana":"ヒロハタ",
-    "hira":"ひろはた",
-    "roma":"hirohata"
-  },
-  "055":{
-    "code":"055",
-    "name":"上多度",
-    "kana":"カミタド",
-    "hira":"かみたど",
-    "roma":"kamitado"
-  },
   "058":{
     "code":"058",
     "name":"養老北",
@@ -211,17 +197,10 @@
   },
   "061":{
     "code":"061",
-    "name":"笠郷",
-    "kana":"カサゴウ",
-    "hira":"かさごう",
-    "roma":"kasagou"
-  },
-  "063":{
-    "code":"063",
-    "name":"池辺",
-    "kana":"イケベ",
-    "hira":"いけべ",
-    "roma":"ikebe"
+    "name":"養老南",
+    "kana":"ヨウロウミナミ",
+    "hira":"ようろうみなみ",
+    "roma":"yourouminami"
   },
   "064":{
     "code":"064",

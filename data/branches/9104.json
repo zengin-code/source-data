@@ -62,20 +62,6 @@
     "hira":"おおいた",
     "roma":"ooita"
   },
-  "271":{
-    "code":"271",
-    "name":"大分八幡",
-    "kana":"オオイタヤハタ",
-    "hira":"おおいたやはた",
-    "roma":"ooitayahata"
-  },
-  "272":{
-    "code":"272",
-    "name":"中央",
-    "kana":"チユウオウ",
-    "hira":"ちゆうおう",
-    "roma":"chiyuuou"
-  },
   "273":{
     "code":"273",
     "name":"城東",
@@ -96,20 +82,6 @@
     "kana":"ワサダ",
     "hira":"わさだ",
     "roma":"wasada"
-  },
-  "276":{
-    "code":"276",
-    "name":"東稙田",
-    "kana":"ヒガシワサダ",
-    "hira":"ひがしわさだ",
-    "roma":"higashiwasada"
-  },
-  "277":{
-    "code":"277",
-    "name":"賀来東院",
-    "kana":"カクトイ",
-    "hira":"かくとい",
-    "roma":"kakutoi"
   },
   "278":{
     "code":"278",
@@ -138,20 +110,6 @@
     "kana":"シヨウナイ",
     "hira":"しようない",
     "roma":"shiyounai"
-  },
-  "341":{
-    "code":"341",
-    "name":"野津原",
-    "kana":"ノツハル",
-    "hira":"のつはる",
-    "roma":"notsuharu"
-  },
-  "342":{
-    "code":"342",
-    "name":"挾間",
-    "kana":"ハサマ",
-    "hira":"はさま",
-    "roma":"hasama"
   },
   "360":{
     "code":"360",
@@ -188,27 +146,6 @@
     "hira":"こすもす",
     "roma":"kosumosu"
   },
-  "474":{
-    "code":"474",
-    "name":"宇目",
-    "kana":"ウメ",
-    "hira":"うめ",
-    "roma":"ume"
-  },
-  "475":{
-    "code":"475",
-    "name":"鶴見",
-    "kana":"ツルミ",
-    "hira":"つるみ",
-    "roma":"tsurumi"
-  },
-  "476":{
-    "code":"476",
-    "name":"米水津",
-    "kana":"ヨノウヅ",
-    "hira":"よのうづ",
-    "roma":"yonoudu"
-  },
   "478":{
     "code":"478",
     "name":"蒲江",
@@ -237,26 +174,12 @@
     "hira":"のつ",
     "roma":"notsu"
   },
-  "521":{
-    "code":"521",
-    "name":"犬飼",
-    "kana":"イヌカイ",
-    "hira":"いぬかい",
-    "roma":"inukai"
-  },
   "522":{
     "code":"522",
     "name":"三重",
     "kana":"ミエ",
     "hira":"みえ",
     "roma":"mie"
-  },
-  "524":{
-    "code":"524",
-    "name":"千歳",
-    "kana":"チトセ",
-    "hira":"ちとせ",
-    "roma":"chitose"
   },
   "525":{
     "code":"525",
@@ -278,13 +201,6 @@
     "kana":"タケタ",
     "hira":"たけた",
     "roma":"taketa"
-  },
-  "541":{
-    "code":"541",
-    "name":"拝田原",
-    "kana":"ハイタバル",
-    "hira":"はいたばる",
-    "roma":"haitabaru"
   },
   "542":{
     "code":"542",
@@ -348,20 +264,6 @@
     "kana":"ホンヤバケイ",
     "hira":"ほんやばけい",
     "roma":"honyabakei"
-  },
-  "644":{
-    "code":"644",
-    "name":"三光",
-    "kana":"サンコウ",
-    "hira":"さんこう",
-    "roma":"sankou"
-  },
-  "645":{
-    "code":"645",
-    "name":"沖代",
-    "kana":"オキダイ",
-    "hira":"おきだい",
-    "roma":"okidai"
   },
   "670":{
     "code":"670",

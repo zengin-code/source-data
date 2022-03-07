@@ -48,26 +48,12 @@
     "hira":"いつかいち",
     "roma":"itsukaichi"
   },
-  "111":{
-    "code":"111",
-    "name":"宇部",
-    "kana":"ウベ",
-    "hira":"うべ",
-    "roma":"ube"
-  },
   "112":{
     "code":"112",
     "name":"下関",
     "kana":"シモノセキ",
     "hira":"しものせき",
     "roma":"shimonoseki"
-  },
-  "113":{
-    "code":"113",
-    "name":"岩国",
-    "kana":"イワクニ",
-    "hira":"いわくに",
-    "roma":"iwakuni"
   },
   "114":{
     "code":"114",

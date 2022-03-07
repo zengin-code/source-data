@@ -20,20 +20,6 @@
     "hira":"こおりもと",
     "roma":"koorimoto"
   },
-  "023":{
-    "code":"023",
-    "name":"下田",
-    "kana":"シモタ",
-    "hira":"しもた",
-    "roma":"shimota"
-  },
-  "024":{
-    "code":"024",
-    "name":"東桜島",
-    "kana":"ヒガシサクラジマ",
-    "hira":"ひがしさくらじま",
-    "roma":"higashisakurajima"
-  },
   "032":{
     "code":"032",
     "name":"田上",
@@ -54,13 +40,6 @@
     "kana":"ヨシノ",
     "hira":"よしの",
     "roma":"yoshino"
-  },
-  "035":{
-    "code":"035",
-    "name":"広木",
-    "kana":"ヒロキ",
-    "hira":"ひろき",
-    "roma":"hiroki"
   },
   "036":{
     "code":"036",

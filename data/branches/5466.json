@@ -1,24 +1,10 @@
 {
-  "001":{
-    "code":"001",
-    "name":"北穂高",
-    "kana":"キタホタカ",
-    "hira":"きたほたか",
-    "roma":"kitahotaka"
-  },
   "002":{
     "code":"002",
     "name":"穂高",
     "kana":"ホタカ",
     "hira":"ほたか",
     "roma":"hotaka"
-  },
-  "003":{
-    "code":"003",
-    "name":"西穂高",
-    "kana":"ニシホタカ",
-    "hira":"にしほたか",
-    "roma":"nishihotaka"
   },
   "004":{
     "code":"004",

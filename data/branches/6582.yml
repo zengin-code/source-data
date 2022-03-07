@@ -89,12 +89,6 @@
   kana: ヨシナカ
   hira: よしなか
   roma: yoshinaka
-'552':
-  code: '552'
-  name: 花園
-  kana: ハナゾノ
-  hira: はなぞの
-  roma: hanazono
 '561':
   code: '561'
   name: 駒場
@@ -173,12 +167,6 @@
   kana: ミヨシキタ
   hira: みよしきた
   roma: miyoshikita
-'854':
-  code: '854'
-  name: 三好西
-  kana: ミヨシニシ
-  hira: みよしにし
-  roma: miyoshinishi
 '862':
   code: '862'
   name: 藤岡
@@ -197,12 +185,6 @@
   kana: オバラ
   hira: おばら
   roma: obara
-'919':
-  code: '919'
-  name: 上仁木
-  kana: カミニギ
-  hira: かみにぎ
-  roma: kaminigi
 '935':
   code: '935'
   name: 足助

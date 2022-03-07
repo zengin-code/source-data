@@ -104,12 +104,33 @@
     "hira":"おうちばんく",
     "roma":"ouchibanku"
   },
+  "207":{
+    "code":"207",
+    "name":"イルカ",
+    "kana":"イルカ",
+    "hira":"いるか",
+    "roma":"iruka"
+  },
+  "208":{
+    "code":"208",
+    "name":"ＵＳＥＮ",
+    "kana":"ＵＳＥＮ",
+    "hira":"ＵＳＥＮ",
+    "roma":"usen"
+  },
   "301":{
     "code":"301",
     "name":"第一ビジネス営業部",
     "kana":"ダイイチビジネス",
     "hira":"だいいちびじねす",
     "roma":"daiichibijinesu"
+  },
+  "302":{
+    "code":"302",
+    "name":"ＵＳＥＮ法人",
+    "kana":"ＵＳＥＮホウジン",
+    "hira":"ＵＳＥＮほうじん",
+    "roma":"usenhoujin"
   },
   "401":{
     "code":"401",
