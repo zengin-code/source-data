@@ -20,20 +20,6 @@
     "hira":"あききた",
     "roma":"akikita"
   },
-  "104":{
-    "code":"104",
-    "name":"穴内出張所",
-    "kana":"アナナイ",
-    "hira":"あなない",
-    "roma":"ananai"
-  },
-  "105":{
-    "code":"105",
-    "name":"赤野出張所",
-    "kana":"アカノ",
-    "hira":"あかの",
-    "roma":"akano"
-  },
   "106":{
     "code":"106",
     "name":"東洋",
@@ -82,13 +68,6 @@
     "kana":"ヤスダ",
     "hira":"やすだ",
     "roma":"yasuda"
-  },
-  "113":{
-    "code":"113",
-    "name":"わじき出張所",
-    "kana":"ワジキ",
-    "hira":"わじき",
-    "roma":"wajiki"
   },
   "114":{
     "code":"114",
@@ -146,13 +125,6 @@
     "hira":"かがみ",
     "roma":"kagami"
   },
-  "301":{
-    "code":"301",
-    "name":"南国",
-    "kana":"ナンゴク",
-    "hira":"なんごく",
-    "roma":"nangoku"
-  },
   "302":{
     "code":"302",
     "name":"久礼田",
@@ -201,13 +173,6 @@
     "kana":"ナガオカ",
     "hira":"ながおか",
     "roma":"nagaoka"
-  },
-  "309":{
-    "code":"309",
-    "name":"ごめん出張所",
-    "kana":"ゴメン",
-    "hira":"ごめん",
-    "roma":"gomen"
   },
   "310":{
     "code":"310",
@@ -286,13 +251,6 @@
     "hira":"あがわ",
     "roma":"agawa"
   },
-  "503":{
-    "code":"503",
-    "name":"池川",
-    "kana":"イケガワ",
-    "hira":"いけがわ",
-    "roma":"ikegawa"
-  },
   "504":{
     "code":"504",
     "name":"吾北",
@@ -334,13 +292,6 @@
     "kana":"イノ",
     "hira":"いの",
     "roma":"ino"
-  },
-  "510":{
-    "code":"510",
-    "name":"枝川出張所",
-    "kana":"エダガワ",
-    "hira":"えだがわ",
-    "roma":"edagawa"
   },
   "511":{
     "code":"511",
@@ -405,40 +356,12 @@
     "hira":"なかむら",
     "roma":"nakamura"
   },
-  "702":{
-    "code":"702",
-    "name":"中村南部出張所",
-    "kana":"ナカムラナンブ",
-    "hira":"なかむらなんぶ",
-    "roma":"nakamuranambu"
-  },
-  "703":{
-    "code":"703",
-    "name":"中村東部出張所",
-    "kana":"ナカムラトウブ",
-    "hira":"なかむらとうぶ",
-    "roma":"nakamuratoubu"
-  },
-  "704":{
-    "code":"704",
-    "name":"中村北部出張所",
-    "kana":"ナカムラホクブ",
-    "hira":"なかむらほくぶ",
-    "roma":"nakamurahokubu"
-  },
   "705":{
     "code":"705",
     "name":"宿毛",
     "kana":"スクモ",
     "hira":"すくも",
     "roma":"sukumo"
-  },
-  "706":{
-    "code":"706",
-    "name":"宿毛東出張所",
-    "kana":"スクモヒガシ",
-    "hira":"すくもひがし",
-    "roma":"sukumohigashi"
   },
   "707":{
     "code":"707",
@@ -460,13 +383,6 @@
     "kana":"オオガタ",
     "hira":"おおがた",
     "roma":"oogata"
-  },
-  "710":{
-    "code":"710",
-    "name":"大正",
-    "kana":"タイシヨウ",
-    "hira":"たいしよう",
-    "roma":"taishiyou"
   },
   "711":{
     "code":"711",

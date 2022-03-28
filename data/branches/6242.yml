@@ -101,12 +101,6 @@
   kana: セキ
   hira: せき
   roma: seki
-'062':
-  code: '062'
-  name: 富野
-  kana: トミノ
-  hira: とみの
-  roma: tomino
 '063':
   code: '063'
   name: 田原
@@ -137,18 +131,6 @@
   kana: シモウチ
   hira: しもうち
   roma: shimouchi
-'071':
-  code: '071'
-  name: 富岡
-  kana: トミオカ
-  hira: とみおか
-  roma: tomioka
-'072':
-  code: '072'
-  name: 関口出張所
-  kana: セキグチ
-  hira: せきぐち
-  roma: sekiguchi
 '073':
   code: '073'
   name: 美濃
@@ -221,12 +203,6 @@
   kana: ヤマト
   hira: やまと
   roma: yamato
-'106':
-  code: '106'
-  name: 大和南
-  kana: ヤマトミナミ
-  hira: やまとみなみ
-  roma: yamatominami
 '108':
   code: '108'
   name: 高鷲

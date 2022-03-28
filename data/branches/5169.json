@@ -6,26 +6,12 @@
     "hira":"ほんしよ",
     "roma":"honshiyo"
   },
-  "003":{
-    "code":"003",
-    "name":"山梨",
-    "kana":"ヤマナシ",
-    "hira":"やまなし",
-    "roma":"yamanashi"
-  },
   "005":{
     "code":"005",
     "name":"加納岩",
     "kana":"カノイワ",
     "hira":"かのいわ",
     "roma":"kanoiwa"
-  },
-  "008":{
-    "code":"008",
-    "name":"八幡",
-    "kana":"ヤハタ",
-    "hira":"やはた",
-    "roma":"yahata"
   },
   "011":{
     "code":"011",

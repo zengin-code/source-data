@@ -475,13 +475,6 @@
     "hira":"しゆつとう",
     "roma":"shiyutsutou"
   },
-  "601":{
-    "code":"601",
-    "name":"石見銀山",
-    "kana":"イワミギンザン",
-    "hira":"いわみぎんざん",
-    "roma":"iwamiginzan"
-  },
   "602":{
     "code":"602",
     "name":"大田中央",
@@ -502,20 +495,6 @@
     "kana":"オオダヒガシ",
     "hira":"おおだひがし",
     "roma":"oodahigashi"
-  },
-  "616":{
-    "code":"616",
-    "name":"三瓶",
-    "kana":"サンベ",
-    "hira":"さんべ",
-    "roma":"sambe"
-  },
-  "620":{
-    "code":"620",
-    "name":"高山",
-    "kana":"タカヤマ",
-    "hira":"たかやま",
-    "roma":"takayama"
   },
   "624":{
     "code":"624",

@@ -13,26 +13,12 @@
     "hira":"さがえ",
     "roma":"sagae"
   },
-  "003":{
-    "code":"003",
-    "name":"南部",
-    "kana":"ナンブ",
-    "hira":"なんぶ",
-    "roma":"nambu"
-  },
   "004":{
     "code":"004",
     "name":"西根",
     "kana":"ニシネ",
     "hira":"にしね",
     "roma":"nishine"
-  },
-  "005":{
-    "code":"005",
-    "name":"日田出張所",
-    "kana":"ニツタ",
-    "hira":"につた",
-    "roma":"nitsuta"
   },
   "006":{
     "code":"006",
@@ -48,27 +34,6 @@
     "hira":"たかまつ",
     "roma":"takamatsu"
   },
-  "010":{
-    "code":"010",
-    "name":"白岩",
-    "kana":"シライワ",
-    "hira":"しらいわ",
-    "roma":"shiraiwa"
-  },
-  "011":{
-    "code":"011",
-    "name":"醍醐",
-    "kana":"ダイゴ",
-    "hira":"だいご",
-    "roma":"daigo"
-  },
-  "012":{
-    "code":"012",
-    "name":"三泉",
-    "kana":"ミイズミ",
-    "hira":"みいずみ",
-    "roma":"miizumi"
-  },
   "021":{
     "code":"021",
     "name":"大江",
@@ -83,13 +48,6 @@
     "hira":"あさひ",
     "roma":"asahi"
   },
-  "032":{
-    "code":"032",
-    "name":"大谷",
-    "kana":"オオヤ",
-    "hira":"おおや",
-    "roma":"ooya"
-  },
   "041":{
     "code":"041",
     "name":"西川",
@@ -103,26 +61,5 @@
     "kana":"カホク",
     "hira":"かほく",
     "roma":"kahoku"
-  },
-  "052":{
-    "code":"052",
-    "name":"北谷地",
-    "kana":"キタヤチ",
-    "hira":"きたやち",
-    "roma":"kitayachi"
-  },
-  "053":{
-    "code":"053",
-    "name":"西里",
-    "kana":"ニシザト",
-    "hira":"にしざと",
-    "roma":"nishizato"
-  },
-  "054":{
-    "code":"054",
-    "name":"溝延",
-    "kana":"ミゾノベ",
-    "hira":"みぞのべ",
-    "roma":"mizonobe"
   }
 }

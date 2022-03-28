@@ -5,12 +5,6 @@
   kana: ハギノ
   hira: はぎの
   roma: hagino
-'002':
-  code: '002'
-  name: 昭和
-  kana: シヨウワ
-  hira: しようわ
-  roma: shiyouwa
 '003':
   code: '003'
   name: 舟形
@@ -47,12 +41,6 @@
   kana: サケカワ
   hira: さけかわ
   roma: sakekawa
-'024':
-  code: '024'
-  name: 大豊
-  kana: オオトヨ
-  hira: おおとよ
-  roma: ootoyo
 '030':
   code: '030'
   name: 真室川

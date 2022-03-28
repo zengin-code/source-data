@@ -62,13 +62,6 @@
     "hira":"はつさむ",
     "roma":"hatsusamu"
   },
-  "016":{
-    "code":"016",
-    "name":"川沿",
-    "kana":"カワゾエ",
-    "hira":"かわぞえ",
-    "roma":"kawazoe"
-  },
   "018":{
     "code":"018",
     "name":"中央",
@@ -117,12 +110,5 @@
     "kana":"シンコトニ",
     "hira":"しんことに",
     "roma":"shinkotoni"
-  },
-  "032":{
-    "code":"032",
-    "name":"丘珠",
-    "kana":"オカダマ",
-    "hira":"おかだま",
-    "roma":"okadama"
   }
 }

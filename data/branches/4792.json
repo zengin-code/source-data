@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "021":{
-    "code":"021",
-    "name":"横瀬",
-    "kana":"ヨコゼ",
-    "hira":"よこぜ",
-    "roma":"yokoze"
-  },
   "041":{
     "code":"041",
     "name":"荒川",
@@ -26,20 +19,6 @@
     "kana":"ミナノ",
     "hira":"みなの",
     "roma":"minano"
-  },
-  "061":{
-    "code":"061",
-    "name":"長瀞",
-    "kana":"ナガトロ",
-    "hira":"ながとろ",
-    "roma":"nagatoro"
-  },
-  "071":{
-    "code":"071",
-    "name":"吉田",
-    "kana":"ヨシダ",
-    "hira":"よしだ",
-    "roma":"yoshida"
   },
   "081":{
     "code":"081",

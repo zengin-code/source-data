@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "101":{
-    "code":"101",
-    "name":"相生",
-    "kana":"アイオイ",
-    "hira":"あいおい",
-    "roma":"aioi"
-  },
   "102":{
     "code":"102",
     "name":"引田",
@@ -55,13 +48,6 @@
     "hira":"いしだ",
     "roma":"ishida"
   },
-  "155":{
-    "code":"155",
-    "name":"大川造田出張所",
-    "kana":"オオカワゾウタ",
-    "hira":"おおかわぞうた",
-    "roma":"ookawazouta"
-  },
   "156":{
     "code":"156",
     "name":"長尾",
@@ -75,13 +61,6 @@
     "kana":"ツダ",
     "hira":"つだ",
     "roma":"tsuda"
-  },
-  "174":{
-    "code":"174",
-    "name":"鴨部",
-    "kana":"カベ",
-    "hira":"かべ",
-    "roma":"kabe"
   },
   "175":{
     "code":"175",
@@ -104,26 +83,12 @@
     "hira":"みきちよう",
     "roma":"mikichiyou"
   },
-  "204":{
-    "code":"204",
-    "name":"田中",
-    "kana":"タナカ",
-    "hira":"たなか",
-    "roma":"tanaka"
-  },
   "205":{
     "code":"205",
     "name":"氷上",
     "kana":"ヒカミ",
     "hira":"ひかみ",
     "roma":"hikami"
-  },
-  "207":{
-    "code":"207",
-    "name":"井戸出張所",
-    "kana":"イド",
-    "hira":"いど",
-    "roma":"ido"
   },
   "232":{
     "code":"232",
@@ -202,26 +167,12 @@
     "hira":"まえだ",
     "roma":"maeda"
   },
-  "269":{
-    "code":"269",
-    "name":"高田出張所",
-    "kana":"タカタ",
-    "hira":"たかた",
-    "roma":"takata"
-  },
   "301":{
     "code":"301",
     "name":"高松市中央一宮",
     "kana":"タカマツシチユウオウイチノミヤ",
     "hira":"たかまつしちゆうおういちのみや",
     "roma":"takamatsushichiyuuouichinomiya"
-  },
-  "302":{
-    "code":"302",
-    "name":"仏生山",
-    "kana":"ブツシヨウザン",
-    "hira":"ぶつしようざん",
-    "roma":"butsushiyouzan"
   },
   "303":{
     "code":"303",
@@ -363,13 +314,6 @@
     "hira":"しもかさい",
     "roma":"shimokasai"
   },
-  "378":{
-    "code":"378",
-    "name":"檀紙北出張所",
-    "kana":"ダンシキタ",
-    "hira":"だんしきた",
-    "roma":"danshikita"
-  },
   "403":{
     "code":"403",
     "name":"内海",
@@ -412,13 +356,6 @@
     "hira":"きたうら",
     "roma":"kitaura"
   },
-  "435":{
-    "code":"435",
-    "name":"四海",
-    "kana":"シカイ",
-    "hira":"しかい",
-    "roma":"shikai"
-  },
   "436":{
     "code":"436",
     "name":"豊島",
@@ -432,13 +369,6 @@
     "kana":"スエ",
     "hira":"すえ",
     "roma":"sue"
-  },
-  "452":{
-    "code":"452",
-    "name":"昭和出張所",
-    "kana":"シヨウワ",
-    "hira":"しようわ",
-    "roma":"shiyouwa"
   },
   "454":{
     "code":"454",
@@ -467,13 +397,6 @@
     "kana":"コクブンジミナミ",
     "hira":"こくぶんじみなみ",
     "roma":"kokubunjiminami"
-  },
-  "481":{
-    "code":"481",
-    "name":"王越",
-    "kana":"オオゴシ",
-    "hira":"おおごし",
-    "roma":"oogoshi"
   },
   "482":{
     "code":"482",
