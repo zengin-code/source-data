@@ -7,10 +7,10 @@
   roma: honshiyo
 '002':
   code: '002'
-  name: 寒河江東
-  kana: サガエヒガシ
-  hira: さがえひがし
-  roma: sagaehigashi
+  name: 寒河江
+  kana: サガエ
+  hira: さがえ
+  roma: sagae
 '004':
   code: '004'
   name: 西根
@@ -25,10 +25,10 @@
   roma: shibahashi
 '008':
   code: '008'
-  name: 寒河江西
-  kana: サガエニシ
-  hira: さがえにし
-  roma: sagaenishi
+  name: 高松
+  kana: タカマツ
+  hira: たかまつ
+  roma: takamatsu
 '021':
   code: '021'
   name: 大江
