@@ -8,10 +8,10 @@
   },
   "002":{
     "code":"002",
-    "name":"寒河江",
-    "kana":"サガエ",
-    "hira":"さがえ",
-    "roma":"sagae"
+    "name":"寒河江東",
+    "kana":"サガエヒガシ",
+    "hira":"さがえひがし",
+    "roma":"sagaehigashi"
   },
   "004":{
     "code":"004",
@@ -29,10 +29,10 @@
   },
   "008":{
     "code":"008",
-    "name":"高松",
-    "kana":"タカマツ",
-    "hira":"たかまつ",
-    "roma":"takamatsu"
+    "name":"寒河江西",
+    "kana":"サガエニシ",
+    "hira":"さがえにし",
+    "roma":"sagaenishi"
   },
   "021":{
     "code":"021",
