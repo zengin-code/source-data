@@ -41,26 +41,12 @@
     "hira":"のま",
     "roma":"noma"
   },
-  "007":{
-    "code":"007",
-    "name":"馬越",
-    "kana":"ウマゴエ",
-    "hira":"うまごえ",
-    "roma":"umagoe"
-  },
-  "011":{
-    "code":"011",
-    "name":"上朝倉",
-    "kana":"カミアサクラ",
-    "hira":"かみあさくら",
-    "roma":"kamiasakura"
-  },
   "012":{
     "code":"012",
-    "name":"下朝倉",
-    "kana":"シモアサクラ",
-    "hira":"しもあさくら",
-    "roma":"shimoasakura"
+    "name":"朝倉",
+    "kana":"アサクラ",
+    "hira":"あさくら",
+    "roma":"asakura"
   },
   "013":{
     "code":"013",
@@ -83,13 +69,6 @@
     "hira":"しみず",
     "roma":"shimizu"
   },
-  "016":{
-    "code":"016",
-    "name":"喜田村",
-    "kana":"キタムラ",
-    "hira":"きたむら",
-    "roma":"kitamura"
-  },
   "021":{
     "code":"021",
     "name":"玉川",
@@ -104,20 +83,6 @@
     "hira":"ひのくち",
     "roma":"hinokuchi"
   },
-  "028":{
-    "code":"028",
-    "name":"波方",
-    "kana":"ナミカタ",
-    "hira":"なみかた",
-    "roma":"namikata"
-  },
-  "029":{
-    "code":"029",
-    "name":"小部",
-    "kana":"オベ",
-    "hira":"おべ",
-    "roma":"obe"
-  },
   "031":{
     "code":"031",
     "name":"大西",
@@ -131,13 +96,6 @@
     "kana":"キクマ",
     "hira":"きくま",
     "roma":"kikuma"
-  },
-  "036":{
-    "code":"036",
-    "name":"亀岡",
-    "kana":"カメオカ",
-    "hira":"かめおか",
-    "roma":"kameoka"
   },
   "041":{
     "code":"041",
@@ -160,13 +118,6 @@
     "hira":"はかた",
     "roma":"hakata"
   },
-  "055":{
-    "code":"055",
-    "name":"北浦",
-    "kana":"キタウラ",
-    "hira":"きたうら",
-    "roma":"kitaura"
-  },
   "061":{
     "code":"061",
     "name":"上浦",
@@ -181,13 +132,6 @@
     "hira":"おおみしま",
     "roma":"oomishima"
   },
-  "076":{
-    "code":"076",
-    "name":"岡山",
-    "kana":"オカヤマ",
-    "hira":"おかやま",
-    "roma":"okayama"
-  },
   "081":{
     "code":"081",
     "name":"弓削",
@@ -201,12 +145,5 @@
     "kana":"イワギ",
     "hira":"いわぎ",
     "roma":"iwagi"
-  },
-  "087":{
-    "code":"087",
-    "name":"関前",
-    "kana":"セキゼン",
-    "hira":"せきぜん",
-    "roma":"sekizen"
   }
 }

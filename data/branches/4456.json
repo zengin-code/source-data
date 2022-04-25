@@ -6,33 +6,12 @@
     "hira":"かぬま",
     "roma":"kanuma"
   },
-  "002":{
-    "code":"002",
-    "name":"菊沢",
-    "kana":"キクサワ",
-    "hira":"きくさわ",
-    "roma":"kikusawa"
-  },
-  "003":{
-    "code":"003",
-    "name":"北犬飼",
-    "kana":"キタイヌカイ",
-    "hira":"きたいぬかい",
-    "roma":"kitainukai"
-  },
   "004":{
     "code":"004",
     "name":"南部中央",
     "kana":"ナンブチユウオウ",
     "hira":"なんぶちゆうおう",
     "roma":"nambuchiyuuou"
-  },
-  "008":{
-    "code":"008",
-    "name":"東大芦",
-    "kana":"ヒガシオオアシ",
-    "hira":"ひがしおおあし",
-    "roma":"higashiooashi"
   },
   "013":{
     "code":"013",
@@ -54,13 +33,6 @@
     "kana":"ニツコウチユウオウ",
     "hira":"につこうちゆうおう",
     "roma":"nitsukouchiyuuou"
-  },
-  "023":{
-    "code":"023",
-    "name":"小林",
-    "kana":"コバヤシ",
-    "hira":"こばやし",
-    "roma":"kobayashi"
   },
   "100":{
     "code":"100",

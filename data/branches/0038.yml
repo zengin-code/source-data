@@ -89,6 +89,12 @@
   kana: オウチバンク
   hira: おうちばんく
   roma: ouchibanku
+'206':
+  code: '206'
+  name: ＳＢＩレミット
+  kana: ＳＢＩレミツト
+  hira: ＳＢＩれみつと
+  roma: sbiremitsuto
 '207':
   code: '207'
   name: イルカ
@@ -101,6 +107,12 @@
   kana: ＵＳＥＮ
   hira: ＵＳＥＮ
   roma: usen
+'209':
+  code: '209'
+  name: タカシマヤ
+  kana: タカシマヤ
+  hira: たかしまや
+  roma: takashimaya
 '301':
   code: '301'
   name: 第一ビジネス営業部

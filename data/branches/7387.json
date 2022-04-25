@@ -195,20 +195,6 @@
     "hira":"おだ",
     "roma":"oda"
   },
-  "141":{
-    "code":"141",
-    "name":"初瀬",
-    "kana":"ハセ",
-    "hira":"はせ",
-    "roma":"hase"
-  },
-  "142":{
-    "code":"142",
-    "name":"上之郷",
-    "kana":"カミノゴウ",
-    "hira":"かみのごう",
-    "roma":"kaminogou"
-  },
   "146":{
     "code":"146",
     "name":"大福出張所",
@@ -216,19 +202,12 @@
     "hira":"だいふく",
     "roma":"daifuku"
   },
-  "147":{
-    "code":"147",
-    "name":"川東",
-    "kana":"カワヒガシ",
-    "hira":"かわひがし",
-    "roma":"kawahigashi"
-  },
   "148":{
     "code":"148",
-    "name":"田原本西",
-    "kana":"タワラモトニシ",
-    "hira":"たわらもとにし",
-    "roma":"tawaramotonishi"
+    "name":"しき",
+    "kana":"シキ",
+    "hira":"しき",
+    "roma":"shiki"
   },
   "150":{
     "code":"150",
@@ -328,13 +307,6 @@
     "hira":"かなはし",
     "roma":"kanahashi"
   },
-  "178":{
-    "code":"178",
-    "name":"新沢",
-    "kana":"ニイザワ",
-    "hira":"にいざわ",
-    "roma":"niizawa"
-  },
   "179":{
     "code":"179",
     "name":"真菅",
@@ -369,20 +341,6 @@
     "kana":"タカダ",
     "hira":"たかだ",
     "roma":"takada"
-  },
-  "188":{
-    "code":"188",
-    "name":"陵西",
-    "kana":"オカニシ",
-    "hira":"おかにし",
-    "roma":"okanishi"
-  },
-  "189":{
-    "code":"189",
-    "name":"天満",
-    "kana":"テンマ",
-    "hira":"てんま",
-    "roma":"temma"
   },
   "192":{
     "code":"192",

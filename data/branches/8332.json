@@ -365,10 +365,10 @@
   },
   "451":{
     "code":"451",
-    "name":"陶",
-    "kana":"スエ",
-    "hira":"すえ",
-    "roma":"sue"
+    "name":"綾南",
+    "kana":"リヨウナン",
+    "hira":"りようなん",
+    "roma":"riyounan"
   },
   "454":{
     "code":"454",
@@ -449,17 +449,10 @@
   },
   "533":{
     "code":"533",
-    "name":"法勲寺",
-    "kana":"ホウクンジ",
-    "hira":"ほうくんじ",
-    "roma":"houkunji"
-  },
-  "534":{
-    "code":"534",
-    "name":"坂本",
-    "kana":"サカモト",
-    "hira":"さかもと",
-    "roma":"sakamoto"
+    "name":"飯山",
+    "kana":"ハンザン",
+    "hira":"はんざん",
+    "roma":"hanzan"
   },
   "535":{
     "code":"535",
@@ -481,20 +474,6 @@
     "kana":"コトナミ",
     "hira":"ことなみ",
     "roma":"kotonami"
-  },
-  "553":{
-    "code":"553",
-    "name":"長炭出張所",
-    "kana":"ナガスミ",
-    "hira":"ながすみ",
-    "roma":"nagasumi"
-  },
-  "558":{
-    "code":"558",
-    "name":"高篠出張所",
-    "kana":"タカシノ",
-    "hira":"たかしの",
-    "roma":"takashino"
   },
   "559":{
     "code":"559",
@@ -519,17 +498,10 @@
   },
   "580":{
     "code":"580",
-    "name":"城南出張所",
-    "kana":"ジヨウナン",
-    "hira":"じようなん",
-    "roma":"jiyounan"
-  },
-  "581":{
-    "code":"581",
-    "name":"報徳出張所",
-    "kana":"ホウトク",
-    "hira":"ほうとく",
-    "roma":"houtoku"
+    "name":"丸亀西",
+    "kana":"マルガメニシ",
+    "hira":"まるがめにし",
+    "roma":"marugamenishi"
   },
   "583":{
     "code":"583",
@@ -552,47 +524,19 @@
     "hira":"ぜんつうじ",
     "roma":"zentsuuji"
   },
-  "611":{
-    "code":"611",
-    "name":"善通寺麻野出張所",
-    "kana":"ゼンツウジアサノ",
-    "hira":"ぜんつうじあさの",
-    "roma":"zentsuujiasano"
-  },
-  "612":{
-    "code":"612",
-    "name":"上郷出張所",
-    "kana":"カミゴウ",
-    "hira":"かみごう",
-    "roma":"kamigou"
-  },
-  "614":{
-    "code":"614",
-    "name":"与北出張所",
-    "kana":"ヨギタ",
-    "hira":"よぎた",
-    "roma":"yogita"
-  },
   "615":{
     "code":"615",
-    "name":"筆岡出張所",
-    "kana":"フデオカ",
-    "hira":"ふでおか",
-    "roma":"fudeoka"
-  },
-  "616":{
-    "code":"616",
-    "name":"吉原出張所",
-    "kana":"ヨシハラ",
-    "hira":"よしはら",
-    "roma":"yoshihara"
+    "name":"善通寺西",
+    "kana":"ゼンツウジニシ",
+    "hira":"ぜんつうじにし",
+    "roma":"zentsuujinishi"
   },
   "617":{
     "code":"617",
-    "name":"龍川出張所",
-    "kana":"タツカワ",
-    "hira":"たつかわ",
-    "roma":"tatsukawa"
+    "name":"善通寺東",
+    "kana":"ゼンツウジヒガシ",
+    "hira":"ぜんつうじひがし",
+    "roma":"zentsuujihigashi"
   },
   "642":{
     "code":"642",
@@ -671,13 +615,6 @@
     "hira":"ときわ",
     "roma":"tokiwa"
   },
-  "764":{
-    "code":"764",
-    "name":"一ノ谷",
-    "kana":"イチノタニ",
-    "hira":"いちのたに",
-    "roma":"ichinotani"
-  },
   "765":{
     "code":"765",
     "name":"豊田",
@@ -705,27 +642,6 @@
     "kana":"オオノハラ",
     "hira":"おおのはら",
     "roma":"oonohara"
-  },
-  "802":{
-    "code":"802",
-    "name":"紀伊",
-    "kana":"キイ",
-    "hira":"きい",
-    "roma":"kii"
-  },
-  "803":{
-    "code":"803",
-    "name":"萩原",
-    "kana":"ハギハラ",
-    "hira":"はぎはら",
-    "roma":"hagihara"
-  },
-  "804":{
-    "code":"804",
-    "name":"五郷",
-    "kana":"ゴゴウ",
-    "hira":"ごごう",
-    "roma":"gogou"
   },
   "805":{
     "code":"805",

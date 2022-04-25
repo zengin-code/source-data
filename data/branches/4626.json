@@ -8,31 +8,10 @@
   },
   "003":{
     "code":"003",
-    "name":"原町",
-    "kana":"ハラマチ",
-    "hira":"はらまち",
-    "roma":"haramachi"
-  },
-  "004":{
-    "code":"004",
-    "name":"岩島",
-    "kana":"イワシマ",
-    "hira":"いわしま",
-    "roma":"iwashima"
-  },
-  "005":{
-    "code":"005",
-    "name":"坂上",
-    "kana":"サカウエ",
-    "hira":"さかうえ",
-    "roma":"sakaue"
-  },
-  "006":{
-    "code":"006",
-    "name":"東",
-    "kana":"アヅマ",
-    "hira":"あづま",
-    "roma":"aduma"
+    "name":"東吾妻",
+    "kana":"ヒガシアガツマ",
+    "hira":"ひがしあがつま",
+    "roma":"higashiagatsuma"
   },
   "007":{
     "code":"007",
@@ -40,13 +19,6 @@
     "kana":"ナカノジヨウ",
     "hira":"なかのじよう",
     "roma":"nakanojiyou"
-  },
-  "009":{
-    "code":"009",
-    "name":"名久田",
-    "kana":"ナクタ",
-    "hira":"なくた",
-    "roma":"nakuta"
   },
   "010":{
     "code":"010",
@@ -61,19 +33,5 @@
     "kana":"ナガノハラ",
     "hira":"ながのはら",
     "roma":"naganohara"
-  },
-  "015":{
-    "code":"015",
-    "name":"北軽井沢応桑",
-    "kana":"キタカルイサワオオクワ",
-    "hira":"きたかるいさわおおくわ",
-    "roma":"kitakaruisawaookuwa"
-  },
-  "016":{
-    "code":"016",
-    "name":"沢田",
-    "kana":"サワダ",
-    "hira":"さわだ",
-    "roma":"sawada"
   }
 }

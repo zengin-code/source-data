@@ -8,10 +8,10 @@
   },
   "004":{
     "code":"004",
-    "name":"中央総合",
-    "kana":"チユウオウソウゴウ",
-    "hira":"ちゆうおうそうごう",
-    "roma":"chiyuuousougou"
+    "name":"湯沢北",
+    "kana":"ユザワキタ",
+    "hira":"ゆざわきた",
+    "roma":"yuzawakita"
   },
   "013":{
     "code":"013",
@@ -29,23 +29,23 @@
   },
   "018":{
     "code":"018",
-    "name":"東部総合",
-    "kana":"トウブソウゴウ",
-    "hira":"とうぶそうごう",
-    "roma":"toubusougou"
+    "name":"稲川",
+    "kana":"イナカワ",
+    "hira":"いなかわ",
+    "roma":"inakawa"
   },
   "023":{
     "code":"023",
-    "name":"南部総合",
-    "kana":"ナンブソウゴウ",
-    "hira":"なんぶそうごう",
-    "roma":"nambusougou"
+    "name":"雄勝",
+    "kana":"オガチ",
+    "hira":"おがち",
+    "roma":"ogachi"
   },
   "028":{
     "code":"028",
-    "name":"西部総合",
-    "kana":"セイブソウゴウ",
-    "hira":"せいぶそうごう",
-    "roma":"seibusougou"
+    "name":"羽後",
+    "kana":"ウゴ",
+    "hira":"うご",
+    "roma":"ugo"
   }
 }

@@ -1,11 +1,4 @@
 {
-  "001":{
-    "code":"001",
-    "name":"滑石",
-    "kana":"ナメシ",
-    "hira":"なめし",
-    "roma":"nameshi"
-  },
   "003":{
     "code":"003",
     "name":"茂木",
@@ -89,13 +82,6 @@
     "kana":"ヒガシナガサキ",
     "hira":"ひがしながさき",
     "roma":"higashinagasaki"
-  },
-  "304":{
-    "code":"304",
-    "name":"新大工",
-    "kana":"シンダイク",
-    "hira":"しんだいく",
-    "roma":"shindaiku"
   },
   "310":{
     "code":"310",

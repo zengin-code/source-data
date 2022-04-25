@@ -13,13 +13,6 @@
     "hira":"てらどまり",
     "roma":"teradomari"
   },
-  "021":{
-    "code":"021",
-    "name":"わしま",
-    "kana":"ワシマ",
-    "hira":"わしま",
-    "roma":"washima"
-  },
   "031":{
     "code":"031",
     "name":"出雲崎",
@@ -33,13 +26,6 @@
     "kana":"ミシマ",
     "hira":"みしま",
     "roma":"mishima"
-  },
-  "058":{
-    "code":"058",
-    "name":"与板",
-    "kana":"ヨイタ",
-    "hira":"よいた",
-    "roma":"yoita"
   },
   "071":{
     "code":"071",

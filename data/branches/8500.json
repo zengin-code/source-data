@@ -6,13 +6,6 @@
     "hira":"ほんしよ",
     "roma":"honshiyo"
   },
-  "003":{
-    "code":"003",
-    "name":"御幸",
-    "kana":"ミユキ",
-    "hira":"みゆき",
-    "roma":"miyuki"
-  },
   "005":{
     "code":"005",
     "name":"道後",
@@ -43,10 +36,10 @@
   },
   "015":{
     "code":"015",
-    "name":"潮見",
-    "kana":"シオミ",
-    "hira":"しおみ",
-    "roma":"shiomi"
+    "name":"城北",
+    "kana":"ジヨウホク",
+    "hira":"じようほく",
+    "roma":"jiyouhoku"
   },
   "016":{
     "code":"016",
@@ -76,13 +69,6 @@
     "hira":"えばら",
     "roma":"ebara"
   },
-  "022":{
-    "code":"022",
-    "name":"坂本出張所",
-    "kana":"サカモト",
-    "hira":"さかもと",
-    "roma":"sakamoto"
-  },
   "101":{
     "code":"101",
     "name":"北条中央",
@@ -96,13 +82,6 @@
     "kana":"アサナミ",
     "hira":"あさなみ",
     "roma":"asanami"
-  },
-  "104":{
-    "code":"104",
-    "name":"立岩出張所",
-    "kana":"タテイワ",
-    "hira":"たていわ",
-    "roma":"tateiwa"
   },
   "108":{
     "code":"108",
@@ -120,24 +99,10 @@
   },
   "222":{
     "code":"222",
-    "name":"南吉井",
-    "kana":"ミナミヨシイ",
-    "hira":"みなみよしい",
-    "roma":"minamiyoshii"
-  },
-  "223":{
-    "code":"223",
-    "name":"北吉井出張所",
-    "kana":"キタヨシイ",
-    "hira":"きたよしい",
-    "roma":"kitayoshii"
-  },
-  "224":{
-    "code":"224",
-    "name":"拝志出張所",
-    "kana":"ハイシ",
-    "hira":"はいし",
-    "roma":"haishi"
+    "name":"重信",
+    "kana":"シゲノブ",
+    "hira":"しげのぶ",
+    "roma":"shigenobu"
   },
   "231":{
     "code":"231",
@@ -152,13 +117,6 @@
     "kana":"アソウ",
     "hira":"あそう",
     "roma":"asou"
-  },
-  "302":{
-    "code":"302",
-    "name":"宮内出張所",
-    "kana":"ミヤウチ",
-    "hira":"みやうち",
-    "roma":"miyauchi"
   },
   "303":{
     "code":"303",
@@ -183,17 +141,10 @@
   },
   "331":{
     "code":"331",
-    "name":"上灘",
-    "kana":"カミナダ",
-    "hira":"かみなだ",
-    "roma":"kaminada"
-  },
-  "332":{
-    "code":"332",
-    "name":"下灘出張所",
-    "kana":"シモナダ",
-    "hira":"しもなだ",
-    "roma":"shimonada"
+    "name":"双海",
+    "kana":"フタミ",
+    "hira":"ふたみ",
+    "roma":"futami"
   },
   "403":{
     "code":"403",

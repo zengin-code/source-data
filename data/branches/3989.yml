@@ -29,12 +29,6 @@
   kana: タカハタ
   hira: たかはた
   roma: takahata
-'022':
-  code: '022'
-  name: 和田出張所
-  kana: ワダ
-  hira: わだ
-  roma: wada
 '029':
   code: '029'
   name: 赤湯出張所
@@ -89,9 +83,3 @@
   kana: イイデ
   hira: いいで
   roma: iide
-'081':
-  code: '081'
-  name: 小国
-  kana: オグニ
-  hira: おぐに
-  roma: oguni

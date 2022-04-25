@@ -6432,20 +6432,6 @@
     "hira":"ながののうきよう",
     "roma":"naganonoukiyou"
   },
-  "5541":{
-    "code":"5541",
-    "name":"北蒲みなみ農協",
-    "kana":"キタカンミナミノウキヨウ",
-    "hira":"きたかんみなみのうきよう",
-    "roma":"kitakamminaminoukiyou"
-  },
-  "5542":{
-    "code":"5542",
-    "name":"ささかみ農協",
-    "kana":"ササカミノウキヨウ",
-    "hira":"ささかみのうきよう",
-    "roma":"sasakaminoukiyou"
-  },
   "5554":{
     "code":"5554",
     "name":"北越後農協",
@@ -6460,26 +6446,12 @@
     "hira":"たいないしのうきよう",
     "roma":"tainaishinoukiyou"
   },
-  "5577":{
-    "code":"5577",
-    "name":"新潟みらい農協",
-    "kana":"ニイガタミライノウキヨウ",
-    "hira":"にいがたみらいのうきよう",
-    "roma":"niigatamirainoukiyou"
-  },
-  "5585":{
-    "code":"5585",
-    "name":"新津さつき農協",
-    "kana":"ニイツサツキノウキヨウ",
-    "hira":"にいつさつきのうきよう",
-    "roma":"niitsusatsukinoukiyou"
-  },
   "5600":{
     "code":"5600",
-    "name":"越後中央農協",
-    "kana":"エチゴチユウオウノウキヨウ",
-    "hira":"えちごちゆうおうのうきよう",
-    "roma":"echigochiyuuounoukiyou"
+    "name":"新潟かがやき農協",
+    "kana":"ニイガタカガヤキノウキヨウ",
+    "hira":"にいがたかがやきのうきよう",
+    "roma":"niigatakagayakinoukiyou"
   },
   "5631":{
     "code":"5631",
@@ -6859,61 +6831,12 @@
     "hira":"ひだのうきよう",
     "roma":"hidanoukiyou"
   },
-  "6328":{
-    "code":"6328",
-    "name":"伊豆太陽農協",
-    "kana":"イズタイヨウノウキヨウ",
-    "hira":"いずたいようのうきよう",
-    "roma":"izutaiyounoukiyou"
-  },
-  "6333":{
-    "code":"6333",
-    "name":"三島函南農協",
-    "kana":"ミシマカンナミノウキヨウ",
-    "hira":"みしまかんなみのうきよう",
-    "roma":"mishimakannaminoukiyou"
-  },
-  "6338":{
-    "code":"6338",
-    "name":"伊豆の国農協",
-    "kana":"イズノクニノウキヨウ",
-    "hira":"いずのくにのうきよう",
-    "roma":"izunokuninoukiyou"
-  },
-  "6342":{
-    "code":"6342",
-    "name":"あいら伊豆農協",
-    "kana":"アイライズノウキヨウ",
-    "hira":"あいらいずのうきよう",
-    "roma":"airaizunoukiyou"
-  },
   "6345":{
     "code":"6345",
-    "name":"南駿農協",
-    "kana":"ナンスンノウキヨウ",
-    "hira":"なんすんのうきよう",
-    "roma":"nansunnoukiyou"
-  },
-  "6351":{
-    "code":"6351",
-    "name":"御殿場農協",
-    "kana":"ゴテンバノウキヨウ",
-    "hira":"ごてんばのうきよう",
-    "roma":"gotembanoukiyou"
-  },
-  "6355":{
-    "code":"6355",
-    "name":"富士市農協",
-    "kana":"フジシノウキヨウ",
-    "hira":"ふじしのうきよう",
-    "roma":"fujishinoukiyou"
-  },
-  "6357":{
-    "code":"6357",
-    "name":"富士宮農協",
-    "kana":"フジノミヤノウキヨウ",
-    "hira":"ふじのみやのうきよう",
-    "roma":"fujinomiyanoukiyou"
+    "name":"富士伊豆農協",
+    "kana":"フジイズノウキヨウ",
+    "hira":"ふじいずのうきよう",
+    "roma":"fujiizunoukiyou"
   },
   "6363":{
     "code":"6363",

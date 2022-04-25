@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "129":{
-    "code":"129",
-    "name":"天応",
-    "kana":"テンノウ",
-    "hira":"てんのう",
-    "roma":"tennou"
-  },
   "132":{
     "code":"132",
     "name":"広東",
@@ -27,13 +20,6 @@
     "hira":"ひろにし",
     "roma":"hironishi"
   },
-  "135":{
-    "code":"135",
-    "name":"広北",
-    "kana":"ヒロキタ",
-    "hira":"ひろきた",
-    "roma":"hirokita"
-  },
   "137":{
     "code":"137",
     "name":"郷原",
@@ -47,13 +33,6 @@
     "kana":"シヨウワ",
     "hira":"しようわ",
     "roma":"shiyouwa"
-  },
-  "144":{
-    "code":"144",
-    "name":"音戸西",
-    "kana":"オンドニシ",
-    "hira":"おんどにし",
-    "roma":"ondonishi"
   },
   "149":{
     "code":"149",
@@ -83,13 +62,6 @@
     "hira":"かまがり",
     "roma":"kamagari"
   },
-  "194":{
-    "code":"194",
-    "name":"切串",
-    "kana":"キリクシ",
-    "hira":"きりくし",
-    "roma":"kirikushi"
-  },
   "195":{
     "code":"195",
     "name":"江田島",
@@ -117,20 +89,6 @@
     "kana":"ミタカ",
     "hira":"みたか",
     "roma":"mitaka"
-  },
-  "237":{
-    "code":"237",
-    "name":"沖",
-    "kana":"オキ",
-    "hira":"おき",
-    "roma":"oki"
-  },
-  "242":{
-    "code":"242",
-    "name":"飛渡瀬",
-    "kana":"ヒトノセ",
-    "hira":"ひとのせ",
-    "roma":"hitonose"
   },
   "243":{
     "code":"243",

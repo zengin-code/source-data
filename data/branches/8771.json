@@ -1,11 +1,4 @@
 {
-  "001":{
-    "code":"001",
-    "name":"伊万里",
-    "kana":"イマリ",
-    "hira":"いまり",
-    "roma":"imari"
-  },
   "002":{
     "code":"002",
     "name":"中央",
@@ -20,26 +13,12 @@
     "hira":"ほくぶ",
     "roma":"hokubu"
   },
-  "007":{
-    "code":"007",
-    "name":"二里",
-    "kana":"ニリ",
-    "hira":"にり",
-    "roma":"niri"
-  },
   "008":{
     "code":"008",
-    "name":"東山代",
-    "kana":"ヒガシヤマシロ",
-    "hira":"ひがしやましろ",
-    "roma":"higashiyamashiro"
-  },
-  "009":{
-    "code":"009",
-    "name":"山代",
-    "kana":"ヤマシロ",
-    "hira":"やましろ",
-    "roma":"yamashiro"
+    "name":"西部",
+    "kana":"セイブ",
+    "hira":"せいぶ",
+    "roma":"seibu"
   },
   "020":{
     "code":"020",

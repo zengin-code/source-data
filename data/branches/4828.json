@@ -187,26 +187,5 @@
     "kana":"オオトネチユウオウ",
     "hira":"おおとねちゆうおう",
     "roma":"ootonechiyuuou"
-  },
-  "049":{
-    "code":"049",
-    "name":"東",
-    "kana":"ヒガシ",
-    "hira":"ひがし",
-    "roma":"higashi"
-  },
-  "050":{
-    "code":"050",
-    "name":"原道",
-    "kana":"ハラミチ",
-    "hira":"はらみち",
-    "roma":"haramichi"
-  },
-  "052":{
-    "code":"052",
-    "name":"豊野",
-    "kana":"トヨノ",
-    "hira":"とよの",
-    "roma":"toyono"
   }
 }

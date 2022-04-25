@@ -20,26 +20,12 @@
     "hira":"きんせい",
     "roma":"kinsei"
   },
-  "012":{
-    "code":"012",
-    "name":"新宮",
-    "kana":"シングウ",
-    "hira":"しんぐう",
-    "roma":"shinguu"
-  },
   "013":{
     "code":"013",
     "name":"松柏",
     "kana":"シヨウハク",
     "hira":"しようはく",
     "roma":"shiyouhaku"
-  },
-  "014":{
-    "code":"014",
-    "name":"寒川",
-    "kana":"サンガワ",
-    "hira":"さんがわ",
-    "roma":"sangawa"
   },
   "015":{
     "code":"015",
@@ -55,25 +41,11 @@
     "hira":"どいちゆうおう",
     "roma":"doichiyuuou"
   },
-  "025":{
-    "code":"025",
-    "name":"川下",
-    "kana":"カワシモ",
-    "hira":"かわしも",
-    "roma":"kawashimo"
-  },
   "031":{
     "code":"031",
     "name":"川之江中央",
     "kana":"カワノエチユウオウ",
     "hira":"かわのえちゆうおう",
     "roma":"kawanoechiyuuou"
-  },
-  "032":{
-    "code":"032",
-    "name":"川之江",
-    "kana":"カワノエ",
-    "hira":"かわのえ",
-    "roma":"kawanoe"
   }
 }

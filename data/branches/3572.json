@@ -13,26 +13,12 @@
     "hira":"おうしゆうしやくしよほんちよう",
     "roma":"oushiyuushiyakushiyohonchiyou"
   },
-  "202":{
-    "code":"202",
-    "name":"大手通り",
-    "kana":"オオテドオリ",
-    "hira":"おおてどおり",
-    "roma":"ootedoori"
-  },
   "205":{
     "code":"205",
-    "name":"水沢中央",
-    "kana":"ミズサワチユウオウ",
-    "hira":"みずさわちゆうおう",
-    "roma":"mizusawachiyuuou"
-  },
-  "209":{
-    "code":"209",
-    "name":"水沢南",
-    "kana":"ミズサワミナミ",
-    "hira":"みずさわみなみ",
-    "roma":"mizusawaminami"
+    "name":"水沢",
+    "kana":"ミズサワ",
+    "hira":"みずさわ",
+    "roma":"mizusawa"
   },
   "302":{
     "code":"302",
@@ -47,13 +33,6 @@
     "kana":"カネガサキ",
     "hira":"かねがさき",
     "roma":"kanegasaki"
-  },
-  "405":{
-    "code":"405",
-    "name":"金ヶ崎中央",
-    "kana":"カネガサキチユウオウ",
-    "hira":"かねがさきちゆうおう",
-    "roma":"kanegasakichiyuuou"
   },
   "502":{
     "code":"502",

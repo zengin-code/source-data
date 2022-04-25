@@ -216,13 +216,6 @@
     "hira":"はごろも",
     "roma":"hagoromo"
   },
-  "314":{
-    "code":"314",
-    "name":"愛知",
-    "kana":"アイチ",
-    "hira":"あいち",
-    "roma":"aichi"
-  },
   "315":{
     "code":"315",
     "name":"長田",
@@ -285,13 +278,6 @@
     "kana":"ウラソエ",
     "hira":"うらそえ",
     "roma":"urasoe"
-  },
-  "352":{
-    "code":"352",
-    "name":"西原町与那城出張所",
-    "kana":"ニシハラチヨウヨナシロ",
-    "hira":"にしはらちようよなしろ",
-    "roma":"nishiharachiyouyonashiro"
   },
   "359":{
     "code":"359",

@@ -20,25 +20,11 @@
     "hira":"かみいち",
     "roma":"kamiichi"
   },
-  "177":{
-    "code":"177",
-    "name":"舟橋出張所",
-    "kana":"フナハシ",
-    "hira":"ふなはし",
-    "roma":"funahashi"
-  },
   "189":{
     "code":"189",
     "name":"なめりかわ",
     "kana":"ナメリカワ",
     "hira":"なめりかわ",
     "roma":"namerikawa"
-  },
-  "190":{
-    "code":"190",
-    "name":"滑川病院出張所",
-    "kana":"ナメリカワビヨウイン",
-    "hira":"なめりかわびよういん",
-    "roma":"namerikawabiyouin"
   }
 }
