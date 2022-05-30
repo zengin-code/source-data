@@ -41,33 +41,12 @@
     "hira":"くろの",
     "roma":"kurono"
   },
-  "008":{
-    "code":"008",
-    "name":"方県",
-    "kana":"カタガタ",
-    "hira":"かたがた",
-    "roma":"katagata"
-  },
-  "009":{
-    "code":"009",
-    "name":"西郷",
-    "kana":"サイゴウ",
-    "hira":"さいごう",
-    "roma":"saigou"
-  },
   "010":{
     "code":"010",
     "name":"七郷",
     "kana":"ナナサト",
     "hira":"ななさと",
     "roma":"nanasato"
-  },
-  "011":{
-    "code":"011",
-    "name":"網代",
-    "kana":"アジロ",
-    "hira":"あじろ",
-    "roma":"ajiro"
   },
   "013":{
     "code":"013",

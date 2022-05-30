@@ -41,54 +41,12 @@
     "hira":"うらさ",
     "roma":"urasa"
   },
-  "008":{
-    "code":"008",
-    "name":"藪神",
-    "kana":"ヤブカミ",
-    "hira":"やぶかみ",
-    "roma":"yabukami"
-  },
-  "009":{
-    "code":"009",
-    "name":"大崎",
-    "kana":"オオサキ",
-    "hira":"おおさき",
-    "roma":"oosaki"
-  },
-  "010":{
-    "code":"010",
-    "name":"東",
-    "kana":"ヒガシ",
-    "hira":"ひがし",
-    "roma":"higashi"
-  },
-  "011":{
-    "code":"011",
-    "name":"石打",
-    "kana":"イシウチ",
-    "hira":"いしうち",
-    "roma":"ishiuchi"
-  },
   "012":{
     "code":"012",
     "name":"塩沢",
     "kana":"シオザワ",
     "hira":"しおざわ",
     "roma":"shiozawa"
-  },
-  "013":{
-    "code":"013",
-    "name":"中之島",
-    "kana":"ナカノシマ",
-    "hira":"なかのしま",
-    "roma":"nakanoshima"
-  },
-  "014":{
-    "code":"014",
-    "name":"上田",
-    "kana":"ウエダ",
-    "hira":"うえだ",
-    "roma":"ueda"
   },
   "015":{
     "code":"015",

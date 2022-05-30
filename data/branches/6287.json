@@ -125,25 +125,11 @@
     "hira":"つけち",
     "roma":"tsukechi"
   },
-  "056":{
-    "code":"056",
-    "name":"大門",
-    "kana":"ダイモン",
-    "hira":"だいもん",
-    "roma":"daimon"
-  },
   "057":{
     "code":"057",
     "name":"福岡",
     "kana":"フクオカ",
     "hira":"ふくおか",
     "roma":"fukuoka"
-  },
-  "059":{
-    "code":"059",
-    "name":"下野",
-    "kana":"シモノ",
-    "hira":"しもの",
-    "roma":"shimono"
   }
 }
