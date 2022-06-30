@@ -19,19 +19,5 @@
     "kana":"キジヨウ",
     "hira":"きじよう",
     "roma":"kijiyou"
-  },
-  "005":{
-    "code":"005",
-    "name":"新田出張所",
-    "kana":"ニユウタ",
-    "hira":"にゆうた",
-    "roma":"niyuuta"
-  },
-  "006":{
-    "code":"006",
-    "name":"上新田出張所",
-    "kana":"カミニユウタ",
-    "hira":"かみにゆうた",
-    "roma":"kaminiyuuta"
   }
 }

@@ -389,12 +389,6 @@
   kana: ヤカゲ
   hira: やかげ
   roma: yakage
-'156':
-  code: '156'
-  name: 熊谷
-  kana: クマタニ
-  hira: くまたに
-  roma: kumatani
 '157':
   code: '157'
   name: 新見駅前
@@ -437,12 +431,6 @@
   kana: ヤガミ
   hira: やがみ
   roma: yagami
-'164':
-  code: '164'
-  name: 野馳出張所
-  kana: ノチ
-  hira: のち
-  roma: nochi
 '165':
   code: '165'
   name: 哲多
@@ -497,12 +485,6 @@
   kana: ツヤマミナミ
   hira: つやまみなみ
   roma: tsuyamaminami
-'175':
-  code: '175'
-  name: 河辺出張所
-  kana: カワナベ
-  hira: かわなべ
-  roma: kawanabe
 '176':
   code: '176'
   name: 津山
@@ -515,12 +497,6 @@
   kana: ツヤマニシ
   hira: つやまにし
   roma: tsuyamanishi
-'178':
-  code: '178'
-  name: 津山北
-  kana: ツヤマキタ
-  hira: つやまきた
-  roma: tsuyamakita
 '179':
   code: '179'
   name: 鏡野
@@ -551,12 +527,6 @@
   kana: クメ
   hira: くめ
   roma: kume
-'184':
-  code: '184'
-  name: 旭
-  kana: アサヒ
-  hira: あさひ
-  roma: asahi
 '185':
   code: '185'
   name: 久米南

@@ -20,26 +20,12 @@
     "hira":"かもな",
     "roma":"kamona"
   },
-  "106":{
-    "code":"106",
-    "name":"渭東",
-    "kana":"イトウ",
-    "hira":"いとう",
-    "roma":"itou"
-  },
   "107":{
     "code":"107",
     "name":"眉山",
     "kana":"ビザン",
     "hira":"びざん",
     "roma":"bizan"
-  },
-  "109":{
-    "code":"109",
-    "name":"不動",
-    "kana":"フドウ",
-    "hira":"ふどう",
-    "roma":"fudou"
   },
   "111":{
     "code":"111",
@@ -55,20 +41,6 @@
     "hira":"こくふ",
     "roma":"kokufu"
   },
-  "113":{
-    "code":"113",
-    "name":"北井上",
-    "kana":"キタイノウエ",
-    "hira":"きたいのうえ",
-    "roma":"kitainoue"
-  },
-  "115":{
-    "code":"115",
-    "name":"応神",
-    "kana":"オウジン",
-    "hira":"おうじん",
-    "roma":"oujin"
-  },
   "116":{
     "code":"116",
     "name":"川内",
@@ -83,25 +55,11 @@
     "hira":"たから",
     "roma":"takara"
   },
-  "118":{
-    "code":"118",
-    "name":"勝占",
-    "kana":"カツラ",
-    "hira":"かつら",
-    "roma":"katsura"
-  },
   "119":{
     "code":"119",
     "name":"徳島",
     "kana":"トクシマ",
     "hira":"とくしま",
     "roma":"tokushima"
-  },
-  "120":{
-    "code":"120",
-    "name":"南井上",
-    "kana":"ミナミイノウエ",
-    "hira":"みなみいのうえ",
-    "roma":"minamiinoue"
   }
 }

@@ -76,13 +76,6 @@
     "hira":"みなみながもり",
     "roma":"minaminagamori"
   },
-  "020":{
-    "code":"020",
-    "name":"日野",
-    "kana":"ヒノ",
-    "hira":"ひの",
-    "roma":"hino"
-  },
   "022":{
     "code":"022",
     "name":"芥見",
@@ -250,20 +243,6 @@
     "kana":"マサキ",
     "hira":"まさき",
     "roma":"masaki"
-  },
-  "064":{
-    "code":"064",
-    "name":"下中",
-    "kana":"シモナカ",
-    "hira":"しもなか",
-    "roma":"shimonaka"
-  },
-  "065":{
-    "code":"065",
-    "name":"桑原",
-    "kana":"クワバラ",
-    "hira":"くわばら",
-    "roma":"kuwabara"
   },
   "066":{
     "code":"066",

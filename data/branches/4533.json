@@ -20,20 +20,6 @@
     "hira":"きた",
     "roma":"kita"
   },
-  "006":{
-    "code":"006",
-    "name":"久野",
-    "kana":"クノ",
-    "hira":"くの",
-    "roma":"kuno"
-  },
-  "007":{
-    "code":"007",
-    "name":"筑波",
-    "kana":"ツクバ",
-    "hira":"つくば",
-    "roma":"tsukuba"
-  },
   "008":{
     "code":"008",
     "name":"山辺",
@@ -47,13 +33,6 @@
     "kana":"ミクリヤ",
     "hira":"みくりや",
     "roma":"mikuriya"
-  },
-  "010":{
-    "code":"010",
-    "name":"梁田",
-    "kana":"ヤナダ",
-    "hira":"やなだ",
-    "roma":"yanada"
   },
   "012":{
     "code":"012",

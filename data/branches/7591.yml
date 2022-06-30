@@ -17,18 +17,6 @@
   kana: タイジ
   hira: たいじ
   roma: taiji
-'010':
-  code: '010'
-  name: 北山
-  kana: キタヤマ
-  hira: きたやま
-  roma: kitayama
-'012':
-  code: '012'
-  name: 本宮
-  kana: ホングウ
-  hira: ほんぐう
-  roma: honguu
 '014':
   code: '014'
   name: 新宮
@@ -47,9 +35,3 @@
   kana: ニシムカイ
   hira: にしむかい
   roma: nishimukai
-'024':
-  code: '024'
-  name: 明神
-  kana: ミヨウジン
-  hira: みようじん
-  roma: miyoujin
