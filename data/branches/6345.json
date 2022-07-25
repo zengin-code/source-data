@@ -181,13 +181,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "101":{
-    "code":"101",
-    "name":"伊豆太陽地区",
-    "kana":"イズタイヨウチク",
-    "hira":"いずたいようちく",
-    "roma":"izutaiyouchiku"
-  },
   "103":{
     "code":"103",
     "name":"下田北",
@@ -314,13 +307,6 @@
     "hira":"につた",
     "roma":"nitsuta"
   },
-  "301":{
-    "code":"301",
-    "name":"伊豆の国地区",
-    "kana":"イズノクニチク",
-    "hira":"いずのくにちく",
-    "roma":"izunokunichiku"
-  },
   "302":{
     "code":"302",
     "name":"韮山",
@@ -391,13 +377,6 @@
     "hira":"はつま",
     "roma":"hatsuma"
   },
-  "401":{
-    "code":"401",
-    "name":"あいら伊豆地区",
-    "kana":"アイライズチク",
-    "hira":"あいらいずちく",
-    "roma":"airaizuchiku"
-  },
   "402":{
     "code":"402",
     "name":"富士見",
@@ -453,13 +432,6 @@
     "kana":"アタミ",
     "hira":"あたみ",
     "roma":"atami"
-  },
-  "501":{
-    "code":"501",
-    "name":"御殿場地区",
-    "kana":"ゴテンバチク",
-    "hira":"ごてんばちく",
-    "roma":"gotembachiku"
   },
   "502":{
     "code":"502",
@@ -698,13 +670,6 @@
     "kana":"フジカワ",
     "hira":"ふじかわ",
     "roma":"fujikawa"
-  },
-  "701":{
-    "code":"701",
-    "name":"富士宮地区",
-    "kana":"フジノミヤチク",
-    "hira":"ふじのみやちく",
-    "roma":"fujinomiyachiku"
   },
   "702":{
     "code":"702",

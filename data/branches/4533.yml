@@ -25,10 +25,10 @@
   roma: yamabe
 '009':
   code: '009'
-  name: 御厨
-  kana: ミクリヤ
-  hira: みくりや
-  roma: mikuriya
+  name: 南
+  kana: ミナミ
+  hira: みなみ
+  roma: minami
 '012':
   code: '012'
   name: 西
@@ -43,7 +43,7 @@
   roma: sakanishi
 '100':
   code: '100'
-  name: 本所
-  kana: ホンシヨ
-  hira: ほんしよ
-  roma: honshiyo
+  name: 本店
+  kana: ホンテン
+  hira: ほんてん
+  roma: honten

@@ -146,20 +146,6 @@
     "hira":"よなしろ",
     "roma":"yonashiro"
   },
-  "261":{
-    "code":"261",
-    "name":"豊原",
-    "kana":"トヨハラ",
-    "hira":"とよはら",
-    "roma":"toyohara"
-  },
-  "262":{
-    "code":"262",
-    "name":"赤道",
-    "kana":"アカミチ",
-    "hira":"あかみち",
-    "roma":"akamichi"
-  },
   "269":{
     "code":"269",
     "name":"具志川",
@@ -250,20 +236,6 @@
     "kana":"ガクエンドオリ",
     "hira":"がくえんどおり",
     "roma":"gakuendoori"
-  },
-  "333":{
-    "code":"333",
-    "name":"内間",
-    "kana":"ウチマ",
-    "hira":"うちま",
-    "roma":"uchima"
-  },
-  "335":{
-    "code":"335",
-    "name":"沢岻",
-    "kana":"タクシ",
-    "hira":"たくし",
-    "roma":"takushi"
   },
   "337":{
     "code":"337",

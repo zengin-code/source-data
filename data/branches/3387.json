@@ -6,47 +6,12 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "020":{
-    "code":"020",
-    "name":"弘前",
-    "kana":"ヒロサキ",
-    "hira":"ひろさき",
-    "roma":"hirosaki"
-  },
-  "050":{
-    "code":"050",
-    "name":"船沢",
-    "kana":"フナザワ",
-    "hira":"ふなざわ",
-    "roma":"funazawa"
-  },
   "080":{
     "code":"080",
     "name":"弘前北",
     "kana":"ヒロサキキタ",
     "hira":"ひろさききた",
     "roma":"hirosakikita"
-  },
-  "090":{
-    "code":"090",
-    "name":"十腰内",
-    "kana":"トコシナイ",
-    "hira":"とこしない",
-    "roma":"tokoshinai"
-  },
-  "130":{
-    "code":"130",
-    "name":"和徳",
-    "kana":"ワツトク",
-    "hira":"わつとく",
-    "roma":"watsutoku"
-  },
-  "180":{
-    "code":"180",
-    "name":"薬師堂",
-    "kana":"ヤクシドウ",
-    "hira":"やくしどう",
-    "roma":"yakushidou"
   },
   "190":{
     "code":"190",
@@ -103,12 +68,5 @@
     "kana":"オオワニ",
     "hira":"おおわに",
     "roma":"oowani"
-  },
-  "350":{
-    "code":"350",
-    "name":"碇ヶ関",
-    "kana":"イカリガセキ",
-    "hira":"いかりがせき",
-    "roma":"ikarigaseki"
   }
 }
