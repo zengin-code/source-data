@@ -78,30 +78,9 @@
   },
   "026":{
     "code":"026",
-    "name":"神戸",
-    "kana":"カンベ",
-    "hira":"かんべ",
-    "roma":"kambe"
-  },
-  "027":{
-    "code":"027",
-    "name":"橘",
-    "kana":"タチバナ",
-    "hira":"たちばな",
-    "roma":"tachibana"
-  },
-  "028":{
-    "code":"028",
-    "name":"氷見",
-    "kana":"ヒミ",
-    "hira":"ひみ",
-    "roma":"himi"
-  },
-  "029":{
-    "code":"029",
-    "name":"禎瑞",
-    "kana":"テイズイ",
-    "hira":"ていずい",
-    "roma":"teizui"
+    "name":"西条川西",
+    "kana":"サイジヨウカワニシ",
+    "hira":"さいじようかわにし",
+    "roma":"saijiyoukawanishi"
   }
 }
