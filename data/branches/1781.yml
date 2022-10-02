@@ -35,12 +35,6 @@
   kana: カラト
   hira: からと
   roma: karato
-'019':
-  code: '019'
-  name: 後田出張所
-  kana: ウシロダ
-  hira: うしろだ
-  roma: ushiroda
 '020':
   code: '020'
   name: 安岡
@@ -65,12 +59,6 @@
   kana: チヨウフ
   hira: ちようふ
   roma: chiyoufu
-'024':
-  code: '024'
-  name: 汐入出張所
-  kana: シオイリ
-  hira: しおいり
-  roma: shioiri
 '025':
   code: '025'
   name: 一の宮

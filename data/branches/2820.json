@@ -29,17 +29,10 @@
   },
   "009":{
     "code":"009",
-    "name":"滑石",
-    "kana":"ナメシ",
-    "hira":"なめし",
-    "roma":"nameshi"
-  },
-  "012":{
-    "code":"012",
-    "name":"住吉",
-    "kana":"スミヨシ",
-    "hira":"すみよし",
-    "roma":"sumiyoshi"
+    "name":"北",
+    "kana":"キタ",
+    "hira":"きた",
+    "roma":"kita"
   },
   "014":{
     "code":"014",

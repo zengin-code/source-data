@@ -13,20 +13,6 @@
     "hira":"ふくろいみなみ",
     "roma":"fukuroiminami"
   },
-  "003":{
-    "code":"003",
-    "name":"袋井東",
-    "kana":"フクロイヒガシ",
-    "hira":"ふくろいひがし",
-    "roma":"fukuroihigashi"
-  },
-  "006":{
-    "code":"006",
-    "name":"三川",
-    "kana":"ミツカワ",
-    "hira":"みつかわ",
-    "roma":"mitsukawa"
-  },
   "008":{
     "code":"008",
     "name":"山梨",
@@ -117,13 +103,6 @@
     "kana":"フクデ",
     "hira":"ふくで",
     "roma":"fukude"
-  },
-  "052":{
-    "code":"052",
-    "name":"豊浜",
-    "kana":"トヨハマ",
-    "hira":"とよはま",
-    "roma":"toyohama"
   },
   "057":{
     "code":"057",
