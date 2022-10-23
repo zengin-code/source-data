@@ -601,6 +601,13 @@
     "hira":"きかんとうしか",
     "roma":"kikantoushika"
   },
+  "125":{
+    "code":"125",
+    "name":"本店法人コンサルティング部",
+    "kana":"ホンテンホウジンコンサルブ",
+    "hira":"ほんてんほうじんこんさるぶ",
+    "roma":"hontenhoujinkonsarubu"
+  },
   "129":{
     "code":"129",
     "name":"ライフプランサービス部",
@@ -1126,6 +1133,13 @@
     "hira":"なごやえいぎようごごせ",
     "roma":"nagoyaeigiyougogose"
   },
+  "571":{
+    "code":"571",
+    "name":"名古屋法人コンサルティング部",
+    "kana":"ナゴヤホウジンコンサルブ",
+    "hira":"なごやほうじんこんさるぶ",
+    "roma":"nagoyahoujinkonsarubu"
+  },
   "591":{
     "code":"591",
     "name":"鳥取島根法人５９１",
@@ -1209,6 +1223,13 @@
     "kana":"ロクロクキユウ",
     "hira":"ろくろくきゆう",
     "roma":"rokurokukiyuu"
+  },
+  "670":{
+    "code":"670",
+    "name":"大阪法人コンサルティング部",
+    "kana":"オオサカホウジンコンサルブ",
+    "hira":"おおさかほうじんこんさるぶ",
+    "roma":"oosakahoujinkonsarubu"
   },
   "701":{
     "code":"701",

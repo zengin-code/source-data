@@ -1,87 +1,24 @@
 {
   "001":{
     "code":"001",
-    "name":"本所",
-    "kana":"ホンシヨ",
-    "hira":"ほんしよ",
-    "roma":"honshiyo"
-  },
-  "002":{
-    "code":"002",
-    "name":"源",
-    "kana":"ミナモト",
-    "hira":"みなもと",
-    "roma":"minamoto"
-  },
-  "004":{
-    "code":"004",
-    "name":"飯野",
-    "kana":"イイノ",
-    "hira":"いいの",
-    "roma":"iino"
-  },
-  "005":{
-    "code":"005",
-    "name":"在家塚",
-    "kana":"ザイケヅカ",
-    "hira":"ざいけづか",
-    "roma":"zaikeduka"
-  },
-  "008":{
-    "code":"008",
-    "name":"百田",
-    "kana":"ヒヤクタ",
-    "hira":"ひやくた",
-    "roma":"hiyakuta"
-  },
-  "009":{
-    "code":"009",
-    "name":"西野",
-    "kana":"ニシノ",
-    "hira":"にしの",
-    "roma":"nishino"
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
   },
   "010":{
     "code":"010",
-    "name":"八田",
-    "kana":"ハツタ",
-    "hira":"はつた",
-    "roma":"hatsuta"
+    "name":"白根八田",
+    "kana":"シラネハツタ",
+    "hira":"しらねはつた",
+    "roma":"shiranehatsuta"
   },
   "012":{
     "code":"012",
-    "name":"三恵",
-    "kana":"ミツエ",
-    "hira":"みつえ",
-    "roma":"mitsue"
-  },
-  "013":{
-    "code":"013",
-    "name":"鏡中条",
-    "kana":"カガミナカジヨウ",
-    "hira":"かがみなかじよう",
-    "roma":"kagaminakajiyou"
-  },
-  "015":{
-    "code":"015",
-    "name":"豊",
-    "kana":"ユタカ",
-    "hira":"ゆたか",
-    "roma":"yutaka"
-  },
-  "016":{
-    "code":"016",
-    "name":"小笠原",
-    "kana":"オガサワラ",
-    "hira":"おがさわら",
-    "roma":"ogasawara"
-  },
-  "017":{
-    "code":"017",
-    "name":"野之瀬",
-    "kana":"ノノセ",
-    "hira":"ののせ",
-    "roma":"nonose"
+    "name":"若草",
+    "kana":"ワカクサ",
+    "hira":"わかくさ",
+    "roma":"wakakusa"
   },
   "020":{
     "code":"020",
@@ -90,32 +27,11 @@
     "hira":"くしがた",
     "roma":"kushigata"
   },
-  "022":{
-    "code":"022",
-    "name":"五明",
-    "kana":"ゴメイ",
-    "hira":"ごめい",
-    "roma":"gomei"
-  },
-  "023":{
-    "code":"023",
-    "name":"落合",
-    "kana":"オチアイ",
-    "hira":"おちあい",
-    "roma":"ochiai"
-  },
-  "024":{
-    "code":"024",
-    "name":"大井",
-    "kana":"オオイ",
-    "hira":"おおい",
-    "roma":"ooi"
-  },
   "025":{
     "code":"025",
-    "name":"南湖",
-    "kana":"ナンゴ",
-    "hira":"なんご",
-    "roma":"nango"
+    "name":"甲西",
+    "kana":"コウサイ",
+    "hira":"こうさい",
+    "roma":"kousai"
   }
 }

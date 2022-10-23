@@ -25,16 +25,10 @@
   roma: uruu
 '005':
   code: '005'
-  name: 静里
-  kana: シズサト
-  hira: しずさと
-  roma: shizusato
-'006':
-  code: '006'
-  name: 綾里
-  kana: アヤサト
-  hira: あやさと
-  roma: ayasato
+  name: 大垣西
+  kana: オオガキニシ
+  hira: おおがきにし
+  roma: oogakinishi
 '007':
   code: '007'
   name: 川並
@@ -53,12 +47,6 @@
   kana: ミキ
   hira: みき
   roma: miki
-'010':
-  code: '010'
-  name: 荒崎
-  kana: アラサキ
-  hira: あらさき
-  roma: arasaki
 '011':
   code: '011'
   name: 南杭瀬

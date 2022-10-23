@@ -76,26 +76,12 @@
     "hira":"かのういわ",
     "roma":"kanouiwa"
   },
-  "042":{
-    "code":"042",
-    "name":"山梨南",
-    "kana":"ヤマナシミナミ",
-    "hira":"やまなしみなみ",
-    "roma":"yamanashiminami"
-  },
   "051":{
     "code":"051",
     "name":"韮崎",
     "kana":"ニラサキ",
     "hira":"にらさき",
     "roma":"nirasaki"
-  },
-  "052":{
-    "code":"052",
-    "name":"藤井",
-    "kana":"フジイ",
-    "hira":"ふじい",
-    "roma":"fujii"
   },
   "061":{
     "code":"061",

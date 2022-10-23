@@ -13,33 +13,12 @@
     "hira":"ままだ",
     "roma":"mamada"
   },
-  "005":{
-    "code":"005",
-    "name":"寒川",
-    "kana":"サムカワ",
-    "hira":"さむかわ",
-    "roma":"samukawa"
-  },
-  "006":{
-    "code":"006",
-    "name":"中",
-    "kana":"ナカ",
-    "hira":"なか",
-    "roma":"naka"
-  },
-  "007":{
-    "code":"007",
-    "name":"穂積",
-    "kana":"ホヅミ",
-    "hira":"ほづみ",
-    "roma":"hodumi"
-  },
   "008":{
     "code":"008",
-    "name":"豊田",
-    "kana":"トヨダ",
-    "hira":"とよだ",
-    "roma":"toyoda"
+    "name":"美田",
+    "kana":"ミタ",
+    "hira":"みた",
+    "roma":"mita"
   },
   "010":{
     "code":"010",

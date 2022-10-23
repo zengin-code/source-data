@@ -307,6 +307,20 @@
     "hira":"にしとうきよう",
     "roma":"nishitoukiyou"
   },
+  "046":{
+    "code":"046",
+    "name":"板橋法人営業部",
+    "kana":"イタバシホウジン",
+    "hira":"いたばしほうじん",
+    "roma":"itabashihoujin"
+  },
+  "047":{
+    "code":"047",
+    "name":"杉並法人営業部",
+    "kana":"スギナミホウジン",
+    "hira":"すぎなみほうじん",
+    "roma":"suginamihoujin"
+  },
   "070":{
     "code":"070",
     "name":"本店営業部",

@@ -50,17 +50,10 @@
   },
   "012":{
     "code":"012",
-    "name":"下曽我",
-    "kana":"シモソガ",
-    "hira":"しもそが",
-    "roma":"shimosoga"
-  },
-  "013":{
-    "code":"013",
-    "name":"曽我",
-    "kana":"ソガ",
-    "hira":"そが",
-    "roma":"soga"
+    "name":"曽我の里",
+    "kana":"ソガノサト",
+    "hira":"そがのさと",
+    "roma":"soganosato"
   },
   "015":{
     "code":"015",
