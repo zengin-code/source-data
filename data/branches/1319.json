@@ -334,5 +334,12 @@
     "kana":"ウノキ",
     "hira":"うのき",
     "roma":"unoki"
+  },
+  "100":{
+    "code":"100",
+    "name":"法人営業センター",
+    "kana":"ホウジンエイギヨウセンタ－",
+    "hira":"ほうじんえいぎようせんた－",
+    "roma":"houjineigiyousenta-"
   }
 }

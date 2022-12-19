@@ -7163,12 +7163,6 @@
   kana: ヒガシニホンシンギヨレン
   hira: ひがしにほんしんぎよれん
   roma: higashinihonshingiyoren
-'9463':
-  code: '9463'
-  name: 神奈川県信漁連
-  kana: カナガワケンシンギヨレン
-  hira: かながわけんしんぎよれん
-  roma: kanagawakenshingiyoren
 '9475':
   code: '9475'
   name: 京都府信漁連
@@ -7181,12 +7175,6 @@
   kana: ナギサシンギヨレン
   hira: なぎさしんぎよれん
   roma: nagisashingiyoren
-'9480':
-  code: '9480'
-  name: 鳥取県信漁連
-  kana: トツトリケンシンギヨレン
-  hira: とつとりけんしんぎよれん
-  roma: totsutorikenshingiyoren
 '9481':
   code: '9481'
   name: ＪＦしまね漁協
@@ -7213,22 +7201,16 @@
   roma: tokushimakenshingiyoren
 '9486':
   code: '9486'
-  name: 香川県信漁連
-  kana: カガワケンシンギヨレン
-  hira: かがわけんしんぎよれん
-  roma: kagawakenshingiyoren
+  name: 西日本信漁連
+  kana: ニシニホンシンギヨレン
+  hira: にしにほんしんぎよれん
+  roma: nishinihonshingiyoren
 '9487':
   code: '9487'
   name: 愛媛県信漁連
   kana: エヒメケンシンギヨレン
   hira: えひめけんしんぎよれん
   roma: ehimekenshingiyoren
-'9488':
-  code: '9488'
-  name: 高知県信漁連
-  kana: コウチケンシンギヨレン
-  hira: こうちけんしんぎよれん
-  roma: kouchikenshingiyoren
 '9489':
   code: '9489'
   name: 九州信漁連

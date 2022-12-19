@@ -1,9 +1,37 @@
 {
   "001":{
     "code":"001",
-    "name":"本所",
-    "kana":"ホンシヨ",
-    "hira":"ほんしよ",
-    "roma":"honshiyo"
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "400":{
+    "code":"400",
+    "name":"鳥取",
+    "kana":"トツトリ",
+    "hira":"とつとり",
+    "roma":"totsutori"
+  },
+  "500":{
+    "code":"500",
+    "name":"高知",
+    "kana":"コウチ",
+    "hira":"こうち",
+    "roma":"kouchi"
+  },
+  "520":{
+    "code":"520",
+    "name":"室戸",
+    "kana":"ムロト",
+    "hira":"むろと",
+    "roma":"muroto"
+  },
+  "550":{
+    "code":"550",
+    "name":"すくも湾",
+    "kana":"スクモワン",
+    "hira":"すくもわん",
+    "roma":"sukumowan"
   }
 }

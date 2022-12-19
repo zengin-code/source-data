@@ -85,24 +85,10 @@
   },
   "205":{
     "code":"205",
-    "name":"八幡",
-    "kana":"ヤハタ",
-    "hira":"やはた",
-    "roma":"yahata"
-  },
-  "206":{
-    "code":"206",
-    "name":"石内",
-    "kana":"イシウチ",
-    "hira":"いしうち",
-    "roma":"ishiuchi"
-  },
-  "207":{
-    "code":"207",
-    "name":"河内",
-    "kana":"コウチ",
-    "hira":"こうち",
-    "roma":"kouchi"
+    "name":"三和",
+    "kana":"サンワ",
+    "hira":"さんわ",
+    "roma":"sanwa"
   },
   "210":{
     "code":"210",

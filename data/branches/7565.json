@@ -22,28 +22,21 @@
   },
   "010":{
     "code":"010",
-    "name":"川辺",
-    "kana":"カワベ",
-    "hira":"かわべ",
-    "roma":"kawabe"
+    "name":"日高川",
+    "kana":"ヒダカガワ",
+    "hira":"ひだかがわ",
+    "roma":"hidakagawa"
   },
   "012":{
     "code":"012",
-    "name":"中津",
+    "name":"中津出張所",
     "kana":"ナカツ",
     "hira":"なかつ",
     "roma":"nakatsu"
   },
-  "014":{
-    "code":"014",
-    "name":"美山",
-    "kana":"ミヤマ",
-    "hira":"みやま",
-    "roma":"miyama"
-  },
   "019":{
     "code":"019",
-    "name":"龍神",
+    "name":"龍神出張所",
     "kana":"リユウジン",
     "hira":"りゆうじん",
     "roma":"riyuujin"
@@ -83,20 +76,6 @@
     "hira":"きりめ",
     "roma":"kirime"
   },
-  "032":{
-    "code":"032",
-    "name":"切目川出張所",
-    "kana":"キリメガワ",
-    "hira":"きりめがわ",
-    "roma":"kirimegawa"
-  },
-  "033":{
-    "code":"033",
-    "name":"稲原出張所",
-    "kana":"イナハラ",
-    "hira":"いなはら",
-    "roma":"inahara"
-  },
   "034":{
     "code":"034",
     "name":"梅の郷",
@@ -104,25 +83,11 @@
     "hira":"うめのさと",
     "roma":"umenosato"
   },
-  "035":{
-    "code":"035",
-    "name":"高城出張所",
-    "kana":"タカギ",
-    "hira":"たかぎ",
-    "roma":"takagi"
-  },
   "036":{
     "code":"036",
     "name":"南部出張所",
     "kana":"ミナベ",
     "hira":"みなべ",
     "roma":"minabe"
-  },
-  "037":{
-    "code":"037",
-    "name":"岩代出張所",
-    "kana":"イワシロ",
-    "hira":"いわしろ",
-    "roma":"iwashiro"
   }
 }

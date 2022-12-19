@@ -15,24 +15,17 @@
   },
   "009":{
     "code":"009",
-    "name":"相可",
-    "kana":"オオカ",
-    "hira":"おおか",
-    "roma":"ooka"
-  },
-  "010":{
-    "code":"010",
-    "name":"佐奈",
-    "kana":"サナ",
-    "hira":"さな",
-    "roma":"sana"
+    "name":"多気",
+    "kana":"タキ",
+    "hira":"たき",
+    "roma":"taki"
   },
   "013":{
     "code":"013",
-    "name":"勢和",
-    "kana":"セイワ",
-    "hira":"せいわ",
-    "roma":"seiwa"
+    "name":"多気勢和",
+    "kana":"タキセイワ",
+    "hira":"たきせいわ",
+    "roma":"takiseiwa"
   },
   "019":{
     "code":"019",

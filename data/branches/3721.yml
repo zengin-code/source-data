@@ -83,12 +83,6 @@
   kana: ワカヤナギ
   hira: わかやなぎ
   roma: wakayanagi
-'206':
-  code: '206'
-  name: アクセス有賀大岡
-  kana: アクセスアリガオオオカ
-  hira: あくせすありがおおおか
-  roma: akusesuarigaoooka
 '207':
   code: '207'
   name: 一迫
@@ -101,12 +95,6 @@
   kana: カンナリチユウオウ
   hira: かんなりちゆうおう
   roma: kannarichiyuuou
-'210':
-  code: '210'
-  name: 萩野
-  kana: ハギノ
-  hira: はぎの
-  roma: hagino
 '211':
   code: '211'
   name: 栗駒中央
@@ -119,12 +107,6 @@
   kana: オマツ
   hira: おまつ
   roma: omatsu
-'213':
-  code: '213'
-  name: 鶯沢
-  kana: ウグイスザワ
-  hira: うぐいすざわ
-  roma: uguisuzawa
 '301':
   code: '301'
   name: 志津川
