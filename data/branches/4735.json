@@ -8,10 +8,10 @@
   },
   "002":{
     "code":"002",
-    "name":"芳野",
-    "kana":"ヨシノ",
-    "hira":"よしの",
-    "roma":"yoshino"
+    "name":"初雁",
+    "kana":"ハツカリ",
+    "hira":"はつかり",
+    "roma":"hatsukari"
   },
   "004":{
     "code":"004",
@@ -54,13 +54,6 @@
     "kana":"コエド",
     "hira":"こえど",
     "roma":"koedo"
-  },
-  "014":{
-    "code":"014",
-    "name":"川越",
-    "kana":"カワゴエ",
-    "hira":"かわごえ",
-    "roma":"kawagoe"
   },
   "015":{
     "code":"015",

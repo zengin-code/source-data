@@ -203,12 +203,6 @@
   kana: マルセイ
   hira: まるせい
   roma: marusei
-'102':
-  code: '102'
-  name: 中央
-  kana: チユウオウ
-  hira: ちゆうおう
-  roma: chiyuuou
 '103':
   code: '103'
   name: 小川
@@ -269,12 +263,6 @@
   kana: ヤイヅキタ
   hira: やいづきた
   roma: yaidukita
-'117':
-  code: '117'
-  name: 前島
-  kana: マエジマ
-  hira: まえじま
-  roma: maejima
 '118':
   code: '118'
   name: 大富

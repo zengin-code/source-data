@@ -111,33 +111,12 @@
     "hira":"おみの",
     "roma":"omino"
   },
-  "031":{
-    "code":"031",
-    "name":"東吉見",
-    "kana":"ヒガシヨシミ",
-    "hira":"ひがしよしみ",
-    "roma":"higashiyoshimi"
-  },
-  "032":{
-    "code":"032",
-    "name":"南吉見",
-    "kana":"ミナミヨシミ",
-    "hira":"みなみよしみ",
-    "roma":"minamiyoshimi"
-  },
   "033":{
     "code":"033",
-    "name":"西吉見",
-    "kana":"ニシヨシミ",
-    "hira":"にしよしみ",
-    "roma":"nishiyoshimi"
-  },
-  "034":{
-    "code":"034",
-    "name":"北吉見",
-    "kana":"キタヨシミ",
-    "hira":"きたよしみ",
-    "roma":"kitayoshimi"
+    "name":"新吉見",
+    "kana":"シンヨシミ",
+    "hira":"しんよしみ",
+    "roma":"shinyoshimi"
   },
   "035":{
     "code":"035",

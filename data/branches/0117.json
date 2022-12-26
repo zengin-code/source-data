@@ -183,10 +183,10 @@
   },
   "201":{
     "code":"201",
-    "name":"弘前",
-    "kana":"ヒロサキ",
-    "hira":"ひろさき",
-    "roma":"hirosaki"
+    "name":"親方町",
+    "kana":"オヤカタマチ",
+    "hira":"おやかたまち",
+    "roma":"oyakatamachi"
   },
   "202":{
     "code":"202",
@@ -225,10 +225,10 @@
   },
   "208":{
     "code":"208",
-    "name":"城東",
-    "kana":"ジヨウトウ",
-    "hira":"じようとう",
-    "roma":"jiyoutou"
+    "name":"弘前東",
+    "kana":"ヒロサキヒガシ",
+    "hira":"ひろさきひがし",
+    "roma":"hirosakihigashi"
   },
   "209":{
     "code":"209",
@@ -237,19 +237,12 @@
     "hira":"とみた",
     "roma":"tomita"
   },
-  "210":{
-    "code":"210",
-    "name":"城西出張所",
-    "kana":"ジヨウセイ",
-    "hira":"じようせい",
-    "roma":"jiyousei"
-  },
   "211":{
     "code":"211",
-    "name":"堅田",
-    "kana":"カタダ",
-    "hira":"かただ",
-    "roma":"katada"
+    "name":"北大通",
+    "kana":"キタオオドオリ",
+    "hira":"きたおおどおり",
+    "roma":"kitaoodoori"
   },
   "212":{
     "code":"212",
@@ -260,10 +253,10 @@
   },
   "214":{
     "code":"214",
-    "name":"松原",
-    "kana":"マツバラ",
-    "hira":"まつばら",
-    "roma":"matsubara"
+    "name":"松原東",
+    "kana":"マツバラヒガシ",
+    "hira":"まつばらひがし",
+    "roma":"matsubarahigashi"
   },
   "301":{
     "code":"301",
@@ -285,13 +278,6 @@
     "kana":"サメ",
     "hira":"さめ",
     "roma":"same"
-  },
-  "306":{
-    "code":"306",
-    "name":"下組町",
-    "kana":"シモクミチヨウ",
-    "hira":"しもくみちよう",
-    "roma":"shimokumichiyou"
   },
   "307":{
     "code":"307",
@@ -386,10 +372,10 @@
   },
   "404":{
     "code":"404",
-    "name":"浪岡",
-    "kana":"ナミオカ",
-    "hira":"なみおか",
-    "roma":"namioka"
+    "name":"浪岡中央",
+    "kana":"ナミオカチユウオウ",
+    "hira":"なみおかちゆうおう",
+    "roma":"namiokachiyuuou"
   },
   "406":{
     "code":"406",
@@ -421,10 +407,10 @@
   },
   "505":{
     "code":"505",
-    "name":"金木",
-    "kana":"カナギ",
-    "hira":"かなぎ",
-    "roma":"kanagi"
+    "name":"金木中央",
+    "kana":"カナギチユウオウ",
+    "hira":"かなぎちゆうおう",
+    "roma":"kanagichiyuuou"
   },
   "506":{
     "code":"506",
@@ -470,10 +456,10 @@
   },
   "603":{
     "code":"603",
-    "name":"七戸",
-    "kana":"シチノヘ",
-    "hira":"しちのへ",
-    "roma":"shichinohe"
+    "name":"七戸中央",
+    "kana":"シチノヘチユウオウ",
+    "hira":"しちのへちゆうおう",
+    "roma":"shichinohechiyuuou"
   },
   "604":{
     "code":"604",
@@ -512,10 +498,10 @@
   },
   "609":{
     "code":"609",
-    "name":"六ヶ所",
-    "kana":"ロツカシヨ",
-    "hira":"ろつかしよ",
-    "roma":"rotsukashiyo"
+    "name":"六ケ所中央",
+    "kana":"ロツカシヨチユウオウ",
+    "hira":"ろつかしよちゆうおう",
+    "roma":"rotsukashiyochiyuuou"
   },
   "611":{
     "code":"611",
@@ -554,10 +540,10 @@
   },
   "704":{
     "code":"704",
-    "name":"大畑出張所",
-    "kana":"オオハタ",
-    "hira":"おおはた",
-    "roma":"oohata"
+    "name":"むつ大畑出張所",
+    "kana":"ムツオオハタ",
+    "hira":"むつおおはた",
+    "roma":"mutsuoohata"
   },
   "705":{
     "code":"705",
@@ -603,31 +589,31 @@
   },
   "901":{
     "code":"901",
-    "name":"大館",
-    "kana":"オオダテ",
-    "hira":"おおだて",
-    "roma":"oodate"
+    "name":"大館中央",
+    "kana":"オオダテチユウオウ",
+    "hira":"おおだてちゆうおう",
+    "roma":"oodatechiyuuou"
   },
   "903":{
     "code":"903",
-    "name":"能代",
-    "kana":"ノシロ",
-    "hira":"のしろ",
-    "roma":"noshiro"
+    "name":"能代中央",
+    "kana":"ノシロチユウオウ",
+    "hira":"のしろちゆうおう",
+    "roma":"noshirochiyuuou"
   },
   "911":{
     "code":"911",
-    "name":"函館",
-    "kana":"ハコダテ",
-    "hira":"はこだて",
-    "roma":"hakodate"
+    "name":"梁川町",
+    "kana":"ヤナガワチヨウ",
+    "hira":"やながわちよう",
+    "roma":"yanagawachiyou"
   },
   "912":{
     "code":"912",
-    "name":"札幌",
-    "kana":"サツポロ",
-    "hira":"さつぽろ",
-    "roma":"satsuporo"
+    "name":"札幌中央",
+    "kana":"サツポロチユウオウ",
+    "hira":"さつぽろちゆうおう",
+    "roma":"satsuporochiyuuou"
   },
   "915":{
     "code":"915",
@@ -652,17 +638,17 @@
   },
   "941":{
     "code":"941",
-    "name":"盛岡",
-    "kana":"モリオカ",
-    "hira":"もりおか",
-    "roma":"morioka"
+    "name":"盛岡中央",
+    "kana":"モリオカチユウオウ",
+    "hira":"もりおかちゆうおう",
+    "roma":"moriokachiyuuou"
   },
   "971":{
     "code":"971",
-    "name":"あおぎんネット",
-    "kana":"アオギンネツト",
-    "hira":"あおぎんねつと",
-    "roma":"aoginnetsuto"
+    "name":"あおもりネット",
+    "kana":"アオモリネツト",
+    "hira":"あおもりねつと",
+    "roma":"aomorinetsuto"
   },
   "982":{
     "code":"982",
