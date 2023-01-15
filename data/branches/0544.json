@@ -279,13 +279,6 @@
     "hira":"いなざわ",
     "roma":"inazawa"
   },
-  "303":{
-    "code":"303",
-    "name":"津島",
-    "kana":"ツシマ",
-    "hira":"つしま",
-    "roma":"tsushima"
-  },
   "304":{
     "code":"304",
     "name":"岡崎",
@@ -454,19 +447,26 @@
     "hira":"いぬやま",
     "roma":"inuyama"
   },
-  "334":{
-    "code":"334",
-    "name":"晴丘",
-    "kana":"ハルオカ",
-    "hira":"はるおか",
-    "roma":"haruoka"
-  },
   "335":{
     "code":"335",
     "name":"高蔵寺",
     "kana":"コウゾウジ",
     "hira":"こうぞうじ",
     "roma":"kouzouji"
+  },
+  "371":{
+    "code":"371",
+    "name":"津島中央",
+    "kana":"ツシマチユウオウ",
+    "hira":"つしまちゆうおう",
+    "roma":"tsushimachiyuuou"
+  },
+  "388":{
+    "code":"388",
+    "name":"晴丘",
+    "kana":"ハルオカ",
+    "hira":"はるおか",
+    "roma":"haruoka"
   },
   "501":{
     "code":"501",
