@@ -25,10 +25,10 @@
   roma: jiyoutou
 '014':
   code: '014'
-  name: 本店営業部
-  kana: ホンテン
-  hira: ほんてん
-  roma: honten
+  name: 青森中央営業部
+  kana: アオモリチユウオウ
+  hira: あおもりちゆうおう
+  roma: aomorichiyuuou
 '016':
   code: '016'
   name: 国道
@@ -47,12 +47,6 @@
   kana: サカエマチ
   hira: さかえまち
   roma: sakaemachi
-'019':
-  code: '019'
-  name: 青森南
-  kana: アオモリミナミ
-  hira: あおもりみなみ
-  roma: aomoriminami
 '022':
   code: '022'
   name: 大鰐
@@ -91,10 +85,10 @@
   roma: koyanagi
 '029':
   code: '029'
-  name: 浅虫
-  kana: アサムシ
-  hira: あさむし
-  roma: asamushi
+  name: 浅虫温泉
+  kana: アサムシオンセン
+  hira: あさむしおんせん
+  roma: asamushionsen
 '030':
   code: '030'
   name: 五所川原
@@ -151,10 +145,10 @@
   roma: ajigasawa
 '039':
   code: '039'
-  name: 深浦
-  kana: フカウラ
-  hira: ふかうら
-  roma: fukaura
+  name: 深浦北
+  kana: フカウラキタ
+  hira: ふかうらきた
+  roma: fukaurakita
 '040':
   code: '040'
   name: 青森
@@ -163,22 +157,16 @@
   roma: aomori
 '042':
   code: '042'
-  name: 古川
-  kana: フルカワ
-  hira: ふるかわ
-  roma: furukawa
+  name: 青森古川
+  kana: アオモリフルカワ
+  hira: あおもりふるかわ
+  roma: aomorifurukawa
 '043':
   code: '043'
   name: 浪打
   kana: ナミウチ
   hira: なみうち
   roma: namiuchi
-'044':
-  code: '044'
-  name: 桜川
-  kana: サクラガワ
-  hira: さくらがわ
-  roma: sakuragawa
 '045':
   code: '045'
   name: 浪館通
@@ -211,10 +199,10 @@
   roma: asahigaoka
 '051':
   code: '051'
-  name: むつ
-  kana: ムツ
-  hira: むつ
-  roma: mutsu
+  name: むつ中央
+  kana: ムツチユウオウ
+  hira: むつちゆうおう
+  roma: mutsuchiyuuou
 '052':
   code: '052'
   name: 六ヶ所
@@ -229,10 +217,10 @@
   roma: oohata
 '054':
   code: '054'
-  name: 野辺地
-  kana: ノヘジ
-  hira: のへじ
-  roma: noheji
+  name: 野辺地中央
+  kana: ノヘジチユウオウ
+  hira: のへじちゆうおう
+  roma: nohejichiyuuou
 '055':
   code: '055'
   name: 三沢
@@ -241,10 +229,10 @@
   roma: misawa
 '056':
   code: '056'
-  name: 十和田
-  kana: トワダ
-  hira: とわだ
-  roma: towada
+  name: 十和田中央
+  kana: トワダチユウオウ
+  hira: とわだちゆうおう
+  roma: towadachiyuuou
 '057':
   code: '057'
   name: 七戸
@@ -253,22 +241,22 @@
   roma: shichinohe
 '058':
   code: '058'
-  name: 五戸
-  kana: ゴノヘ
-  hira: ごのへ
-  roma: gonohe
+  name: 五戸中央
+  kana: ゴノヘチユウオウ
+  hira: ごのへちゆうおう
+  roma: gonohechiyuuou
 '059':
   code: '059'
-  name: 三戸
-  kana: サンノヘ
-  hira: さんのへ
-  roma: sannohe
+  name: 三戸南部
+  kana: サンノヘナンブ
+  hira: さんのへなんぶ
+  roma: sannohenambu
 '060':
   code: '060'
-  name: 八戸営業部
-  kana: ハチノヘ
-  hira: はちのへ
-  roma: hachinohe
+  name: 八戸中央営業部
+  kana: ハチノヘチユウオウ
+  hira: はちのへちゆうおう
+  roma: hachinohechiyuuou
 '061':
   code: '061'
   name: 柳町
@@ -343,10 +331,10 @@
   roma: kawaragi
 '077':
   code: '077'
-  name: 南部
-  kana: ナンブ
-  hira: なんぶ
-  roma: nambu
+  name: 南部中央
+  kana: ナンブチユウオウ
+  hira: なんぶちゆうおう
+  roma: nambuchiyuuou
 '078':
   code: '078'
   name: 穂並
@@ -421,10 +409,10 @@
   roma: kameda
 '095':
   code: '095'
-  name: 仙台
-  kana: センダイ
-  hira: せんだい
-  roma: sendai
+  name: 仙台一番町
+  kana: センダイイチバンチヨウ
+  hira: せんだいいちばんちよう
+  roma: sendaiichibanchiyou
 '096':
   code: '096'
   name: 三内
@@ -439,10 +427,10 @@
   roma: ishie
 '098':
   code: '098'
-  name: 東京
-  kana: トウキヨウ
-  hira: とうきよう
-  roma: toukiyou
+  name: 東京中央
+  kana: トウキヨウチユウオウ
+  hira: とうきようちゆうおう
+  roma: toukiyouchiyuuou
 '101':
   code: '101'
   name: 金沢
@@ -503,12 +491,6 @@
   kana: ツクダ
   hira: つくだ
   roma: tsukuda
-'123':
-  code: '123'
-  name: 筒井
-  kana: ツツイ
-  hira: つつい
-  roma: tsutsui
 '124':
   code: '124'
   name: 根城
@@ -541,10 +523,10 @@
   roma: kikiyou
 '134':
   code: '134'
-  name: 八戸ニュータウン出張所
-  kana: ハチノヘニユ－タウン
-  hira: はちのへにゆ－たうん
-  roma: hachinoheniyu-taun
+  name: 白山台出張所
+  kana: ハクサンダイ
+  hira: はくさんだい
+  roma: hakusandai
 '135':
   code: '135'
   name: 田向
@@ -563,3 +545,21 @@
   kana: タナブ
   hira: たなぶ
   roma: tanabu
+'152':
+  code: '152'
+  name: 青森南
+  kana: アオモリミナミ
+  hira: あおもりみなみ
+  roma: aomoriminami
+'154':
+  code: '154'
+  name: 桜川通り
+  kana: サクラガワドオリ
+  hira: さくらがわどおり
+  roma: sakuragawadoori
+'160':
+  code: '160'
+  name: 桜川筒井
+  kana: サクラガワツツイ
+  hira: さくらがわつつい
+  roma: sakuragawatsutsui

@@ -27,26 +27,12 @@
     "hira":"けんぐん",
     "roma":"kengun"
   },
-  "008":{
-    "code":"008",
-    "name":"画図",
-    "kana":"エズ",
-    "hira":"えず",
-    "roma":"ezu"
-  },
   "009":{
     "code":"009",
     "name":"南部",
     "kana":"ナンブ",
     "hira":"なんぶ",
     "roma":"nambu"
-  },
-  "010":{
-    "code":"010",
-    "name":"御幸",
-    "kana":"ミユキ",
-    "hira":"みゆき",
-    "roma":"miyuki"
   },
   "011":{
     "code":"011",

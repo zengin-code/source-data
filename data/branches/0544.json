@@ -64,10 +64,10 @@
   },
   "131":{
     "code":"131",
-    "name":"大曽根",
-    "kana":"オオゾネ",
-    "hira":"おおぞね",
-    "roma":"oozone"
+    "name":"大曽根中央",
+    "kana":"オオゾネチユウオウ",
+    "hira":"おおぞねちゆうおう",
+    "roma":"oozonechiyuuou"
   },
   "132":{
     "code":"132",
@@ -85,17 +85,17 @@
   },
   "134":{
     "code":"134",
-    "name":"楠町",
-    "kana":"クスノキチヨウ",
-    "hira":"くすのきちよう",
-    "roma":"kusunokichiyou"
+    "name":"楠町中央",
+    "kana":"クスノキチヨウチユウオウ",
+    "hira":"くすのきちようちゆうおう",
+    "roma":"kusunokichiyouchiyuuou"
   },
   "142":{
     "code":"142",
-    "name":"浄心",
-    "kana":"ジヨウシン",
-    "hira":"じようしん",
-    "roma":"jiyoushin"
+    "name":"浄心中央",
+    "kana":"ジヨウシンチユウオウ",
+    "hira":"じようしんちゆうおう",
+    "roma":"jiyoushinchiyuuou"
   },
   "143":{
     "code":"143",
@@ -272,13 +272,6 @@
     "hira":"もりやま",
     "roma":"moriyama"
   },
-  "302":{
-    "code":"302",
-    "name":"稲沢",
-    "kana":"イナザワ",
-    "hira":"いなざわ",
-    "roma":"inazawa"
-  },
   "304":{
     "code":"304",
     "name":"岡崎",
@@ -370,13 +363,6 @@
     "hira":"とよあけ",
     "roma":"toyoake"
   },
-  "318":{
-    "code":"318",
-    "name":"大府",
-    "kana":"オオブ",
-    "hira":"おおぶ",
-    "roma":"oobu"
-  },
   "319":{
     "code":"319",
     "name":"一宮南",
@@ -397,13 +383,6 @@
     "kana":"コウナン",
     "hira":"こうなん",
     "roma":"kounan"
-  },
-  "322":{
-    "code":"322",
-    "name":"小牧",
-    "kana":"コマキ",
-    "hira":"こまき",
-    "roma":"komaki"
   },
   "323":{
     "code":"323",
@@ -454,12 +433,33 @@
     "hira":"こうぞうじ",
     "roma":"kouzouji"
   },
+  "370":{
+    "code":"370",
+    "name":"稲沢中央",
+    "kana":"イナザワチユウオウ",
+    "hira":"いなざわちゆうおう",
+    "roma":"inazawachiyuuou"
+  },
   "371":{
     "code":"371",
     "name":"津島中央",
     "kana":"ツシマチユウオウ",
     "hira":"つしまちゆうおう",
     "roma":"tsushimachiyuuou"
+  },
+  "379":{
+    "code":"379",
+    "name":"大府中央",
+    "kana":"オオブチユウオウ",
+    "hira":"おおぶちゆうおう",
+    "roma":"oobuchiyuuou"
+  },
+  "382":{
+    "code":"382",
+    "name":"小牧中央",
+    "kana":"コマキチユウオウ",
+    "hira":"こまきちゆうおう",
+    "roma":"komakichiyuuou"
   },
   "388":{
     "code":"388",
