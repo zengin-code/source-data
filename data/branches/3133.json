@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "002":{
-    "code":"002",
-    "name":"菊水元町",
-    "kana":"キクスイモトマチ",
-    "hira":"きくすいもとまち",
-    "roma":"kikusuimotomachi"
-  },
   "004":{
     "code":"004",
     "name":"南",
@@ -61,13 +54,6 @@
     "kana":"チユウオウ",
     "hira":"ちゆうおう",
     "roma":"chiyuuou"
-  },
-  "020":{
-    "code":"020",
-    "name":"月寒",
-    "kana":"ツキサム",
-    "hira":"つきさむ",
-    "roma":"tsukisamu"
   },
   "021":{
     "code":"021",

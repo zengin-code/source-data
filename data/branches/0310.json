@@ -90,6 +90,13 @@
     "hira":"まにも",
     "roma":"manimo"
   },
+  "321":{
+    "code":"321",
+    "name":"ハビト",
+    "kana":"ハビト",
+    "hira":"はびと",
+    "roma":"habito"
+  },
   "401":{
     "code":"401",
     "name":"ペイトナー",
@@ -796,5 +803,19 @@
     "kana":"アルデバラン",
     "hira":"あるでばらん",
     "roma":"arudebaran"
+  },
+  "601":{
+    "code":"601",
+    "name":"くずきり",
+    "kana":"クズキリ",
+    "hira":"くずきり",
+    "roma":"kuzukiri"
+  },
+  "602":{
+    "code":"602",
+    "name":"わらびもち",
+    "kana":"ワラビモチ",
+    "hira":"わらびもち",
+    "roma":"warabimochi"
   }
 }

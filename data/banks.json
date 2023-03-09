@@ -4437,13 +4437,6 @@
     "hira":"かごしまけんしんれん",
     "roma":"kagoshimakenshinren"
   },
-  "3056":{
-    "code":"3056",
-    "name":"北檜山町農協",
-    "kana":"キタヒヤマチヨウノウキヨウ",
-    "hira":"きたひやまちようのうきよう",
-    "roma":"kitahiyamachiyounoukiyou"
-  },
   "3058":{
     "code":"3058",
     "name":"今金町農協",
@@ -6453,26 +6446,12 @@
     "hira":"にいがたかがやきのうきよう",
     "roma":"niigatakagayakinoukiyou"
   },
-  "5631":{
-    "code":"5631",
-    "name":"にいがた南蒲農協",
-    "kana":"ニイガタナンカンノウキヨウ",
-    "hira":"にいがたなんかんのうきよう",
-    "roma":"niigatanankannoukiyou"
-  },
   "5666":{
     "code":"5666",
-    "name":"越後ながおか農協",
-    "kana":"エチゴナガオカノウキヨウ",
-    "hira":"えちごながおかのうきよう",
-    "roma":"echigonagaokanoukiyou"
-  },
-  "5685":{
-    "code":"5685",
-    "name":"越後さんとう農協",
-    "kana":"エチゴサントウノウキヨウ",
-    "hira":"えちごさんとうのうきよう",
-    "roma":"echigosantounoukiyou"
+    "name":"えちご中越農協",
+    "kana":"エチゴチユウエツノウキヨウ",
+    "hira":"えちごちゆうえつのうきよう",
+    "roma":"echigochiyuuetsunoukiyou"
   },
   "5690":{
     "code":"5690",
@@ -6508,13 +6487,6 @@
     "kana":"ツナンマチノウキヨウ",
     "hira":"つなんまちのうきよう",
     "roma":"tsunammachinoukiyou"
-  },
-  "5720":{
-    "code":"5720",
-    "name":"柏崎農協",
-    "kana":"カシワザキノウキヨウ",
-    "hira":"かしわざきのうきよう",
-    "roma":"kashiwazakinoukiyou"
   },
   "5768":{
     "code":"5768",

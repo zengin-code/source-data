@@ -125,13 +125,6 @@
     "hira":"みなみかものみや",
     "roma":"minamikamonomiya"
   },
-  "020":{
-    "code":"020",
-    "name":"沼田",
-    "kana":"ヌマタ",
-    "hira":"ぬまた",
-    "roma":"numata"
-  },
   "021":{
     "code":"021",
     "name":"大井",
@@ -183,10 +176,10 @@
   },
   "038":{
     "code":"038",
-    "name":"岡本",
-    "kana":"オカモト",
-    "hira":"おかもと",
-    "roma":"okamoto"
+    "name":"岩原プラザ",
+    "kana":"イワハラプラザ",
+    "hira":"いわはらぷらざ",
+    "roma":"iwaharapuraza"
   },
   "041":{
     "code":"041",
