@@ -13,27 +13,6 @@
     "hira":"にしぶくろ",
     "roma":"nishibukuro"
   },
-  "006":{
-    "code":"006",
-    "name":"仁井田",
-    "kana":"ニイダ",
-    "hira":"にいだ",
-    "roma":"niida"
-  },
-  "007":{
-    "code":"007",
-    "name":"稲田",
-    "kana":"イナダ",
-    "hira":"いなだ",
-    "roma":"inada"
-  },
-  "008":{
-    "code":"008",
-    "name":"大東",
-    "kana":"オオヒガシ",
-    "hira":"おおひがし",
-    "roma":"oohigashi"
-  },
   "010":{
     "code":"010",
     "name":"本店",
@@ -68,13 +47,6 @@
     "kana":"テンエイ",
     "hira":"てんえい",
     "roma":"tenei"
-  },
-  "022":{
-    "code":"022",
-    "name":"白河中央",
-    "kana":"シラカワチユウオウ",
-    "hira":"しらかわちゆうおう",
-    "roma":"shirakawachiyuuou"
   },
   "023":{
     "code":"023",

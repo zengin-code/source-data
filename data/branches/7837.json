@@ -279,26 +279,12 @@
     "hira":"そうじやひがし",
     "roma":"soujiyahigashi"
   },
-  "129":{
-    "code":"129",
-    "name":"池田",
-    "kana":"イケダ",
-    "hira":"いけだ",
-    "roma":"ikeda"
-  },
   "130":{
     "code":"130",
     "name":"総社西",
     "kana":"ソウジヤニシ",
     "hira":"そうじやにし",
     "roma":"soujiyanishi"
-  },
-  "131":{
-    "code":"131",
-    "name":"昭和",
-    "kana":"シヨウワ",
-    "hira":"しようわ",
-    "roma":"shiyouwa"
   },
   "132":{
     "code":"132",
@@ -425,13 +411,6 @@
     "kana":"カサオカ",
     "hira":"かさおか",
     "roma":"kasaoka"
-  },
-  "150":{
-    "code":"150",
-    "name":"白石島",
-    "kana":"シライシジマ",
-    "hira":"しらいしじま",
-    "roma":"shiraishijima"
   },
   "151":{
     "code":"151",
@@ -670,13 +649,6 @@
     "kana":"サクトウ",
     "hira":"さくとう",
     "roma":"sakutou"
-  },
-  "193":{
-    "code":"193",
-    "name":"英田",
-    "kana":"アイダ",
-    "hira":"あいだ",
-    "roma":"aida"
   },
   "194":{
     "code":"194",

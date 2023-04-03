@@ -64,10 +64,10 @@
   },
   "105":{
     "code":"105",
-    "name":"栄町",
-    "kana":"サカエマチ",
-    "hira":"さかえまち",
-    "roma":"sakaemachi"
+    "name":"青森東",
+    "kana":"アオモリヒガシ",
+    "hira":"あおもりひがし",
+    "roma":"aomorihigashi"
   },
   "106":{
     "code":"106",
@@ -85,10 +85,10 @@
   },
   "108":{
     "code":"108",
-    "name":"沖舘",
-    "kana":"オキダテ",
-    "hira":"おきだて",
-    "roma":"okidate"
+    "name":"篠田",
+    "kana":"シノダ",
+    "hira":"しのだ",
+    "roma":"shinoda"
   },
   "111":{
     "code":"111",
@@ -99,10 +99,10 @@
   },
   "112":{
     "code":"112",
-    "name":"石江",
-    "kana":"イシエ",
-    "hira":"いしえ",
-    "roma":"ishie"
+    "name":"青森西",
+    "kana":"アオモリニシ",
+    "hira":"あおもりにし",
+    "roma":"aomorinishi"
   },
   "114":{
     "code":"114",
@@ -113,17 +113,17 @@
   },
   "115":{
     "code":"115",
-    "name":"浪打",
-    "kana":"ナミウチ",
-    "hira":"なみうち",
-    "roma":"namiuchi"
+    "name":"浪打中央",
+    "kana":"ナミウチチユウオウ",
+    "hira":"なみうちちゆうおう",
+    "roma":"namiuchichiyuuou"
   },
   "116":{
     "code":"116",
-    "name":"浪館通",
-    "kana":"ナミダテドオリ",
-    "hira":"なみだてどおり",
-    "roma":"namidatedoori"
+    "name":"浪館",
+    "kana":"ナミダテ",
+    "hira":"なみだて",
+    "roma":"namidate"
   },
   "119":{
     "code":"119",
@@ -134,10 +134,10 @@
   },
   "120":{
     "code":"120",
-    "name":"佃",
-    "kana":"ツクダ",
-    "hira":"つくだ",
-    "roma":"tsukuda"
+    "name":"中佃",
+    "kana":"ナカツクダ",
+    "hira":"なかつくだ",
+    "roma":"nakatsukuda"
   },
   "127":{
     "code":"127",
@@ -155,17 +155,17 @@
   },
   "129":{
     "code":"129",
-    "name":"八重田",
-    "kana":"ヤエダ",
-    "hira":"やえだ",
-    "roma":"yaeda"
+    "name":"東造道",
+    "kana":"ヒガシツクリミチ",
+    "hira":"ひがしつくりみち",
+    "roma":"higashitsukurimichi"
   },
   "131":{
     "code":"131",
-    "name":"小湊",
-    "kana":"コミナト",
-    "hira":"こみなと",
-    "roma":"kominato"
+    "name":"平内",
+    "kana":"ヒラナイ",
+    "hira":"ひらない",
+    "roma":"hiranai"
   },
   "132":{
     "code":"132",
@@ -288,17 +288,17 @@
   },
   "309":{
     "code":"309",
-    "name":"城下",
-    "kana":"シロシタ",
-    "hira":"しろした",
-    "roma":"shiroshita"
+    "name":"城下中央",
+    "kana":"シロシタチユウオウ",
+    "hira":"しろしたちゆうおう",
+    "roma":"shiroshitachiyuuou"
   },
   "310":{
     "code":"310",
-    "name":"白銀",
-    "kana":"シロガネ",
-    "hira":"しろがね",
-    "roma":"shirogane"
+    "name":"鮫白銀",
+    "kana":"サメシロガネ",
+    "hira":"さめしろがね",
+    "roma":"sameshirogane"
   },
   "311":{
     "code":"311",
@@ -309,10 +309,10 @@
   },
   "312":{
     "code":"312",
-    "name":"旭ヶ丘",
-    "kana":"アサヒガオカ",
-    "hira":"あさひがおか",
-    "roma":"asahigaoka"
+    "name":"旭ヶ丘中央",
+    "kana":"アサヒガオカチユウオウ",
+    "hira":"あさひがおかちゆうおう",
+    "roma":"asahigaokachiyuuou"
   },
   "313":{
     "code":"313",
@@ -337,17 +337,17 @@
   },
   "320":{
     "code":"320",
-    "name":"類家",
-    "kana":"ルイケ",
-    "hira":"るいけ",
-    "roma":"ruike"
+    "name":"南類家",
+    "kana":"ミナミルイケ",
+    "hira":"みなみるいけ",
+    "roma":"minamiruike"
   },
   "322":{
     "code":"322",
-    "name":"八戸駅前",
-    "kana":"ハチノヘエキマエ",
-    "hira":"はちのへえきまえ",
-    "roma":"hachinoheekimae"
+    "name":"八戸西",
+    "kana":"ハチノヘニシ",
+    "hira":"はちのへにし",
+    "roma":"hachinohenishi"
   },
   "401":{
     "code":"401",
@@ -414,10 +414,10 @@
   },
   "506":{
     "code":"506",
-    "name":"木造",
-    "kana":"キヅクリ",
-    "hira":"きづくり",
-    "roma":"kidukuri"
+    "name":"つがる",
+    "kana":"ツガル",
+    "hira":"つがる",
+    "roma":"tsugaru"
   },
   "507":{
     "code":"507",

@@ -6,27 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "004":{
-    "code":"004",
-    "name":"行田西",
-    "kana":"ギヨウダニシ",
-    "hira":"ぎようだにし",
-    "roma":"giyoudanishi"
-  },
-  "007":{
-    "code":"007",
-    "name":"太田",
-    "kana":"オオタ",
-    "hira":"おおた",
-    "roma":"oota"
-  },
-  "008":{
-    "code":"008",
-    "name":"行田北",
-    "kana":"ギヨウダキタ",
-    "hira":"ぎようだきた",
-    "roma":"giyoudakita"
-  },
   "010":{
     "code":"010",
     "name":"行田中部",
@@ -34,26 +13,12 @@
     "hira":"ぎようだちゆうぶ",
     "roma":"giyoudachiyuubu"
   },
-  "012":{
-    "code":"012",
-    "name":"行田南",
-    "kana":"ギヨウダミナミ",
-    "hira":"ぎようだみなみ",
-    "roma":"giyoudaminami"
-  },
   "015":{
     "code":"015",
     "name":"行田中央",
     "kana":"ギヨウダチユウオウ",
     "hira":"ぎようだちゆうおう",
     "roma":"giyoudachiyuuou"
-  },
-  "016":{
-    "code":"016",
-    "name":"南河原",
-    "kana":"ミナミガワラ",
-    "hira":"みなみがわら",
-    "roma":"minamigawara"
   },
   "017":{
     "code":"017",
@@ -68,41 +33,6 @@
     "kana":"ハニユウチユウオウ",
     "hira":"はにゆうちゆうおう",
     "roma":"haniyuuchiyuuou"
-  },
-  "025":{
-    "code":"025",
-    "name":"羽生北",
-    "kana":"ハニユウキタ",
-    "hira":"はにゆうきた",
-    "roma":"haniyuukita"
-  },
-  "026":{
-    "code":"026",
-    "name":"手子林",
-    "kana":"テコバヤシ",
-    "hira":"てこばやし",
-    "roma":"tekobayashi"
-  },
-  "027":{
-    "code":"027",
-    "name":"須影",
-    "kana":"スカゲ",
-    "hira":"すかげ",
-    "roma":"sukage"
-  },
-  "029":{
-    "code":"029",
-    "name":"羽生東",
-    "kana":"ハニユウヒガシ",
-    "hira":"はにゆうひがし",
-    "roma":"haniyuuhigashi"
-  },
-  "030":{
-    "code":"030",
-    "name":"新郷",
-    "kana":"シンゴウ",
-    "hira":"しんごう",
-    "roma":"shingou"
   },
   "031":{
     "code":"031",

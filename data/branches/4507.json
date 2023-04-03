@@ -55,34 +55,6 @@
     "hira":"くろいそ",
     "roma":"kuroiso"
   },
-  "025":{
-    "code":"025",
-    "name":"厚崎出張所",
-    "kana":"アツサキ",
-    "hira":"あつさき",
-    "roma":"atsusaki"
-  },
-  "026":{
-    "code":"026",
-    "name":"鍋掛出張所",
-    "kana":"ナベカケ",
-    "hira":"なべかけ",
-    "roma":"nabekake"
-  },
-  "027":{
-    "code":"027",
-    "name":"東那須野",
-    "kana":"ヒガシナスノ",
-    "hira":"ひがしなすの",
-    "roma":"higashinasuno"
-  },
-  "029":{
-    "code":"029",
-    "name":"高林",
-    "kana":"タカバヤシ",
-    "hira":"たかばやし",
-    "roma":"takabayashi"
-  },
   "100":{
     "code":"100",
     "name":"本店",

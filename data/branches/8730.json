@@ -20,20 +20,6 @@
     "hira":"ぶぜん",
     "roma":"buzen"
   },
-  "015":{
-    "code":"015",
-    "name":"豊前南部",
-    "kana":"ブゼンナンブ",
-    "hira":"ぶぜんなんぶ",
-    "roma":"buzennambu"
-  },
-  "019":{
-    "code":"019",
-    "name":"吉富",
-    "kana":"ヨシトミ",
-    "hira":"よしとみ",
-    "roma":"yoshitomi"
-  },
   "021":{
     "code":"021",
     "name":"築東",
@@ -47,20 +33,6 @@
     "kana":"ホンテン",
     "hira":"ほんてん",
     "roma":"honten"
-  },
-  "102":{
-    "code":"102",
-    "name":"長峡",
-    "kana":"ナガオ",
-    "hira":"ながお",
-    "roma":"nagao"
-  },
-  "103":{
-    "code":"103",
-    "name":"中京",
-    "kana":"チユウキヨウ",
-    "hira":"ちゆうきよう",
-    "roma":"chiyuukiyou"
   },
   "105":{
     "code":"105",

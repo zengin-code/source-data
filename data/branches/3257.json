@@ -12,5 +12,12 @@
     "kana":"ヌマカワ",
     "hira":"ぬまかわ",
     "roma":"numakawa"
+  },
+  "003":{
+    "code":"003",
+    "name":"稚内",
+    "kana":"ワツカナイ",
+    "hira":"わつかない",
+    "roma":"watsukanai"
   }
 }

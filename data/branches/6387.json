@@ -20,26 +20,12 @@
     "hira":"おおさか",
     "roma":"oosaka"
   },
-  "009":{
-    "code":"009",
-    "name":"千浜",
-    "kana":"チハマ",
-    "hira":"ちはま",
-    "roma":"chihama"
-  },
   "102":{
     "code":"102",
     "name":"菊川中央",
     "kana":"キクガワチユウオウ",
     "hira":"きくがわちゆうおう",
     "roma":"kikugawachiyuuou"
-  },
-  "105":{
-    "code":"105",
-    "name":"河城",
-    "kana":"カワシロ",
-    "hira":"かわしろ",
-    "roma":"kawashiro"
   },
   "108":{
     "code":"108",

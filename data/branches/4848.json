@@ -13,26 +13,12 @@
     "hira":"にいわ",
     "roma":"niiwa"
   },
-  "005":{
-    "code":"005",
-    "name":"川通",
-    "kana":"カワドウリ",
-    "hira":"かわどうり",
-    "roma":"kawadouri"
-  },
   "006":{
     "code":"006",
     "name":"慈恩寺",
     "kana":"ジオンジ",
     "hira":"じおんじ",
     "roma":"jionji"
-  },
-  "007":{
-    "code":"007",
-    "name":"河合",
-    "kana":"カワイ",
-    "hira":"かわい",
-    "roma":"kawai"
   },
   "009":{
     "code":"009",
@@ -47,13 +33,6 @@
     "kana":"カスカベ",
     "hira":"かすかべ",
     "roma":"kasukabe"
-  },
-  "014":{
-    "code":"014",
-    "name":"春日部東",
-    "kana":"カスカベヒガシ",
-    "hira":"かすかべひがし",
-    "roma":"kasukabehigashi"
   },
   "022":{
     "code":"022",
@@ -90,25 +69,11 @@
     "hira":"おおた",
     "roma":"oota"
   },
-  "061":{
-    "code":"061",
-    "name":"菖蒲",
-    "kana":"シヨウブ",
-    "hira":"しようぶ",
-    "roma":"shiyoubu"
-  },
   "064":{
     "code":"064",
     "name":"菖蒲南",
     "kana":"シヨウブミナミ",
     "hira":"しようぶみなみ",
     "roma":"shiyoubuminami"
-  },
-  "065":{
-    "code":"065",
-    "name":"寺田",
-    "kana":"テラダ",
-    "hira":"てらだ",
-    "roma":"terada"
   }
 }

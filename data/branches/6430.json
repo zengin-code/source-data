@@ -83,13 +83,6 @@
     "hira":"こうとう",
     "roma":"koutou"
   },
-  "138":{
-    "code":"138",
-    "name":"蒲喜",
-    "kana":"ガマキ",
-    "hira":"がまき",
-    "roma":"gamaki"
-  },
   "189":{
     "code":"189",
     "name":"稲葉地",
@@ -180,13 +173,6 @@
     "kana":"モリヤマヒガシ",
     "hira":"もりやまひがし",
     "roma":"moriyamahigashi"
-  },
-  "529":{
-    "code":"529",
-    "name":"五反田",
-    "kana":"ゴタンダ",
-    "hira":"ごたんだ",
-    "roma":"gotanda"
   },
   "553":{
     "code":"553",

@@ -160,6 +160,27 @@
     "hira":"ふあいた－ず",
     "roma":"fuaita-zu"
   },
+  "305":{
+    "code":"305",
+    "name":"リノシー",
+    "kana":"リノシ－",
+    "hira":"りのし－",
+    "roma":"rinoshi-"
+  },
+  "306":{
+    "code":"306",
+    "name":"ノムコム",
+    "kana":"ノムコム",
+    "hira":"のむこむ",
+    "roma":"nomukomu"
+  },
+  "307":{
+    "code":"307",
+    "name":"みらいバンク",
+    "kana":"ミライバンク",
+    "hira":"みらいばんく",
+    "roma":"miraibanku"
+  },
   "401":{
     "code":"401",
     "name":"ひめぎん",

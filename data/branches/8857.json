@@ -20,13 +20,6 @@
     "hira":"させぼ",
     "roma":"sasebo"
   },
-  "011":{
-    "code":"011",
-    "name":"相浦",
-    "kana":"アイノウラ",
-    "hira":"あいのうら",
-    "roma":"ainoura"
-  },
   "015":{
     "code":"015",
     "name":"南部中央",
@@ -36,10 +29,10 @@
   },
   "016":{
     "code":"016",
-    "name":"佐々",
-    "kana":"サザ",
-    "hira":"さざ",
-    "roma":"saza"
+    "name":"北松",
+    "kana":"ホクシヨウ",
+    "hira":"ほくしよう",
+    "roma":"hokushiyou"
   },
   "017":{
     "code":"017",
@@ -54,13 +47,6 @@
     "kana":"オヂカ",
     "hira":"おぢか",
     "roma":"odika"
-  },
-  "026":{
-    "code":"026",
-    "name":"江迎鹿町",
-    "kana":"エムカエシカマチ",
-    "hira":"えむかえしかまち",
-    "roma":"emukaeshikamachi"
   },
   "032":{
     "code":"032",

@@ -89,12 +89,6 @@
   kana: キソガワ
   hira: きそがわ
   roma: kisogawa
-'251':
-  code: '251'
-  name: 丹陽西
-  kana: タンヨウニシ
-  hira: たんようにし
-  roma: tanyounishi
 '316':
   code: '316'
   name: 国府宮
@@ -131,12 +125,6 @@
   kana: オオサト
   hira: おおさと
   roma: oosato
-'553':
-  code: '553'
-  name: 大里東
-  kana: オオサトヒガシ
-  hira: おおさとひがし
-  roma: oosatohigashi
 '561':
   code: '561'
   name: 千代田

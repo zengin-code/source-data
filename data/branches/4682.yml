@@ -59,12 +59,6 @@
   kana: ダイモン
   hira: だいもん
   roma: daimon
-'013':
-  code: '013'
-  name: 野田
-  kana: ノダ
-  hira: のだ
-  roma: noda
 '014':
   code: '014'
   name: 三橋
@@ -103,16 +97,10 @@
   roma: sashiougi
 '021':
   code: '021'
-  name: 馬宮
-  kana: マミヤ
-  hira: まみや
-  roma: mamiya
-'022':
-  code: '022'
-  name: 植水
-  kana: ウエミズ
-  hira: うえみず
-  roma: uemizu
+  name: さいたま西
+  kana: サイタマニシ
+  hira: さいたまにし
+  roma: saitamanishi
 '023':
   code: '023'
   name: 片柳
@@ -197,12 +185,6 @@
   kana: アンギヨウ
   hira: あんぎよう
   roma: angiyou
-'040':
-  code: '040'
-  name: 北谷
-  kana: キタヤ
-  hira: きたや
-  roma: kitaya
 '041':
   code: '041'
   name: 戸塚
@@ -275,24 +257,12 @@
   kana: ハライチ
   hira: はらいち
   roma: haraichi
-'053':
-  code: '053'
-  name: 平方
-  kana: ヒラカタ
-  hira: ひらかた
-  roma: hirakata
 '054':
   code: '054'
   name: 大石
   kana: オオイシ
   hira: おおいし
   roma: ooishi
-'055':
-  code: '055'
-  name: 大谷
-  kana: オオヤ
-  hira: おおや
-  roma: ooya
 '056':
   code: '056'
   name: 伊奈

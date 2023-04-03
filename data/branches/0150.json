@@ -650,13 +650,6 @@
     "hira":"かけがわ",
     "roma":"kakegawa"
   },
-  "802":{
-    "code":"802",
-    "name":"掛川駅前出張所",
-    "kana":"カケガワエキマエ",
-    "hira":"かけがわえきまえ",
-    "roma":"kakegawaekimae"
-  },
   "810":{
     "code":"810",
     "name":"袋井",
@@ -747,13 +740,6 @@
     "kana":"サガラ",
     "hira":"さがら",
     "roma":"sagara"
-  },
-  "880":{
-    "code":"880",
-    "name":"ソネット",
-    "kana":"ソネツト",
-    "hira":"そねつと",
-    "roma":"sonetsuto"
   },
   "881":{
     "code":"881",
