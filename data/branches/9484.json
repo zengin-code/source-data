@@ -6,33 +6,12 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "155":{
-    "code":"155",
-    "name":"東和町",
-    "kana":"トウワチヨウ",
-    "hira":"とうわちよう",
-    "roma":"touwachiyou"
-  },
   "175":{
     "code":"175",
-    "name":"柳井",
-    "kana":"ヤナイ",
-    "hira":"やない",
-    "roma":"yanai"
-  },
-  "190":{
-    "code":"190",
-    "name":"上関",
-    "kana":"カミノセキ",
-    "hira":"かみのせき",
-    "roma":"kaminoseki"
-  },
-  "220":{
-    "code":"220",
-    "name":"光",
-    "kana":"ヒカリ",
-    "hira":"ひかり",
-    "roma":"hikari"
+    "name":"柳井港",
+    "kana":"ヤナイミナト",
+    "hira":"やないみなと",
+    "roma":"yanaiminato"
   },
   "315":{
     "code":"315",

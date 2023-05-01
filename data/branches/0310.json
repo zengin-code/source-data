@@ -97,6 +97,13 @@
     "hira":"はびと",
     "roma":"habito"
   },
+  "322":{
+    "code":"322",
+    "name":"カシャリ",
+    "kana":"カシヤリ",
+    "hira":"かしやり",
+    "roma":"kashiyari"
+  },
   "401":{
     "code":"401",
     "name":"ペイトナー",
@@ -817,5 +824,19 @@
     "kana":"ワラビモチ",
     "hira":"わらびもち",
     "roma":"warabimochi"
+  },
+  "603":{
+    "code":"603",
+    "name":"ホタテ",
+    "kana":"ホタテ",
+    "hira":"ほたて",
+    "roma":"hotate"
+  },
+  "604":{
+    "code":"604",
+    "name":"ハマグリ",
+    "kana":"ハマグリ",
+    "hira":"はまぐり",
+    "roma":"hamaguri"
   }
 }

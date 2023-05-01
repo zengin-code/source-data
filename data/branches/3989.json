@@ -15,17 +15,10 @@
   },
   "009":{
     "code":"009",
-    "name":"米沢北出張所",
-    "kana":"ヨネザワキタ",
-    "hira":"よねざわきた",
-    "roma":"yonezawakita"
-  },
-  "010":{
-    "code":"010",
-    "name":"米沢東出張所",
-    "kana":"ヨネザワヒガシ",
-    "hira":"よねざわひがし",
-    "roma":"yonezawahigashi"
+    "name":"米沢中央",
+    "kana":"ヨネザワチユウオウ",
+    "hira":"よねざわちゆうおう",
+    "roma":"yonezawachiyuuou"
   },
   "018":{
     "code":"018",
@@ -33,20 +26,6 @@
     "kana":"タカハタ",
     "hira":"たかはた",
     "roma":"takahata"
-  },
-  "029":{
-    "code":"029",
-    "name":"赤湯出張所",
-    "kana":"アカユ",
-    "hira":"あかゆ",
-    "roma":"akayu"
-  },
-  "030":{
-    "code":"030",
-    "name":"沖郷出張所",
-    "kana":"オキゴウ",
-    "hira":"おきごう",
-    "roma":"okigou"
   },
   "033":{
     "code":"033",
@@ -62,26 +41,12 @@
     "hira":"かわにし",
     "roma":"kawanishi"
   },
-  "050":{
-    "code":"050",
-    "name":"長井出張所",
-    "kana":"ナガイ",
-    "hira":"ながい",
-    "roma":"nagai"
-  },
   "052":{
     "code":"052",
     "name":"あやめ",
     "kana":"アヤメ",
     "hira":"あやめ",
     "roma":"ayame"
-  },
-  "059":{
-    "code":"059",
-    "name":"西根出張所",
-    "kana":"ニシネ",
-    "hira":"にしね",
-    "roma":"nishine"
   },
   "064":{
     "code":"064",

@@ -15,10 +15,10 @@
   },
   "006":{
     "code":"006",
-    "name":"慈恩寺",
-    "kana":"ジオンジ",
-    "hira":"じおんじ",
-    "roma":"jionji"
+    "name":"岩槻城北",
+    "kana":"イワツキジヨウホク",
+    "hira":"いわつきじようほく",
+    "roma":"iwatsukijiyouhoku"
   },
   "009":{
     "code":"009",
@@ -61,13 +61,6 @@
     "kana":"クキエヅラ",
     "hira":"くきえづら",
     "roma":"kukiedura"
-  },
-  "051":{
-    "code":"051",
-    "name":"太田",
-    "kana":"オオタ",
-    "hira":"おおた",
-    "roma":"oota"
   },
   "064":{
     "code":"064",

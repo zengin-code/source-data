@@ -85,10 +85,10 @@
   },
   "019":{
     "code":"019",
-    "name":"新橋",
-    "kana":"シンバシ",
-    "hira":"しんばし",
-    "roma":"shimbashi"
+    "name":"本店営業二１９",
+    "kana":"ホンテンエイニイチキユウ",
+    "hira":"ほんてんえいにいちきゆう",
+    "roma":"honteneiniichikiyuu"
   },
   "020":{
     "code":"020",
@@ -113,10 +113,10 @@
   },
   "023":{
     "code":"023",
-    "name":"千住",
-    "kana":"センジユ",
-    "hira":"せんじゆ",
-    "roma":"senjiyu"
+    "name":"本店営業二２３",
+    "kana":"ホンテンエイギヨウニニサン",
+    "hira":"ほんてんえいぎようににさん",
+    "roma":"honteneigiyouninisan"
   },
   "024":{
     "code":"024",
@@ -463,10 +463,10 @@
   },
   "078":{
     "code":"078",
-    "name":"大分",
-    "kana":"オオイタ",
-    "hira":"おおいた",
-    "roma":"ooita"
+    "name":"大分法人部７８",
+    "kana":"オオイタナナハチ",
+    "hira":"おおいたななはち",
+    "roma":"ooitananahachi"
   },
   "079":{
     "code":"079",
@@ -792,10 +792,10 @@
   },
   "257":{
     "code":"257",
-    "name":"豊中２５７",
-    "kana":"トヨナカニゴナナ",
-    "hira":"とよなかにごなな",
-    "roma":"toyonakanigonana"
+    "name":"梅田２５７",
+    "kana":"ウメダニゴナナ",
+    "hira":"うめだにごなな",
+    "roma":"umedanigonana"
   },
   "258":{
     "code":"258",
@@ -806,10 +806,10 @@
   },
   "260":{
     "code":"260",
-    "name":"明石",
-    "kana":"アカシ",
-    "hira":"あかし",
-    "roma":"akashi"
+    "name":"神戸２６０",
+    "kana":"コウベニロクゼロ",
+    "hira":"こうべにろくぜろ",
+    "roma":"koubenirokuzero"
   },
   "262":{
     "code":"262",
@@ -1161,6 +1161,13 @@
     "hira":"とくしまごきゆうご",
     "roma":"tokushimagokiyuugo"
   },
+  "603":{
+    "code":"603",
+    "name":"大分法人部６０３",
+    "kana":"オオイタロクゼロサン",
+    "hira":"おおいたろくぜろさん",
+    "roma":"ooitarokuzerosan"
+  },
   "607":{
     "code":"607",
     "name":"大阪ウェルマネ６０７",
@@ -1268,10 +1275,10 @@
   },
   "717":{
     "code":"717",
-    "name":"豊中７１７",
-    "kana":"トヨナカナナイチナナ",
-    "hira":"とよなかなないちなな",
-    "roma":"toyonakananaichinana"
+    "name":"梅田７１７",
+    "kana":"ウメダナナイチナナ",
+    "hira":"うめだなないちなな",
+    "roma":"umedananaichinana"
   },
   "719":{
     "code":"719",

@@ -244,13 +244,6 @@
     "hira":"きたおおどおり",
     "roma":"kitaoodoori"
   },
-  "212":{
-    "code":"212",
-    "name":"桔梗野",
-    "kana":"キキヨウノ",
-    "hira":"ききようの",
-    "roma":"kikiyouno"
-  },
   "214":{
     "code":"214",
     "name":"松原東",
@@ -309,7 +302,7 @@
   },
   "312":{
     "code":"312",
-    "name":"旭ヶ丘中央",
+    "name":"旭ケ丘中央",
     "kana":"アサヒガオカチユウオウ",
     "hira":"あさひがおかちゆうおう",
     "roma":"asahigaokachiyuuou"
@@ -421,7 +414,7 @@
   },
   "507":{
     "code":"507",
-    "name":"鯵ヶ沢",
+    "name":"鯵ケ沢",
     "kana":"アジガサワ",
     "hira":"あじがさわ",
     "roma":"ajigasawa"
@@ -614,13 +607,6 @@
     "kana":"サツポロチユウオウ",
     "hira":"さつぽろちゆうおう",
     "roma":"satsuporochiyuuou"
-  },
-  "915":{
-    "code":"915",
-    "name":"本通",
-    "kana":"ホンドオリ",
-    "hira":"ほんどおり",
-    "roma":"hondoori"
   },
   "921":{
     "code":"921",

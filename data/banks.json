@@ -7468,47 +7468,12 @@
     "hira":"ひろしましのうきよう",
     "roma":"hiroshimashinoukiyou"
   },
-  "7913":{
-    "code":"7913",
-    "name":"呉農協",
-    "kana":"クレノウキヨウ",
-    "hira":"くれのうきよう",
-    "roma":"kurenoukiyou"
-  },
-  "7916":{
-    "code":"7916",
-    "name":"安芸農協",
-    "kana":"アキノウキヨウ",
-    "hira":"あきのうきよう",
-    "roma":"akinoukiyou"
-  },
-  "7938":{
-    "code":"7938",
-    "name":"佐伯中央農協",
-    "kana":"サイキチユウオウノウキヨウ",
-    "hira":"さいきちゆうおうのうきよう",
-    "roma":"saikichiyuuounoukiyou"
-  },
-  "7981":{
-    "code":"7981",
-    "name":"広島北部農協",
-    "kana":"ヒロシマホクブノウキヨウ",
-    "hira":"ひろしまほくぶのうきよう",
-    "roma":"hiroshimahokubunoukiyou"
-  },
   "7994":{
     "code":"7994",
-    "name":"広島中央農協",
-    "kana":"ヒロシマチユウオウノウキヨウ",
-    "hira":"ひろしまちゆうおうのうきよう",
-    "roma":"hiroshimachiyuuounoukiyou"
-  },
-  "8011":{
-    "code":"8011",
-    "name":"芸南農協",
-    "kana":"ゲイナンノウキヨウ",
-    "hira":"げいなんのうきよう",
-    "roma":"geinannoukiyou"
+    "name":"ひろしま農協",
+    "kana":"ヒロシマノウキヨウ",
+    "hira":"ひろしまのうきよう",
+    "roma":"hiroshimanoukiyou"
   },
   "8019":{
     "code":"8019",
@@ -7516,13 +7481,6 @@
     "kana":"ヒロシマユタカノウキヨウ",
     "hira":"ひろしまゆたかのうきよう",
     "roma":"hiroshimayutakanoukiyou"
-  },
-  "8027":{
-    "code":"8027",
-    "name":"三原農協",
-    "kana":"ミハラノウキヨウ",
-    "hira":"みはらのうきよう",
-    "roma":"miharanoukiyou"
   },
   "8029":{
     "code":"8029",
@@ -7537,20 +7495,6 @@
     "kana":"フクヤマシノウキヨウ",
     "hira":"ふくやましのうきよう",
     "roma":"fukuyamashinoukiyou"
-  },
-  "8069":{
-    "code":"8069",
-    "name":"三次農協",
-    "kana":"ミヨシノウキヨウ",
-    "hira":"みよしのうきよう",
-    "roma":"miyoshinoukiyou"
-  },
-  "8076":{
-    "code":"8076",
-    "name":"庄原農協",
-    "kana":"シヨウバラノウキヨウ",
-    "hira":"しようばらのうきよう",
-    "roma":"shiyoubaranoukiyou"
   },
   "8134":{
     "code":"8134",

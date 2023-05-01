@@ -1,17 +1,17 @@
 {
   "001":{
     "code":"001",
-    "name":"東部",
-    "kana":"トウブ",
-    "hira":"とうぶ",
-    "roma":"toubu"
+    "name":"須賀川東",
+    "kana":"スカガワヒガシ",
+    "hira":"すかがわひがし",
+    "roma":"sukagawahigashi"
   },
   "005":{
     "code":"005",
-    "name":"西袋",
-    "kana":"ニシブクロ",
-    "hira":"にしぶくろ",
-    "roma":"nishibukuro"
+    "name":"須賀川",
+    "kana":"スカガワ",
+    "hira":"すかがわ",
+    "roma":"sukagawa"
   },
   "010":{
     "code":"010",
