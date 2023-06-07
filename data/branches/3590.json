@@ -34,27 +34,6 @@
     "hira":"ひがしやま",
     "roma":"higashiyama"
   },
-  "025":{
-    "code":"025",
-    "name":"室根",
-    "kana":"ムロネ",
-    "hira":"むろね",
-    "roma":"murone"
-  },
-  "028":{
-    "code":"028",
-    "name":"川崎出張所",
-    "kana":"カワサキ",
-    "hira":"かわさき",
-    "roma":"kawasaki"
-  },
-  "110":{
-    "code":"110",
-    "name":"厳美出張所",
-    "kana":"ゲンビ",
-    "hira":"げんび",
-    "roma":"gembi"
-  },
   "114":{
     "code":"114",
     "name":"一関中央",
@@ -68,13 +47,6 @@
     "kana":"ハナイズミ",
     "hira":"はないずみ",
     "roma":"hanaizumi"
-  },
-  "122":{
-    "code":"122",
-    "name":"永井出張所",
-    "kana":"ナガイ",
-    "hira":"ながい",
-    "roma":"nagai"
   },
   "124":{
     "code":"124",

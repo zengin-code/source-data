@@ -13,26 +13,12 @@
     "hira":"むいかまち",
     "roma":"muikamachi"
   },
-  "003":{
-    "code":"003",
-    "name":"五十沢",
-    "kana":"イカザワ",
-    "hira":"いかざわ",
-    "roma":"ikazawa"
-  },
   "004":{
     "code":"004",
     "name":"城内",
     "kana":"ジヨウナイ",
     "hira":"じようない",
     "roma":"jiyounai"
-  },
-  "005":{
-    "code":"005",
-    "name":"大巻",
-    "kana":"オオマキ",
-    "hira":"おおまき",
-    "roma":"oomaki"
   },
   "007":{
     "code":"007",

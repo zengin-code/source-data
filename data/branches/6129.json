@@ -13,13 +13,6 @@
     "hira":"いわのだ",
     "roma":"iwanoda"
   },
-  "004":{
-    "code":"004",
-    "name":"常磐",
-    "kana":"トキワ",
-    "hira":"ときわ",
-    "roma":"tokiwa"
-  },
   "005":{
     "code":"005",
     "name":"鷺山",
@@ -103,13 +96,6 @@
     "kana":"キタナガモリ",
     "hira":"きたながもり",
     "roma":"kitanagamori"
-  },
-  "032":{
-    "code":"032",
-    "name":"長良西",
-    "kana":"ナガラニシ",
-    "hira":"ながらにし",
-    "roma":"nagaranishi"
   },
   "034":{
     "code":"034",
@@ -306,13 +292,6 @@
     "kana":"タカトミ",
     "hira":"たかとみ",
     "roma":"takatomi"
-  },
-  "076":{
-    "code":"076",
-    "name":"大桜",
-    "kana":"オオザクラ",
-    "hira":"おおざくら",
-    "roma":"oozakura"
   },
   "077":{
     "code":"077",

@@ -477,10 +477,10 @@
   },
   "601":{
     "code":"601",
-    "name":"桑名",
-    "kana":"クワナ",
-    "hira":"くわな",
-    "roma":"kuwana"
+    "name":"桑名中央",
+    "kana":"クワナチユウオウ",
+    "hira":"くわなちゆうおう",
+    "roma":"kuwanachiyuuou"
   },
   "602":{
     "code":"602",
@@ -491,17 +491,17 @@
   },
   "603":{
     "code":"603",
-    "name":"四日市",
-    "kana":"ヨツカイチ",
-    "hira":"よつかいち",
-    "roma":"yotsukaichi"
+    "name":"四日市中央",
+    "kana":"ヨツカイチチユウオウ",
+    "hira":"よつかいちちゆうおう",
+    "roma":"yotsukaichichiyuuou"
   },
   "604":{
     "code":"604",
-    "name":"富田",
-    "kana":"トミダ",
-    "hira":"とみだ",
-    "roma":"tomida"
+    "name":"富田中央",
+    "kana":"トミダチユウオウ",
+    "hira":"とみだちゆうおう",
+    "roma":"tomidachiyuuou"
   },
   "605":{
     "code":"605",
