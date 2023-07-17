@@ -8,10 +8,10 @@
   },
   "100":{
     "code":"100",
-    "name":"本店営業部",
-    "kana":"ホンテン",
-    "hira":"ほんてん",
-    "roma":"honten"
+    "name":"名古屋営業部",
+    "kana":"ナゴヤ",
+    "hira":"なごや",
+    "roma":"nagoya"
   },
   "102":{
     "code":"102",
@@ -36,17 +36,17 @@
   },
   "111":{
     "code":"111",
-    "name":"今池",
-    "kana":"イマイケ",
-    "hira":"いまいけ",
-    "roma":"imaike"
+    "name":"今池中央",
+    "kana":"イマイケチユウオウ",
+    "hira":"いまいけちゆうおう",
+    "roma":"imaikechiyuuou"
   },
   "112":{
     "code":"112",
-    "name":"東山",
-    "kana":"ヒガシヤマ",
-    "hira":"ひがしやま",
-    "roma":"higashiyama"
+    "name":"東山中央",
+    "kana":"ヒガシヤマチユウオウ",
+    "hira":"ひがしやまちゆうおう",
+    "roma":"higashiyamachiyuuou"
   },
   "113":{
     "code":"113",
@@ -202,13 +202,6 @@
     "hira":"かさでら",
     "roma":"kasadera"
   },
-  "212":{
-    "code":"212",
-    "name":"柴田",
-    "kana":"シバタ",
-    "hira":"しばた",
-    "roma":"shibata"
-  },
   "213":{
     "code":"213",
     "name":"大江",
@@ -265,12 +258,26 @@
     "hira":"みなとちゆうおう",
     "roma":"minatochiyuuou"
   },
+  "273":{
+    "code":"273",
+    "name":"柴田中央",
+    "kana":"シバタチユウオウ",
+    "hira":"しばたちゆうおう",
+    "roma":"shibatachiyuuou"
+  },
   "275":{
     "code":"275",
     "name":"鳴子中央",
     "kana":"ナルコチユウオウ",
     "hira":"なるこちゆうおう",
     "roma":"narukochiyuuou"
+  },
+  "281":{
+    "code":"281",
+    "name":"東海中央",
+    "kana":"トウカイチユウオウ",
+    "hira":"とうかいちゆうおう",
+    "roma":"toukaichiyuuou"
   },
   "304":{
     "code":"304",
@@ -376,13 +383,6 @@
     "kana":"ハルヒ",
     "hira":"はるひ",
     "roma":"haruhi"
-  },
-  "326":{
-    "code":"326",
-    "name":"東海",
-    "kana":"トウカイ",
-    "hira":"とうかい",
-    "roma":"toukai"
   },
   "328":{
     "code":"328",
@@ -503,13 +503,6 @@
     "hira":"とみだちゆうおう",
     "roma":"tomidachiyuuou"
   },
-  "605":{
-    "code":"605",
-    "name":"津",
-    "kana":"ツ",
-    "hira":"つ",
-    "roma":"tsu"
-  },
   "606":{
     "code":"606",
     "name":"久居",
@@ -580,12 +573,12 @@
     "hira":"ききようがおか",
     "roma":"kikiyougaoka"
   },
-  "701":{
-    "code":"701",
-    "name":"奈良",
-    "kana":"ナラ",
-    "hira":"なら",
-    "roma":"nara"
+  "671":{
+    "code":"671",
+    "name":"津",
+    "kana":"ツ",
+    "hira":"つ",
+    "roma":"tsu"
   },
   "703":{
     "code":"703",
@@ -594,18 +587,25 @@
     "hira":"さくらい",
     "roma":"sakurai"
   },
-  "801":{
-    "code":"801",
-    "name":"大阪",
-    "kana":"オオサカ",
-    "hira":"おおさか",
-    "roma":"oosaka"
+  "870":{
+    "code":"870",
+    "name":"大阪中央",
+    "kana":"オオサカチユウオウ",
+    "hira":"おおさかちゆうおう",
+    "roma":"oosakachiyuuou"
+  },
+  "871":{
+    "code":"871",
+    "name":"奈良",
+    "kana":"ナラ",
+    "hira":"なら",
+    "roma":"nara"
   },
   "901":{
     "code":"901",
-    "name":"東京",
-    "kana":"トウキヨウ",
-    "hira":"とうきよう",
-    "roma":"toukiyou"
+    "name":"東京中央",
+    "kana":"トウキヨウチユウオウ",
+    "hira":"とうきようちゆうおう",
+    "roma":"toukiyouchiyuuou"
   }
 }

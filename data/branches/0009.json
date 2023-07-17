@@ -2505,6 +2505,13 @@
     "hira":"え－てい－えむひがしはち",
     "roma":"e-tei-emuhigashihachi"
   },
+  "668":{
+    "code":"668",
+    "name":"オリーブＣＯＲＫ",
+    "kana":"オリ－ブコルク",
+    "hira":"おり－ぶこるく",
+    "roma":"ori-bukoruku"
+  },
   "669":{
     "code":"669",
     "name":"幡ヶ谷",
@@ -3043,6 +3050,13 @@
     "kana":"チガサキ",
     "hira":"ちがさき",
     "roma":"chigasaki"
+  },
+  "783":{
+    "code":"783",
+    "name":"オリーブＢＬＵＥ",
+    "kana":"オリ－ブブル－",
+    "hira":"おり－ぶぶる－",
+    "roma":"ori-buburu-"
   },
   "785":{
     "code":"785",

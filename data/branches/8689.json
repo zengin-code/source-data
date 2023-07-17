@@ -1,38 +1,10 @@
 {
   "001":{
     "code":"001",
-    "name":"銀水",
-    "kana":"ギンスイ",
-    "hira":"ぎんすい",
-    "roma":"ginsui"
-  },
-  "002":{
-    "code":"002",
-    "name":"上内",
-    "kana":"カミウチ",
-    "hira":"かみうち",
-    "roma":"kamiuchi"
-  },
-  "003":{
-    "code":"003",
-    "name":"三池",
-    "kana":"ミイケ",
-    "hira":"みいけ",
-    "roma":"miike"
-  },
-  "009":{
-    "code":"009",
-    "name":"唐岬",
-    "kana":"トウコウ",
-    "hira":"とうこう",
-    "roma":"toukou"
-  },
-  "102":{
-    "code":"102",
-    "name":"南瀬高",
-    "kana":"ミナミセタカ",
-    "hira":"みなみせたか",
-    "roma":"minamisetaka"
+    "name":"大牟田",
+    "kana":"オオムタ",
+    "hira":"おおむた",
+    "roma":"oomuta"
   },
   "103":{
     "code":"103",
@@ -40,13 +12,6 @@
     "kana":"セタカ",
     "hira":"せたか",
     "roma":"setaka"
-  },
-  "105":{
-    "code":"105",
-    "name":"東山",
-    "kana":"ヒガシヤマ",
-    "hira":"ひがしやま",
-    "roma":"higashiyama"
   },
   "111":{
     "code":"111",
@@ -62,18 +27,11 @@
     "hira":"やまかわ",
     "roma":"yamakawa"
   },
-  "302":{
-    "code":"302",
-    "name":"高田東部",
-    "kana":"タカタトウブ",
-    "hira":"たかたとうぶ",
-    "roma":"takatatoubu"
-  },
   "305":{
     "code":"305",
-    "name":"二川",
-    "kana":"フタカワ",
-    "hira":"ふたかわ",
-    "roma":"futakawa"
+    "name":"高田",
+    "kana":"タカタ",
+    "hira":"たかた",
+    "roma":"takata"
   }
 }

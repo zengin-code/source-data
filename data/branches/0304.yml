@@ -277,10 +277,10 @@
   roma: shizuoka
 '056':
   code: '056'
-  name: 福井
-  kana: フクイ
-  hira: ふくい
-  roma: fukui
+  name: 福井法人部５６
+  kana: フクイホウジンブゴロク
+  hira: ふくいほうじんぶごろく
+  roma: fukuihoujimbugoroku
 '057':
   code: '057'
   name: 浜松
@@ -1025,6 +1025,12 @@
   kana: オオサカエイギヨウロクイチサ
   hira: おおさかえいぎようろくいちさ
   roma: oosakaeigiyourokuichisa
+'658':
+  code: '658'
+  name: 福井法人部６５８
+  kana: フクイロクゴハチ
+  hira: ふくいろくごはち
+  roma: fukuirokugohachi
 '659':
   code: '659'
   name: ほっとダイレクト部６５９

@@ -5,54 +5,12 @@
   kana: ヒロサキ
   hira: ひろさき
   roma: hirosaki
-'011':
-  code: '011'
-  name: 下土手町
-  kana: シタドテマチ
-  hira: したどてまち
-  roma: shitadotemachi
-'013':
-  code: '013'
-  name: 城東
-  kana: ジヨウトウ
-  hira: じようとう
-  roma: jiyoutou
 '014':
   code: '014'
   name: 青森中央営業部
   kana: アオモリチユウオウ
   hira: あおもりちゆうおう
   roma: aomorichiyuuou
-'016':
-  code: '016'
-  name: 国道
-  kana: コクドウ
-  hira: こくどう
-  roma: kokudou
-'022':
-  code: '022'
-  name: 大鰐
-  kana: オオワニ
-  hira: おおわに
-  roma: oowani
-'024':
-  code: '024'
-  name: 黒石
-  kana: クロイシ
-  hira: くろいし
-  roma: kuroishi
-'025':
-  code: '025'
-  name: 西弘前
-  kana: ニシヒロサキ
-  hira: にしひろさき
-  roma: nishihirosaki
-'027':
-  code: '027'
-  name: 沖館
-  kana: オキダテ
-  hira: おきだて
-  roma: okidate
 '028':
   code: '028'
   name: 小柳
@@ -65,18 +23,6 @@
   kana: アサムシオンセン
   hira: あさむしおんせん
   roma: asamushionsen
-'031':
-  code: '031'
-  name: 板柳
-  kana: イタヤナギ
-  hira: いたやなぎ
-  roma: itayanagi
-'032':
-  code: '032'
-  name: 鶴田
-  kana: ツルタ
-  hira: つるた
-  roma: tsuruta
 '033':
   code: '033'
   name: 金木
@@ -125,12 +71,6 @@
   kana: ナミダテドオリ
   hira: なみだてどおり
   roma: namidatedoori
-'046':
-  code: '046'
-  name: 松原
-  kana: マツバラ
-  hira: まつばら
-  roma: matsubara
 '049':
   code: '049'
   name: 八重田
@@ -209,18 +149,6 @@
   kana: シロシタ
   hira: しろした
   roma: shiroshita
-'065':
-  code: '065'
-  name: 白銀
-  kana: シロガネ
-  hira: しろがね
-  roma: shirogane
-'067':
-  code: '067'
-  name: 類家
-  kana: ルイケ
-  hira: るいけ
-  roma: ruike
 '068':
   code: '068'
   name: 八戸駅前
@@ -275,18 +203,6 @@
   kana: ホナミ
   hira: ほなみ
   roma: honami
-'081':
-  code: '081'
-  name: 大館
-  kana: オオダテ
-  hira: おおだて
-  roma: oodate
-'082':
-  code: '082'
-  name: 比内
-  kana: ヒナイ
-  hira: ひない
-  roma: hinai
 '084':
   code: '084'
   name: 能代
@@ -323,12 +239,6 @@
   kana: サツポロ
   hira: さつぽろ
   roma: satsuporo
-'091':
-  code: '091'
-  name: 函館営業部
-  kana: ハコダテ
-  hira: はこだて
-  roma: hakodate
 '095':
   code: '095'
   name: 仙台一番町
@@ -353,42 +263,12 @@
   kana: トウキヨウチユウオウ
   hira: とうきようちゆうおう
   roma: toukiyouchiyuuou
-'101':
-  code: '101'
-  name: 金沢
-  kana: カナザワ
-  hira: かなざわ
-  roma: kanazawa
-'102':
-  code: '102'
-  name: 松島
-  kana: マツシマ
-  hira: まつしま
-  roma: matsushima
-'106':
-  code: '106'
-  name: 堅田
-  kana: カタダ
-  hira: かただ
-  roma: katada
-'122':
-  code: '122'
-  name: 佃
-  kana: ツクダ
-  hira: つくだ
-  roma: tsukuda
 '130':
   code: '130'
   name: 七重浜
   kana: ナナエハマ
   hira: ななえはま
   roma: nanaehama
-'131':
-  code: '131'
-  name: ききょう
-  kana: キキヨウ
-  hira: ききよう
-  roma: kikiyou
 '134':
   code: '134'
   name: 白山台出張所
@@ -413,6 +293,12 @@
   kana: タナブ
   hira: たなぶ
   roma: tanabu
+'150':
+  code: '150'
+  name: 国道
+  kana: コクドウ
+  hira: こくどう
+  roma: kokudou
 '151':
   code: '151'
   name: 栄町
@@ -425,12 +311,24 @@
   kana: アオモリミナミ
   hira: あおもりみなみ
   roma: aomoriminami
+'153':
+  code: '153'
+  name: 沖館
+  kana: オキダテ
+  hira: おきだて
+  roma: okidate
 '154':
   code: '154'
   name: 桜川通り
   kana: サクラガワドオリ
   hira: さくらがわどおり
   roma: sakuragawadoori
+'155':
+  code: '155'
+  name: 金沢
+  kana: カナザワ
+  hira: かなざわ
+  roma: kanazawa
 '156':
   code: '156'
   name: 戸山団地
@@ -449,6 +347,12 @@
   kana: イシエシンジヨウ
   hira: いしえしんじよう
   roma: ishieshinjiyou
+'159':
+  code: '159'
+  name: 佃
+  kana: ツクダ
+  hira: つくだ
+  roma: tsukuda
 '160':
   code: '160'
   name: 桜川筒井
@@ -461,24 +365,54 @@
   kana: ダイニトンヤマチ
   hira: だいにとんやまち
   roma: dainitonyamachi
+'220':
+  code: '220'
+  name: 下土手町
+  kana: シタドテマチ
+  hira: したどてまち
+  roma: shitadotemachi
 '221':
   code: '221'
   name: 上土手町
   kana: カミドテマチ
   hira: かみどてまち
   roma: kamidotemachi
+'222':
+  code: '222'
+  name: 城東
+  kana: ジヨウトウ
+  hira: じようとう
+  roma: jiyoutou
 '223':
   code: '223'
   name: 弘前公園前
   kana: ヒロサキコウエンマエ
   hira: ひろさきこうえんまえ
   roma: hirosakikouemmae
+'224':
+  code: '224'
+  name: 西弘前
+  kana: ニシヒロサキ
+  hira: にしひろさき
+  roma: nishihirosaki
 '225':
   code: '225'
   name: 岩木
   kana: イワキ
   hira: いわき
   roma: iwaki
+'226':
+  code: '226'
+  name: 松原
+  kana: マツバラ
+  hira: まつばら
+  roma: matsubara
+'227':
+  code: '227'
+  name: 堅田
+  kana: カタダ
+  hira: かただ
+  roma: katada
 '228':
   code: '228'
   name: 松森町
@@ -497,24 +431,60 @@
   kana: ヤナギマチ
   hira: やなぎまち
   roma: yanagimachi
+'331':
+  code: '331'
+  name: 白銀
+  kana: シロガネ
+  hira: しろがね
+  roma: shirogane
+'332':
+  code: '332'
+  name: 類家
+  kana: ルイケ
+  hira: るいけ
+  roma: ruike
 '333':
   code: '333'
   name: 売市
   kana: ウルイチ
   hira: うるいち
   roma: uruichi
+'410':
+  code: '410'
+  name: 城東大鰐
+  kana: ジヨウトウオオワニ
+  hira: じようとうおおわに
+  roma: jiyoutouoowani
 '411':
   code: '411'
   name: 平賀
   kana: ヒラカ
   hira: ひらか
   roma: hiraka
+'412':
+  code: '412'
+  name: 黒石内町
+  kana: クロイシウチマチ
+  hira: くろいしうちまち
+  roma: kuroishiuchimachi
 '520':
   code: '520'
   name: 五所川原中央
   kana: ゴシヨガワラチユウオウ
   hira: ごしよがわらちゆうおう
   roma: goshiyogawarachiyuuou
+'521':
+  code: '521'
+  name: 板柳南
+  kana: イタヤナギミナミ
+  hira: いたやなぎみなみ
+  roma: itayanagiminami
+'522':
+  code: '522'
+  name: 鶴田駅前通り
+  kana: ツルタエキマエドオリ
+  hira: つるたえきまえどおり
+  roma: tsurutaekimaedoori
 '523':
   code: '523'
   name: 小泊
@@ -527,6 +497,12 @@
   kana: アジガサワヒガシ
   hira: あじがさわひがし
   roma: ajigasawahigashi
+'525':
+  code: '525'
+  name: 松島
+  kana: マツシマ
+  hira: まつしま
+  roma: matsushima
 '620':
   code: '620'
   name: 横浜
@@ -545,6 +521,24 @@
   kana: オカミサワ
   hira: おかみさわ
   roma: okamisawa
+'950':
+  code: '950'
+  name: 大館
+  kana: オオダテ
+  hira: おおだて
+  roma: oodate
+'951':
+  code: '951'
+  name: 比内
+  kana: ヒナイ
+  hira: ひない
+  roma: hinai
+'952':
+  code: '952'
+  name: 函館営業部
+  kana: ハコダテ
+  hira: はこだて
+  roma: hakodate
 '953':
   code: '953'
   name: 亀田
@@ -563,3 +557,9 @@
   kana: ユノカワ
   hira: ゆのかわ
   roma: yunokawa
+'956':
+  code: '956'
+  name: ききょう
+  kana: キキヨウ
+  hira: ききよう
+  roma: kikiyou
