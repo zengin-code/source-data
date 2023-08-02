@@ -134,10 +134,10 @@
   },
   "109":{
     "code":"109",
-    "name":"赤塚",
-    "kana":"アカツカ",
-    "hira":"あかつか",
-    "roma":"akatsuka"
+    "name":"にいがた西",
+    "kana":"ニイガタニシ",
+    "hira":"にいがたにし",
+    "roma":"niigatanishi"
   },
   "110":{
     "code":"110",
@@ -145,20 +145,6 @@
     "kana":"ナカノコヤ",
     "hira":"なかのこや",
     "roma":"nakanokoya"
-  },
-  "111":{
-    "code":"111",
-    "name":"内野町",
-    "kana":"ウチノマチ",
-    "hira":"うちのまち",
-    "roma":"uchinomachi"
-  },
-  "112":{
-    "code":"112",
-    "name":"小針出張所",
-    "kana":"コバリ",
-    "hira":"こばり",
-    "roma":"kobari"
   },
   "113":{
     "code":"113",

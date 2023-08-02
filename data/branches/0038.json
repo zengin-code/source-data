@@ -181,11 +181,25 @@
     "hira":"みらいばんく",
     "roma":"miraibanku"
   },
+  "308":{
+    "code":"308",
+    "name":"京王ＮＥＯＢＡＮＫ",
+    "kana":"ケイオウＮＥＯＢＡＮＫ",
+    "hira":"けいおうＮＥＯＢＡＮＫ",
+    "roma":"keiouneobank"
+  },
   "401":{
     "code":"401",
     "name":"ひめぎん",
     "kana":"ヒメギン",
     "hira":"ひめぎん",
     "roma":"himegin"
+  },
+  "403":{
+    "code":"403",
+    "name":"クジラ",
+    "kana":"クジラ",
+    "hira":"くじら",
+    "roma":"kujira"
   }
 }

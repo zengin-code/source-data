@@ -6,32 +6,11 @@
     "hira":"みなまた",
     "roma":"minamata"
   },
-  "710":{
-    "code":"710",
-    "name":"津奈木",
-    "kana":"ツナギ",
-    "hira":"つなぎ",
-    "roma":"tsunagi"
-  },
-  "715":{
-    "code":"715",
-    "name":"湯浦",
-    "kana":"ユノウラ",
-    "hira":"ゆのうら",
-    "roma":"yunoura"
-  },
   "720":{
     "code":"720",
     "name":"本所",
     "kana":"ホンシヨ",
     "hira":"ほんしよ",
     "roma":"honshiyo"
-  },
-  "725":{
-    "code":"725",
-    "name":"田浦",
-    "kana":"タノウラ",
-    "hira":"たのうら",
-    "roma":"tanoura"
   }
 }

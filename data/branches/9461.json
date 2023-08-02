@@ -48,13 +48,6 @@
     "hira":"いわて",
     "roma":"iwate"
   },
-  "210":{
-    "code":"210",
-    "name":"広田湾",
-    "kana":"ヒロタワン",
-    "hira":"ひろたわん",
-    "roma":"hirotawan"
-  },
   "220":{
     "code":"220",
     "name":"大船渡",
@@ -75,13 +68,6 @@
     "kana":"ミヤコヤマダ",
     "hira":"みやこやまだ",
     "roma":"miyakoyamada"
-  },
-  "270":{
-    "code":"270",
-    "name":"北りあす",
-    "kana":"キタリアス",
-    "hira":"きたりあす",
-    "roma":"kitariasu"
   },
   "290":{
     "code":"290",
