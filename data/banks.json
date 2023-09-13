@@ -6721,10 +6721,10 @@
   },
   "6113":{
     "code":"6113",
-    "name":"おおぞら農協",
-    "kana":"オオゾラノウキヨウ",
-    "hira":"おおぞらのうきよう",
-    "roma":"oozoranoukiyou"
+    "name":"能登農協",
+    "kana":"ノトノウキヨウ",
+    "hira":"のとのうきよう",
+    "roma":"notonoukiyou"
   },
   "6121":{
     "code":"6121",
@@ -6732,13 +6732,6 @@
     "kana":"ウチウラマチノウキヨウ",
     "hira":"うちうらまちのうきよう",
     "roma":"uchiuramachinoukiyou"
-  },
-  "6122":{
-    "code":"6122",
-    "name":"珠洲市農協",
-    "kana":"スズシノウキヨウ",
-    "hira":"すずしのうきよう",
-    "roma":"suzushinoukiyou"
   },
   "6129":{
     "code":"6129",

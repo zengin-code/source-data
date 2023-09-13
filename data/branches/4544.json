@@ -6,26 +6,12 @@
     "hira":"ほんしよ",
     "roma":"honshiyo"
   },
-  "002":{
-    "code":"002",
-    "name":"木瀬",
-    "kana":"キセ",
-    "hira":"きせ",
-    "roma":"kise"
-  },
-  "003":{
-    "code":"003",
-    "name":"小屋原出張所",
-    "kana":"コヤハラ",
-    "hira":"こやはら",
-    "roma":"koyahara"
-  },
   "004":{
     "code":"004",
-    "name":"荒砥",
-    "kana":"アラト",
-    "hira":"あらと",
-    "roma":"arato"
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
   },
   "005":{
     "code":"005",

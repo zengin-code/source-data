@@ -22,10 +22,10 @@
   },
   "005":{
     "code":"005",
-    "name":"春日",
-    "kana":"カスガ",
-    "hira":"かすが",
-    "roma":"kasuga"
+    "name":"はれまち",
+    "kana":"ハレマチ",
+    "hira":"はれまち",
+    "roma":"haremachi"
   },
   "006":{
     "code":"006",
@@ -82,13 +82,6 @@
     "kana":"イナダ",
     "hira":"いなだ",
     "roma":"inada"
-  },
-  "016":{
-    "code":"016",
-    "name":"城北",
-    "kana":"ジヨウホク",
-    "hira":"じようほく",
-    "roma":"jiyouhoku"
   },
   "017":{
     "code":"017",
