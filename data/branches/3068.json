@@ -6,13 +6,6 @@
     "hira":"ななえ",
     "roma":"nanae"
   },
-  "002":{
-    "code":"002",
-    "name":"大沼",
-    "kana":"オオヌマ",
-    "hira":"おおぬま",
-    "roma":"oonuma"
-  },
   "003":{
     "code":"003",
     "name":"大中山",
@@ -41,26 +34,12 @@
     "hira":"わかまつ",
     "roma":"wakamatsu"
   },
-  "013":{
-    "code":"013",
-    "name":"瀬棚",
-    "kana":"セタナ",
-    "hira":"せたな",
-    "roma":"setana"
-  },
   "014":{
     "code":"014",
     "name":"知内",
     "kana":"シリウチ",
     "hira":"しりうち",
     "roma":"shiriuchi"
-  },
-  "015":{
-    "code":"015",
-    "name":"木古内",
-    "kana":"キコナイ",
-    "hira":"きこない",
-    "roma":"kikonai"
   },
   "016":{
     "code":"016",

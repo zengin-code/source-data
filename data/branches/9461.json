@@ -118,27 +118,6 @@
     "hira":"ふくい",
     "roma":"fukui"
   },
-  "610":{
-    "code":"610",
-    "name":"越前",
-    "kana":"エチゼン",
-    "hira":"えちぜん",
-    "roma":"echizen"
-  },
-  "620":{
-    "code":"620",
-    "name":"敦賀",
-    "kana":"ツルガ",
-    "hira":"つるが",
-    "roma":"tsuruga"
-  },
-  "630":{
-    "code":"630",
-    "name":"若狭",
-    "kana":"ワカサ",
-    "hira":"わかさ",
-    "roma":"wakasa"
-  },
   "700":{
     "code":"700",
     "name":"静岡",

@@ -188,27 +188,6 @@
     "hira":"ふしや",
     "roma":"fushiya"
   },
-  "202":{
-    "code":"202",
-    "name":"南陽町",
-    "kana":"ナンヨウチヨウ",
-    "hira":"なんようちよう",
-    "roma":"nanyouchiyou"
-  },
-  "211":{
-    "code":"211",
-    "name":"笠寺",
-    "kana":"カサデラ",
-    "hira":"かさでら",
-    "roma":"kasadera"
-  },
-  "213":{
-    "code":"213",
-    "name":"大江",
-    "kana":"オオエ",
-    "hira":"おおえ",
-    "roma":"ooe"
-  },
   "241":{
     "code":"241",
     "name":"守山中央",
@@ -223,12 +202,33 @@
     "hira":"みなとちゆうおう",
     "roma":"minatochiyuuou"
   },
+  "271":{
+    "code":"271",
+    "name":"南陽町中央",
+    "kana":"ナンヨウチヨウチユウオウ",
+    "hira":"なんようちようちゆうおう",
+    "roma":"nanyouchiyouchiyuuou"
+  },
+  "272":{
+    "code":"272",
+    "name":"笠寺中央",
+    "kana":"カサデラチユウオウ",
+    "hira":"かさでらちゆうおう",
+    "roma":"kasaderachiyuuou"
+  },
   "273":{
     "code":"273",
     "name":"柴田中央",
     "kana":"シバタチユウオウ",
     "hira":"しばたちゆうおう",
     "roma":"shibatachiyuuou"
+  },
+  "274":{
+    "code":"274",
+    "name":"大江",
+    "kana":"オオエ",
+    "hira":"おおえ",
+    "roma":"ooe"
   },
   "275":{
     "code":"275",
@@ -278,13 +278,6 @@
     "kana":"トウカイチユウオウ",
     "hira":"とうかいちゆうおう",
     "roma":"toukaichiyuuou"
-  },
-  "304":{
-    "code":"304",
-    "name":"岡崎",
-    "kana":"オカザキ",
-    "hira":"おかざき",
-    "roma":"okazaki"
   },
   "308":{
     "code":"308",
@@ -446,6 +439,13 @@
     "kana":"コウゾウジチユウオウ",
     "hira":"こうぞうじちゆうおう",
     "roma":"kouzoujichiyuuou"
+  },
+  "470":{
+    "code":"470",
+    "name":"岡崎中央",
+    "kana":"オカザキチユウオウ",
+    "hira":"おかざきちゆうおう",
+    "roma":"okazakichiyuuou"
   },
   "471":{
     "code":"471",

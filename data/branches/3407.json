@@ -41,27 +41,6 @@
     "hira":"くろいし",
     "roma":"kuroishi"
   },
-  "021":{
-    "code":"021",
-    "name":"山形",
-    "kana":"ヤマガタ",
-    "hira":"やまがた",
-    "roma":"yamagata"
-  },
-  "022":{
-    "code":"022",
-    "name":"六郷",
-    "kana":"ロクゴウ",
-    "hira":"ろくごう",
-    "roma":"rokugou"
-  },
-  "023":{
-    "code":"023",
-    "name":"浅瀬石",
-    "kana":"アセイシ",
-    "hira":"あせいし",
-    "roma":"aseishi"
-  },
   "026":{
     "code":"026",
     "name":"常盤",
@@ -82,12 +61,5 @@
     "kana":"イタヤナギ",
     "hira":"いたやなぎ",
     "roma":"itayanagi"
-  },
-  "031":{
-    "code":"031",
-    "name":"沿川",
-    "kana":"ソエカワ",
-    "hira":"そえかわ",
-    "roma":"soekawa"
   }
 }

@@ -35,6 +35,18 @@
   kana: ペイルド
   hira: ぺいるど
   roma: peirudo
+'121':
+  code: '121'
+  name: 法人カエルカード
+  kana: ホウジンカエルカ－ド
+  hira: ほうじんかえるか－ど
+  roma: houjinkaeruka-do
+'122':
+  code: '122'
+  name: エムジェイエス
+  kana: エムジエイエス
+  hira: えむじえいえす
+  roma: emujieiesu
 '201':
   code: '201'
   name: ビジネス
@@ -89,6 +101,12 @@
   kana: カシヤリ
   hira: かしやり
   roma: kashiyari
+'323':
+  code: '323'
+  name: カエルカード
+  kana: カエルカ－ド
+  hira: かえるか－ど
+  roma: kaeruka-do
 '401':
   code: '401'
   name: ペイトナー

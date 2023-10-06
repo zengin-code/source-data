@@ -157,7 +157,7 @@
   roma: kuroishi
 '047':
   code: '047'
-  name: 弘前
+  name: 弘前営業部
   kana: ヒロサキ
   hira: ひろさき
   roma: hirosaki
@@ -223,10 +223,10 @@
   roma: tsuruta
 '066':
   code: '066'
-  name: 五所川原
-  kana: ゴシヨガワラ
-  hira: ごしよがわら
-  roma: goshiyogawara
+  name: 津軽営業部
+  kana: ツガル
+  hira: つがる
+  roma: tsugaru
 '067':
   code: '067'
   name: 金木
