@@ -5,12 +5,6 @@
   kana: ホンテン
   hira: ほんてん
   roma: honten
-'101':
-  code: '101'
-  name: 小牛田駅前
-  kana: コゴタエキマエ
-  hira: こごたえきまえ
-  roma: kogotaekimae
 '102':
   code: '102'
   name: 小牛田
@@ -35,12 +29,6 @@
   kana: ワクヤ
   hira: わくや
   roma: wakuya
-'109':
-  code: '109'
-  name: 箟岳
-  kana: ノノダケ
-  hira: ののだけ
-  roma: nonodake
 '110':
   code: '110'
   name: 南郷
@@ -65,12 +53,6 @@
   kana: タカシミズ
   hira: たかしみず
   roma: takashimizu
-'203':
-  code: '203'
-  name: 瀬峰
-  kana: セミネ
-  hira: せみね
-  roma: semine
 '204':
   code: '204'
   name: 志波姫
@@ -101,12 +83,6 @@
   kana: クリコマチユウオウ
   hira: くりこまちゆうおう
   roma: kurikomachiyuuou
-'212':
-  code: '212'
-  name: 尾松
-  kana: オマツ
-  hira: おまつ
-  roma: omatsu
 '301':
   code: '301'
   name: 志津川

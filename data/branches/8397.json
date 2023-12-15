@@ -48,13 +48,6 @@
     "hira":"さいじよう",
     "roma":"saijiyou"
   },
-  "022":{
-    "code":"022",
-    "name":"飯岡",
-    "kana":"イイオカ",
-    "hira":"いいおか",
-    "roma":"iioka"
-  },
   "023":{
     "code":"023",
     "name":"玉津",
@@ -71,10 +64,10 @@
   },
   "025":{
     "code":"025",
-    "name":"大町",
-    "kana":"オオマチ",
-    "hira":"おおまち",
-    "roma":"oomachi"
+    "name":"西条川東",
+    "kana":"サイジヨウカワヒガシ",
+    "hira":"さいじようかわひがし",
+    "roma":"saijiyoukawahigashi"
   },
   "026":{
     "code":"026",

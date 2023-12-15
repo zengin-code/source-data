@@ -3061,10 +3061,10 @@
   roma: niigatadaieishinkumi
 '2365':
   code: '2365'
-  name: 塩沢信組
-  kana: シオザワシンクミ
-  hira: しおざわしんくみ
-  roma: shiozawashinkumi
+  name: ゆきぐに信組
+  kana: ユキグニシンクミ
+  hira: ゆきぐにしんくみ
+  roma: yukigunishinkumi
 '2366':
   code: '2366'
   name: 糸魚川信組
@@ -3899,12 +3899,6 @@
   kana: ドウオウノウキヨウ
   hira: どうおうのうきよう
   roma: douounoukiyou
-'3142':
-  code: '3142'
-  name: 石狩市農協
-  kana: イシカリシノウキヨウ
-  hira: いしかりしのうきよう
-  roma: ishikarishinoukiyou
 '3145':
   code: '3145'
   name: 北石狩農協

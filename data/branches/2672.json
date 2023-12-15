@@ -55,13 +55,6 @@
     "hira":"ふくやま",
     "roma":"fukuyama"
   },
-  "016":{
-    "code":"016",
-    "name":"下関",
-    "kana":"シモノセキ",
-    "hira":"しものせき",
-    "roma":"shimonoseki"
-  },
   "017":{
     "code":"017",
     "name":"徳山",
@@ -71,10 +64,10 @@
   },
   "018":{
     "code":"018",
-    "name":"宇部",
-    "kana":"ウベ",
-    "hira":"うべ",
-    "roma":"ube"
+    "name":"新山口",
+    "kana":"シンヤマグチ",
+    "hira":"しんやまぐち",
+    "roma":"shinyamaguchi"
   },
   "020":{
     "code":"020",

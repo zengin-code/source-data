@@ -89,5 +89,19 @@
     "kana":"シンコトニ",
     "hira":"しんことに",
     "roma":"shinkotoni"
+  },
+  "033":{
+    "code":"033",
+    "name":"石狩八幡",
+    "kana":"イシカリハチマン",
+    "hira":"いしかりはちまん",
+    "roma":"ishikarihachiman"
+  },
+  "034":{
+    "code":"034",
+    "name":"石狩花畔",
+    "kana":"イシカリバンナグロ",
+    "hira":"いしかりばんなぐろ",
+    "roma":"ishikaribannaguro"
   }
 }

@@ -328,13 +328,6 @@
     "hira":"みなみいわくに",
     "roma":"minamiiwakuni"
   },
-  "594":{
-    "code":"594",
-    "name":"通津出張所",
-    "kana":"ツヅ",
-    "hira":"つづ",
-    "roma":"tsudu"
-  },
   "595":{
     "code":"595",
     "name":"錦町出張所",
@@ -348,5 +341,12 @@
     "kana":"イワクニチユウオウ",
     "hira":"いわくにちゆうおう",
     "roma":"iwakunichiyuuou"
+  },
+  "600":{
+    "code":"600",
+    "name":"インターネット",
+    "kana":"インタ－ネツト",
+    "hira":"いんた－ねつと",
+    "roma":"inta-netsuto"
   }
 }

@@ -13,19 +13,12 @@
     "hira":"かんな",
     "roma":"kanna"
   },
-  "005":{
-    "code":"005",
-    "name":"平井",
-    "kana":"ヒライ",
-    "hira":"ひらい",
-    "roma":"hirai"
-  },
   "006":{
     "code":"006",
-    "name":"美九里",
-    "kana":"ミクリ",
-    "hira":"みくり",
-    "roma":"mikuri"
+    "name":"藤岡南",
+    "kana":"フジオカミナミ",
+    "hira":"ふじおかみなみ",
+    "roma":"fujiokaminami"
   },
   "013":{
     "code":"013",

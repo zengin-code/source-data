@@ -505,10 +505,10 @@
   },
   "714":{
     "code":"714",
-    "name":"楽天第四",
-    "kana":"ラクテンダイヨン",
-    "hira":"らくてんだいよん",
-    "roma":"rakutendaiyon"
+    "name":"法人第十四",
+    "kana":"ホウジンダイジユウヨン",
+    "hira":"ほうじんだいじゆうよん",
+    "roma":"houjindaijiyuuyon"
   },
   "715":{
     "code":"715",
@@ -551,5 +551,40 @@
     "kana":"ホウジンダイニジユウ",
     "hira":"ほうじんだいにじゆう",
     "roma":"houjindainijiyuu"
+  },
+  "721":{
+    "code":"721",
+    "name":"法人第二十一",
+    "kana":"ホウジンダイニジユウイチ",
+    "hira":"ほうじんだいにじゆういち",
+    "roma":"houjindainijiyuuichi"
+  },
+  "722":{
+    "code":"722",
+    "name":"法人第二十二",
+    "kana":"ホウジンダイニジユウニ",
+    "hira":"ほうじんだいにじゆうに",
+    "roma":"houjindainijiyuuni"
+  },
+  "723":{
+    "code":"723",
+    "name":"法人第二十三",
+    "kana":"ホウジンダイニジユウサン",
+    "hira":"ほうじんだいにじゆうさん",
+    "roma":"houjindainijiyuusan"
+  },
+  "724":{
+    "code":"724",
+    "name":"法人第二十四",
+    "kana":"ホウジンダイニジユウヨン",
+    "hira":"ほうじんだいにじゆうよん",
+    "roma":"houjindainijiyuuyon"
+  },
+  "725":{
+    "code":"725",
+    "name":"法人第二十五",
+    "kana":"ホウジンダイニジユウゴ",
+    "hira":"ほうじんだいにじゆうご",
+    "roma":"houjindainijiyuugo"
   }
 }

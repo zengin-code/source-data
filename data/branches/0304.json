@@ -8,10 +8,10 @@
   },
   "002":{
     "code":"002",
-    "name":"ウェルスマネジメント金マネ",
-    "kana":"ウエルスマネジメントキンマネ",
-    "hira":"うえるすまねじめんときんまね",
-    "roma":"uerusumanejimentokimmane"
+    "name":"本店ウェルマネ０２",
+    "kana":"ホンテンウエルマネゼロニ",
+    "hira":"ほんてんうえるまねぜろに",
+    "roma":"hontenuerumanezeroni"
   },
   "003":{
     "code":"003",
@@ -603,10 +603,10 @@
   },
   "125":{
     "code":"125",
-    "name":"本店法人コンサルティング部",
-    "kana":"ホンテンホウジンコンサルブ",
-    "hira":"ほんてんほうじんこんさるぶ",
-    "roma":"hontenhoujinkonsarubu"
+    "name":"本店ウェルマネ１２５",
+    "kana":"ホンテンウエルマネイチニゴ",
+    "hira":"ほんてんうえるまねいちにご",
+    "roma":"hontenuerumaneichinigo"
   },
   "129":{
     "code":"129",
@@ -876,10 +876,10 @@
   },
   "271":{
     "code":"271",
-    "name":"刈谷",
-    "kana":"カリヤ",
-    "hira":"かりや",
-    "roma":"kariya"
+    "name":"名古屋駅前２７１",
+    "kana":"ナゴヤエキマエニナナイチ",
+    "hira":"なごやえきまえになないち",
+    "roma":"nagoyaekimaeninanaichi"
   },
   "272":{
     "code":"272",
@@ -1135,10 +1135,10 @@
   },
   "571":{
     "code":"571",
-    "name":"名古屋法人コンサルティング部",
-    "kana":"ナゴヤホウジンコンサルブ",
-    "hira":"なごやほうじんこんさるぶ",
-    "roma":"nagoyahoujinkonsarubu"
+    "name":"名古屋ウェルマネ５７１",
+    "kana":"ナゴヤウエルマネゴナナイチ",
+    "hira":"なごやうえるまねごなないち",
+    "roma":"nagoyauerumanegonanaichi"
   },
   "591":{
     "code":"591",
@@ -1240,10 +1240,10 @@
   },
   "670":{
     "code":"670",
-    "name":"大阪法人コンサルティング部",
-    "kana":"オオサカホウジンコンサルブ",
-    "hira":"おおさかほうじんこんさるぶ",
-    "roma":"oosakahoujinkonsarubu"
+    "name":"大阪ウェルマネ６７０",
+    "kana":"オオサカウエルマネロクナナゼ",
+    "hira":"おおさかうえるまねろくななぜ",
+    "roma":"oosakauerumanerokunanaze"
   },
   "701":{
     "code":"701",
@@ -1559,5 +1559,12 @@
     "kana":"ネツトコ－ルキユウナナキユウ",
     "hira":"ねつとこ－るきゆうななきゆう",
     "roma":"netsutoko-rukiyuunanakiyuu"
+  },
+  "993":{
+    "code":"993",
+    "name":"ネットコール９９３",
+    "kana":"ネツトコ－ルキユウキユウサン",
+    "hira":"ねつとこ－るきゆうきゆうさん",
+    "roma":"netsutoko-rukiyuukiyuusan"
   }
 }

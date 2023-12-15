@@ -41,13 +41,6 @@
     "hira":"ひがしくるめえきまえ",
     "roma":"higashikurumeekimae"
   },
-  "013":{
-    "code":"013",
-    "name":"保谷",
-    "kana":"ホウヤ",
-    "hira":"ほうや",
-    "roma":"houya"
-  },
   "014":{
     "code":"014",
     "name":"下保谷",
@@ -57,10 +50,10 @@
   },
   "020":{
     "code":"020",
-    "name":"田無",
-    "kana":"タナシ",
-    "hira":"たなし",
-    "roma":"tanashi"
+    "name":"西東京",
+    "kana":"ニシトウキヨウ",
+    "hira":"にしとうきよう",
+    "roma":"nishitoukiyou"
   },
   "030":{
     "code":"030",

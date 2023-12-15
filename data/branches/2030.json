@@ -111,13 +111,6 @@
     "hira":"かみきたちよう",
     "roma":"kamikitachiyou"
   },
-  "021":{
-    "code":"021",
-    "name":"百石",
-    "kana":"モモイシ",
-    "hira":"ももいし",
-    "roma":"momoishi"
-  },
   "024":{
     "code":"024",
     "name":"木造",
@@ -138,13 +131,6 @@
     "kana":"ムツ",
     "hira":"むつ",
     "roma":"mutsu"
-  },
-  "033":{
-    "code":"033",
-    "name":"川内",
-    "kana":"カワウチ",
-    "hira":"かわうち",
-    "roma":"kawauchi"
   },
   "037":{
     "code":"037",

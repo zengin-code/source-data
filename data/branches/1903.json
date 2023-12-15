@@ -69,13 +69,6 @@
     "hira":"さんがもり",
     "roma":"sangamori"
   },
-  "036":{
-    "code":"036",
-    "name":"中央町",
-    "kana":"チユウオウマチ",
-    "hira":"ちゆうおうまち",
-    "roma":"chiyuuoumachi"
-  },
   "037":{
     "code":"037",
     "name":"町上津役",
@@ -110,13 +103,6 @@
     "kana":"ホンジヨウ",
     "hira":"ほんじよう",
     "roma":"honjiyou"
-  },
-  "044":{
-    "code":"044",
-    "name":"則松",
-    "kana":"ノリマツ",
-    "hira":"のりまつ",
-    "roma":"norimatsu"
   },
   "046":{
     "code":"046",

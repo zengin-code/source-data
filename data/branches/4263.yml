@@ -23,12 +23,6 @@
   kana: トウカイ
   hira: とうかい
   roma: toukai
-'011':
-  code: '011'
-  name: 瓜連
-  kana: ウリヅラ
-  hira: うりづら
-  roma: uridura
 '012':
   code: '012'
   name: 那珂
@@ -83,24 +77,12 @@
   kana: ダイゴ
   hira: だいご
   roma: daigo
-'022':
-  code: '022'
-  name: 山方
-  kana: ヤマガタ
-  hira: やまがた
-  roma: yamagata
 '024':
   code: '024'
   name: 太田
   kana: オオタ
   hira: おおた
   roma: oota
-'026':
-  code: '026'
-  name: 水府
-  kana: スイフ
-  hira: すいふ
-  roma: suifu
 '028':
   code: '028'
   name: 里美

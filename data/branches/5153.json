@@ -13,13 +13,6 @@
     "hira":"なかつ",
     "roma":"nakatsu"
   },
-  "003":{
-    "code":"003",
-    "name":"春日台出張所",
-    "kana":"カスガダイ",
-    "hira":"かすがだい",
-    "roma":"kasugadai"
-  },
   "004":{
     "code":"004",
     "name":"高峰",
@@ -33,12 +26,5 @@
     "kana":"ハンバラ",
     "hira":"はんばら",
     "roma":"hambara"
-  },
-  "006":{
-    "code":"006",
-    "name":"田代出張所",
-    "kana":"タシロ",
-    "hira":"たしろ",
-    "roma":"tashiro"
   }
 }

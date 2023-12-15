@@ -6,26 +6,12 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "003":{
-    "code":"003",
-    "name":"鳥取",
-    "kana":"トツトリ",
-    "hira":"とつとり",
-    "roma":"totsutori"
-  },
   "005":{
     "code":"005",
     "name":"西港",
     "kana":"ニシコウ",
     "hira":"にしこう",
     "roma":"nishikou"
-  },
-  "006":{
-    "code":"006",
-    "name":"桜ケ岡",
-    "kana":"サクラガオカ",
-    "hira":"さくらがおか",
-    "roma":"sakuragaoka"
   },
   "007":{
     "code":"007",
@@ -47,20 +33,6 @@
     "kana":"カツラギ",
     "hira":"かつらぎ",
     "roma":"katsuragi"
-  },
-  "012":{
-    "code":"012",
-    "name":"緑ケ岡",
-    "kana":"ミドリガオカ",
-    "hira":"みどりがおか",
-    "roma":"midorigaoka"
-  },
-  "014":{
-    "code":"014",
-    "name":"羅臼",
-    "kana":"ラウス",
-    "hira":"らうす",
-    "roma":"rausu"
   },
   "016":{
     "code":"016",
