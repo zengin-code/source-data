@@ -13,19 +13,12 @@
     "hira":"せんば",
     "roma":"semba"
   },
-  "004":{
-    "code":"004",
-    "name":"上中妻",
-    "kana":"カミナカヅマ",
-    "hira":"かみなかづま",
-    "roma":"kaminakaduma"
-  },
   "007":{
     "code":"007",
-    "name":"渡里",
-    "kana":"ワタリ",
-    "hira":"わたり",
-    "roma":"watari"
+    "name":"赤塚",
+    "kana":"アカツカ",
+    "hira":"あかつか",
+    "roma":"akatsuka"
   },
   "018":{
     "code":"018",

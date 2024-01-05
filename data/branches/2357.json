@@ -75,5 +75,54 @@
     "kana":"ニイツ",
     "hira":"にいつ",
     "roma":"niitsu"
+  },
+  "051":{
+    "code":"051",
+    "name":"三条",
+    "kana":"サンジヨウ",
+    "hira":"さんじよう",
+    "roma":"sanjiyou"
+  },
+  "052":{
+    "code":"052",
+    "name":"下田",
+    "kana":"シタダ",
+    "hira":"しただ",
+    "roma":"shitada"
+  },
+  "053":{
+    "code":"053",
+    "name":"三条中央",
+    "kana":"サンジヨウチユウオウ",
+    "hira":"さんじようちゆうおう",
+    "roma":"sanjiyouchiyuuou"
+  },
+  "054":{
+    "code":"054",
+    "name":"栄",
+    "kana":"サカエ",
+    "hira":"さかえ",
+    "roma":"sakae"
+  },
+  "055":{
+    "code":"055",
+    "name":"三条南",
+    "kana":"サンジヨウミナミ",
+    "hira":"さんじようみなみ",
+    "roma":"sanjiyouminami"
+  },
+  "056":{
+    "code":"056",
+    "name":"三条北",
+    "kana":"サンジヨウキタ",
+    "hira":"さんじようきた",
+    "roma":"sanjiyoukita"
+  },
+  "057":{
+    "code":"057",
+    "name":"今町",
+    "kana":"イママチ",
+    "hira":"いままち",
+    "roma":"imamachi"
   }
 }

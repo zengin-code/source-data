@@ -110,5 +110,12 @@
     "kana":"フクヤマ",
     "hira":"ふくやま",
     "roma":"fukuyama"
+  },
+  "017":{
+    "code":"017",
+    "name":"福山南",
+    "kana":"フクヤマミナミ",
+    "hira":"ふくやまみなみ",
+    "roma":"fukuyamaminami"
   }
 }

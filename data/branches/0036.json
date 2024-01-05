@@ -412,6 +412,27 @@
     "hira":"だいいちせいめい",
     "roma":"daiichiseimei"
   },
+  "341":{
+    "code":"341",
+    "name":"ＪＲＥはやぶさ",
+    "kana":"ジエイア－ルイ－ハヤブサ",
+    "hira":"じえいあ－るい－はやぶさ",
+    "roma":"jieia-rui-hayabusa"
+  },
+  "342":{
+    "code":"342",
+    "name":"ＪＲＥとき",
+    "kana":"ジエイア－ルイ－トキ",
+    "hira":"じえいあ－るい－とき",
+    "roma":"jieia-rui-toki"
+  },
+  "343":{
+    "code":"343",
+    "name":"ＪＲＥこまち",
+    "kana":"ジエイア－ルイ－コマチ",
+    "hira":"じえいあ－るい－こまち",
+    "roma":"jieia-rui-komachi"
+  },
   "701":{
     "code":"701",
     "name":"法人第一",

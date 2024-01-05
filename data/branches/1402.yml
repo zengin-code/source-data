@@ -5,12 +5,6 @@
   kana: ホンテン
   hira: ほんてん
   roma: honten
-'002':
-  code: '002'
-  name: 東部
-  kana: トウブ
-  hira: とうぶ
-  roma: toubu
 '005':
   code: '005'
   name: 福岡
@@ -89,12 +83,6 @@
   kana: トナミ
   hira: となみ
   roma: tonami
-'022':
-  code: '022'
-  name: 佐野
-  kana: サノ
-  hira: さの
-  roma: sano
 '023':
   code: '023'
   name: 新成
@@ -107,12 +95,6 @@
   kana: トイデ
   hira: といで
   roma: toide
-'028':
-  code: '028'
-  name: 鐘紡町
-  kana: カネボウマチ
-  hira: かねぼうまち
-  roma: kaneboumachi
 '029':
   code: '029'
   name: 下田

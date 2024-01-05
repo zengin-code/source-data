@@ -95,12 +95,6 @@
   kana: カナサゴウ
   hira: かなさごう
   roma: kanasagou
-'034':
-  code: '034'
-  name: 五浦
-  kana: イヅウラ
-  hira: いづうら
-  roma: iduura
 '035':
   code: '035'
   name: 北茨城
@@ -119,12 +113,6 @@
   kana: ジユウオウ
   hira: じゆうおう
   roma: jiyuuou
-'038':
-  code: '038'
-  name: 日高
-  kana: ヒダカ
-  hira: ひだか
-  roma: hidaka
 '039':
   code: '039'
   name: 日立
@@ -137,12 +125,6 @@
   kana: ミナミ
   hira: みなみ
   roma: minami
-'041':
-  code: '041'
-  name: 中里
-  kana: ナカザト
-  hira: なかざと
-  roma: nakazato
 '100':
   code: '100'
   name: 本店

@@ -20,13 +20,6 @@
     "hira":"えきまえ",
     "roma":"ekimae"
   },
-  "005":{
-    "code":"005",
-    "name":"旭町",
-    "kana":"アサヒチヨウ",
-    "hira":"あさひちよう",
-    "roma":"asahichiyou"
-  },
   "006":{
     "code":"006",
     "name":"浪打",
@@ -110,13 +103,6 @@
     "kana":"カミキタチヨウ",
     "hira":"かみきたちよう",
     "roma":"kamikitachiyou"
-  },
-  "024":{
-    "code":"024",
-    "name":"木造",
-    "kana":"キヅクリ",
-    "hira":"きづくり",
-    "roma":"kidukuri"
   },
   "026":{
     "code":"026",

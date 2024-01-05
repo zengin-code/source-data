@@ -783,6 +783,20 @@
     "hira":"いけぶくろ",
     "roma":"ikebukuro"
   },
+  "143":{
+    "code":"143",
+    "name":"浜松町",
+    "kana":"ハママツチヨウ",
+    "hira":"はままつちよう",
+    "roma":"hamamatsuchiyou"
+  },
+  "144":{
+    "code":"144",
+    "name":"水戸",
+    "kana":"ミト",
+    "hira":"みと",
+    "roma":"mito"
+  },
   "201":{
     "code":"201",
     "name":"八幡",
