@@ -20,13 +20,6 @@
     "hira":"うわごろも",
     "roma":"uwagoromo"
   },
-  "048":{
-    "code":"048",
-    "name":"根川",
-    "kana":"ネガワ",
-    "hira":"ねがわ",
-    "roma":"negawa"
-  },
   "056":{
     "code":"056",
     "name":"逢妻",
@@ -104,13 +97,6 @@
     "hira":"よしなか",
     "roma":"yoshinaka"
   },
-  "561":{
-    "code":"561",
-    "name":"駒場",
-    "kana":"コマバ",
-    "hira":"こまば",
-    "roma":"komaba"
-  },
   "579":{
     "code":"579",
     "name":"前林",
@@ -118,26 +104,12 @@
     "hira":"まえばやし",
     "roma":"maebayashi"
   },
-  "587":{
-    "code":"587",
-    "name":"町",
-    "kana":"マチ",
-    "hira":"まち",
-    "roma":"machi"
-  },
   "595":{
     "code":"595",
     "name":"大林",
     "kana":"オオバヤシ",
     "hira":"おおばやし",
     "roma":"oobayashi"
-  },
-  "609":{
-    "code":"609",
-    "name":"中田",
-    "kana":"ナカダ",
-    "hira":"なかだ",
-    "roma":"nakada"
   },
   "714":{
     "code":"714",

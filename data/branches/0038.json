@@ -215,5 +215,12 @@
     "kana":"クジラ",
     "hira":"くじら",
     "roma":"kujira"
+  },
+  "406":{
+    "code":"406",
+    "name":"ネオバンクビジネス",
+    "kana":"ネオバンクビジネス",
+    "hira":"ねおばんくびじねす",
+    "roma":"neobankubijinesu"
   }
 }

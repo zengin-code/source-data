@@ -25,10 +25,10 @@
   roma: rokugou
 '005':
   code: '005'
-  name: 新高尾
-  kana: シンタカオ
-  hira: しんたかお
-  roma: shintakao
+  name: 高崎中央
+  kana: タカサキチユウオウ
+  hira: たかさきちゆうおう
+  roma: takasakichiyuuou
 '006':
   code: '006'
   name: 西部
@@ -83,9 +83,3 @@
   kana: ナカガワ
   hira: なかがわ
   roma: nakagawa
-'019':
-  code: '019'
-  name: 塚沢
-  kana: ツカサワ
-  hira: つかさわ
-  roma: tsukasawa
