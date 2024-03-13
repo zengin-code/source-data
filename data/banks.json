@@ -6425,20 +6425,6 @@
     "hira":"えちごちゆうえつのうきよう",
     "roma":"echigochiyuuetsunoukiyou"
   },
-  "5690":{
-    "code":"5690",
-    "name":"越後おぢや農協",
-    "kana":"エチゴオヂヤノウキヨウ",
-    "hira":"えちごおぢやのうきよう",
-    "roma":"echigoodiyanoukiyou"
-  },
-  "5693":{
-    "code":"5693",
-    "name":"北魚沼農協",
-    "kana":"キタウオヌマノウキヨウ",
-    "hira":"きたうおぬまのうきよう",
-    "roma":"kitauonumanoukiyou"
-  },
   "5707":{
     "code":"5707",
     "name":"みなみ魚沼農協",
@@ -6448,17 +6434,10 @@
   },
   "5714":{
     "code":"5714",
-    "name":"十日町農協",
-    "kana":"トオカマチノウキヨウ",
-    "hira":"とおかまちのうきよう",
-    "roma":"tookamachinoukiyou"
-  },
-  "5719":{
-    "code":"5719",
-    "name":"津南町農協",
-    "kana":"ツナンマチノウキヨウ",
-    "hira":"つなんまちのうきよう",
-    "roma":"tsunammachinoukiyou"
+    "name":"魚沼農協",
+    "kana":"ウオヌマノウキョウ",
+    "hira":"うおぬまのうきょう",
+    "roma":"uonumanoukyou"
   },
   "5768":{
     "code":"5768",

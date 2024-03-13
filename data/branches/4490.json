@@ -34,19 +34,12 @@
     "hira":"おやま",
     "roma":"oyama"
   },
-  "013":{
-    "code":"013",
-    "name":"石橋",
-    "kana":"イシバシ",
-    "hira":"いしばし",
-    "roma":"ishibashi"
-  },
   "014":{
     "code":"014",
-    "name":"国分寺",
-    "kana":"コクブンジ",
-    "hira":"こくぶんじ",
-    "roma":"kokubunji"
+    "name":"下野",
+    "kana":"シモツケ",
+    "hira":"しもつけ",
+    "roma":"shimotsuke"
   },
   "015":{
     "code":"015",

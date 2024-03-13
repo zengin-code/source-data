@@ -23,18 +23,12 @@
   kana: ナカガワ
   hira: なかがわ
   roma: nakagawa
-'005':
-  code: '005'
-  name: 石根
-  kana: イワネ
-  hira: いわね
-  roma: iwane
 '006':
   code: '006'
-  name: 小松
-  kana: コマツ
-  hira: こまつ
-  roma: komatsu
+  name: 南部
+  kana: ナンブ
+  hira: なんぶ
+  roma: nambu
 '007':
   code: '007'
   name: 周布
@@ -77,21 +71,9 @@
   kana: トクダ
   hira: とくだ
   roma: tokuda
-'014':
-  code: '014'
-  name: 壬生川
-  kana: ニユウガワ
-  hira: にゆうがわ
-  roma: niyuugawa
-'015':
-  code: '015'
-  name: 吉井
-  kana: ヨシイ
-  hira: よしい
-  roma: yoshii
 '017':
   code: '017'
-  name: 多賀
-  kana: タガ
-  hira: たが
-  roma: taga
+  name: 東部
+  kana: トウブ
+  hira: とうぶ
+  roma: toubu

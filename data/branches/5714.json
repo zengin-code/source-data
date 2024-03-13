@@ -68,5 +68,54 @@
     "kana":"マツノヤマ",
     "hira":"まつのやま",
     "roma":"matsunoyama"
+  },
+  "061":{
+    "code":"061",
+    "name":"小千谷",
+    "kana":"オヂヤ",
+    "hira":"おぢや",
+    "roma":"odiya"
+  },
+  "062":{
+    "code":"062",
+    "name":"片貝",
+    "kana":"カタカイ",
+    "hira":"かたかい",
+    "roma":"katakai"
+  },
+  "071":{
+    "code":"071",
+    "name":"小出",
+    "kana":"コイデ",
+    "hira":"こいで",
+    "roma":"koide"
+  },
+  "072":{
+    "code":"072",
+    "name":"堀之内",
+    "kana":"ホリノウチ",
+    "hira":"ほりのうち",
+    "roma":"horinouchi"
+  },
+  "073":{
+    "code":"073",
+    "name":"広瀬",
+    "kana":"ヒロセ",
+    "hira":"ひろせ",
+    "roma":"hirose"
+  },
+  "074":{
+    "code":"074",
+    "name":"川口",
+    "kana":"カワグチ",
+    "hira":"かわぐち",
+    "roma":"kawaguchi"
+  },
+  "081":{
+    "code":"081",
+    "name":"津南",
+    "kana":"ツナン",
+    "hira":"つなん",
+    "roma":"tsunan"
   }
 }

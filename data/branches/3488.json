@@ -27,13 +27,6 @@
     "hira":"はしかみ",
     "roma":"hashikami"
   },
-  "013":{
-    "code":"013",
-    "name":"南郷",
-    "kana":"ナンゴウ",
-    "hira":"なんごう",
-    "roma":"nangou"
-  },
   "015":{
     "code":"015",
     "name":"五戸",
@@ -61,12 +54,5 @@
     "kana":"ナンブ",
     "hira":"なんぶ",
     "roma":"nambu"
-  },
-  "023":{
-    "code":"023",
-    "name":"田子",
-    "kana":"タツコ",
-    "hira":"たつこ",
-    "roma":"tatsuko"
   }
 }

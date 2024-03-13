@@ -27,13 +27,6 @@
     "hira":"ごゆ",
     "roma":"goyu"
   },
-  "080":{
-    "code":"080",
-    "name":"蔵子",
-    "kana":"ゾウシ",
-    "hira":"ぞうし",
-    "roma":"zoushi"
-  },
   "098":{
     "code":"098",
     "name":"豊川",
@@ -89,12 +82,5 @@
     "kana":"ミト",
     "hira":"みと",
     "roma":"mito"
-  },
-  "811":{
-    "code":"811",
-    "name":"広石",
-    "kana":"ヒロイシ",
-    "hira":"ひろいし",
-    "roma":"hiroishi"
   }
 }
