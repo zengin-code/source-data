@@ -90,6 +90,34 @@
     "hira":"なだち",
     "roma":"nadachi"
   },
+  "060":{
+    "code":"060",
+    "name":"ひかり",
+    "kana":"ヒカリ",
+    "hira":"ひかり",
+    "roma":"hikari"
+  },
+  "070":{
+    "code":"070",
+    "name":"糸魚川",
+    "kana":"イトイガワ",
+    "hira":"いといがわ",
+    "roma":"itoigawa"
+  },
+  "080":{
+    "code":"080",
+    "name":"能生",
+    "kana":"ノウ",
+    "hira":"のう",
+    "roma":"nou"
+  },
+  "090":{
+    "code":"090",
+    "name":"青海",
+    "kana":"オウミ",
+    "hira":"おうみ",
+    "roma":"oumi"
+  },
   "101":{
     "code":"101",
     "name":"安塚",

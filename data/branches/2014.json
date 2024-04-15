@@ -26,5 +26,12 @@
     "kana":"トウホク",
     "hira":"とうほく",
     "roma":"touhoku"
+  },
+  "100":{
+    "code":"100",
+    "name":"あおぞら",
+    "kana":"アオゾラ",
+    "hira":"あおぞら",
+    "roma":"aozora"
   }
 }

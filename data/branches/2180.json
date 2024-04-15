@@ -69,25 +69,11 @@
     "hira":"みさきひがし",
     "roma":"misakihigashi"
   },
-  "131":{
-    "code":"131",
-    "name":"茂原",
-    "kana":"モバラ",
-    "hira":"もばら",
-    "roma":"mobara"
-  },
   "132":{
     "code":"132",
     "name":"鴨川",
     "kana":"カモガワ",
     "hira":"かもがわ",
     "roma":"kamogawa"
-  },
-  "137":{
-    "code":"137",
-    "name":"御宿",
-    "kana":"オンジユク",
-    "hira":"おんじゆく",
-    "roma":"onjiyuku"
   }
 }

@@ -41,26 +41,12 @@
     "hira":"かわかみ",
     "roma":"kawakami"
   },
-  "060":{
-    "code":"060",
-    "name":"備中",
-    "kana":"ビツチユウ",
-    "hira":"びつちゆう",
-    "roma":"bitsuchiyuu"
-  },
   "070":{
     "code":"070",
     "name":"賀陽",
     "kana":"カヨウ",
     "hira":"かよう",
     "roma":"kayou"
-  },
-  "071":{
-    "code":"071",
-    "name":"大和",
-    "kana":"ヤマト",
-    "hira":"やまと",
-    "roma":"yamato"
   },
   "080":{
     "code":"080",
@@ -148,10 +134,10 @@
   },
   "110":{
     "code":"110",
-    "name":"粒江",
-    "kana":"ツブエ",
-    "hira":"つぶえ",
-    "roma":"tsubue"
+    "name":"倉敷南",
+    "kana":"クラシキミナミ",
+    "hira":"くらしきみなみ",
+    "roma":"kurashikiminami"
   },
   "111":{
     "code":"111",
@@ -169,24 +155,10 @@
   },
   "113":{
     "code":"113",
-    "name":"帯江",
-    "kana":"オビエ",
-    "hira":"おびえ",
-    "roma":"obie"
-  },
-  "114":{
-    "code":"114",
-    "name":"豊洲",
-    "kana":"トヨス",
-    "hira":"とよす",
-    "roma":"toyosu"
-  },
-  "115":{
-    "code":"115",
-    "name":"藤戸",
-    "kana":"フジト",
-    "hira":"ふじと",
-    "roma":"fujito"
+    "name":"倉敷東",
+    "kana":"クラシキヒガシ",
+    "hira":"くらしきひがし",
+    "roma":"kurashikihigashi"
   },
   "116":{
     "code":"116",
@@ -195,26 +167,12 @@
     "hira":"しよう",
     "roma":"shiyou"
   },
-  "117":{
-    "code":"117",
-    "name":"茶屋町",
-    "kana":"チヤヤマチ",
-    "hira":"ちややまち",
-    "roma":"chiyayamachi"
-  },
   "118":{
     "code":"118",
     "name":"早島町",
     "kana":"ハヤシマチヨウ",
     "hira":"はやしまちよう",
     "roma":"hayashimachiyou"
-  },
-  "119":{
-    "code":"119",
-    "name":"児島",
-    "kana":"コジマ",
-    "hira":"こじま",
-    "roma":"kojima"
   },
   "120":{
     "code":"120",
@@ -447,20 +405,6 @@
     "hira":"みよし",
     "roma":"miyoshi"
   },
-  "159":{
-    "code":"159",
-    "name":"草間",
-    "kana":"クサマ",
-    "hira":"くさま",
-    "roma":"kusama"
-  },
-  "160":{
-    "code":"160",
-    "name":"豊永",
-    "kana":"トヨナガ",
-    "hira":"とよなが",
-    "roma":"toyonaga"
-  },
   "161":{
     "code":"161",
     "name":"大佐",
@@ -537,13 +481,6 @@
     "kana":"ツヤマヒガシ",
     "hira":"つやまひがし",
     "roma":"tsuyamahigashi"
-  },
-  "174":{
-    "code":"174",
-    "name":"津山南",
-    "kana":"ツヤマミナミ",
-    "hira":"つやまみなみ",
-    "roma":"tsuyamaminami"
   },
   "176":{
     "code":"176",

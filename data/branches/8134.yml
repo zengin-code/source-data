@@ -179,12 +179,6 @@
   kana: ヒラタ
   hira: ひらた
   roma: hirata
-'199':
-  code: '199'
-  name: 海土路
-  kana: ミドロ
-  hira: みどろ
-  roma: midoro
 '200':
   code: '200'
   name: 岩国西
@@ -251,12 +245,6 @@
   kana: イホノシヨウ
   hira: いほのしよう
   roma: ihonoshiyou
-'265':
-  code: '265'
-  name: 平郡
-  kana: ヘイグン
-  hira: へいぐん
-  roma: heigun
 '266':
   code: '266'
   name: 上関

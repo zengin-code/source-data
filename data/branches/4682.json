@@ -83,13 +83,6 @@
     "hira":"につしん",
     "roma":"nitsushin"
   },
-  "016":{
-    "code":"016",
-    "name":"大宮",
-    "kana":"オオミヤ",
-    "hira":"おおみや",
-    "roma":"oomiya"
-  },
   "017":{
     "code":"017",
     "name":"大砂土",
@@ -120,10 +113,10 @@
   },
   "023":{
     "code":"023",
-    "name":"片柳",
-    "kana":"カタヤナギ",
-    "hira":"かたやなぎ",
-    "roma":"katayanagi"
+    "name":"大宮東",
+    "kana":"オオミヤヒガシ",
+    "hira":"おおみやひがし",
+    "roma":"oomiyahigashi"
   },
   "024":{
     "code":"024",
@@ -166,13 +159,6 @@
     "kana":"ワラビ",
     "hira":"わらび",
     "roma":"warabi"
-  },
-  "031":{
-    "code":"031",
-    "name":"南平",
-    "kana":"ナンペイ",
-    "hira":"なんぺい",
-    "roma":"nampei"
   },
   "032":{
     "code":"032",
@@ -222,13 +208,6 @@
     "kana":"トヅカ",
     "hira":"とづか",
     "roma":"toduka"
-  },
-  "042":{
-    "code":"042",
-    "name":"差間",
-    "kana":"サシマ",
-    "hira":"さしま",
-    "roma":"sashima"
   },
   "043":{
     "code":"043",

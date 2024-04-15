@@ -6399,17 +6399,10 @@
   },
   "5554":{
     "code":"5554",
-    "name":"北越後農協",
-    "kana":"キタエチゴノウキヨウ",
-    "hira":"きたえちごのうきよう",
-    "roma":"kitaechigonoukiyou"
-  },
-  "5568":{
-    "code":"5568",
-    "name":"胎内市農協",
-    "kana":"タイナイシノウキヨウ",
-    "hira":"たいないしのうきよう",
-    "roma":"tainaishinoukiyou"
+    "name":"北新潟農協",
+    "kana":"キタニイガタノウキヨウ",
+    "hira":"きたにいがたのうきよう",
+    "roma":"kitaniigatanoukiyou"
   },
   "5600":{
     "code":"5600",
@@ -6435,9 +6428,9 @@
   "5714":{
     "code":"5714",
     "name":"魚沼農協",
-    "kana":"ウオヌマノウキョウ",
-    "hira":"うおぬまのうきょう",
-    "roma":"uonumanoukyou"
+    "kana":"ウオヌマノウキヨウ",
+    "hira":"うおぬまのうきよう",
+    "roma":"uonumanoukiyou"
   },
   "5768":{
     "code":"5768",
@@ -6446,40 +6439,12 @@
     "hira":"えちごじようえつのうきよう",
     "roma":"echigojiyouetsunoukiyou"
   },
-  "5797":{
-    "code":"5797",
-    "name":"ひすい農協",
-    "kana":"ヒスイノウキヨウ",
-    "hira":"ひすいのうきよう",
-    "roma":"hisuinoukiyou"
-  },
-  "5815":{
-    "code":"5815",
-    "name":"かみはやし農協",
-    "kana":"カミハヤシノウキヨウ",
-    "hira":"かみはやしのうきよう",
-    "roma":"kamihayashinoukiyou"
-  },
-  "5823":{
-    "code":"5823",
-    "name":"にいがた岩船農協",
-    "kana":"ニイガタイワフネノウキヨウ",
-    "hira":"にいがたいわふねのうきよう",
-    "roma":"niigataiwafunenoukiyou"
-  },
   "5832":{
     "code":"5832",
     "name":"佐渡農協",
     "kana":"サドノウキヨウ",
     "hira":"さどのうきよう",
     "roma":"sadonoukiyou"
-  },
-  "5847":{
-    "code":"5847",
-    "name":"羽茂農協",
-    "kana":"ハモチノウキヨウ",
-    "hira":"はもちのうきよう",
-    "roma":"hamochinoukiyou"
   },
   "5864":{
     "code":"5864",
@@ -7995,94 +7960,10 @@
   },
   "9169":{
     "code":"9169",
-    "name":"宮崎中央農協",
-    "kana":"ミヤザキチユウオウノウキヨウ",
-    "hira":"みやざきちゆうおうのうきよう",
-    "roma":"miyazakichiyuuounoukiyou"
-  },
-  "9177":{
-    "code":"9177",
-    "name":"綾町農協",
-    "kana":"アヤチヨウノウキヨウ",
-    "hira":"あやちようのうきよう",
-    "roma":"ayachiyounoukiyou"
-  },
-  "9178":{
-    "code":"9178",
-    "name":"はまゆう農協",
-    "kana":"ハマユウノウキヨウ",
-    "hira":"はまゆうのうきよう",
-    "roma":"hamayuunoukiyou"
-  },
-  "9181":{
-    "code":"9181",
-    "name":"串間市大束農協",
-    "kana":"クシマシオオツカノウキヨウ",
-    "hira":"くしましおおつかのうきよう",
-    "roma":"kushimashiootsukanoukiyou"
-  },
-  "9184":{
-    "code":"9184",
-    "name":"都城農協",
-    "kana":"ミヤコノジヨウノウキヨウ",
-    "hira":"みやこのじようのうきよう",
-    "roma":"miyakonojiyounoukiyou"
-  },
-  "9193":{
-    "code":"9193",
-    "name":"こばやし農協",
-    "kana":"コバヤシノウキヨウ",
-    "hira":"こばやしのうきよう",
-    "roma":"kobayashinoukiyou"
-  },
-  "9197":{
-    "code":"9197",
-    "name":"えびの市農協",
-    "kana":"エビノシノウキヨウ",
-    "hira":"えびのしのうきよう",
-    "roma":"ebinoshinoukiyou"
-  },
-  "9200":{
-    "code":"9200",
-    "name":"児湯農協",
-    "kana":"コユノウキヨウ",
-    "hira":"こゆのうきよう",
-    "roma":"koyunoukiyou"
-  },
-  "9203":{
-    "code":"9203",
-    "name":"尾鈴農協",
-    "kana":"オスズノウキヨウ",
-    "hira":"おすずのうきよう",
-    "roma":"osuzunoukiyou"
-  },
-  "9205":{
-    "code":"9205",
-    "name":"西都農協",
-    "kana":"サイトノウキヨウ",
-    "hira":"さいとのうきよう",
-    "roma":"saitonoukiyou"
-  },
-  "9208":{
-    "code":"9208",
-    "name":"延岡農協",
-    "kana":"ノベオカノウキヨウ",
-    "hira":"のべおかのうきよう",
-    "roma":"nobeokanoukiyou"
-  },
-  "9213":{
-    "code":"9213",
-    "name":"日向農協",
-    "kana":"ヒユウガノウキヨウ",
-    "hira":"ひゆうがのうきよう",
-    "roma":"hiyuuganoukiyou"
-  },
-  "9221":{
-    "code":"9221",
-    "name":"高千穂地区農協",
-    "kana":"タカチホチクノウキヨウ",
-    "hira":"たかちほちくのうきよう",
-    "roma":"takachihochikunoukiyou"
+    "name":"宮崎県農協",
+    "kana":"ミヤザキケンノウキヨウ",
+    "hira":"みやざきけんのうきよう",
+    "roma":"miyazakikennoukiyou"
   },
   "9229":{
     "code":"9229",

@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "003":{
-    "code":"003",
-    "name":"信陵",
-    "kana":"シンリヨウ",
-    "hira":"しんりよう",
-    "roma":"shinriyou"
-  },
   "004":{
     "code":"004",
     "name":"清水",
@@ -48,13 +41,6 @@
     "hira":"すぎのめ",
     "roma":"suginome"
   },
-  "017":{
-    "code":"017",
-    "name":"福島西",
-    "kana":"フクシマニシ",
-    "hira":"ふくしまにし",
-    "roma":"fukushimanishi"
-  },
   "020":{
     "code":"020",
     "name":"福島南",
@@ -64,24 +50,10 @@
   },
   "025":{
     "code":"025",
-    "name":"飯坂南",
-    "kana":"イイザカミナミ",
-    "hira":"いいざかみなみ",
-    "roma":"iizakaminami"
-  },
-  "026":{
-    "code":"026",
-    "name":"飯坂東",
-    "kana":"イイザカヒガシ",
-    "hira":"いいざかひがし",
-    "roma":"iizakahigashi"
-  },
-  "029":{
-    "code":"029",
-    "name":"庭坂",
-    "kana":"ニワサカ",
-    "hira":"にわさか",
-    "roma":"niwasaka"
+    "name":"飯坂",
+    "kana":"イイザカ",
+    "hira":"いいざか",
+    "roma":"iizaka"
   },
   "032":{
     "code":"032",
@@ -111,75 +83,19 @@
     "hira":"かわまた",
     "roma":"kawamata"
   },
-  "040":{
-    "code":"040",
-    "name":"飯野",
-    "kana":"イイノ",
-    "hira":"いいの",
-    "roma":"iino"
-  },
   "042":{
     "code":"042",
-    "name":"保原総合",
-    "kana":"ホバラソウゴウ",
-    "hira":"ほばらそうごう",
-    "roma":"hobarasougou"
-  },
-  "043":{
-    "code":"043",
-    "name":"大田",
-    "kana":"オオタ",
-    "hira":"おおた",
-    "roma":"oota"
-  },
-  "044":{
-    "code":"044",
-    "name":"上保原",
-    "kana":"カミホバラ",
-    "hira":"かみほばら",
-    "roma":"kamihobara"
-  },
-  "045":{
-    "code":"045",
-    "name":"柱沢",
-    "kana":"ハシラザワ",
-    "hira":"はしらざわ",
-    "roma":"hashirazawa"
-  },
-  "046":{
-    "code":"046",
-    "name":"富成",
-    "kana":"トミナリ",
-    "hira":"とみなり",
-    "roma":"tominari"
+    "name":"保原",
+    "kana":"ホバラ",
+    "hira":"ほばら",
+    "roma":"hobara"
   },
   "047":{
     "code":"047",
-    "name":"桑折総合",
-    "kana":"コオリソウゴウ",
-    "hira":"こおりそうごう",
-    "roma":"koorisougou"
-  },
-  "048":{
-    "code":"048",
-    "name":"睦合",
-    "kana":"ムツアイ",
-    "hira":"むつあい",
-    "roma":"mutsuai"
-  },
-  "049":{
-    "code":"049",
-    "name":"半田",
-    "kana":"ハンダ",
-    "hira":"はんだ",
-    "roma":"handa"
-  },
-  "050":{
-    "code":"050",
-    "name":"伊達崎",
-    "kana":"ダンザキ",
-    "hira":"だんざき",
-    "roma":"danzaki"
+    "name":"桑折",
+    "kana":"コオリ",
+    "hira":"こおり",
+    "roma":"koori"
   },
   "051":{
     "code":"051",
@@ -218,17 +134,10 @@
   },
   "056":{
     "code":"056",
-    "name":"伊達総合",
-    "kana":"ダテソウゴウ",
-    "hira":"だてそうごう",
-    "roma":"datesougou"
-  },
-  "057":{
-    "code":"057",
-    "name":"長岡",
-    "kana":"ナガオカ",
-    "hira":"ながおか",
-    "roma":"nagaoka"
+    "name":"伊達",
+    "kana":"ダテ",
+    "hira":"だて",
+    "roma":"date"
   },
   "058":{
     "code":"058",
@@ -379,17 +288,10 @@
   },
   "082":{
     "code":"082",
-    "name":"鹿島総合",
-    "kana":"カシマソウゴウ",
-    "hira":"かしまそうごう",
-    "roma":"kashimasougou"
-  },
-  "083":{
-    "code":"083",
-    "name":"上真野",
-    "kana":"カミマノ",
-    "hira":"かみまの",
-    "roma":"kamimano"
+    "name":"鹿島",
+    "kana":"カシマ",
+    "hira":"かしま",
+    "roma":"kashima"
   },
   "084":{
     "code":"084",

@@ -229,5 +229,33 @@
     "kana":"ネオバンクビジネス",
     "hira":"ねおばんくびじねす",
     "roma":"neobankubijinesu"
+  },
+  "407":{
+    "code":"407",
+    "name":"ＢｉｌｌＯｎｅ",
+    "kana":"ＢＩＬＬＯＮＥ",
+    "hira":"ＢＩＬＬＯＮＥ",
+    "roma":"billone"
+  },
+  "409":{
+    "code":"409",
+    "name":"サクラ",
+    "kana":"サクラ",
+    "hira":"さくら",
+    "roma":"sakura"
+  },
+  "509":{
+    "code":"509",
+    "name":"ツバキ",
+    "kana":"ツバキ",
+    "hira":"つばき",
+    "roma":"tsubaki"
+  },
+  "609":{
+    "code":"609",
+    "name":"カエデ",
+    "kana":"カエデ",
+    "hira":"かえで",
+    "roma":"kaede"
   }
 }

@@ -83,13 +83,6 @@
     "hira":"のいち",
     "roma":"noichi"
   },
-  "202":{
-    "code":"202",
-    "name":"物部",
-    "kana":"モノベ",
-    "hira":"ものべ",
-    "roma":"monobe"
-  },
   "203":{
     "code":"203",
     "name":"香北",
@@ -104,79 +97,30 @@
     "hira":"とさやまだ",
     "roma":"tosayamada"
   },
-  "205":{
-    "code":"205",
-    "name":"赤岡",
-    "kana":"アカオカ",
-    "hira":"あかおか",
-    "roma":"akaoka"
-  },
-  "206":{
-    "code":"206",
-    "name":"夜須",
-    "kana":"ヤス",
-    "hira":"やす",
-    "roma":"yasu"
-  },
-  "207":{
-    "code":"207",
-    "name":"香我美",
-    "kana":"カガミ",
-    "hira":"かがみ",
-    "roma":"kagami"
-  },
-  "302":{
-    "code":"302",
-    "name":"久礼田",
-    "kana":"クレダ",
-    "hira":"くれだ",
-    "roma":"kureda"
-  },
   "303":{
     "code":"303",
-    "name":"岡豊",
+    "name":"岡豊出張所",
     "kana":"オコウ",
     "hira":"おこう",
     "roma":"okou"
   },
-  "304":{
-    "code":"304",
-    "name":"南国中央",
-    "kana":"ナンゴクチユウオウ",
-    "hira":"なんごくちゆうおう",
-    "roma":"nangokuchiyuuou"
-  },
   "305":{
     "code":"305",
-    "name":"大篠",
-    "kana":"オオシノ",
-    "hira":"おおしの",
-    "roma":"ooshino"
-  },
-  "306":{
-    "code":"306",
-    "name":"日章",
-    "kana":"ニツシヨウ",
-    "hira":"につしよう",
-    "roma":"nitsushiyou"
-  },
-  "307":{
-    "code":"307",
-    "name":"三和",
-    "kana":"ミワ",
-    "hira":"みわ",
-    "roma":"miwa"
+    "name":"なんごく南",
+    "kana":"ナンゴクミナミ",
+    "hira":"なんごくみなみ",
+    "roma":"nangokuminami"
   },
   "308":{
     "code":"308",
-    "name":"長岡",
-    "kana":"ナガオカ",
-    "hira":"ながおか",
-    "roma":"nagaoka"
+    "name":"なんごく北",
+    "kana":"ナンゴクキタ",
+    "hira":"なんごくきた",
+    "roma":"nangokukita"
   },
   "310":{
     "code":"310",
-    "name":"十市",
+    "name":"十市出張所",
     "kana":"トオチ",
     "hira":"とおち",
     "roma":"toochi"
@@ -190,28 +134,21 @@
   },
   "313":{
     "code":"313",
-    "name":"本山",
+    "name":"本山出張所",
     "kana":"モトヤマ",
     "hira":"もとやま",
     "roma":"motoyama"
   },
-  "314":{
-    "code":"314",
-    "name":"大杉出張所",
-    "kana":"オオスギ",
-    "hira":"おおすぎ",
-    "roma":"oosugi"
-  },
   "315":{
     "code":"315",
-    "name":"大田口",
-    "kana":"オオタグチ",
-    "hira":"おおたぐち",
-    "roma":"ootaguchi"
+    "name":"おおとよ",
+    "kana":"オオトヨ",
+    "hira":"おおとよ",
+    "roma":"ootoyo"
   },
   "316":{
     "code":"316",
-    "name":"大川",
+    "name":"大川出張所",
     "kana":"オオカワ",
     "hira":"おおかわ",
     "roma":"ookawa"
@@ -316,14 +253,14 @@
   },
   "602":{
     "code":"602",
-    "name":"興津",
+    "name":"興津出張所",
     "kana":"オキツ",
     "hira":"おきつ",
     "roma":"okitsu"
   },
   "603":{
     "code":"603",
-    "name":"大野見",
+    "name":"大野見出張所",
     "kana":"オオノミ",
     "hira":"おおのみ",
     "roma":"oonomi"
@@ -358,14 +295,14 @@
   },
   "707":{
     "code":"707",
-    "name":"三崎",
+    "name":"三崎出張所",
     "kana":"ミサキ",
     "hira":"みさき",
     "roma":"misaki"
   },
   "708":{
     "code":"708",
-    "name":"佐賀",
+    "name":"佐賀出張所",
     "kana":"サガ",
     "hira":"さが",
     "roma":"saga"
@@ -386,7 +323,7 @@
   },
   "712":{
     "code":"712",
-    "name":"西土佐",
+    "name":"西土佐出張所",
     "kana":"ニシトサ",
     "hira":"にしとさ",
     "roma":"nishitosa"
@@ -400,7 +337,7 @@
   },
   "714":{
     "code":"714",
-    "name":"大月",
+    "name":"大月出張所",
     "kana":"オオツキ",
     "hira":"おおつき",
     "roma":"ootsuki"
