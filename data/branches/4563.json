@@ -15,10 +15,10 @@
   },
   "003":{
     "code":"003",
-    "name":"佐野",
-    "kana":"サノ",
-    "hira":"さの",
-    "roma":"sano"
+    "name":"高崎南",
+    "kana":"タカサキミナミ",
+    "hira":"たかさきみなみ",
+    "roma":"takasakiminami"
   },
   "004":{
     "code":"004",
@@ -48,40 +48,12 @@
     "hira":"おおるい",
     "roma":"oorui"
   },
-  "009":{
-    "code":"009",
-    "name":"八幡",
-    "kana":"ヤハタ",
-    "hira":"やはた",
-    "roma":"yahata"
-  },
-  "011":{
-    "code":"011",
-    "name":"岩鼻",
-    "kana":"イワハナ",
-    "hira":"いわはな",
-    "roma":"iwahana"
-  },
-  "012":{
-    "code":"012",
-    "name":"倉賀野",
-    "kana":"クラガノ",
-    "hira":"くらがの",
-    "roma":"kuragano"
-  },
   "013":{
     "code":"013",
-    "name":"京ケ島",
-    "kana":"キヨウガシマ",
-    "hira":"きようがしま",
-    "roma":"kiyougashima"
-  },
-  "014":{
-    "code":"014",
-    "name":"滝川",
-    "kana":"タキガワ",
-    "hira":"たきがわ",
-    "roma":"takigawa"
+    "name":"高崎東",
+    "kana":"タカサキヒガシ",
+    "hira":"たかさきひがし",
+    "roma":"takasakihigashi"
   },
   "017":{
     "code":"017",

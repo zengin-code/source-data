@@ -41,26 +41,12 @@
     "hira":"かねこ",
     "roma":"kaneko"
   },
-  "021":{
-    "code":"021",
-    "name":"西条",
-    "kana":"サイジヨウ",
-    "hira":"さいじよう",
-    "roma":"saijiyou"
-  },
-  "023":{
-    "code":"023",
-    "name":"玉津",
-    "kana":"タマツ",
-    "hira":"たまつ",
-    "roma":"tamatsu"
-  },
   "024":{
     "code":"024",
-    "name":"中央",
-    "kana":"チユウオウ",
-    "hira":"ちゆうおう",
-    "roma":"chiyuuou"
+    "name":"西条中央",
+    "kana":"サイジヨウチユウオウ",
+    "hira":"さいじようちゆうおう",
+    "roma":"saijiyouchiyuuou"
   },
   "025":{
     "code":"025",

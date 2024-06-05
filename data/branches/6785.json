@@ -50,17 +50,10 @@
   },
   "061":{
     "code":"061",
-    "name":"文殊",
-    "kana":"モンジユ",
-    "hira":"もんじゆ",
-    "roma":"monjiyu"
-  },
-  "064":{
-    "code":"064",
-    "name":"麻生津",
-    "kana":"アソウヅ",
-    "hira":"あそうづ",
-    "roma":"asoudu"
+    "name":"音楽堂前",
+    "kana":"オンガクドウマエ",
+    "hira":"おんがくどうまえ",
+    "roma":"ongakudoumae"
   },
   "077":{
     "code":"077",
@@ -111,82 +104,19 @@
     "hira":"はるえ",
     "roma":"harue"
   },
-  "200":{
-    "code":"200",
-    "name":"中挾出張所",
-    "kana":"ナカバサミ",
-    "hira":"なかばさみ",
-    "roma":"nakabasami"
-  },
-  "202":{
-    "code":"202",
-    "name":"大野北",
-    "kana":"オオノキタ",
-    "hira":"おおのきた",
-    "roma":"oonokita"
-  },
-  "204":{
-    "code":"204",
-    "name":"大野西",
-    "kana":"オオノニシ",
-    "hira":"おおのにし",
-    "roma":"oononishi"
-  },
   "205":{
     "code":"205",
-    "name":"大野東",
-    "kana":"オオノヒガシ",
-    "hira":"おおのひがし",
-    "roma":"oonohigashi"
-  },
-  "223":{
-    "code":"223",
-    "name":"大野南",
-    "kana":"オオノミナミ",
-    "hira":"おおのみなみ",
-    "roma":"oonominami"
-  },
-  "231":{
-    "code":"231",
-    "name":"九頭竜出張所",
-    "kana":"クズリユウ",
-    "hira":"くずりゆう",
-    "roma":"kuzuriyuu"
-  },
-  "242":{
-    "code":"242",
-    "name":"勝山南",
-    "kana":"カツヤマミナミ",
-    "hira":"かつやまみなみ",
-    "roma":"katsuyamaminami"
+    "name":"大野",
+    "kana":"オオノ",
+    "hira":"おおの",
+    "roma":"oono"
   },
   "243":{
     "code":"243",
-    "name":"勝山中",
-    "kana":"カツヤマナカ",
-    "hira":"かつやまなか",
-    "roma":"katsuyamanaka"
-  },
-  "245":{
-    "code":"245",
-    "name":"勝山北",
-    "kana":"カツヤマキタ",
-    "hira":"かつやまきた",
-    "roma":"katsuyamakita"
-  },
-  "301":{
-    "code":"301",
-    "name":"舟津",
-    "kana":"フナツ",
-    "hira":"ふなつ",
-    "roma":"funatsu"
-  },
-  "303":{
-    "code":"303",
-    "name":"神明",
-    "kana":"シンメイ",
-    "hira":"しんめい",
-    "roma":"shimmei"
+    "name":"勝山",
+    "kana":"カツヤマ",
+    "hira":"かつやま",
+    "roma":"katsuyama"
   },
   "304":{
     "code":"304",
@@ -209,20 +139,6 @@
     "hira":"さばえにし",
     "roma":"sabaenishi"
   },
-  "309":{
-    "code":"309",
-    "name":"鯖江東",
-    "kana":"サバエヒガシ",
-    "hira":"さばえひがし",
-    "roma":"sabaehigashi"
-  },
-  "310":{
-    "code":"310",
-    "name":"河和田出張所",
-    "kana":"カワダ",
-    "hira":"かわだ",
-    "roma":"kawada"
-  },
   "324":{
     "code":"324",
     "name":"今立",
@@ -232,42 +148,21 @@
   },
   "331":{
     "code":"331",
-    "name":"池田",
+    "name":"池田出張所",
     "kana":"イケダ",
     "hira":"いけだ",
     "roma":"ikeda"
   },
   "401":{
     "code":"401",
-    "name":"朝日",
-    "kana":"アサヒ",
-    "hira":"あさひ",
-    "roma":"asahi"
-  },
-  "421":{
-    "code":"421",
-    "name":"宮崎",
-    "kana":"ミヤザキ",
-    "hira":"みやざき",
-    "roma":"miyazaki"
-  },
-  "431":{
-    "code":"431",
-    "name":"越前",
-    "kana":"エチゼン",
-    "hira":"えちぜん",
-    "roma":"echizen"
-  },
-  "452":{
-    "code":"452",
-    "name":"越廼",
-    "kana":"コシノ",
-    "hira":"こしの",
-    "roma":"koshino"
+    "name":"越前町",
+    "kana":"エチゼンチヨウ",
+    "hira":"えちぜんちよう",
+    "roma":"echizenchiyou"
   },
   "462":{
     "code":"462",
-    "name":"織田",
+    "name":"織田出張所",
     "kana":"オタ",
     "hira":"おた",
     "roma":"ota"
@@ -285,13 +180,6 @@
     "kana":"ツルガ",
     "hira":"つるが",
     "roma":"tsuruga"
-  },
-  "603":{
-    "code":"603",
-    "name":"敦賀東部",
-    "kana":"ツルガトウブ",
-    "hira":"つるがとうぶ",
-    "roma":"tsurugatoubu"
   },
   "605":{
     "code":"605",

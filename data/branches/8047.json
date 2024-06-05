@@ -34,13 +34,6 @@
     "hira":"まつなが",
     "roma":"matsunaga"
   },
-  "590":{
-    "code":"590",
-    "name":"内海出張所",
-    "kana":"ウツミ",
-    "hira":"うつみ",
-    "roma":"utsumi"
-  },
   "595":{
     "code":"595",
     "name":"沼隈",
@@ -97,16 +90,9 @@
     "hira":"みのみ",
     "roma":"minomi"
   },
-  "606":{
-    "code":"606",
-    "name":"鞆出張所",
-    "kana":"トモ",
-    "hira":"とも",
-    "roma":"tomo"
-  },
   "607":{
     "code":"607",
-    "name":"田尻",
+    "name":"田尻出張所",
     "kana":"タジリ",
     "hira":"たじり",
     "roma":"tajiri"
@@ -204,73 +190,52 @@
   },
   "623":{
     "code":"623",
-    "name":"伊勢丘",
+    "name":"伊勢丘出張所",
     "kana":"イセガオカ",
     "hira":"いせがおか",
     "roma":"isegaoka"
   },
-  "626":{
-    "code":"626",
-    "name":"箕島出張所",
-    "kana":"ミノシマ",
-    "hira":"みのしま",
-    "roma":"minoshima"
-  },
-  "628":{
-    "code":"628",
-    "name":"新涯出張所",
-    "kana":"シンガイ",
-    "hira":"しんがい",
-    "roma":"shingai"
-  },
   "634":{
     "code":"634",
-    "name":"神辺",
+    "name":"神辺出張所",
     "kana":"カンナベ",
     "hira":"かんなべ",
     "roma":"kannabe"
   },
   "635":{
     "code":"635",
-    "name":"御野",
+    "name":"御野出張所",
     "kana":"ミノ",
     "hira":"みの",
     "roma":"mino"
   },
   "636":{
     "code":"636",
-    "name":"竹尋",
+    "name":"竹尋出張所",
     "kana":"タケヒロ",
     "hira":"たけひろ",
     "roma":"takehiro"
   },
   "637":{
     "code":"637",
-    "name":"湯田",
-    "kana":"ユダ",
-    "hira":"ゆだ",
-    "roma":"yuda"
+    "name":"神辺中央",
+    "kana":"カンナベチユウオウ",
+    "hira":"かんなべちゆうおう",
+    "roma":"kannabechiyuuou"
   },
   "638":{
     "code":"638",
-    "name":"中条",
+    "name":"中条出張所",
     "kana":"チユウジヨウ",
     "hira":"ちゆうじよう",
     "roma":"chiyuujiyou"
   },
   "639":{
     "code":"639",
-    "name":"道上",
+    "name":"道上出張所",
     "kana":"ミチノウエ",
     "hira":"みちのうえ",
     "roma":"michinoue"
-  },
-  "642":{
-    "code":"642",
-    "name":"山野出張所",
-    "kana":"ヤマノ",
-    "hira":"やまの",
-    "roma":"yamano"
   },
   "643":{
     "code":"643",
@@ -321,13 +286,6 @@
     "hira":"こくふ",
     "roma":"kokufu"
   },
-  "656":{
-    "code":"656",
-    "name":"栗生出張所",
-    "kana":"クリブ",
-    "hira":"くりぶ",
-    "roma":"kuribu"
-  },
   "657":{
     "code":"657",
     "name":"府中西出張所",
@@ -369,13 +327,6 @@
     "kana":"アビキ",
     "hira":"あびき",
     "roma":"abiki"
-  },
-  "674":{
-    "code":"674",
-    "name":"常金丸出張所",
-    "kana":"ツネカネマル",
-    "hira":"つねかねまる",
-    "roma":"tsunekanemaru"
   },
   "677":{
     "code":"677",

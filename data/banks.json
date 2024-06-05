@@ -7433,26 +7433,12 @@
     "hira":"ひがしとくしまのうきよう",
     "roma":"higashitokushimanoukiyou"
   },
-  "8242":{
-    "code":"8242",
-    "name":"名西郡農協",
-    "kana":"ミヨウザイグンノウキヨウ",
-    "hira":"みようざいぐんのうきよう",
-    "roma":"miyouzaigunnoukiyou"
-  },
   "8252":{
     "code":"8252",
-    "name":"板野郡農協",
-    "kana":"イタノグンノウキヨウ",
-    "hira":"いたのぐんのうきよう",
-    "roma":"itanogunnoukiyou"
-  },
-  "8257":{
-    "code":"8257",
-    "name":"徳島北農協",
-    "kana":"トクシマキタノウキヨウ",
-    "hira":"とくしまきたのうきよう",
-    "roma":"tokushimakitanoukiyou"
+    "name":"徳島県農協",
+    "kana":"トクシマケンノウキヨウ",
+    "hira":"とくしまけんのうきよう",
+    "roma":"tokushimakennoukiyou"
   },
   "8261":{
     "code":"8261",
@@ -7468,27 +7454,6 @@
     "hira":"さとうらのうきよう",
     "roma":"satouranoukiyou"
   },
-  "8268":{
-    "code":"8268",
-    "name":"阿南農協",
-    "kana":"アナンノウキヨウ",
-    "hira":"あなんのうきよう",
-    "roma":"anannoukiyou"
-  },
-  "8288":{
-    "code":"8288",
-    "name":"かいふ農協",
-    "kana":"カイフノウキヨウ",
-    "hira":"かいふのうきよう",
-    "roma":"kaifunoukiyou"
-  },
-  "8296":{
-    "code":"8296",
-    "name":"阿波市農協",
-    "kana":"アワシノウキヨウ",
-    "hira":"あわしのうきよう",
-    "roma":"awashinoukiyou"
-  },
   "8300":{
     "code":"8300",
     "name":"市場町農協",
@@ -7502,27 +7467,6 @@
     "kana":"アワグントウブノウキヨウ",
     "hira":"あわぐんとうぶのうきよう",
     "roma":"awaguntoubunoukiyou"
-  },
-  "8305":{
-    "code":"8305",
-    "name":"麻植郡農協",
-    "kana":"オエグンノウキヨウ",
-    "hira":"おえぐんのうきよう",
-    "roma":"oegunnoukiyou"
-  },
-  "8312":{
-    "code":"8312",
-    "name":"美馬農協",
-    "kana":"ミマノウキヨウ",
-    "hira":"みまのうきよう",
-    "roma":"mimanoukiyou"
-  },
-  "8323":{
-    "code":"8323",
-    "name":"阿波みよし農協",
-    "kana":"アワミヨシノウキヨウ",
-    "hira":"あわみよしのうきよう",
-    "roma":"awamiyoshinoukiyou"
   },
   "8332":{
     "code":"8332",
@@ -8069,13 +8013,6 @@
     "kana":"ホツカイドウシンギヨレン",
     "hira":"ほつかいどうしんぎよれん",
     "roma":"hotsukaidoushingiyoren"
-  },
-  "9453":{
-    "code":"9453",
-    "name":"宮城県漁協",
-    "kana":"ミヤギケンギヨキヨウ",
-    "hira":"みやぎけんぎよきよう",
-    "roma":"miyagikengiyokiyou"
   },
   "9456":{
     "code":"9456",

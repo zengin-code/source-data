@@ -55,13 +55,6 @@
     "hira":"みやけ",
     "roma":"miyake"
   },
-  "041":{
-    "code":"041",
-    "name":"玉川",
-    "kana":"タマガワ",
-    "hira":"たまがわ",
-    "roma":"tamagawa"
-  },
   "050":{
     "code":"050",
     "name":"那の川",
@@ -152,13 +145,6 @@
     "kana":"トギレ",
     "hira":"とぎれ",
     "roma":"togire"
-  },
-  "122":{
-    "code":"122",
-    "name":"下山門",
-    "kana":"シモヤマト",
-    "hira":"しもやまと",
-    "roma":"shimoyamato"
   },
   "130":{
     "code":"130",

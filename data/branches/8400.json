@@ -8,17 +8,10 @@
   },
   "002":{
     "code":"002",
-    "name":"日吉",
-    "kana":"ヒヨシ",
-    "hira":"ひよし",
-    "roma":"hiyoshi"
-  },
-  "003":{
-    "code":"003",
-    "name":"近見",
-    "kana":"チカミ",
-    "hira":"ちかみ",
-    "roma":"chikami"
+    "name":"今治",
+    "kana":"イマバリ",
+    "hira":"いまばり",
+    "roma":"imabari"
   },
   "004":{
     "code":"004",
@@ -103,13 +96,6 @@
     "kana":"オオシマ",
     "hira":"おおしま",
     "roma":"ooshima"
-  },
-  "047":{
-    "code":"047",
-    "name":"宮窪",
-    "kana":"ミヤクボ",
-    "hira":"みやくぼ",
-    "roma":"miyakubo"
   },
   "051":{
     "code":"051",

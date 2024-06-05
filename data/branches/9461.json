@@ -20,20 +20,6 @@
     "hira":"いばらき",
     "roma":"ibaraki"
   },
-  "070":{
-    "code":"070",
-    "name":"大津",
-    "kana":"オオツ",
-    "hira":"おおつ",
-    "roma":"ootsu"
-  },
-  "075":{
-    "code":"075",
-    "name":"波崎",
-    "kana":"ハサキ",
-    "hira":"はさき",
-    "roma":"hasaki"
-  },
   "100":{
     "code":"100",
     "name":"青森",
@@ -103,6 +89,34 @@
     "kana":"ヒミ",
     "hira":"ひみ",
     "roma":"himi"
+  },
+  "430":{
+    "code":"430",
+    "name":"宮城",
+    "kana":"ミヤギ",
+    "hira":"みやぎ",
+    "roma":"miyagi"
+  },
+  "431":{
+    "code":"431",
+    "name":"気仙沼",
+    "kana":"ケセンヌマ",
+    "hira":"けせんぬま",
+    "roma":"kesennuma"
+  },
+  "440":{
+    "code":"440",
+    "name":"塩釜",
+    "kana":"シオガマ",
+    "hira":"しおがま",
+    "roma":"shiogama"
+  },
+  "450":{
+    "code":"450",
+    "name":"石巻総合",
+    "kana":"イシノマキ",
+    "hira":"いしのまき",
+    "roma":"ishinomaki"
   },
   "500":{
     "code":"500",

@@ -5,24 +5,12 @@
   kana: ホンテン
   hira: ほんてん
   roma: honten
-'002':
-  code: '002'
-  name: うめさと
-  kana: ウメサト
-  hira: うめさと
-  roma: umesato
 '003':
   code: '003'
   name: 福田
   kana: フクダ
   hira: ふくだ
   roma: fukuda
-'004':
-  code: '004'
-  name: 旭
-  kana: アサヒ
-  hira: あさひ
-  roma: asahi
 '005':
   code: '005'
   name: 七福
@@ -53,12 +41,6 @@
   kana: セキヤド
   hira: せきやど
   roma: sekiyado
-'010':
-  code: '010'
-  name: 中根
-  kana: ナカネ
-  hira: なかね
-  roma: nakane
 '011':
   code: '011'
   name: 川間駅前

@@ -62,13 +62,6 @@
     "hira":"かまがり",
     "roma":"kamagari"
   },
-  "171":{
-    "code":"171",
-    "name":"安芸地域本部",
-    "kana":"アキチイキホンブ",
-    "hira":"あきちいきほんぶ",
-    "roma":"akichiikihombu"
-  },
   "174":{
     "code":"174",
     "name":"海田市",
@@ -124,13 +117,6 @@
     "kana":"エタジマ",
     "hira":"えたじま",
     "roma":"etajima"
-  },
-  "213":{
-    "code":"213",
-    "name":"佐伯中央地域本部",
-    "kana":"サイキチユウオウチイキホンブ",
-    "hira":"さいきちゆうおうちいきほんぶ",
-    "roma":"saikichiyuuouchiikihombu"
   },
   "214":{
     "code":"214",
@@ -258,13 +244,6 @@
     "hira":"おおあさ",
     "roma":"ooasa"
   },
-  "351":{
-    "code":"351",
-    "name":"広島北部地域本部",
-    "kana":"ヒロシマホクブチイキホンブ",
-    "hira":"ひろしまほくぶちいきほんぶ",
-    "roma":"hiroshimahokubuchiikihombu"
-  },
   "352":{
     "code":"352",
     "name":"吉田",
@@ -320,13 +299,6 @@
     "kana":"ホンテン",
     "hira":"ほんてん",
     "roma":"honten"
-  },
-  "381":{
-    "code":"381",
-    "name":"広島中央地域本部",
-    "kana":"ヒロシマチユウオウチイキホンフ",
-    "hira":"ひろしまちゆうおうちいきほんふ",
-    "roma":"hiroshimachiyuuouchiikihonfu"
   },
   "384":{
     "code":"384",
@@ -460,13 +432,6 @@
     "kana":"セトダ",
     "hira":"せとだ",
     "roma":"setoda"
-  },
-  "497":{
-    "code":"497",
-    "name":"三原地域本部",
-    "kana":"ミハラチイキホンブ",
-    "hira":"みはらちいきほんぶ",
-    "roma":"miharachiikihombu"
   },
   "498":{
     "code":"498",

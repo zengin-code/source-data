@@ -89,12 +89,6 @@
   kana: マルオカ
   hira: まるおか
   roma: maruoka
-'102':
-  code: '102'
-  name: 金津
-  kana: カナヅ
-  hira: かなづ
-  roma: kanadu
 '103':
   code: '103'
   name: 坂井
@@ -121,7 +115,7 @@
   roma: mikuni
 '121':
   code: '121'
-  name: 芦原
+  name: あわら
   kana: アワラ
   hira: あわら
   roma: awara
