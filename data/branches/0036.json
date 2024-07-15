@@ -607,5 +607,19 @@
     "kana":"ホウジンダイニジユウゴ",
     "hira":"ほうじんだいにじゆうご",
     "roma":"houjindainijiyuugo"
+  },
+  "726":{
+    "code":"726",
+    "name":"楽天証券第三",
+    "kana":"ラクテンシヨウケンダイサン",
+    "hira":"らくてんしようけんだいさん",
+    "roma":"rakutenshiyoukendaisan"
+  },
+  "727":{
+    "code":"727",
+    "name":"楽天証券第四",
+    "kana":"ラクテンシヨウケンダイヨン",
+    "hira":"らくてんしようけんだいよん",
+    "roma":"rakutenshiyoukendaiyon"
   }
 }

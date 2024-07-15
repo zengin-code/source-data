@@ -253,16 +253,16 @@
   roma: kashima
 '084':
   code: '084'
-  name: 新地総合
-  kana: シンチソウゴウ
-  hira: しんちそうごう
-  roma: shinchisougou
+  name: 新地
+  kana: シンチ
+  hira: しんち
+  roma: shinchi
 '085':
   code: '085'
-  name: 相馬中村総合
-  kana: ソウマナカムラソウゴウ
-  hira: そうまなかむらそうごう
-  roma: soumanakamurasougou
+  name: 相馬中村
+  kana: ソウマナカムラ
+  hira: そうまなかむら
+  roma: soumanakamura
 '086':
   code: '086'
   name: 中村みなみ
@@ -271,10 +271,10 @@
   roma: nakamuraminami
 '087':
   code: '087'
-  name: 原町総合
-  kana: ハラマチソウゴウ
-  hira: はらまちそうごう
-  roma: haramachisougou
+  name: 原町
+  kana: ハラマチ
+  hira: はらまち
+  roma: haramachi
 '088':
   code: '088'
   name: 原町西
@@ -283,16 +283,16 @@
   roma: haramachinishi
 '089':
   code: '089'
-  name: 小高総合
-  kana: オダカソウゴウ
-  hira: おだかそうごう
-  roma: odakasougou
+  name: 小高
+  kana: オダカ
+  hira: おだか
+  roma: odaka
 '091':
   code: '091'
-  name: 飯舘総合
-  kana: イイタテソウゴウ
-  hira: いいたてそうごう
-  roma: iitatesougou
+  name: 飯舘
+  kana: イイタテ
+  hira: いいたて
+  roma: iitate
 '093':
   code: '093'
   name: 梁川

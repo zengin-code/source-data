@@ -302,16 +302,9 @@
   },
   "078":{
     "code":"078",
-    "name":"美山南",
-    "kana":"ミヤマミナミ",
-    "hira":"みやまみなみ",
-    "roma":"miyamaminami"
-  },
-  "079":{
-    "code":"079",
-    "name":"美山北",
-    "kana":"ミヤマキタ",
-    "hira":"みやまきた",
-    "roma":"miyamakita"
+    "name":"美山",
+    "kana":"ミヤマ",
+    "hira":"みやま",
+    "roma":"miyama"
   }
 }
