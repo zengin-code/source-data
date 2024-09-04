@@ -187,5 +187,19 @@
     "kana":"キタノ",
     "hira":"きたの",
     "roma":"kitano"
+  },
+  "032":{
+    "code":"032",
+    "name":"夙川",
+    "kana":"シユクガワ",
+    "hira":"しゆくがわ",
+    "roma":"shiyukugawa"
+  },
+  "033":{
+    "code":"033",
+    "name":"西宮法人営業部",
+    "kana":"ニシノミヤホウジン",
+    "hira":"にしのみやほうじん",
+    "roma":"nishinomiyahoujin"
   }
 }

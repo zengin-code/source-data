@@ -89,5 +89,54 @@
     "kana":"イチエ",
     "hira":"いちえ",
     "roma":"ichie"
+  },
+  "302":{
+    "code":"302",
+    "name":"海部東",
+    "kana":"アマヒガシ",
+    "hira":"あまひがし",
+    "roma":"amahigashi"
+  },
+  "311":{
+    "code":"311",
+    "name":"神守",
+    "kana":"カモリ",
+    "hira":"かもり",
+    "roma":"kamori"
+  },
+  "329":{
+    "code":"329",
+    "name":"七宝",
+    "kana":"シツポウ",
+    "hira":"しつぽう",
+    "roma":"shitsupou"
+  },
+  "337":{
+    "code":"337",
+    "name":"伊福",
+    "kana":"イフク",
+    "hira":"いふく",
+    "roma":"ifuku"
+  },
+  "345":{
+    "code":"345",
+    "name":"美和",
+    "kana":"ミワ",
+    "hira":"みわ",
+    "roma":"miwa"
+  },
+  "353":{
+    "code":"353",
+    "name":"甚目寺",
+    "kana":"ジモクジ",
+    "hira":"じもくじ",
+    "roma":"jimokuji"
+  },
+  "361":{
+    "code":"361",
+    "name":"大治",
+    "kana":"オオハル",
+    "hira":"おおはる",
+    "roma":"ooharu"
   }
 }
