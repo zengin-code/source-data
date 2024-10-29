@@ -6,13 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "052":{
-    "code":"052",
-    "name":"新生",
-    "kana":"アラオイ",
-    "hira":"あらおい",
-    "roma":"araoi"
-  },
   "053":{
     "code":"053",
     "name":"清水",
@@ -90,26 +83,12 @@
     "hira":"あたご",
     "roma":"atago"
   },
-  "064":{
-    "code":"064",
-    "name":"川口",
-    "kana":"カワグチ",
-    "hira":"かわぐち",
-    "roma":"kawaguchi"
-  },
   "065":{
     "code":"065",
     "name":"海上",
     "kana":"ウナカミ",
     "hira":"うなかみ",
     "roma":"unakami"
-  },
-  "066":{
-    "code":"066",
-    "name":"三崎",
-    "kana":"ミサキ",
-    "hira":"みさき",
-    "roma":"misaki"
   },
   "067":{
     "code":"067",

@@ -99,38 +99,10 @@
   },
   "051":{
     "code":"051",
-    "name":"国見総合",
-    "kana":"クニミソウゴウ",
-    "hira":"くにみそうごう",
-    "roma":"kunimisougou"
-  },
-  "052":{
-    "code":"052",
-    "name":"小坂",
-    "kana":"コサカ",
-    "hira":"こさか",
-    "roma":"kosaka"
-  },
-  "053":{
-    "code":"053",
-    "name":"森江野",
-    "kana":"モリエノ",
-    "hira":"もりえの",
-    "roma":"morieno"
-  },
-  "054":{
-    "code":"054",
-    "name":"大木戸",
-    "kana":"オオキド",
-    "hira":"おおきど",
-    "roma":"ookido"
-  },
-  "055":{
-    "code":"055",
-    "name":"大枝",
-    "kana":"オオエダ",
-    "hira":"おおえだ",
-    "roma":"ooeda"
+    "name":"国見",
+    "kana":"クニミ",
+    "hira":"くにみ",
+    "roma":"kunimi"
   },
   "056":{
     "code":"056",
@@ -141,31 +113,10 @@
   },
   "058":{
     "code":"058",
-    "name":"霊山掛田総合",
-    "kana":"リヨウゼンカケダソウゴウ",
-    "hira":"りようぜんかけだそうごう",
-    "roma":"riyouzenkakedasougou"
-  },
-  "059":{
-    "code":"059",
-    "name":"霊山",
-    "kana":"リヨウゼン",
-    "hira":"りようぜん",
-    "roma":"riyouzen"
-  },
-  "060":{
-    "code":"060",
-    "name":"石戸",
-    "kana":"イシド",
-    "hira":"いしど",
-    "roma":"ishido"
-  },
-  "061":{
-    "code":"061",
-    "name":"小国",
-    "kana":"オグニ",
-    "hira":"おぐに",
-    "roma":"oguni"
+    "name":"霊山掛田",
+    "kana":"リヨウゼンカケダ",
+    "hira":"りようぜんかけだ",
+    "roma":"riyouzenkakeda"
   },
   "062":{
     "code":"062",
@@ -173,62 +124,6 @@
     "kana":"ツキダテ",
     "hira":"つきだて",
     "roma":"tsukidate"
-  },
-  "064":{
-    "code":"064",
-    "name":"梁川総合",
-    "kana":"ヤナガワソウゴウ",
-    "hira":"やながわそうごう",
-    "roma":"yanagawasougou"
-  },
-  "065":{
-    "code":"065",
-    "name":"粟野",
-    "kana":"アワノ",
-    "hira":"あわの",
-    "roma":"awano"
-  },
-  "066":{
-    "code":"066",
-    "name":"堰本",
-    "kana":"セキモト",
-    "hira":"せきもと",
-    "roma":"sekimoto"
-  },
-  "067":{
-    "code":"067",
-    "name":"白根",
-    "kana":"シラネ",
-    "hira":"しらね",
-    "roma":"shirane"
-  },
-  "068":{
-    "code":"068",
-    "name":"山舟生",
-    "kana":"ヤマフニユウ",
-    "hira":"やまふにゆう",
-    "roma":"yamafuniyuu"
-  },
-  "069":{
-    "code":"069",
-    "name":"富野",
-    "kana":"トミノ",
-    "hira":"とみの",
-    "roma":"tomino"
-  },
-  "070":{
-    "code":"070",
-    "name":"五十沢",
-    "kana":"イサザワ",
-    "hira":"いさざわ",
-    "roma":"isazawa"
-  },
-  "071":{
-    "code":"071",
-    "name":"東大枝",
-    "kana":"ヒガシオオエダ",
-    "hira":"ひがしおおえだ",
-    "roma":"higashiooeda"
   },
   "073":{
     "code":"073",

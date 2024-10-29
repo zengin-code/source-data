@@ -2036,6 +2036,13 @@
     "hira":"ひろしま",
     "roma":"hiroshima"
   },
+  "830":{
+    "code":"830",
+    "name":"信託ＭＢオフィス出張所",
+    "kana":"シンタクＭＢオフイス",
+    "hira":"しんたくＭＢおふいす",
+    "roma":"shintakumbofuisu"
+  },
   "839":{
     "code":"839",
     "name":"アルファ",
@@ -2224,5 +2231,12 @@
     "kana":"サンライズ",
     "hira":"さんらいず",
     "roma":"sanraizu"
+  },
+  "942":{
+    "code":"942",
+    "name":"ジュピター",
+    "kana":"ジユピタ－",
+    "hira":"じゆぴた－",
+    "roma":"jiyupita-"
   }
 }

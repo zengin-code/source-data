@@ -76,19 +76,12 @@
     "hira":"きたやしも",
     "roma":"kitayashimo"
   },
-  "012":{
-    "code":"012",
-    "name":"南八下",
-    "kana":"ミナミヤシタ",
-    "hira":"みなみやした",
-    "roma":"minamiyashita"
-  },
   "013":{
     "code":"013",
-    "name":"日置荘",
-    "kana":"ヒキシヨウ",
-    "hira":"ひきしよう",
-    "roma":"hikishiyou"
+    "name":"東",
+    "kana":"ヒガシ",
+    "hira":"ひがし",
+    "roma":"higashi"
   },
   "014":{
     "code":"014",

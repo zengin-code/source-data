@@ -477,10 +477,10 @@
   },
   "080":{
     "code":"080",
-    "name":"岡山",
-    "kana":"オカヤマ",
-    "hira":"おかやま",
-    "roma":"okayama"
+    "name":"岡山８０",
+    "kana":"オカヤマハチゼロ",
+    "hira":"おかやまはちぜろ",
+    "roma":"okayamahachizero"
   },
   "081":{
     "code":"081",
@@ -701,10 +701,10 @@
   },
   "215":{
     "code":"215",
-    "name":"倉敷",
-    "kana":"クラシキ",
-    "hira":"くらしき",
-    "roma":"kurashiki"
+    "name":"岡山２１５",
+    "kana":"オカヤマニイチゴ",
+    "hira":"おかやまにいちご",
+    "roma":"okayamaniichigo"
   },
   "219":{
     "code":"219",
@@ -1076,6 +1076,27 @@
     "kana":"ヒラツカ",
     "hira":"ひらつか",
     "roma":"hiratsuka"
+  },
+  "425":{
+    "code":"425",
+    "name":"ネットコール４２５",
+    "kana":"ネツトコ－ルヨンニゴ",
+    "hira":"ねつとこ－るよんにご",
+    "roma":"netsutoko-ruyonnigo"
+  },
+  "426":{
+    "code":"426",
+    "name":"ネットコール４２６",
+    "kana":"ネツトコ－ルヨンニロク",
+    "hira":"ねつとこ－るよんにろく",
+    "roma":"netsutoko-ruyonniroku"
+  },
+  "427":{
+    "code":"427",
+    "name":"ネットコール４２７",
+    "kana":"ネツトコ－ルヨンニナナ",
+    "hira":"ねつとこ－るよんになな",
+    "roma":"netsutoko-ruyonninana"
   },
   "447":{
     "code":"447",

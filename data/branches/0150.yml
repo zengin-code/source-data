@@ -565,22 +565,16 @@
   roma: taunnetsutowa-ku
 '855':
   code: '855'
-  name: Ｔポイント
-  kana: テイポイント
-  hira: ていぽいんと
-  roma: teipointo
+  name: Ｖポイント
+  kana: ブイポイント
+  hira: ぶいぽいんと
+  roma: buipointo
 '856':
   code: '856'
   name: リクルート
   kana: リクル－ト
   hira: りくる－と
   roma: rikuru-to
-'871':
-  code: '871'
-  name: 金谷
-  kana: カナヤ
-  hira: かなや
-  roma: kanaya
 '872':
   code: '872'
   name: 榛原

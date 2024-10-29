@@ -55,26 +55,12 @@
     "hira":"おごと",
     "roma":"ogoto"
   },
-  "118":{
-    "code":"118",
-    "name":"仰木出張所",
-    "kana":"オオギ",
-    "hira":"おおぎ",
-    "roma":"oogi"
-  },
   "120":{
     "code":"120",
     "name":"堅田中央",
     "kana":"カタタチユウオウ",
     "hira":"かたたちゆうおう",
     "roma":"katatachiyuuou"
-  },
-  "122":{
-    "code":"122",
-    "name":"伊香立出張所",
-    "kana":"イカダチ",
-    "hira":"いかだち",
-    "roma":"ikadachi"
   },
   "124":{
     "code":"124",
@@ -180,13 +166,6 @@
     "kana":"リツトウチユウオウ",
     "hira":"りつとうちゆうおう",
     "roma":"ritsutouchiyuuou"
-  },
-  "157":{
-    "code":"157",
-    "name":"出庭",
-    "kana":"デバ",
-    "hira":"でば",
-    "roma":"deba"
   },
   "162":{
     "code":"162",

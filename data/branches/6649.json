@@ -190,17 +190,10 @@
   },
   "033":{
     "code":"033",
-    "name":"北楠",
-    "kana":"キタクス",
-    "hira":"きたくす",
-    "roma":"kitakusu"
-  },
-  "034":{
-    "code":"034",
-    "name":"南楠",
-    "kana":"ミナミクス",
-    "hira":"みなみくす",
-    "roma":"minamikusu"
+    "name":"楠",
+    "kana":"クス",
+    "hira":"くす",
+    "roma":"kusu"
   },
   "035":{
     "code":"035",

@@ -251,12 +251,6 @@
   kana: グンマケンチヨウ
   hira: ぐんまけんちよう
   roma: gummakenchiyou
-'225':
-  code: '225'
-  name: 前橋東出張所
-  kana: マエバシヒガシ
-  hira: まえばしひがし
-  roma: maebashihigashi
 '227':
   code: '227'
   name: 高崎東
@@ -713,12 +707,6 @@
   kana: ハタノ
   hira: はたの
   roma: hatano
-'336':
-  code: '336'
-  name: 新百合丘出張所
-  kana: シンユリガオカ
-  hira: しんゆりがおか
-  roma: shinyurigaoka
 '337':
   code: '337'
   name: 杉田
@@ -779,9 +767,3 @@
   kana: カシマ
   hira: かしま
   roma: kashima
-'979':
-  code: '979'
-  name: 大雄山
-  kana: ダイユウザン
-  hira: だいゆうざん
-  roma: daiyuuzan

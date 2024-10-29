@@ -13,13 +13,6 @@
     "hira":"ほんむら",
     "roma":"hommura"
   },
-  "014":{
-    "code":"014",
-    "name":"西山出張所",
-    "kana":"ニシヤマ",
-    "hira":"にしやま",
-    "roma":"nishiyama"
-  },
   "015":{
     "code":"015",
     "name":"新地",
@@ -41,13 +34,6 @@
     "hira":"からと",
     "roma":"karato"
   },
-  "020":{
-    "code":"020",
-    "name":"安岡",
-    "kana":"ヤスオカ",
-    "hira":"やすおか",
-    "roma":"yasuoka"
-  },
   "021":{
     "code":"021",
     "name":"山の田",
@@ -62,13 +48,6 @@
     "hira":"ふくうら",
     "roma":"fukuura"
   },
-  "023":{
-    "code":"023",
-    "name":"長府",
-    "kana":"チヨウフ",
-    "hira":"ちようふ",
-    "roma":"chiyoufu"
-  },
   "025":{
     "code":"025",
     "name":"一の宮",
@@ -82,13 +61,6 @@
     "kana":"カワタナ",
     "hira":"かわたな",
     "roma":"kawatana"
-  },
-  "027":{
-    "code":"027",
-    "name":"シーモール出張所",
-    "kana":"シ－モ－ル",
-    "hira":"し－も－る",
-    "roma":"shi-mo-ru"
   },
   "028":{
     "code":"028",
@@ -174,13 +146,6 @@
     "hira":"とこなみ",
     "roma":"tokonami"
   },
-  "225":{
-    "code":"225",
-    "name":"宇部新川",
-    "kana":"ウベシンカワ",
-    "hira":"うべしんかわ",
-    "roma":"ubeshinkawa"
-  },
   "280":{
     "code":"280",
     "name":"琴芝",
@@ -208,13 +173,6 @@
     "kana":"ヒガシシンカワ",
     "hira":"ひがししんかわ",
     "roma":"higashishinkawa"
-  },
-  "286":{
-    "code":"286",
-    "name":"厚南",
-    "kana":"コウナン",
-    "hira":"こうなん",
-    "roma":"kounan"
   },
   "288":{
     "code":"288",
@@ -306,13 +264,6 @@
     "kana":"ツワノ",
     "hira":"つわの",
     "roma":"tsuwano"
-  },
-  "508":{
-    "code":"508",
-    "name":"玖珂",
-    "kana":"クガ",
-    "hira":"くが",
-    "roma":"kuga"
   },
   "590":{
     "code":"590",

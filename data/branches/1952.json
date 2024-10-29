@@ -36,17 +36,10 @@
   },
   "006":{
     "code":"006",
-    "name":"山鹿",
-    "kana":"ヤマガ",
-    "hira":"やまが",
-    "roma":"yamaga"
-  },
-  "007":{
-    "code":"007",
-    "name":"来民",
-    "kana":"クタミ",
-    "hira":"くたみ",
-    "roma":"kutami"
+    "name":"山鹿来民",
+    "kana":"ヤマガクタミ",
+    "hira":"やまがくたみ",
+    "roma":"yamagakutami"
   },
   "008":{
     "code":"008",
