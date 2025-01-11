@@ -1,4 +1,193 @@
 {
+  "008":{
+    "code":"008",
+    "name":"なごやめし",
+    "kana":"ナゴヤメシ",
+    "hira":"なごやめし",
+    "roma":"nagoyameshi"
+  },
+  "100":{
+    "code":"100",
+    "name":"名古屋営業部",
+    "kana":"ナゴヤ",
+    "hira":"なごや",
+    "roma":"nagoya"
+  },
+  "102":{
+    "code":"102",
+    "name":"名古屋中央",
+    "kana":"ナゴヤチユウオウ",
+    "hira":"なごやちゆうおう",
+    "roma":"nagoyachiyuuou"
+  },
+  "103":{
+    "code":"103",
+    "name":"大津橋",
+    "kana":"オオツバシ",
+    "hira":"おおつばし",
+    "roma":"ootsubashi"
+  },
+  "104":{
+    "code":"104",
+    "name":"東別院",
+    "kana":"ヒガシベツイン",
+    "hira":"ひがしべついん",
+    "roma":"higashibetsuin"
+  },
+  "111":{
+    "code":"111",
+    "name":"今池中央",
+    "kana":"イマイケチユウオウ",
+    "hira":"いまいけちゆうおう",
+    "roma":"imaikechiyuuou"
+  },
+  "112":{
+    "code":"112",
+    "name":"東山中央",
+    "kana":"ヒガシヤマチユウオウ",
+    "hira":"ひがしやまちゆうおう",
+    "roma":"higashiyamachiyuuou"
+  },
+  "113":{
+    "code":"113",
+    "name":"振甫",
+    "kana":"シンポ",
+    "hira":"しんぽ",
+    "roma":"shimpo"
+  },
+  "121":{
+    "code":"121",
+    "name":"代官町",
+    "kana":"ダイカンチヨウ",
+    "hira":"だいかんちよう",
+    "roma":"daikanchiyou"
+  },
+  "131":{
+    "code":"131",
+    "name":"大曽根中央",
+    "kana":"オオゾネチユウオウ",
+    "hira":"おおぞねちゆうおう",
+    "roma":"oozonechiyuuou"
+  },
+  "132":{
+    "code":"132",
+    "name":"上飯田",
+    "kana":"カミイイダ",
+    "hira":"かみいいだ",
+    "roma":"kamiiida"
+  },
+  "133":{
+    "code":"133",
+    "name":"城北",
+    "kana":"ジヨウホク",
+    "hira":"じようほく",
+    "roma":"jiyouhoku"
+  },
+  "134":{
+    "code":"134",
+    "name":"楠町中央",
+    "kana":"クスノキチヨウチユウオウ",
+    "hira":"くすのきちようちゆうおう",
+    "roma":"kusunokichiyouchiyuuou"
+  },
+  "142":{
+    "code":"142",
+    "name":"浄心中央",
+    "kana":"ジヨウシンチユウオウ",
+    "hira":"じようしんちゆうおう",
+    "roma":"jiyoushinchiyuuou"
+  },
+  "143":{
+    "code":"143",
+    "name":"名西",
+    "kana":"メイセイ",
+    "hira":"めいせい",
+    "roma":"meisei"
+  },
+  "152":{
+    "code":"152",
+    "name":"中村中央",
+    "kana":"ナカムラチユウオウ",
+    "hira":"なかむらちゆうおう",
+    "roma":"nakamurachiyuuou"
+  },
+  "153":{
+    "code":"153",
+    "name":"千成",
+    "kana":"センナリ",
+    "hira":"せんなり",
+    "roma":"sennari"
+  },
+  "161":{
+    "code":"161",
+    "name":"野並",
+    "kana":"ノナミ",
+    "hira":"のなみ",
+    "roma":"nonami"
+  },
+  "162":{
+    "code":"162",
+    "name":"島田中央",
+    "kana":"シマダチユウオウ",
+    "hira":"しまだちゆうおう",
+    "roma":"shimadachiyuuou"
+  },
+  "163":{
+    "code":"163",
+    "name":"植田",
+    "kana":"ウエダ",
+    "hira":"うえだ",
+    "roma":"ueda"
+  },
+  "171":{
+    "code":"171",
+    "name":"新瑞橋",
+    "kana":"アラタマバシ",
+    "hira":"あらたまばし",
+    "roma":"aratamabashi"
+  },
+  "172":{
+    "code":"172",
+    "name":"弥富通出張所",
+    "kana":"ヤトミドオリ",
+    "hira":"やとみどおり",
+    "roma":"yatomidoori"
+  },
+  "181":{
+    "code":"181",
+    "name":"熱田",
+    "kana":"アツタ",
+    "hira":"あつた",
+    "roma":"atsuta"
+  },
+  "191":{
+    "code":"191",
+    "name":"八熊",
+    "kana":"ヤグマ",
+    "hira":"やぐま",
+    "roma":"yaguma"
+  },
+  "193":{
+    "code":"193",
+    "name":"当知中央",
+    "kana":"トウチチユウオウ",
+    "hira":"とうちちゆうおう",
+    "roma":"touchichiyuuou"
+  },
+  "194":{
+    "code":"194",
+    "name":"荒子",
+    "kana":"アラコ",
+    "hira":"あらこ",
+    "roma":"arako"
+  },
+  "195":{
+    "code":"195",
+    "name":"伏屋",
+    "kana":"フシヤ",
+    "hira":"ふしや",
+    "roma":"fushiya"
+  },
   "201":{
     "code":"201",
     "name":"本店営業部",
@@ -258,6 +447,13 @@
     "hira":"たかはた",
     "roma":"takahata"
   },
+  "241":{
+    "code":"241",
+    "name":"守山中央",
+    "kana":"モリヤマチユウオウ",
+    "hira":"もりやまちゆうおう",
+    "roma":"moriyamachiyuuou"
+  },
   "242":{
     "code":"242",
     "name":"大森",
@@ -321,6 +517,90 @@
     "hira":"なるこ",
     "roma":"naruko"
   },
+  "270":{
+    "code":"270",
+    "name":"港中央",
+    "kana":"ミナトチユウオウ",
+    "hira":"みなとちゆうおう",
+    "roma":"minatochiyuuou"
+  },
+  "271":{
+    "code":"271",
+    "name":"南陽町中央",
+    "kana":"ナンヨウチヨウチユウオウ",
+    "hira":"なんようちようちゆうおう",
+    "roma":"nanyouchiyouchiyuuou"
+  },
+  "272":{
+    "code":"272",
+    "name":"笠寺中央",
+    "kana":"カサデラチユウオウ",
+    "hira":"かさでらちゆうおう",
+    "roma":"kasaderachiyuuou"
+  },
+  "273":{
+    "code":"273",
+    "name":"柴田中央",
+    "kana":"シバタチユウオウ",
+    "hira":"しばたちゆうおう",
+    "roma":"shibatachiyuuou"
+  },
+  "274":{
+    "code":"274",
+    "name":"大江",
+    "kana":"オオエ",
+    "hira":"おおえ",
+    "roma":"ooe"
+  },
+  "275":{
+    "code":"275",
+    "name":"鳴子中央",
+    "kana":"ナルコチユウオウ",
+    "hira":"なるこちゆうおう",
+    "roma":"narukochiyuuou"
+  },
+  "276":{
+    "code":"276",
+    "name":"鳴海中央",
+    "kana":"ナルミチユウオウ",
+    "hira":"なるみちゆうおう",
+    "roma":"narumichiyuuou"
+  },
+  "277":{
+    "code":"277",
+    "name":"桶狭間",
+    "kana":"オケハザマ",
+    "hira":"おけはざま",
+    "roma":"okehazama"
+  },
+  "278":{
+    "code":"278",
+    "name":"徳重",
+    "kana":"トクシゲ",
+    "hira":"とくしげ",
+    "roma":"tokushige"
+  },
+  "279":{
+    "code":"279",
+    "name":"上社",
+    "kana":"カミヤシロ",
+    "hira":"かみやしろ",
+    "roma":"kamiyashiro"
+  },
+  "280":{
+    "code":"280",
+    "name":"高針中央",
+    "kana":"タカバリチユウオウ",
+    "hira":"たかばりちゆうおう",
+    "roma":"takabarichiyuuou"
+  },
+  "281":{
+    "code":"281",
+    "name":"東海中央",
+    "kana":"トウカイチユウオウ",
+    "hira":"とうかいちゆうおう",
+    "roma":"toukaichiyuuou"
+  },
   "301":{
     "code":"301",
     "name":"一宮",
@@ -370,6 +650,13 @@
     "hira":"かすがい",
     "roma":"kasugai"
   },
+  "308":{
+    "code":"308",
+    "name":"師崎",
+    "kana":"モロザキ",
+    "hira":"もろざき",
+    "roma":"morozaki"
+  },
   "309":{
     "code":"309",
     "name":"東海",
@@ -397,6 +684,20 @@
     "kana":"ナワ",
     "hira":"なわ",
     "roma":"nawa"
+  },
+  "313":{
+    "code":"313",
+    "name":"尾張旭",
+    "kana":"オワリアサヒ",
+    "hira":"おわりあさひ",
+    "roma":"owariasahi"
+  },
+  "315":{
+    "code":"315",
+    "name":"知立",
+    "kana":"チリユウ",
+    "hira":"ちりゆう",
+    "roma":"chiriyuu"
   },
   "316":{
     "code":"316",
@@ -566,6 +867,146 @@
     "hira":"ながくて",
     "roma":"nagakute"
   },
+  "370":{
+    "code":"370",
+    "name":"稲沢中央",
+    "kana":"イナザワチユウオウ",
+    "hira":"いなざわちゆうおう",
+    "roma":"inazawachiyuuou"
+  },
+  "371":{
+    "code":"371",
+    "name":"津島中央",
+    "kana":"ツシマチユウオウ",
+    "hira":"つしまちゆうおう",
+    "roma":"tsushimachiyuuou"
+  },
+  "372":{
+    "code":"372",
+    "name":"半田中央",
+    "kana":"ハンダチユウオウ",
+    "hira":"はんだちゆうおう",
+    "roma":"handachiyuuou"
+  },
+  "373":{
+    "code":"373",
+    "name":"常滑",
+    "kana":"トコナメ",
+    "hira":"とこなめ",
+    "roma":"tokoname"
+  },
+  "374":{
+    "code":"374",
+    "name":"蟹江中央",
+    "kana":"カニエチユウオウ",
+    "hira":"かにえちゆうおう",
+    "roma":"kaniechiyuuou"
+  },
+  "375":{
+    "code":"375",
+    "name":"大治中央",
+    "kana":"オオハルチユウオウ",
+    "hira":"おおはるちゆうおう",
+    "roma":"ooharuchiyuuou"
+  },
+  "376":{
+    "code":"376",
+    "name":"勝川中央",
+    "kana":"カチガワチユウオウ",
+    "hira":"かちがわちゆうおう",
+    "roma":"kachigawachiyuuou"
+  },
+  "377":{
+    "code":"377",
+    "name":"岩倉中央",
+    "kana":"イワクラチユウオウ",
+    "hira":"いわくらちゆうおう",
+    "roma":"iwakurachiyuuou"
+  },
+  "378":{
+    "code":"378",
+    "name":"豊明中央",
+    "kana":"トヨアケチユウオウ",
+    "hira":"とよあけちゆうおう",
+    "roma":"toyoakechiyuuou"
+  },
+  "379":{
+    "code":"379",
+    "name":"大府中央",
+    "kana":"オオブチユウオウ",
+    "hira":"おおぶちゆうおう",
+    "roma":"oobuchiyuuou"
+  },
+  "380":{
+    "code":"380",
+    "name":"一宮中央",
+    "kana":"イチノミヤチユウオウ",
+    "hira":"いちのみやちゆうおう",
+    "roma":"ichinomiyachiyuuou"
+  },
+  "381":{
+    "code":"381",
+    "name":"江南中央",
+    "kana":"コウナンチユウオウ",
+    "hira":"こうなんちゆうおう",
+    "roma":"kounanchiyuuou"
+  },
+  "382":{
+    "code":"382",
+    "name":"小牧中央",
+    "kana":"コマキチユウオウ",
+    "hira":"こまきちゆうおう",
+    "roma":"komakichiyuuou"
+  },
+  "383":{
+    "code":"383",
+    "name":"弥富",
+    "kana":"ヤトミ",
+    "hira":"やとみ",
+    "roma":"yatomi"
+  },
+  "384":{
+    "code":"384",
+    "name":"春日",
+    "kana":"ハルヒ",
+    "hira":"はるひ",
+    "roma":"haruhi"
+  },
+  "385":{
+    "code":"385",
+    "name":"師勝中央",
+    "kana":"シカツチユウオウ",
+    "hira":"しかつちゆうおう",
+    "roma":"shikatsuchiyuuou"
+  },
+  "386":{
+    "code":"386",
+    "name":"長久手中央",
+    "kana":"ナガクテチユウオウ",
+    "hira":"ながくてちゆうおう",
+    "roma":"nagakutechiyuuou"
+  },
+  "387":{
+    "code":"387",
+    "name":"犬山中央",
+    "kana":"イヌヤマチユウオウ",
+    "hira":"いぬやまちゆうおう",
+    "roma":"inuyamachiyuuou"
+  },
+  "388":{
+    "code":"388",
+    "name":"晴丘",
+    "kana":"ハルオカ",
+    "hira":"はるおか",
+    "roma":"haruoka"
+  },
+  "389":{
+    "code":"389",
+    "name":"高蔵寺中央",
+    "kana":"コウゾウジチユウオウ",
+    "hira":"こうぞうじちゆうおう",
+    "roma":"kouzoujichiyuuou"
+  },
   "401":{
     "code":"401",
     "name":"豊橋",
@@ -671,6 +1112,34 @@
     "hira":"とよたじようすい",
     "roma":"toyotajiyousui"
   },
+  "470":{
+    "code":"470",
+    "name":"岡崎中央",
+    "kana":"オカザキチユウオウ",
+    "hira":"おかざきちゆうおう",
+    "roma":"okazakichiyuuou"
+  },
+  "471":{
+    "code":"471",
+    "name":"豊橋中央",
+    "kana":"トヨハシチユウオウ",
+    "hira":"とよはしちゆうおう",
+    "roma":"toyohashichiyuuou"
+  },
+  "472":{
+    "code":"472",
+    "name":"刈谷中央",
+    "kana":"カリヤチユウオウ",
+    "hira":"かりやちゆうおう",
+    "roma":"kariyachiyuuou"
+  },
+  "473":{
+    "code":"473",
+    "name":"豊田中央",
+    "kana":"トヨタチユウオウ",
+    "hira":"とよたちゆうおう",
+    "roma":"toyotachiyuuou"
+  },
   "501":{
     "code":"501",
     "name":"多治見",
@@ -692,12 +1161,33 @@
     "hira":"なかつがわ",
     "roma":"nakatsugawa"
   },
+  "601":{
+    "code":"601",
+    "name":"桑名中央",
+    "kana":"クワナチユウオウ",
+    "hira":"くわなちゆうおう",
+    "roma":"kuwanachiyuuou"
+  },
   "602":{
     "code":"602",
     "name":"四日市",
     "kana":"ヨツカイチ",
     "hira":"よつかいち",
     "roma":"yotsukaichi"
+  },
+  "603":{
+    "code":"603",
+    "name":"四日市中央",
+    "kana":"ヨツカイチチユウオウ",
+    "hira":"よつかいちちゆうおう",
+    "roma":"yotsukaichichiyuuou"
+  },
+  "604":{
+    "code":"604",
+    "name":"富田中央",
+    "kana":"トミダチユウオウ",
+    "hira":"とみだちゆうおう",
+    "roma":"tomidachiyuuou"
   },
   "605":{
     "code":"605",
@@ -706,12 +1196,110 @@
     "hira":"くわな",
     "roma":"kuwana"
   },
+  "606":{
+    "code":"606",
+    "name":"久居",
+    "kana":"ヒサイ",
+    "hira":"ひさい",
+    "roma":"hisai"
+  },
+  "607":{
+    "code":"607",
+    "name":"西桑名",
+    "kana":"ニシクワナ",
+    "hira":"にしくわな",
+    "roma":"nishikuwana"
+  },
+  "608":{
+    "code":"608",
+    "name":"松阪",
+    "kana":"マツザカ",
+    "hira":"まつざか",
+    "roma":"matsuzaka"
+  },
+  "609":{
+    "code":"609",
+    "name":"伊勢",
+    "kana":"イセ",
+    "hira":"いせ",
+    "roma":"ise"
+  },
+  "610":{
+    "code":"610",
+    "name":"鳥羽",
+    "kana":"トバ",
+    "hira":"とば",
+    "roma":"toba"
+  },
+  "616":{
+    "code":"616",
+    "name":"名張",
+    "kana":"ナバリ",
+    "hira":"なばり",
+    "roma":"nabari"
+  },
+  "617":{
+    "code":"617",
+    "name":"上野",
+    "kana":"ウエノ",
+    "hira":"うえの",
+    "roma":"ueno"
+  },
+  "618":{
+    "code":"618",
+    "name":"大安",
+    "kana":"ダイアン",
+    "hira":"だいあん",
+    "roma":"daian"
+  },
+  "619":{
+    "code":"619",
+    "name":"鈴鹿",
+    "kana":"スズカ",
+    "hira":"すずか",
+    "roma":"suzuka"
+  },
+  "621":{
+    "code":"621",
+    "name":"桔梗が丘出張所",
+    "kana":"キキヨウガオカ",
+    "hira":"ききようがおか",
+    "roma":"kikiyougaoka"
+  },
+  "670":{
+    "code":"670",
+    "name":"阿下喜",
+    "kana":"アゲキ",
+    "hira":"あげき",
+    "roma":"ageki"
+  },
+  "671":{
+    "code":"671",
+    "name":"津",
+    "kana":"ツ",
+    "hira":"つ",
+    "roma":"tsu"
+  },
   "701":{
     "code":"701",
     "name":"浜松",
     "kana":"ハママツ",
     "hira":"はままつ",
     "roma":"hamamatsu"
+  },
+  "703":{
+    "code":"703",
+    "name":"桜井",
+    "kana":"サクライ",
+    "hira":"さくらい",
+    "roma":"sakurai"
+  },
+  "770":{
+    "code":"770",
+    "name":"静岡",
+    "kana":"シズオカ",
+    "hira":"しずおか",
+    "roma":"shizuoka"
   },
   "801":{
     "code":"801",
@@ -726,6 +1314,27 @@
     "kana":"トウキヨウ",
     "hira":"とうきよう",
     "roma":"toukiyou"
+  },
+  "870":{
+    "code":"870",
+    "name":"大阪中央",
+    "kana":"オオサカチユウオウ",
+    "hira":"おおさかちゆうおう",
+    "roma":"oosakachiyuuou"
+  },
+  "871":{
+    "code":"871",
+    "name":"奈良",
+    "kana":"ナラ",
+    "hira":"なら",
+    "roma":"nara"
+  },
+  "901":{
+    "code":"901",
+    "name":"東京中央",
+    "kana":"トウキヨウチユウオウ",
+    "hira":"とうきようちゆうおう",
+    "roma":"toukiyouchiyuuou"
   },
   "959":{
     "code":"959",

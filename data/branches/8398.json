@@ -6,26 +6,12 @@
     "hira":"ほんしよ",
     "roma":"honshiyo"
   },
-  "002":{
-    "code":"002",
-    "name":"丹原",
-    "kana":"タンバラ",
-    "hira":"たんばら",
-    "roma":"tambara"
-  },
   "003":{
     "code":"003",
-    "name":"田野",
-    "kana":"タノ",
-    "hira":"たの",
-    "roma":"tano"
-  },
-  "004":{
-    "code":"004",
-    "name":"中川",
-    "kana":"ナカガワ",
-    "hira":"なかがわ",
-    "roma":"nakagawa"
+    "name":"西部",
+    "kana":"セイブ",
+    "hira":"せいぶ",
+    "roma":"seibu"
   },
   "006":{
     "code":"006",
@@ -36,10 +22,10 @@
   },
   "007":{
     "code":"007",
-    "name":"周布",
-    "kana":"シユウフ",
-    "hira":"しゆうふ",
-    "roma":"shiyuufu"
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
   },
   "008":{
     "code":"008",
@@ -47,13 +33,6 @@
     "kana":"クニヤス",
     "hira":"くにやす",
     "roma":"kuniyasu"
-  },
-  "009":{
-    "code":"009",
-    "name":"吉岡",
-    "kana":"ヨシオカ",
-    "hira":"よしおか",
-    "roma":"yoshioka"
   },
   "010":{
     "code":"010",
@@ -75,13 +54,6 @@
     "kana":"シヨウナイ",
     "hira":"しようない",
     "roma":"shiyounai"
-  },
-  "013":{
-    "code":"013",
-    "name":"徳田",
-    "kana":"トクダ",
-    "hira":"とくだ",
-    "roma":"tokuda"
   },
   "017":{
     "code":"017",

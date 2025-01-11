@@ -6,13 +6,6 @@
     "hira":"ほんしよ",
     "roma":"honshiyo"
   },
-  "002":{
-    "code":"002",
-    "name":"中央",
-    "kana":"チユウオウ",
-    "hira":"ちゆうおう",
-    "roma":"chiyuuou"
-  },
   "003":{
     "code":"003",
     "name":"中部南",
@@ -29,10 +22,10 @@
   },
   "005":{
     "code":"005",
-    "name":"五箇荘",
-    "kana":"ゴカシヨウ",
-    "hira":"ごかしよう",
-    "roma":"gokashiyou"
+    "name":"北",
+    "kana":"キタ",
+    "hira":"きた",
+    "roma":"kita"
   },
   "006":{
     "code":"006",
@@ -68,13 +61,6 @@
     "kana":"ツクノ",
     "hira":"つくの",
     "roma":"tsukuno"
-  },
-  "011":{
-    "code":"011",
-    "name":"北八下",
-    "kana":"キタヤシモ",
-    "hira":"きたやしも",
-    "roma":"kitayashimo"
   },
   "013":{
     "code":"013",

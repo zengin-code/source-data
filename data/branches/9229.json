@@ -57,10 +57,10 @@
   },
   "105":{
     "code":"105",
-    "name":"中山",
-    "kana":"チユウザン",
-    "hira":"ちゆうざん",
-    "roma":"chiyuuzan"
+    "name":"谷山北",
+    "kana":"タニヤマキタ",
+    "hira":"たにやまきた",
+    "roma":"taniyamakita"
   },
   "108":{
     "code":"108",
@@ -96,13 +96,6 @@
     "kana":"タニヤマ",
     "hira":"たにやま",
     "roma":"taniyama"
-  },
-  "118":{
-    "code":"118",
-    "name":"山田",
-    "kana":"ヤマダ",
-    "hira":"やまだ",
-    "roma":"yamada"
   },
   "201":{
     "code":"201",
