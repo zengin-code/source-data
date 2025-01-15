@@ -97,9 +97,8 @@ class ZenginCLI < Thor
       if changed
         run(%Q{git tag -f #{now.strftime('%Y-%m-%d')}})
 
-        remote = "git@github.com:zengin-code/source-data.git"
-        run("git push #{remote} master")
-        run("git push -f --tags #{remote}")
+        run("git push")
+        run("git push --tags")
       end
     end
   end
