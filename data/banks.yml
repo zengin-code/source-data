@@ -103,16 +103,10 @@
   roma: hotsukaidou
 '0117':
   code: '0117'
-  name: 青森
-  kana: アオモリ
-  hira: あおもり
-  roma: aomori
-'0118':
-  code: '0118'
-  name: みちのく
-  kana: ミチノク
-  hira: みちのく
-  roma: michinoku
+  name: 青森みちのく
+  kana: アオモリミチノク
+  hira: あおもりみちのく
+  roma: aomorimichinoku
 '0119':
   code: '0119'
   name: 秋田
@@ -877,7 +871,7 @@
   roma: shizuokachiyuuou
 '0542':
   code: '0542'
-  name: 愛知
+  name: あいち
   kana: アイチ
   hira: あいち
   roma: aichi
@@ -887,12 +881,6 @@
   kana: ナゴヤ
   hira: なごや
   roma: nagoya
-'0544':
-  code: '0544'
-  name: 中京
-  kana: チユウキヨウ
-  hira: ちゆうきよう
-  roma: chiyuukiyou
 '0562':
   code: '0562'
   name: みなと

@@ -64,17 +64,10 @@
   },
   "020":{
     "code":"020",
-    "name":"二川",
-    "kana":"フタカワ",
-    "hira":"ふたかわ",
-    "roma":"futakawa"
-  },
-  "021":{
-    "code":"021",
-    "name":"千代田",
-    "kana":"チヨダ",
-    "hira":"ちよだ",
-    "roma":"chiyoda"
+    "name":"芝山",
+    "kana":"シバヤマ",
+    "hira":"しばやま",
+    "roma":"shibayama"
   },
   "022":{
     "code":"022",

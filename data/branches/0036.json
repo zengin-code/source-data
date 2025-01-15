@@ -433,6 +433,55 @@
     "hira":"じえいあ－るい－こまち",
     "roma":"jieia-rui-komachi"
   },
+  "344":{
+    "code":"344",
+    "name":"ＪＲＥつばさ",
+    "kana":"ジエイア－ルイ－ツバサ",
+    "hira":"じえいあ－るい－つばさ",
+    "roma":"jieia-rui-tsubasa"
+  },
+  "345":{
+    "code":"345",
+    "name":"ＪＲＥあさま",
+    "kana":"ジエイア－ルイ－アサマ",
+    "hira":"じえいあ－るい－あさま",
+    "roma":"jieia-rui-asama"
+  },
+  "346":{
+    "code":"346",
+    "name":"ＪＲＥやまびこ",
+    "kana":"ジエイア－ルイ－ヤマビコ",
+    "hira":"じえいあ－るい－やまびこ",
+    "roma":"jieia-rui-yamabiko"
+  },
+  "347":{
+    "code":"347",
+    "name":"ＪＲＥあずさ",
+    "kana":"ジエイア－ルイ－アズサ",
+    "hira":"じえいあ－るい－あずさ",
+    "roma":"jieia-rui-azusa"
+  },
+  "348":{
+    "code":"348",
+    "name":"ＪＲＥひたち",
+    "kana":"ジエイア－ルイ－ヒタチ",
+    "hira":"じえいあ－るい－ひたち",
+    "roma":"jieia-rui-hitachi"
+  },
+  "349":{
+    "code":"349",
+    "name":"ＪＲＥ踊り子",
+    "kana":"ジエイア－ルイ－オドリコ",
+    "hira":"じえいあ－るい－おどりこ",
+    "roma":"jieia-rui-odoriko"
+  },
+  "351":{
+    "code":"351",
+    "name":"ＪＲＥわかしお",
+    "kana":"ジエイア－ルイ－ワカシオ",
+    "hira":"じえいあ－るい－わかしお",
+    "roma":"jieia-rui-wakashio"
+  },
   "701":{
     "code":"701",
     "name":"法人第一",

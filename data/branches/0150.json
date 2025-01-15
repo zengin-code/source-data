@@ -594,13 +594,6 @@
     "hira":"ふじえだ",
     "roma":"fujieda"
   },
-  "750":{
-    "code":"750",
-    "name":"島田",
-    "kana":"シマダ",
-    "hira":"しまだ",
-    "roma":"shimada"
-  },
   "771":{
     "code":"771",
     "name":"岡部",
@@ -705,20 +698,6 @@
     "kana":"ナゴヤ",
     "hira":"なごや",
     "roma":"nagoya"
-  },
-  "930":{
-    "code":"930",
-    "name":"札幌",
-    "kana":"サツポロ",
-    "hira":"さつぽろ",
-    "roma":"satsuporo"
-  },
-  "935":{
-    "code":"935",
-    "name":"福岡",
-    "kana":"フクオカ",
-    "hira":"ふくおか",
-    "roma":"fukuoka"
   },
   "940":{
     "code":"940",
