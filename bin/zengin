@@ -15,6 +15,7 @@ require 'moji'
 require 'romaji'
 require 'oj'
 require 'yaml'
+require 'digest/md5'
 
 class ZenginCLI < Thor
   include Thor::Invocation
