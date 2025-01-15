@@ -15,11 +15,6 @@ require 'moji'
 require 'romaji'
 require 'oj'
 require 'yaml'
-require 'circleci'
-
-CircleCi.configure do |config|
-  config.token = ENV['ZENGINCI_TOKEN']
-end
 
 class ZenginCLI < Thor
   include Thor::Invocation
@@ -87,27 +82,23 @@ class ZenginCLI < Thor
     end
   end
 
-  desc 'ci', 'ci job'
-  def ci
+  desc 'commit', 'commit changes'
+  def commit
     now = Time.now
     puts "Check and commit updates..."
 
     inside(ROOT_DIR) do
-      run('git config user.email "zeny-man@zeny.io"')
-      run('git config user.name "zeny-man"')
+      run('git config user.name  "github-actions[bot]"')
+      run('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"')
 
       run('git add data')
       changed = run(%Q{git commit -m "Update: #{now.strftime('%Y / %m / %d')}"})
       if changed
         run(%Q{git tag -f #{now.strftime('%Y-%m-%d')}})
 
-        remote = "git@github.com:#{ENV['CIRCLE_PROJECT_USERNAME']}/#{ENV['CIRCLE_PROJECT_REPONAME']}.git"
+        remote = "git@github.com:zengin-code/source-data.git"
         run("git push #{remote} master")
         run("git push -f --tags #{remote}")
-
-        trigger_build('zengin-rb')
-        trigger_build('zengin-js')
-        trigger_build('zengin-py')
       end
     end
   end
@@ -171,11 +162,6 @@ class ZenginCLI < Thor
       strigified[k.to_s] = v.is_a?(Hash) ? stringify_keys(v) : v
     end
     strigified
-  end
-
-  def trigger_build(project)
-    ci = CircleCi::Project.new('zengin-code', project)
-    ci.build_branch('master', {}, build_parameters: { 'RELEASE_BUILD' => 'TRUE' })
   end
 end
 
