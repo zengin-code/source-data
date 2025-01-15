@@ -1,0 +1,43 @@
+name: update
+
+on:
+  push:
+
+  schedule:
+    # Run at 11:30 JST
+    - cron: '30 2 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3
+          bundler-cache: true
+
+      - name: Restore cache of data
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: cache-${{ runner.os }}-${{ hashFiles('data/md5') }}
+
+      - name: Download or Restore archive
+        run: |
+          if [ -f cache/src.zip ]; then mv cache/src.zip data/src.zip; fi
+          ./bin/zengin download || true
+          mkdir -p cache
+          cp data/src.zip cache/src.zip
+
+      - name: Update archive
+        run: ./bin/zengin update
+
+      - name: Commit
+        run: ./bin/zengin commit
+        # run on master branch only
+        if: github.ref == 'refs/heads/master'
