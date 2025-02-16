@@ -83,12 +83,6 @@
   kana: マツド
   hira: まつど
   roma: matsudo
-'016':
-  code: '016'
-  name: 南小岩
-  kana: ミナミコイワ
-  hira: みなみこいわ
-  roma: minamikoiwa
 '017':
   code: '017'
   name: 大袋
@@ -191,12 +185,6 @@
   kana: ヒガシコイワ
   hira: ひがしこいわ
   roma: higashikoiwa
-'064':
-  code: '064'
-  name: 北小岩
-  kana: キタコイワ
-  hira: きたこいわ
-  roma: kitakoiwa
 '065':
   code: '065'
   name: 市川
@@ -239,12 +227,6 @@
   kana: カツパバシ
   hira: かつぱばし
   roma: katsupabashi
-'106':
-  code: '106'
-  name: 小岩
-  kana: コイワ
-  hira: こいわ
-  roma: koiwa
 '107':
   code: '107'
   name: 浅草
