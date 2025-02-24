@@ -1,18 +1,4 @@
 {
-  "002":{
-    "code":"002",
-    "name":"頓野",
-    "kana":"トンノ",
-    "hira":"とんの",
-    "roma":"tonno"
-  },
-  "003":{
-    "code":"003",
-    "name":"新入",
-    "kana":"シンニユウ",
-    "hira":"しんにゆう",
-    "roma":"shinniyuu"
-  },
   "005":{
     "code":"005",
     "name":"本所",
@@ -20,19 +6,12 @@
     "hira":"ほんしよ",
     "roma":"honshiyo"
   },
-  "012":{
-    "code":"012",
-    "name":"宮田",
-    "kana":"ミヤタ",
-    "hira":"みやた",
-    "roma":"miyata"
-  },
   "015":{
     "code":"015",
-    "name":"若宮",
-    "kana":"ワカミヤ",
-    "hira":"わかみや",
-    "roma":"wakamiya"
+    "name":"宮若",
+    "kana":"ミヤワカ",
+    "hira":"みやわか",
+    "roma":"miyawaka"
   },
   "020":{
     "code":"020",

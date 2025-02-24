@@ -120,10 +120,10 @@
   },
   "024":{
     "code":"024",
-    "name":"郡山",
-    "kana":"コオリヤマ",
-    "hira":"こおりやま",
-    "roma":"kooriyama"
+    "name":"福島法人部２４",
+    "kana":"フクシマホウジンブニヨン",
+    "hira":"ふくしまほうじんぶによん",
+    "roma":"fukushimahoujimbuniyon"
   },
   "025":{
     "code":"025",
@@ -246,10 +246,10 @@
   },
   "044":{
     "code":"044",
-    "name":"福島",
-    "kana":"フクシマ",
-    "hira":"ふくしま",
-    "roma":"fukushima"
+    "name":"福島法人部４４",
+    "kana":"フクシマホウジンブヨンヨン",
+    "hira":"ふくしまほうじんぶよんよん",
+    "roma":"fukushimahoujimbuyonyon"
   },
   "045":{
     "code":"045",
@@ -1321,6 +1321,13 @@
     "kana":"ホツトダイレクトナナサンハチ",
     "hira":"ほつとだいれくとななさんはち",
     "roma":"hotsutodairekutonanasanhachi"
+  },
+  "752":{
+    "code":"752",
+    "name":"福島法人部７５２",
+    "kana":"フクシマナナゴニ",
+    "hira":"ふくしまななごに",
+    "roma":"fukushimananagoni"
   },
   "900":{
     "code":"900",

@@ -90,13 +90,6 @@
     "hira":"しただ",
     "roma":"shitada"
   },
-  "053":{
-    "code":"053",
-    "name":"三条中央",
-    "kana":"サンジヨウチユウオウ",
-    "hira":"さんじようちゆうおう",
-    "roma":"sanjiyouchiyuuou"
-  },
   "054":{
     "code":"054",
     "name":"栄",
@@ -110,13 +103,6 @@
     "kana":"サンジヨウミナミ",
     "hira":"さんじようみなみ",
     "roma":"sanjiyouminami"
-  },
-  "056":{
-    "code":"056",
-    "name":"三条北",
-    "kana":"サンジヨウキタ",
-    "hira":"さんじようきた",
-    "roma":"sanjiyoukita"
   },
   "057":{
     "code":"057",

@@ -104,13 +104,6 @@
     "hira":"かわかみ",
     "roma":"kawakami"
   },
-  "312":{
-    "code":"312",
-    "name":"大泉",
-    "kana":"オオイズミ",
-    "hira":"おおいずみ",
-    "roma":"ooizumi"
-  },
   "313":{
     "code":"313",
     "name":"竜南",
@@ -145,13 +138,6 @@
     "kana":"シヨウワ",
     "hira":"しようわ",
     "roma":"shiyouwa"
-  },
-  "318":{
-    "code":"318",
-    "name":"白根",
-    "kana":"シラネ",
-    "hira":"しらね",
-    "roma":"shirane"
   },
   "501":{
     "code":"501",

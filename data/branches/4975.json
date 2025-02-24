@@ -69,26 +69,12 @@
     "hira":"ぎようだ",
     "roma":"giyouda"
   },
-  "015":{
-    "code":"015",
-    "name":"柏こかぶ出張所",
-    "kana":"カシワコカブ",
-    "hira":"かしわこかぶ",
-    "roma":"kashiwakokabu"
-  },
   "016":{
     "code":"016",
     "name":"土",
     "kana":"ツチ",
     "hira":"つち",
     "roma":"tsuchi"
-  },
-  "017":{
-    "code":"017",
-    "name":"富勢",
-    "kana":"トミセ",
-    "hira":"とみせ",
-    "roma":"tomise"
   },
   "018":{
     "code":"018",

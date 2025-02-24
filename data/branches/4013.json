@@ -22,17 +22,10 @@
   },
   "025":{
     "code":"025",
-    "name":"新余目",
-    "kana":"シンアマルメ",
-    "hira":"しんあまるめ",
-    "roma":"shinamarume"
-  },
-  "031":{
-    "code":"031",
-    "name":"立川",
-    "kana":"タチカワ",
-    "hira":"たちかわ",
-    "roma":"tachikawa"
+    "name":"北部",
+    "kana":"ホクブ",
+    "hira":"ほくぶ",
+    "roma":"hokubu"
   },
   "041":{
     "code":"041",

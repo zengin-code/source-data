@@ -27,13 +27,6 @@
     "hira":"きた",
     "roma":"kita"
   },
-  "006":{
-    "code":"006",
-    "name":"浜寺",
-    "kana":"ハマデラ",
-    "hira":"はまでら",
-    "roma":"hamadera"
-  },
   "007":{
     "code":"007",
     "name":"深井",
@@ -127,9 +120,9 @@
   },
   "022":{
     "code":"022",
-    "name":"鳳",
-    "kana":"オオトリ",
-    "hira":"おおとり",
-    "roma":"ootori"
+    "name":"西",
+    "kana":"ニシ",
+    "hira":"にし",
+    "roma":"nishi"
   }
 }

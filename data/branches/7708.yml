@@ -35,18 +35,12 @@
   kana: ヒエバラ
   hira: ひえばら
   roma: hiebara
-'011':
-  code: '011'
-  name: 上津
-  kana: カミツ
-  hira: かみつ
-  roma: kamitsu
 '012':
   code: '012'
-  name: 大津
-  kana: オオツ
-  hira: おおつ
-  roma: ootsu
+  name: 出雲東
+  kana: イズモヒガシ
+  hira: いずもひがし
+  roma: izumohigashi
 '013':
   code: '013'
   name: 塩冶
@@ -61,16 +55,10 @@
   roma: izumo
 '015':
   code: '015'
-  name: 四絡
-  kana: ヨツガネ
-  hira: よつがね
-  roma: yotsugane
-'016':
-  code: '016'
-  name: 高浜
-  kana: タカハマ
-  hira: たかはま
-  roma: takahama
+  name: 出雲北
+  kana: イズモキタ
+  hira: いずもきた
+  roma: izumokita
 '017':
   code: '017'
   name: 川跡
@@ -89,18 +77,6 @@
   kana: ヒラタチユウオウ
   hira: ひらたちゆうおう
   roma: hiratachiyuuou
-'042':
-  code: '042'
-  name: 灘分
-  kana: ナダブン
-  hira: なだぶん
-  roma: nadabun
-'043':
-  code: '043'
-  name: 国富
-  kana: クニドミ
-  hira: くにどみ
-  roma: kunidomi
 '044':
   code: '044'
   name: 西田
@@ -329,18 +305,6 @@
   kana: オキ
   hira: おき
   roma: oki
-'507':
-  code: '507'
-  name: 都万
-  kana: ツマ
-  hira: つま
-  roma: tsuma
-'511':
-  code: '511'
-  name: 五箇
-  kana: ゴカ
-  hira: ごか
-  roma: goka
 '531':
   code: '531'
   name: 西ノ島
