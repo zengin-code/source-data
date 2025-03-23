@@ -34,13 +34,6 @@
     "hira":"あざい",
     "roma":"azai"
   },
-  "006":{
-    "code":"006",
-    "name":"駅西",
-    "kana":"エキニシ",
-    "hira":"えきにし",
-    "roma":"ekinishi"
-  },
   "007":{
     "code":"007",
     "name":"奥町",
@@ -131,13 +124,6 @@
     "kana":"ヒガシコウナン",
     "hira":"ひがしこうなん",
     "roma":"higashikounan"
-  },
-  "021":{
-    "code":"021",
-    "name":"西江南",
-    "kana":"ニシコウナン",
-    "hira":"にしこうなん",
-    "roma":"nishikounan"
   },
   "023":{
     "code":"023",
