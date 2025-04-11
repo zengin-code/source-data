@@ -34,6 +34,13 @@
     "hira":"あざい",
     "roma":"azai"
   },
+  "006":{
+    "code":"006",
+    "name":"駅西",
+    "kana":"エキニシ",
+    "hira":"えきにし",
+    "roma":"ekinishi"
+  },
   "007":{
     "code":"007",
     "name":"奥町",
@@ -243,13 +250,6 @@
     "kana":"トミダチヨウ",
     "hira":"とみだちよう",
     "roma":"tomidachiyou"
-  },
-  "117":{
-    "code":"117",
-    "name":"佐織",
-    "kana":"サオリ",
-    "hira":"さおり",
-    "roma":"saori"
   },
   "121":{
     "code":"121",
