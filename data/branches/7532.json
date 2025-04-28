@@ -1,121 +1,590 @@
 {
-  "011":{
-    "code":"011",
+  "003":{
+    "code":"003",
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
+  },
+  "101":{
+    "code":"101",
     "name":"加太",
     "kana":"カダ",
     "hira":"かだ",
     "roma":"kada"
   },
-  "022":{
-    "code":"022",
+  "102":{
+    "code":"102",
     "name":"かせい",
     "kana":"カセイ",
     "hira":"かせい",
     "roma":"kasei"
   },
-  "025":{
-    "code":"025",
+  "103":{
+    "code":"103",
     "name":"かほく",
     "kana":"カホク",
     "hira":"かほく",
     "roma":"kahoku"
   },
-  "026":{
-    "code":"026",
+  "104":{
+    "code":"104",
     "name":"きのかわ",
     "kana":"キノカワ",
     "hira":"きのかわ",
     "roma":"kinokawa"
   },
-  "031":{
-    "code":"031",
+  "105":{
+    "code":"105",
     "name":"六十谷",
     "kana":"ムソタ",
     "hira":"むそた",
     "roma":"musota"
   },
-  "033":{
-    "code":"033",
+  "106":{
+    "code":"106",
     "name":"紀伊",
     "kana":"キイ",
     "hira":"きい",
     "roma":"kii"
   },
-  "035":{
-    "code":"035",
+  "107":{
+    "code":"107",
     "name":"かわなべ",
     "kana":"カワナベ",
     "hira":"かわなべ",
     "roma":"kawanabe"
   },
-  "041":{
-    "code":"041",
+  "108":{
+    "code":"108",
     "name":"四ケ郷中之島",
     "kana":"シカゴナカノシマ",
     "hira":"しかごなかのしま",
     "roma":"shikagonakanoshima"
   },
-  "042":{
-    "code":"042",
+  "109":{
+    "code":"109",
     "name":"ひがし",
     "kana":"ヒガシ",
     "hira":"ひがし",
     "roma":"higashi"
   },
-  "046":{
-    "code":"046",
+  "110":{
+    "code":"110",
     "name":"高積",
     "kana":"タカツミ",
     "hira":"たかつみ",
     "roma":"takatsumi"
   },
-  "047":{
-    "code":"047",
+  "111":{
+    "code":"111",
     "name":"ＪＡビル",
     "kana":"ジエイエイビル",
     "hira":"じえいえいびる",
     "roma":"jieieibiru"
   },
-  "052":{
-    "code":"052",
+  "112":{
+    "code":"112",
     "name":"和田川",
     "kana":"ワダガワ",
     "hira":"わだがわ",
     "roma":"wadagawa"
   },
-  "054":{
-    "code":"054",
+  "113":{
+    "code":"113",
     "name":"名草",
     "kana":"ナグサ",
     "hira":"なぐさ",
     "roma":"nagusa"
   },
-  "055":{
-    "code":"055",
+  "114":{
+    "code":"114",
     "name":"宮前",
     "kana":"ミヤマエ",
     "hira":"みやまえ",
     "roma":"miyamae"
   },
-  "057":{
-    "code":"057",
+  "115":{
+    "code":"115",
     "name":"雑賀",
     "kana":"サイカ",
     "hira":"さいか",
     "roma":"saika"
   },
-  "065":{
-    "code":"065",
+  "116":{
+    "code":"116",
     "name":"東部",
     "kana":"トウブ",
     "hira":"とうぶ",
     "roma":"toubu"
   },
-  "100":{
-    "code":"100",
-    "name":"本店",
-    "kana":"ホンテン",
-    "hira":"ほんてん",
-    "roma":"honten"
+  "199":{
+    "code":"199",
+    "name":"わかやま地域本部",
+    "kana":"ワカヤマチイキホンブ",
+    "hira":"わかやまちいきほんぶ",
+    "roma":"wakayamachiikihombu"
+  },
+  "201":{
+    "code":"201",
+    "name":"海南東",
+    "kana":"カイナンヒガシ",
+    "hira":"かいなんひがし",
+    "roma":"kainanhigashi"
+  },
+  "202":{
+    "code":"202",
+    "name":"海南西",
+    "kana":"カイナンニシ",
+    "hira":"かいなんにし",
+    "roma":"kainannishi"
+  },
+  "203":{
+    "code":"203",
+    "name":"野上",
+    "kana":"ノカミ",
+    "hira":"のかみ",
+    "roma":"nokami"
+  },
+  "204":{
+    "code":"204",
+    "name":"しもつ",
+    "kana":"シモツ",
+    "hira":"しもつ",
+    "roma":"shimotsu"
+  },
+  "299":{
+    "code":"299",
+    "name":"ながみね地域本部",
+    "kana":"ナガミネチイキホンブ",
+    "hira":"ながみねちいきほんぶ",
+    "roma":"nagaminechiikihombu"
+  },
+  "301":{
+    "code":"301",
+    "name":"那賀",
+    "kana":"ナガ",
+    "hira":"なが",
+    "roma":"naga"
+  },
+  "302":{
+    "code":"302",
+    "name":"粉河",
+    "kana":"コカワ",
+    "hira":"こかわ",
+    "roma":"kokawa"
+  },
+  "303":{
+    "code":"303",
+    "name":"打田",
+    "kana":"ウチタ",
+    "hira":"うちた",
+    "roma":"uchita"
+  },
+  "304":{
+    "code":"304",
+    "name":"桃山",
+    "kana":"モモヤマ",
+    "hira":"ももやま",
+    "roma":"momoyama"
+  },
+  "305":{
+    "code":"305",
+    "name":"貴志川",
+    "kana":"キシガワ",
+    "hira":"きしがわ",
+    "roma":"kishigawa"
+  },
+  "306":{
+    "code":"306",
+    "name":"岩出",
+    "kana":"イワデ",
+    "hira":"いわで",
+    "roma":"iwade"
+  },
+  "399":{
+    "code":"399",
+    "name":"紀の里地域本部",
+    "kana":"キノサトチイキホンブ",
+    "hira":"きのさとちいきほんぶ",
+    "roma":"kinosatochiikihombu"
+  },
+  "401":{
+    "code":"401",
+    "name":"高野口",
+    "kana":"コウヤグチ",
+    "hira":"こうやぐち",
+    "roma":"kouyaguchi"
+  },
+  "402":{
+    "code":"402",
+    "name":"九度山",
+    "kana":"クドヤマ",
+    "hira":"くどやま",
+    "roma":"kudoyama"
+  },
+  "403":{
+    "code":"403",
+    "name":"高野",
+    "kana":"コウヤ",
+    "hira":"こうや",
+    "roma":"kouya"
+  },
+  "404":{
+    "code":"404",
+    "name":"橋本",
+    "kana":"ハシモト",
+    "hira":"はしもと",
+    "roma":"hashimoto"
+  },
+  "405":{
+    "code":"405",
+    "name":"橋本西部",
+    "kana":"ハシモトセイブ",
+    "hira":"はしもとせいぶ",
+    "roma":"hashimotoseibu"
+  },
+  "406":{
+    "code":"406",
+    "name":"橋本東",
+    "kana":"ハシモトヒガシ",
+    "hira":"はしもとひがし",
+    "roma":"hashimotohigashi"
+  },
+  "407":{
+    "code":"407",
+    "name":"かつらぎ東",
+    "kana":"カツラギヒガシ",
+    "hira":"かつらぎひがし",
+    "roma":"katsuragihigashi"
+  },
+  "408":{
+    "code":"408",
+    "name":"かつらぎ",
+    "kana":"カツラギ",
+    "hira":"かつらぎ",
+    "roma":"katsuragi"
+  },
+  "409":{
+    "code":"409",
+    "name":"かつらぎ南",
+    "kana":"カツラギミナミ",
+    "hira":"かつらぎみなみ",
+    "roma":"katsuragiminami"
+  },
+  "499":{
+    "code":"499",
+    "name":"紀北地域本部",
+    "kana":"キホクチイキホンブ",
+    "hira":"きほくちいきほんぶ",
+    "roma":"kihokuchiikihombu"
+  },
+  "501":{
+    "code":"501",
+    "name":"宮原",
+    "kana":"ミヤハラ",
+    "hira":"みやはら",
+    "roma":"miyahara"
+  },
+  "502":{
+    "code":"502",
+    "name":"吉備",
+    "kana":"キビ",
+    "hira":"きび",
+    "roma":"kibi"
+  },
+  "503":{
+    "code":"503",
+    "name":"箕島",
+    "kana":"ミノシマ",
+    "hira":"みのしま",
+    "roma":"minoshima"
+  },
+  "504":{
+    "code":"504",
+    "name":"湯浅",
+    "kana":"ユアサ",
+    "hira":"ゆあさ",
+    "roma":"yuasa"
+  },
+  "505":{
+    "code":"505",
+    "name":"広川",
+    "kana":"ヒロガワ",
+    "hira":"ひろがわ",
+    "roma":"hirogawa"
+  },
+  "506":{
+    "code":"506",
+    "name":"金屋",
+    "kana":"カナヤ",
+    "hira":"かなや",
+    "roma":"kanaya"
+  },
+  "507":{
+    "code":"507",
+    "name":"清水",
+    "kana":"シミズ",
+    "hira":"しみず",
+    "roma":"shimizu"
+  },
+  "599":{
+    "code":"599",
+    "name":"ありだ地域本部",
+    "kana":"アリダチイキホンブ",
+    "hira":"ありだちいきほんぶ",
+    "roma":"aridachiikihombu"
+  },
+  "601":{
+    "code":"601",
+    "name":"湯川",
+    "kana":"ユカワ",
+    "hira":"ゆかわ",
+    "roma":"yukawa"
+  },
+  "602":{
+    "code":"602",
+    "name":"名田",
+    "kana":"ナダ",
+    "hira":"なだ",
+    "roma":"nada"
+  },
+  "603":{
+    "code":"603",
+    "name":"日高川",
+    "kana":"ヒダカガワ",
+    "hira":"ひだかがわ",
+    "roma":"hidakagawa"
+  },
+  "604":{
+    "code":"604",
+    "name":"中津出張所",
+    "kana":"ナカツ",
+    "hira":"なかつ",
+    "roma":"nakatsu"
+  },
+  "605":{
+    "code":"605",
+    "name":"龍神出張所",
+    "kana":"リユウジン",
+    "hira":"りゆうじん",
+    "roma":"riyuujin"
+  },
+  "606":{
+    "code":"606",
+    "name":"美浜",
+    "kana":"ミハマ",
+    "hira":"みはま",
+    "roma":"mihama"
+  },
+  "607":{
+    "code":"607",
+    "name":"日高",
+    "kana":"ヒダカ",
+    "hira":"ひだか",
+    "roma":"hidaka"
+  },
+  "608":{
+    "code":"608",
+    "name":"由良",
+    "kana":"ユラ",
+    "hira":"ゆら",
+    "roma":"yura"
+  },
+  "609":{
+    "code":"609",
+    "name":"印南",
+    "kana":"イナミ",
+    "hira":"いなみ",
+    "roma":"inami"
+  },
+  "610":{
+    "code":"610",
+    "name":"切目出張所",
+    "kana":"キリメ",
+    "hira":"きりめ",
+    "roma":"kirime"
+  },
+  "611":{
+    "code":"611",
+    "name":"梅の郷",
+    "kana":"ウメノサト",
+    "hira":"うめのさと",
+    "roma":"umenosato"
+  },
+  "612":{
+    "code":"612",
+    "name":"南部出張所",
+    "kana":"ミナベ",
+    "hira":"みなべ",
+    "roma":"minabe"
+  },
+  "699":{
+    "code":"699",
+    "name":"紀州地域本部",
+    "kana":"キシユウチイキホンブ",
+    "hira":"きしゆうちいきほんぶ",
+    "roma":"kishiyuuchiikihombu"
+  },
+  "701":{
+    "code":"701",
+    "name":"中央",
+    "kana":"チユウオウ",
+    "hira":"ちゆうおう",
+    "roma":"chiyuuou"
+  },
+  "702":{
+    "code":"702",
+    "name":"芳養谷",
+    "kana":"ハヤダニ",
+    "hira":"はやだに",
+    "roma":"hayadani"
+  },
+  "703":{
+    "code":"703",
+    "name":"上秋津",
+    "kana":"カミアキヅ",
+    "hira":"かみあきづ",
+    "roma":"kamiakidu"
+  },
+  "704":{
+    "code":"704",
+    "name":"三栖",
+    "kana":"ミス",
+    "hira":"みす",
+    "roma":"misu"
+  },
+  "705":{
+    "code":"705",
+    "name":"新庄",
+    "kana":"シンジヨウ",
+    "hira":"しんじよう",
+    "roma":"shinjiyou"
+  },
+  "706":{
+    "code":"706",
+    "name":"新万",
+    "kana":"シンマン",
+    "hira":"しんまん",
+    "roma":"shimman"
+  },
+  "707":{
+    "code":"707",
+    "name":"田辺",
+    "kana":"タナベ",
+    "hira":"たなべ",
+    "roma":"tanabe"
+  },
+  "708":{
+    "code":"708",
+    "name":"白浜",
+    "kana":"シラハマ",
+    "hira":"しらはま",
+    "roma":"shirahama"
+  },
+  "709":{
+    "code":"709",
+    "name":"とんだ",
+    "kana":"トンダ",
+    "hira":"とんだ",
+    "roma":"tonda"
+  },
+  "710":{
+    "code":"710",
+    "name":"朝来",
+    "kana":"アツソ",
+    "hira":"あつそ",
+    "roma":"atsuso"
+  },
+  "711":{
+    "code":"711",
+    "name":"口熊野",
+    "kana":"クチクマノ",
+    "hira":"くちくまの",
+    "roma":"kuchikumano"
+  },
+  "712":{
+    "code":"712",
+    "name":"鮎川",
+    "kana":"アユカワ",
+    "hira":"あゆかわ",
+    "roma":"ayukawa"
+  },
+  "713":{
+    "code":"713",
+    "name":"栗栖川出張所",
+    "kana":"クリスガワ",
+    "hira":"くりすがわ",
+    "roma":"kurisugawa"
+  },
+  "714":{
+    "code":"714",
+    "name":"日置出張所",
+    "kana":"ヒキ",
+    "hira":"ひき",
+    "roma":"hiki"
+  },
+  "715":{
+    "code":"715",
+    "name":"すさみ",
+    "kana":"スサミ",
+    "hira":"すさみ",
+    "roma":"susami"
+  },
+  "716":{
+    "code":"716",
+    "name":"串本",
+    "kana":"クシモト",
+    "hira":"くしもと",
+    "roma":"kushimoto"
+  },
+  "799":{
+    "code":"799",
+    "name":"紀南地域本部",
+    "kana":"キナンチイキホンブ",
+    "hira":"きなんちいきほんぶ",
+    "roma":"kinanchiikihombu"
+  },
+  "801":{
+    "code":"801",
+    "name":"那智",
+    "kana":"ナチ",
+    "hira":"なち",
+    "roma":"nachi"
+  },
+  "802":{
+    "code":"802",
+    "name":"太地",
+    "kana":"タイジ",
+    "hira":"たいじ",
+    "roma":"taiji"
+  },
+  "803":{
+    "code":"803",
+    "name":"新宮",
+    "kana":"シングウ",
+    "hira":"しんぐう",
+    "roma":"shinguu"
+  },
+  "804":{
+    "code":"804",
+    "name":"みさき",
+    "kana":"ミサキ",
+    "hira":"みさき",
+    "roma":"misaki"
+  },
+  "805":{
+    "code":"805",
+    "name":"西向",
+    "kana":"ニシムカイ",
+    "hira":"にしむかい",
+    "roma":"nishimukai"
+  },
+  "899":{
+    "code":"899",
+    "name":"みくまの地域本部",
+    "kana":"ミクマノチイキホンブ",
+    "hira":"みくまのちいきほんぶ",
+    "roma":"mikumanochiikihombu"
   }
 }
