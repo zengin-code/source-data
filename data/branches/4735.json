@@ -188,12 +188,26 @@
     "hira":"ほりかね",
     "roma":"horikane"
   },
+  "061":{
+    "code":"061",
+    "name":"宮町",
+    "kana":"ミヤマチ",
+    "hira":"みやまち",
+    "roma":"miyamachi"
+  },
   "063":{
     "code":"063",
     "name":"坂戸",
     "kana":"サカド",
     "hira":"さかど",
     "roma":"sakado"
+  },
+  "064":{
+    "code":"064",
+    "name":"入西",
+    "kana":"ニツサイ",
+    "hira":"につさい",
+    "roma":"nitsusai"
   },
   "067":{
     "code":"067",

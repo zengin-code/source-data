@@ -190,10 +190,24 @@
   },
   "196":{
     "code":"196",
-    "name":"岩国南",
-    "kana":"イワクニミナミ",
-    "hira":"いわくにみなみ",
-    "roma":"iwakuniminami"
+    "name":"愛宕",
+    "kana":"アタゴ",
+    "hira":"あたご",
+    "roma":"atago"
+  },
+  "197":{
+    "code":"197",
+    "name":"灘",
+    "kana":"ナダ",
+    "hira":"なだ",
+    "roma":"nada"
+  },
+  "198":{
+    "code":"198",
+    "name":"平田",
+    "kana":"ヒラタ",
+    "hira":"ひらた",
+    "roma":"hirata"
   },
   "200":{
     "code":"200",

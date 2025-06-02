@@ -153,13 +153,6 @@
     "hira":"やまもと",
     "roma":"yamamoto"
   },
-  "026":{
-    "code":"026",
-    "name":"能代駅前",
-    "kana":"ノシロエキマエ",
-    "hira":"のしろえきまえ",
-    "roma":"noshiroekimae"
-  },
   "031":{
     "code":"031",
     "name":"大館",
@@ -400,10 +393,10 @@
   },
   "091":{
     "code":"091",
-    "name":"酒田本町",
-    "kana":"サカタホンチヨウ",
-    "hira":"さかたほんちよう",
-    "roma":"sakatahonchiyou"
+    "name":"酒田",
+    "kana":"サカタ",
+    "hira":"さかた",
+    "roma":"sakata"
   },
   "092":{
     "code":"092",
@@ -414,17 +407,10 @@
   },
   "093":{
     "code":"093",
-    "name":"東京中央",
-    "kana":"トウキヨウチユウオウ",
-    "hira":"とうきようちゆうおう",
-    "roma":"toukiyouchiyuuou"
-  },
-  "100":{
-    "code":"100",
-    "name":"泉",
-    "kana":"イズミ",
-    "hira":"いずみ",
-    "roma":"izumi"
+    "name":"東京",
+    "kana":"トウキヨウ",
+    "hira":"とうきよう",
+    "roma":"toukiyou"
   },
   "121":{
     "code":"121",
@@ -432,6 +418,20 @@
     "kana":"サンノウ",
     "hira":"さんのう",
     "roma":"sannou"
+  },
+  "124":{
+    "code":"124",
+    "name":"泉",
+    "kana":"イズミ",
+    "hira":"いずみ",
+    "roma":"izumi"
+  },
+  "125":{
+    "code":"125",
+    "name":"御所野",
+    "kana":"ゴシヨノ",
+    "hira":"ごしよの",
+    "roma":"goshiyono"
   },
   "126":{
     "code":"126",
@@ -453,6 +453,13 @@
     "kana":"アキタビジン",
     "hira":"あきたびじん",
     "roma":"akitabijin"
+  },
+  "212":{
+    "code":"212",
+    "name":"能代駅前",
+    "kana":"ノシロエキマエ",
+    "hira":"のしろえきまえ",
+    "roma":"noshiroekimae"
   },
   "218":{
     "code":"218",
@@ -565,13 +572,6 @@
     "kana":"ツチザキミナミ",
     "hira":"つちざきみなみ",
     "roma":"tsuchizakiminami"
-  },
-  "263":{
-    "code":"263",
-    "name":"御所野",
-    "kana":"ゴシヨノ",
-    "hira":"ごしよの",
-    "roma":"goshiyono"
   },
   "266":{
     "code":"266",

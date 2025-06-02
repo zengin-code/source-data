@@ -13,6 +13,13 @@
     "hira":"くにたち",
     "roma":"kunitachi"
   },
+  "003":{
+    "code":"003",
+    "name":"富士見台",
+    "kana":"フジミダイ",
+    "hira":"ふじみだい",
+    "roma":"fujimidai"
+  },
   "005":{
     "code":"005",
     "name":"昭島",

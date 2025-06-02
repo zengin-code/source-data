@@ -20,6 +20,13 @@
     "hira":"のまち",
     "roma":"nomachi"
   },
+  "006":{
+    "code":"006",
+    "name":"片町出張所",
+    "kana":"カタマチ",
+    "hira":"かたまち",
+    "roma":"katamachi"
+  },
   "007":{
     "code":"007",
     "name":"浅野川",

@@ -6,12 +6,33 @@
     "hira":"ふくえ",
     "roma":"fukue"
   },
+  "005":{
+    "code":"005",
+    "name":"崎山",
+    "kana":"サキヤマ",
+    "hira":"さきやま",
+    "roma":"sakiyama"
+  },
+  "010":{
+    "code":"010",
+    "name":"本山",
+    "kana":"モトヤマ",
+    "hira":"もとやま",
+    "roma":"motoyama"
+  },
   "011":{
     "code":"011",
     "name":"富江",
     "kana":"トミエ",
     "hira":"とみえ",
     "roma":"tomie"
+  },
+  "014":{
+    "code":"014",
+    "name":"三井楽",
+    "kana":"ミイラク",
+    "hira":"みいらく",
+    "roma":"miiraku"
   },
   "017":{
     "code":"017",

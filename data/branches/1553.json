@@ -132,6 +132,13 @@
     "hira":"ひがしこうなん",
     "roma":"higashikounan"
   },
+  "021":{
+    "code":"021",
+    "name":"西江南",
+    "kana":"ニシコウナン",
+    "hira":"にしこうなん",
+    "roma":"nishikounan"
+  },
   "023":{
     "code":"023",
     "name":"千秋",
@@ -250,6 +257,13 @@
     "kana":"トミダチヨウ",
     "hira":"とみだちよう",
     "roma":"tomidachiyou"
+  },
+  "117":{
+    "code":"117",
+    "name":"佐織",
+    "kana":"サオリ",
+    "hira":"さおり",
+    "roma":"saori"
   },
   "121":{
     "code":"121",

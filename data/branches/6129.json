@@ -20,6 +20,13 @@
     "hira":"さぎやま",
     "roma":"sagiyama"
   },
+  "006":{
+    "code":"006",
+    "name":"則武",
+    "kana":"ノリタケ",
+    "hira":"のりたけ",
+    "roma":"noritake"
+  },
   "007":{
     "code":"007",
     "name":"黒野",
@@ -92,10 +99,10 @@
   },
   "034":{
     "code":"034",
-    "name":"清流",
-    "kana":"セイリユウ",
-    "hira":"せいりゆう",
-    "roma":"seiriyuu"
+    "name":"島",
+    "kana":"シマ",
+    "hira":"しま",
+    "roma":"shima"
   },
   "036":{
     "code":"036",
@@ -194,6 +201,13 @@
     "kana":"ウヌマニシ",
     "hira":"うぬまにし",
     "roma":"unumanishi"
+  },
+  "056":{
+    "code":"056",
+    "name":"みどり坂",
+    "kana":"ミドリザカ",
+    "hira":"みどりざか",
+    "roma":"midorizaka"
   },
   "058":{
     "code":"058",
