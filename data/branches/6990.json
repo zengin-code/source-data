@@ -118,26 +118,12 @@
     "hira":"しの",
     "roma":"shino"
   },
-  "026":{
-    "code":"026",
-    "name":"岩滝",
-    "kana":"イワタキ",
-    "hira":"いわたき",
-    "roma":"iwataki"
-  },
-  "028":{
-    "code":"028",
-    "name":"加悦",
-    "kana":"カヤ",
-    "hira":"かや",
-    "roma":"kaya"
-  },
   "029":{
     "code":"029",
-    "name":"野田川",
-    "kana":"ノダガワ",
-    "hira":"のだがわ",
-    "roma":"nodagawa"
+    "name":"与謝野",
+    "kana":"ヨサノ",
+    "hira":"よさの",
+    "roma":"yosano"
   },
   "030":{
     "code":"030",

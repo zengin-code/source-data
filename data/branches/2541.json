@@ -20,13 +20,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "011":{
-    "code":"011",
-    "name":"香里",
-    "kana":"コウリ",
-    "hira":"こうり",
-    "roma":"kouri"
-  },
   "013":{
     "code":"013",
     "name":"門真",
@@ -110,5 +103,12 @@
     "kana":"カケハシ",
     "hira":"かけはし",
     "roma":"kakehashi"
+  },
+  "030":{
+    "code":"030",
+    "name":"御堂筋",
+    "kana":"ミドウスジ",
+    "hira":"みどうすじ",
+    "roma":"midousuji"
   }
 }

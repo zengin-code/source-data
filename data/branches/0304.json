@@ -1098,12 +1098,117 @@
     "hira":"ねつとこ－るよんになな",
     "roma":"netsutoko-ruyonninana"
   },
+  "428":{
+    "code":"428",
+    "name":"ネットコール４２８",
+    "kana":"ネツトコ－ルヨンニハチ",
+    "hira":"ねつとこ－るよんにはち",
+    "roma":"netsutoko-ruyonnihachi"
+  },
+  "432":{
+    "code":"432",
+    "name":"ネットコール４３２",
+    "kana":"ネツトコ－ルヨンサンニ",
+    "hira":"ねつとこ－るよんさんに",
+    "roma":"netsutoko-ruyonsanni"
+  },
+  "434":{
+    "code":"434",
+    "name":"ネットコール４３４",
+    "kana":"ネツトコ－ルヨンサンヨン",
+    "hira":"ねつとこ－るよんさんよん",
+    "roma":"netsutoko-ruyonsanyon"
+  },
+  "443":{
+    "code":"443",
+    "name":"ネットコール４３３",
+    "kana":"ネツトコ－ルヨンサンサン",
+    "hira":"ねつとこ－るよんさんさん",
+    "roma":"netsutoko-ruyonsansan"
+  },
   "447":{
     "code":"447",
     "name":"ネットコール４４７",
     "kana":"ネツトコ－ルヨンヨンナナ",
     "hira":"ねつとこ－るよんよんなな",
     "roma":"netsutoko-ruyonyonnana"
+  },
+  "454":{
+    "code":"454",
+    "name":"ネットコール４５４",
+    "kana":"ネツトコ－ルヨンヨンゴヨン",
+    "hira":"ねつとこ－るよんよんごよん",
+    "roma":"netsutoko-ruyonyongoyon"
+  },
+  "455":{
+    "code":"455",
+    "name":"ネットコール４５５",
+    "kana":"ネツトコ－ルヨンヨンゴゴ",
+    "hira":"ねつとこ－るよんよんごご",
+    "roma":"netsutoko-ruyonyongogo"
+  },
+  "463":{
+    "code":"463",
+    "name":"ネットコール４６３",
+    "kana":"ネツトコ－ルヨンヨンロクサン",
+    "hira":"ねつとこ－るよんよんろくさん",
+    "roma":"netsutoko-ruyonyonrokusan"
+  },
+  "464":{
+    "code":"464",
+    "name":"ネットコール４６４",
+    "kana":"ネツトコ－ルヨンヨンロクヨン",
+    "hira":"ねつとこ－るよんよんろくよん",
+    "roma":"netsutoko-ruyonyonrokuyon"
+  },
+  "467":{
+    "code":"467",
+    "name":"ネットコール４６７",
+    "kana":"ネツトコ－ルヨンヨンロクナナ",
+    "hira":"ねつとこ－るよんよんろくなな",
+    "roma":"netsutoko-ruyonyonrokunana"
+  },
+  "475":{
+    "code":"475",
+    "name":"ネットコール４７５",
+    "kana":"ネツトコ－ルヨンナナゴ",
+    "hira":"ねつとこ－るよんななご",
+    "roma":"netsutoko-ruyonnanago"
+  },
+  "479":{
+    "code":"479",
+    "name":"ネットコール４７９",
+    "kana":"ネツトコ－ルヨンナナキユウ",
+    "hira":"ねつとこ－るよんななきゆう",
+    "roma":"netsutoko-ruyonnanakiyuu"
+  },
+  "482":{
+    "code":"482",
+    "name":"ネットコール４８２",
+    "kana":"ネツトコ－ルヨンハチニ",
+    "hira":"ねつとこ－るよんはちに",
+    "roma":"netsutoko-ruyonhachini"
+  },
+  "484":{
+    "code":"484",
+    "name":"ネットコール４８４",
+    "kana":"ネツトコ－ルヨンハチヨン",
+    "hira":"ねつとこ－るよんはちよん",
+    "roma":"netsutoko-ruyonhachiyon"
+  },
+  "486":{
+    "code":"486",
+    "name":"ネットコール４８６",
+    "kana":"ネツトコ－ルヨンハチロク",
+    "hira":"ねつとこ－るよんはちろく",
+    "roma":"netsutoko-ruyonhachiroku"
+  },
+  "496":{
+    "code":"496",
+    "name":"ネットコール４９６",
+    "kana":"ネツトコ－ルヨンキユウロク",
+    "hira":"ねつとこ－るよんきゆうろく",
+    "roma":"netsutoko-ruyonkiyuuroku"
   },
   "501":{
     "code":"501",

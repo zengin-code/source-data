@@ -55,13 +55,6 @@
     "hira":"じようとう",
     "roma":"jiyoutou"
   },
-  "032":{
-    "code":"032",
-    "name":"粉浜",
-    "kana":"コハマ",
-    "hira":"こはま",
-    "roma":"kohama"
-  },
   "034":{
     "code":"034",
     "name":"萩原天神",
@@ -99,9 +92,9 @@
   },
   "042":{
     "code":"042",
-    "name":"矢田",
-    "kana":"ヤタ",
-    "hira":"やた",
-    "roma":"yata"
+    "name":"あびこ",
+    "kana":"アビコ",
+    "hira":"あびこ",
+    "roma":"abiko"
   }
 }

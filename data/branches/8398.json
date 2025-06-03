@@ -27,33 +27,12 @@
     "hira":"ちゆうおう",
     "roma":"chiyuuou"
   },
-  "008":{
-    "code":"008",
-    "name":"国安",
-    "kana":"クニヤス",
-    "hira":"くにやす",
-    "roma":"kuniyasu"
-  },
-  "010":{
-    "code":"010",
-    "name":"三芳",
-    "kana":"ミヨシ",
-    "hira":"みよし",
-    "roma":"miyoshi"
-  },
-  "011":{
-    "code":"011",
-    "name":"楠河",
-    "kana":"クスカワ",
-    "hira":"くすかわ",
-    "roma":"kusukawa"
-  },
   "012":{
     "code":"012",
-    "name":"庄内",
-    "kana":"シヨウナイ",
-    "hira":"しようない",
-    "roma":"shiyounai"
+    "name":"北部",
+    "kana":"ホクブ",
+    "hira":"ほくぶ",
+    "roma":"hokubu"
   },
   "017":{
     "code":"017",

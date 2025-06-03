@@ -5,40 +5,5 @@
     "kana":"ホンテン",
     "hira":"ほんてん",
     "roma":"honten"
-  },
-  "064":{
-    "code":"064",
-    "name":"南部",
-    "kana":"ナンブ",
-    "hira":"なんぶ",
-    "roma":"nambu"
-  },
-  "065":{
-    "code":"065",
-    "name":"北部",
-    "kana":"ホクブ",
-    "hira":"ほくぶ",
-    "roma":"hokubu"
-  },
-  "068":{
-    "code":"068",
-    "name":"東部",
-    "kana":"トウブ",
-    "hira":"とうぶ",
-    "roma":"toubu"
-  },
-  "082":{
-    "code":"082",
-    "name":"三日市",
-    "kana":"ミツカイチ",
-    "hira":"みつかいち",
-    "roma":"mitsukaichi"
-  },
-  "083":{
-    "code":"083",
-    "name":"生地",
-    "kana":"イクヂ",
-    "hira":"いくぢ",
-    "roma":"ikudi"
   }
 }

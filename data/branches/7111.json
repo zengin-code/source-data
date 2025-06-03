@@ -6,20 +6,6 @@
     "hira":"ほんしよ",
     "roma":"honshiyo"
   },
-  "003":{
-    "code":"003",
-    "name":"中部南",
-    "kana":"チユウブミナミ",
-    "hira":"ちゆうぶみなみ",
-    "roma":"chiyuubuminami"
-  },
-  "004":{
-    "code":"004",
-    "name":"百舌鳥",
-    "kana":"モズ",
-    "hira":"もず",
-    "roma":"mozu"
-  },
   "005":{
     "code":"005",
     "name":"北",
@@ -47,13 +33,6 @@
     "kana":"ヒガシモズ",
     "hira":"ひがしもず",
     "roma":"higashimozu"
-  },
-  "010":{
-    "code":"010",
-    "name":"津久野",
-    "kana":"ツクノ",
-    "hira":"つくの",
-    "roma":"tsukuno"
   },
   "013":{
     "code":"013",
