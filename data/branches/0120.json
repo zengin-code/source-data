@@ -160,6 +160,13 @@
     "hira":"のしろえきまえ",
     "roma":"noshiroekimae"
   },
+  "027":{
+    "code":"027",
+    "name":"五城目",
+    "kana":"ゴジヨウメ",
+    "hira":"ごじようめ",
+    "roma":"gojiyoume"
+  },
   "031":{
     "code":"031",
     "name":"大館",
@@ -440,13 +447,6 @@
     "hira":"あきたひがし",
     "roma":"akitahigashi"
   },
-  "127":{
-    "code":"127",
-    "name":"茨島",
-    "kana":"バラジマ",
-    "hira":"ばらじま",
-    "roma":"barajima"
-  },
   "128":{
     "code":"128",
     "name":"あきたびじん",
@@ -460,13 +460,6 @@
     "kana":"カヅノ",
     "hira":"かづの",
     "roma":"kaduno"
-  },
-  "220":{
-    "code":"220",
-    "name":"五城目",
-    "kana":"ゴジヨウメ",
-    "hira":"ごじようめ",
-    "roma":"gojiyoume"
   },
   "224":{
     "code":"224",
@@ -565,6 +558,13 @@
     "kana":"ツチザキミナミ",
     "hira":"つちざきみなみ",
     "roma":"tsuchizakiminami"
+  },
+  "262":{
+    "code":"262",
+    "name":"茨島",
+    "kana":"バラジマ",
+    "hira":"ばらじま",
+    "roma":"barajima"
   },
   "263":{
     "code":"263",
