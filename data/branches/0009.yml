@@ -1349,6 +1349,12 @@
   kana: ナゴヤエキマエ
   hira: なごやえきまえ
   roma: nagoyaekimae
+'403':
+  code: '403'
+  name: トランクＮＯＲＴＨ
+  kana: トランクノ－ス
+  hira: とらんくの－す
+  roma: torankuno-su
 '404':
   code: '404'
   name: 豊橋
@@ -1379,6 +1385,12 @@
   kana: スモト
   hira: すもと
   roma: sumoto
+'416':
+  code: '416'
+  name: トランクＳＯＵＴＨ
+  kana: トランクサウス
+  hira: とらんくさうす
+  roma: torankusausu
 '419':
   code: '419'
   name: 尼崎
@@ -1457,6 +1469,12 @@
   kana: ベフ
   hira: べふ
   roma: befu
+'434':
+  code: '434'
+  name: トランクＥＡＳＴ
+  kana: トランクイ－スト
+  hira: とらんくい－すと
+  roma: torankui-suto
 '435':
   code: '435'
   name: 高砂
@@ -1523,6 +1541,12 @@
   kana: ヒメジ
   hira: ひめじ
   roma: himeji
+'452':
+  code: '452'
+  name: トランクＷＥＳＴ
+  kana: トランクウエスト
+  hira: とらんくうえすと
+  roma: torankuuesuto
 '455':
   code: '455'
   name: 飾磨
