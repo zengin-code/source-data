@@ -307,10 +307,10 @@
   roma: nambarokuichi
 '062':
   code: '062'
-  name: 梅田６２
-  kana: ウメダロクニ
-  hira: うめだろくに
-  roma: umedarokuni
+  name: 梅田営業６２
+  kana: ウメタエイギヨヴロクニ
+  hira: うめたえいぎよヴろくに
+  roma: umetaeigiyovurokuni
 '063':
   code: '063'
   name: 枚方
@@ -325,10 +325,10 @@
   roma: nishinomiyarokuyon
 '066':
   code: '066'
-  name: 梅田６６
-  kana: ウメダロクロク
-  hira: うめだろくろく
-  roma: umedarokuroku
+  name: 梅田営業６６
+  kana: ウメダエイギヨウロクロク
+  hira: うめだえいぎようろくろく
+  roma: umedaeigiyourokuroku
 '067':
   code: '067'
   name: なんば６７
@@ -631,10 +631,10 @@
   roma: shinjiyukunisansan
 '236':
   code: '236'
-  name: 梅田２３６
-  kana: ウメダニサンロク
-  hira: うめだにさんろく
-  roma: umedanisanroku
+  name: 梅田営業２３６
+  kana: ウメダエイギヨウニサンロク
+  hira: うめだえいぎようにさんろく
+  roma: umedaeigiyounisanroku
 '237':
   code: '237'
   name: 津
@@ -679,10 +679,10 @@
   roma: saitamanigoni
 '257':
   code: '257'
-  name: 梅田２５７
-  kana: ウメダニゴナナ
-  hira: うめだにごなな
-  roma: umedanigonana
+  name: 梅田営業２５７
+  kana: ウメダエイギヨウニゴナナ
+  hira: うめだえいぎようにごなな
+  roma: umedaeigiyounigonana
 '258':
   code: '258'
   name: たまプラーザ２５８
@@ -817,10 +817,10 @@
   roma: kawasakinihachihachi
 '292':
   code: '292'
-  name: 梅田２９２
-  kana: ウメダニキユウニ
-  hira: うめだにきゆうに
-  roma: umedanikiyuuni
+  name: 梅田営業２９２
+  kana: ウメダエイギヨウニキユウニ
+  hira: うめだえいぎようにきゆうに
+  roma: umedaeigiyounikiyuuni
 '299':
   code: '299'
   name: 吉祥寺２９９
@@ -1207,10 +1207,10 @@
   roma: jiyuugaokananaichigo
 '717':
   code: '717'
-  name: 梅田７１７
-  kana: ウメダナナイチナナ
-  hira: うめだなないちなな
-  roma: umedananaichinana
+  name: 梅田営業７１７
+  kana: ウメダエイギヨナナイチナナ
+  hira: うめだえいぎよなないちなな
+  roma: umedaeigiyonanaichinana
 '719':
   code: '719'
   name: 川崎７１９

@@ -148,17 +148,10 @@
   },
   "045":{
     "code":"045",
-    "name":"稲羽西",
-    "kana":"イナバニシ",
-    "hira":"いなばにし",
-    "roma":"inabanishi"
-  },
-  "046":{
-    "code":"046",
-    "name":"稲羽東",
-    "kana":"イナバヒガシ",
-    "hira":"いなばひがし",
-    "roma":"inabahigashi"
+    "name":"稲羽",
+    "kana":"イナバ",
+    "hira":"いなば",
+    "roma":"inaba"
   },
   "047":{
     "code":"047",

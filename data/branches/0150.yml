@@ -407,12 +407,6 @@
   kana: シモダ
   hira: しもだ
   roma: shimoda
-'693':
-  code: '693'
-  name: 松崎
-  kana: マツザキ
-  hira: まつざき
-  roma: matsuzaki
 '696':
   code: '696'
   name: イービジネスダイレクト
@@ -563,12 +557,6 @@
   kana: ハイバラ
   hira: はいばら
   roma: haibara
-'873':
-  code: '873'
-  name: 相良
-  kana: サガラ
-  hira: さがら
-  roma: sagara
 '881':
   code: '881'
   name: ハウジングローン
@@ -587,9 +575,3 @@
   kana: ナゴヤ
   hira: なごや
   roma: nagoya
-'940':
-  code: '940'
-  name: 大阪
-  kana: オオサカ
-  hira: おおさか
-  roma: oosaka
