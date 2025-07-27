@@ -503,26 +503,12 @@
     "hira":"はまだにし",
     "roma":"hamadanishi"
   },
-  "739":{
-    "code":"739",
-    "name":"浜田東",
-    "kana":"ハマダヒガシ",
-    "hira":"はまだひがし",
-    "roma":"hamadahigashi"
-  },
   "745":{
     "code":"745",
     "name":"江津",
     "kana":"ゴウツ",
     "hira":"ごうつ",
     "roma":"goutsu"
-  },
-  "754":{
-    "code":"754",
-    "name":"江津西",
-    "kana":"ゴウツニシ",
-    "hira":"ごうつにし",
-    "roma":"goutsunishi"
   },
   "759":{
     "code":"759",
@@ -537,27 +523,6 @@
     "kana":"カナギ",
     "hira":"かなぎ",
     "roma":"kanagi"
-  },
-  "768":{
-    "code":"768",
-    "name":"雲城出張所",
-    "kana":"クモギ",
-    "hira":"くもぎ",
-    "roma":"kumogi"
-  },
-  "771":{
-    "code":"771",
-    "name":"弥栄",
-    "kana":"ヤサカ",
-    "hira":"やさか",
-    "roma":"yasaka"
-  },
-  "773":{
-    "code":"773",
-    "name":"旭",
-    "kana":"アサヒ",
-    "hira":"あさひ",
-    "roma":"asahi"
   },
   "801":{
     "code":"801",

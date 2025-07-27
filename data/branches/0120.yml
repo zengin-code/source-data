@@ -1,10 +1,10 @@
 ---
 '001':
   code: '001'
-  name: 本店営業部
-  kana: ホンテン
-  hira: ほんてん
-  roma: honten
+  name: 秋田本店営業部
+  kana: アキタホンテン
+  hira: あきたほんてん
+  roma: akitahonten
 '003':
   code: '003'
   name: 秋田駅前
@@ -355,10 +355,10 @@
   roma: sakatahonchiyou
 '092':
   code: '092'
-  name: 仙台
-  kana: センダイ
-  hira: せんだい
-  roma: sendai
+  name: 仙台中央
+  kana: センダイチユウオウ
+  hira: せんだいちゆうおう
+  roma: sendaichiyuuou
 '093':
   code: '093'
   name: 東京中央
@@ -371,20 +371,8 @@
   kana: イズミ
   hira: いずみ
   roma: izumi
-'121':
-  code: '121'
-  name: 山王
-  kana: サンノウ
-  hira: さんのう
-  roma: sannou
-'126':
-  code: '126'
-  name: 秋田東
-  kana: アキタヒガシ
-  hira: あきたひがし
-  roma: akitahigashi
-'128':
-  code: '128'
+'200':
+  code: '200'
   name: あきたびじん
   kana: アキタビジン
   hira: あきたびじん
@@ -449,6 +437,12 @@
   kana: アラヤ
   hira: あらや
   roma: araya
+'254':
+  code: '254'
+  name: 山王
+  kana: サンノウ
+  hira: さんのう
+  roma: sannou
 '255':
   code: '255'
   name: 河辺
@@ -461,6 +455,12 @@
   kana: アキタミナミ
   hira: あきたみなみ
   roma: akitaminami
+'257':
+  code: '257'
+  name: 秋田東
+  kana: アキタヒガシ
+  hira: あきたひがし
+  roma: akitahigashi
 '258':
   code: '258'
   name: 広面

@@ -341,5 +341,12 @@
     "kana":"ゴテンバ",
     "hira":"ごてんば",
     "roma":"gotemba"
+  },
+  "062":{
+    "code":"062",
+    "name":"富士",
+    "kana":"フジ",
+    "hira":"ふじ",
+    "roma":"fuji"
   }
 }

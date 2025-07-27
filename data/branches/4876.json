@@ -20,20 +20,6 @@
     "hira":"かんべ",
     "roma":"kambe"
   },
-  "008":{
-    "code":"008",
-    "name":"豊房",
-    "kana":"トヨフサ",
-    "hira":"とよふさ",
-    "roma":"toyofusa"
-  },
-  "009":{
-    "code":"009",
-    "name":"館野",
-    "kana":"タテノ",
-    "hira":"たての",
-    "roma":"tateno"
-  },
   "011":{
     "code":"011",
     "name":"富山",
@@ -55,26 +41,12 @@
     "hira":"とみうら",
     "roma":"tomiura"
   },
-  "018":{
-    "code":"018",
-    "name":"鋸南",
-    "kana":"キヨナン",
-    "hira":"きよなん",
-    "roma":"kiyonan"
-  },
   "023":{
     "code":"023",
     "name":"丸山",
     "kana":"マルヤマ",
     "hira":"まるやま",
     "roma":"maruyama"
-  },
-  "024":{
-    "code":"024",
-    "name":"白浜",
-    "kana":"シラハマ",
-    "hira":"しらはま",
-    "roma":"shirahama"
   },
   "027":{
     "code":"027",
@@ -89,13 +61,6 @@
     "kana":"ワダ",
     "hira":"わだ",
     "roma":"wada"
-  },
-  "033":{
-    "code":"033",
-    "name":"江見",
-    "kana":"エミ",
-    "hira":"えみ",
-    "roma":"emi"
   },
   "034":{
     "code":"034",

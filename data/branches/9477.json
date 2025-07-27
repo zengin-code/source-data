@@ -6,20 +6,6 @@
     "hira":"ほんてん",
     "roma":"honten"
   },
-  "020":{
-    "code":"020",
-    "name":"神戸",
-    "kana":"コウベ",
-    "hira":"こうべ",
-    "roma":"koube"
-  },
-  "040":{
-    "code":"040",
-    "name":"明石",
-    "kana":"アカシ",
-    "hira":"あかし",
-    "roma":"akashi"
-  },
   "100":{
     "code":"100",
     "name":"坊勢",
@@ -34,39 +20,11 @@
     "hira":"たじま",
     "roma":"tajima"
   },
-  "420":{
-    "code":"420",
-    "name":"淡路島",
-    "kana":"アワジシマ",
-    "hira":"あわじしま",
-    "roma":"awajishima"
-  },
   "510":{
     "code":"510",
     "name":"和歌山",
     "kana":"ワカヤマ",
     "hira":"わかやま",
     "roma":"wakayama"
-  },
-  "520":{
-    "code":"520",
-    "name":"有田",
-    "kana":"アリダ",
-    "hira":"ありだ",
-    "roma":"arida"
-  },
-  "530":{
-    "code":"530",
-    "name":"御坊",
-    "kana":"ゴボウ",
-    "hira":"ごぼう",
-    "roma":"gobou"
-  },
-  "540":{
-    "code":"540",
-    "name":"串本",
-    "kana":"クシモト",
-    "hira":"くしもと",
-    "roma":"kushimoto"
   }
 }
