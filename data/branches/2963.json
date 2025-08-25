@@ -6,13 +6,6 @@
     "hira":"つくば",
     "roma":"tsukuba"
   },
-  "168":{
-    "code":"168",
-    "name":"勝田南",
-    "kana":"カツタミナミ",
-    "hira":"かつたみなみ",
-    "roma":"katsutaminami"
-  },
   "169":{
     "code":"169",
     "name":"取手",
@@ -85,10 +78,10 @@
   },
   "181":{
     "code":"181",
-    "name":"勝田",
-    "kana":"カツタ",
-    "hira":"かつた",
-    "roma":"katsuta"
+    "name":"ひたちなか",
+    "kana":"ヒタチナカ",
+    "hira":"ひたちなか",
+    "roma":"hitachinaka"
   },
   "182":{
     "code":"182",

@@ -83,6 +83,13 @@
     "hira":"いんぼつくす",
     "roma":"imbotsukusu"
   },
+  "128":{
+    "code":"128",
+    "name":"フィント",
+    "kana":"フイント",
+    "hira":"ふいんと",
+    "roma":"fuinto"
+  },
   "201":{
     "code":"201",
     "name":"ビジネス",

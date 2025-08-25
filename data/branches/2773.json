@@ -139,13 +139,6 @@
     "hira":"ひらまつ",
     "roma":"hiramatsu"
   },
-  "107":{
-    "code":"107",
-    "name":"北野",
-    "kana":"キタノ",
-    "hira":"きたの",
-    "roma":"kitano"
-  },
   "109":{
     "code":"109",
     "name":"小郡",
@@ -218,10 +211,10 @@
   },
   "202":{
     "code":"202",
-    "name":"善導寺",
-    "kana":"ゼンドウジ",
-    "hira":"ぜんどうじ",
-    "roma":"zendouji"
+    "name":"久留米東部",
+    "kana":"クルメトウブ",
+    "hira":"くるめとうぶ",
+    "roma":"kurumetoubu"
   },
   "206":{
     "code":"206",

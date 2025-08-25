@@ -265,26 +265,12 @@
     "hira":"みわ",
     "roma":"miwa"
   },
-  "060":{
-    "code":"060",
-    "name":"藍",
-    "kana":"アイ",
-    "hira":"あい",
-    "roma":"ai"
-  },
-  "062":{
-    "code":"062",
-    "name":"本庄",
-    "kana":"ホンジヨウ",
-    "hira":"ほんじよう",
-    "roma":"honjiyou"
-  },
   "063":{
     "code":"063",
-    "name":"広野",
-    "kana":"ヒロノ",
-    "hira":"ひろの",
-    "roma":"hirono"
+    "name":"三田西",
+    "kana":"サンダニシ",
+    "hira":"さんだにし",
+    "roma":"sandanishi"
   },
   "064":{
     "code":"064",

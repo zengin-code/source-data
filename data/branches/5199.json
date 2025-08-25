@@ -34,6 +34,13 @@
     "hira":"ふじみ",
     "roma":"fujimi"
   },
+  "020":{
+    "code":"020",
+    "name":"富士河口湖",
+    "kana":"フジカワグチコ",
+    "hira":"ふじかわぐちこ",
+    "roma":"fujikawaguchiko"
+  },
   "100":{
     "code":"100",
     "name":"本所",
