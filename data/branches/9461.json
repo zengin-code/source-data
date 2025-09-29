@@ -83,27 +83,6 @@
     "hira":"みやぎ",
     "roma":"miyagi"
   },
-  "431":{
-    "code":"431",
-    "name":"気仙沼",
-    "kana":"ケセンヌマ",
-    "hira":"けせんぬま",
-    "roma":"kesennuma"
-  },
-  "440":{
-    "code":"440",
-    "name":"塩釜",
-    "kana":"シオガマ",
-    "hira":"しおがま",
-    "roma":"shiogama"
-  },
-  "450":{
-    "code":"450",
-    "name":"石巻総合",
-    "kana":"イシノマキ",
-    "hira":"いしのまき",
-    "roma":"ishinomaki"
-  },
   "500":{
     "code":"500",
     "name":"石川",

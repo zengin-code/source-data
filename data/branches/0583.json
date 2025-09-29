@@ -236,5 +236,12 @@
     "kana":"ヤヨイガオカ",
     "hira":"やよいがおか",
     "roma":"yayoigaoka"
+  },
+  "100":{
+    "code":"100",
+    "name":"インターネット",
+    "kana":"インタ－ネツト",
+    "hira":"いんた－ねつと",
+    "roma":"inta-netsuto"
   }
 }

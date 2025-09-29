@@ -90,6 +90,13 @@
     "hira":"ふいんと",
     "roma":"fuinto"
   },
+  "129":{
+    "code":"129",
+    "name":"法人用岡三バンク",
+    "kana":"ホウジンヨウオカサンバンク",
+    "hira":"ほうじんようおかさんばんく",
+    "roma":"houjinyouokasambanku"
+  },
   "201":{
     "code":"201",
     "name":"ビジネス",

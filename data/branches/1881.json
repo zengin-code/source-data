@@ -85,10 +85,10 @@
   },
   "038":{
     "code":"038",
-    "name":"朝倉",
-    "kana":"アサクラ",
-    "hira":"あさくら",
-    "roma":"asakura"
+    "name":"朝倉こうだ",
+    "kana":"アサクラコウダ",
+    "hira":"あさくらこうだ",
+    "roma":"asakurakouda"
   },
   "039":{
     "code":"039",
@@ -152,13 +152,6 @@
     "kana":"シマントチヨウ",
     "hira":"しまんとちよう",
     "roma":"shimantochiyou"
-  },
-  "057":{
-    "code":"057",
-    "name":"神田",
-    "kana":"コウダ",
-    "hira":"こうだ",
-    "roma":"kouda"
   },
   "060":{
     "code":"060",
