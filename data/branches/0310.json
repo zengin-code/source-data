@@ -83,6 +83,13 @@
     "hira":"いんぼつくす",
     "roma":"imbotsukusu"
   },
+  "127":{
+    "code":"127",
+    "name":"弥生かいけい",
+    "kana":"ヤヨイカイケイ",
+    "hira":"やよいかいけい",
+    "roma":"yayoikaikei"
+  },
   "128":{
     "code":"128",
     "name":"フィント",
@@ -117,6 +124,13 @@
     "kana":"ビジネスダイジユウ",
     "hira":"びじねすだいじゆう",
     "roma":"bijinesudaijiyuu"
+  },
+  "220":{
+    "code":"220",
+    "name":"弥生あおいろ",
+    "kana":"ヤヨイアオイロ",
+    "hira":"やよいあおいろ",
+    "roma":"yayoiaoiro"
   },
   "301":{
     "code":"301",
