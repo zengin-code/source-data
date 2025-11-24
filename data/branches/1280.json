@@ -425,5 +425,19 @@
     "kana":"ヤマト",
     "hira":"やまと",
     "roma":"yamato"
+  },
+  "062":{
+    "code":"062",
+    "name":"京浜法人",
+    "kana":"ケイヒンホウジン",
+    "hira":"けいひんほうじん",
+    "roma":"keihinhoujin"
+  },
+  "063":{
+    "code":"063",
+    "name":"大船法人",
+    "kana":"オオフナホウジン",
+    "hira":"おおふなほうじん",
+    "roma":"oofunahoujin"
   }
 }

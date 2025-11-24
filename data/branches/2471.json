@@ -27,13 +27,6 @@
     "hira":"よつかいち",
     "roma":"yotsukaichi"
   },
-  "015":{
-    "code":"015",
-    "name":"津",
-    "kana":"ツ",
-    "hira":"つ",
-    "roma":"tsu"
-  },
   "018":{
     "code":"018",
     "name":"名古屋",
@@ -82,12 +75,5 @@
     "kana":"カスガイ",
     "hira":"かすがい",
     "roma":"kasugai"
-  },
-  "026":{
-    "code":"026",
-    "name":"福井",
-    "kana":"フクイ",
-    "hira":"ふくい",
-    "roma":"fukui"
   }
 }

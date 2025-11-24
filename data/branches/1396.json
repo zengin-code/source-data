@@ -90,13 +90,6 @@
     "hira":"みやき",
     "roma":"miyaki"
   },
-  "059":{
-    "code":"059",
-    "name":"春近",
-    "kana":"ハルチカ",
-    "hira":"はるちか",
-    "roma":"haruchika"
-  },
   "060":{
     "code":"060",
     "name":"竜東",
@@ -117,12 +110,5 @@
     "kana":"シンダイマエ",
     "hira":"しんだいまえ",
     "roma":"shindaimae"
-  },
-  "063":{
-    "code":"063",
-    "name":"いほく",
-    "kana":"イホク",
-    "hira":"いほく",
-    "roma":"ihoku"
   }
 }

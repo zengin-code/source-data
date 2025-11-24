@@ -118,11 +118,53 @@
     "hira":"す－ぺい",
     "roma":"su-pei"
   },
+  "209":{
+    "code":"209",
+    "name":"ａｎｄＳＴ",
+    "kana":"アンドエステイ",
+    "hira":"あんどえすてい",
+    "roma":"andoesutei"
+  },
   "210":{
     "code":"210",
     "name":"ｖｉｖｉＯＮ",
     "kana":"ＶＩＶＩＯＮ",
     "hira":"ＶＩＶＩＯＮ",
     "roma":"vivion"
+  },
+  "251":{
+    "code":"251",
+    "name":"メルカリ第一",
+    "kana":"メルカリダイイチ",
+    "hira":"めるかりだいいち",
+    "roma":"merukaridaiichi"
+  },
+  "252":{
+    "code":"252",
+    "name":"メルカリ第二",
+    "kana":"メルカリダイニ",
+    "hira":"めるかりだいに",
+    "roma":"merukaridaini"
+  },
+  "253":{
+    "code":"253",
+    "name":"メルカリ第三",
+    "kana":"メルカリダイサン",
+    "hira":"めるかりだいさん",
+    "roma":"merukaridaisan"
+  },
+  "254":{
+    "code":"254",
+    "name":"メルカリ第四",
+    "kana":"メルカリダイヨン",
+    "hira":"めるかりだいよん",
+    "roma":"merukaridaiyon"
+  },
+  "255":{
+    "code":"255",
+    "name":"メルカリ第五",
+    "kana":"メルカリダイゴ",
+    "hira":"めるかりだいご",
+    "roma":"merukaridaigo"
   }
 }

@@ -107,12 +107,6 @@
   kana: ロクノヘ
   hira: ろくのへ
   roma: rokunohe
-'036':
-  code: '036'
-  name: 穂並
-  kana: ホナミ
-  hira: ほなみ
-  roma: honami
 '037':
   code: '037'
   name: 大学通
@@ -131,12 +125,6 @@
   kana: アオモリ
   hira: あおもり
   roma: aomori
-'044':
-  code: '044'
-  name: 浪岡出張所
-  kana: ナミオカ
-  hira: なみおか
-  roma: namioka
 '046':
   code: '046'
   name: 黒石
@@ -215,9 +203,3 @@
   kana: シモキタ
   hira: しもきた
   roma: shimokita
-'075':
-  code: '075'
-  name: 大間
-  kana: オオマ
-  hira: おおま
-  roma: ooma

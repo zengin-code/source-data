@@ -230,6 +230,20 @@
     "hira":"よこはまにしぐち",
     "roma":"yokohamanishiguchi"
   },
+  "041":{
+    "code":"041",
+    "name":"都筑センター",
+    "kana":"ツヅキセンタ－",
+    "hira":"つづきせんた－",
+    "roma":"tsudukisenta-"
+  },
+  "042":{
+    "code":"042",
+    "name":"港北新横浜",
+    "kana":"コウホクシンヨコハマ",
+    "hira":"こうほくしんよこはま",
+    "roma":"kouhokushinyokohama"
+  },
   "043":{
     "code":"043",
     "name":"藤沢営業部",

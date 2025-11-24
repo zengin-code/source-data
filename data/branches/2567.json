@@ -27,13 +27,6 @@
     "hira":"こうり",
     "roma":"kouri"
   },
-  "010":{
-    "code":"010",
-    "name":"西淀川",
-    "kana":"ニシヨドガワ",
-    "hira":"にしよどがわ",
-    "roma":"nishiyodogawa"
-  },
   "011":{
     "code":"011",
     "name":"八尾",
@@ -110,13 +103,6 @@
     "kana":"ジヨウトウ",
     "hira":"じようとう",
     "roma":"jiyoutou"
-  },
-  "045":{
-    "code":"045",
-    "name":"大正橋",
-    "kana":"タイシヨウバシ",
-    "hira":"たいしようばし",
-    "roma":"taishiyoubashi"
   },
   "046":{
     "code":"046",
