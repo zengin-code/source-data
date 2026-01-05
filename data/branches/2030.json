@@ -71,10 +71,10 @@
   },
   "014":{
     "code":"014",
-    "name":"三戸",
-    "kana":"サンノヘ",
-    "hira":"さんのへ",
-    "roma":"sannohe"
+    "name":"三戸名川",
+    "kana":"サンノヘナガワ",
+    "hira":"さんのへながわ",
+    "roma":"sannohenagawa"
   },
   "015":{
     "code":"015",
@@ -82,13 +82,6 @@
     "kana":"タツコ",
     "hira":"たつこ",
     "roma":"tatsuko"
-  },
-  "017":{
-    "code":"017",
-    "name":"名川",
-    "kana":"ナガワ",
-    "hira":"ながわ",
-    "roma":"nagawa"
   },
   "019":{
     "code":"019",

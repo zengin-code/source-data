@@ -97,26 +97,12 @@
     "hira":"ことぶき",
     "roma":"kotobuki"
   },
-  "015":{
-    "code":"015",
-    "name":"南",
-    "kana":"ミナミ",
-    "hira":"みなみ",
-    "roma":"minami"
-  },
   "016":{
     "code":"016",
     "name":"卸町",
     "kana":"オロシマチ",
     "hira":"おろしまち",
     "roma":"oroshimachi"
-  },
-  "017":{
-    "code":"017",
-    "name":"しらかば",
-    "kana":"シラカバ",
-    "hira":"しらかば",
-    "roma":"shirakaba"
   },
   "018":{
     "code":"018",

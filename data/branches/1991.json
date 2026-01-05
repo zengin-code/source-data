@@ -293,13 +293,6 @@
     "hira":"きもつきあいら",
     "roma":"kimotsukiaira"
   },
-  "054":{
-    "code":"054",
-    "name":"東郷出張所",
-    "kana":"トウゴウ",
-    "hira":"とうごう",
-    "roma":"tougou"
-  },
   "055":{
     "code":"055",
     "name":"平佐",
@@ -348,13 +341,6 @@
     "kana":"ニシナガシマ",
     "hira":"にしながしま",
     "roma":"nishinagashima"
-  },
-  "066":{
-    "code":"066",
-    "name":"米ノ津出張所",
-    "kana":"コメノツ",
-    "hira":"こめのつ",
-    "roma":"komenotsu"
   },
   "070":{
     "code":"070",

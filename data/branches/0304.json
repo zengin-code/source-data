@@ -134,10 +134,10 @@
   },
   "027":{
     "code":"027",
-    "name":"新宿２７",
-    "kana":"シンジユクニナナ",
-    "hira":"しんじゆくになな",
-    "roma":"shinjiyukuninana"
+    "name":"新宿営業２７",
+    "kana":"シンジユクエイギヨウニナナ",
+    "hira":"しんじゆくえいぎようになな",
+    "roma":"shinjiyukueigiyouninana"
   },
   "029":{
     "code":"029",
@@ -659,10 +659,10 @@
   },
   "201":{
     "code":"201",
-    "name":"新宿２０１",
-    "kana":"シンジユクニゼロイチ",
-    "hira":"しんじゆくにぜろいち",
-    "roma":"shinjiyukunizeroichi"
+    "name":"新宿営業２０１",
+    "kana":"シンジユクエイニゼロイチ",
+    "hira":"しんじゆくえいにぜろいち",
+    "roma":"shinjiyukueinizeroichi"
   },
   "202":{
     "code":"202",
@@ -673,10 +673,10 @@
   },
   "203":{
     "code":"203",
-    "name":"新宿２０３",
-    "kana":"シンジユクニゼロサン",
-    "hira":"しんじゆくにぜろさん",
-    "roma":"shinjiyukunizerosan"
+    "name":"新宿営業２０３",
+    "kana":"シンジユクエイニゼロサン",
+    "hira":"しんじゆくえいにぜろさん",
+    "roma":"shinjiyukueinizerosan"
   },
   "204":{
     "code":"204",
@@ -743,10 +743,10 @@
   },
   "233":{
     "code":"233",
-    "name":"新宿２３３",
-    "kana":"シンジユクニサンサン",
-    "hira":"しんじゆくにさんさん",
-    "roma":"shinjiyukunisansan"
+    "name":"新宿営業２３３",
+    "kana":"シンジユクエイニサンサン",
+    "hira":"しんじゆくえいにさんさん",
+    "roma":"shinjiyukueinisansan"
   },
   "236":{
     "code":"236",
@@ -841,10 +841,10 @@
   },
   "264":{
     "code":"264",
-    "name":"新宿２６４",
-    "kana":"シンジユクニロクヨン",
-    "hira":"しんじゆくにろくよん",
-    "roma":"shinjiyukunirokuyon"
+    "name":"新宿営業２６４",
+    "kana":"シンジユクエイニロクヨン",
+    "hira":"しんじゆくえいにろくよん",
+    "roma":"shinjiyukueinirokuyon"
   },
   "265":{
     "code":"265",

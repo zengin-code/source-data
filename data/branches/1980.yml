@@ -77,12 +77,6 @@
   kana: タカオ
   hira: たかお
   roma: takao
-'085':
-  code: '085'
-  name: 高崎
-  kana: タカサキ
-  hira: たかさき
-  roma: takasaki
 '086':
   code: '086'
   name: 祝吉
@@ -101,12 +95,6 @@
   kana: コオリモト
   hira: こおりもと
   roma: koorimoto
-'089':
-  code: '089'
-  name: 高城
-  kana: タカジヨウ
-  hira: たかじよう
-  roma: takajiyou
 '091':
   code: '091'
   name: 沖水
@@ -137,12 +125,6 @@
   kana: タノ
   hira: たの
   roma: tano
-'108':
-  code: '108'
-  name: 木花
-  kana: キバナ
-  hira: きばな
-  roma: kibana
 '111':
   code: '111'
   name: 日南営業部
