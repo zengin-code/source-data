@@ -293,6 +293,18 @@
   kana: コ－ド
   hira: こ－ど
   roma: ko-do
+'249':
+  code: '249'
+  name: マイク
+  kana: マイク
+  hira: まいく
+  roma: maiku
+'250':
+  code: '250'
+  name: リード
+  kana: リ－ド
+  hira: り－ど
+  roma: ri-do
 '251':
   code: '251'
   name: 第一営業
@@ -329,6 +341,30 @@
   kana: ウリアゲニユウキンダイニ
   hira: うりあげにゆうきんだいに
   roma: uriageniyuukindaini
+'271':
+  code: '271'
+  name: デュオ
+  kana: デユオ
+  hira: でゆお
+  roma: deyuo
+'272':
+  code: '272'
+  name: ラップ
+  kana: ラツプ
+  hira: らつぷ
+  roma: ratsupu
+'273':
+  code: '273'
+  name: プリモ
+  kana: プリモ
+  hira: ぷりも
+  roma: purimo
+'274':
+  code: '274'
+  name: ジャム
+  kana: ジヤム
+  hira: じやむ
+  roma: jiyamu
 '301':
   code: '301'
   name: ひかり

@@ -260,10 +260,10 @@
   },
   "0143":{
     "code":"0143",
-    "name":"八十二",
-    "kana":"ハチジユウニ",
-    "hira":"はちじゆうに",
-    "roma":"hachijiyuuni"
+    "name":"八十二長野",
+    "kana":"ハチジユウニナガノ",
+    "hira":"はちじゆうにながの",
+    "roma":"hachijiyuuninagano"
   },
   "0144":{
     "code":"0144",
@@ -992,13 +992,6 @@
     "kana":"タイコウ",
     "hira":"たいこう",
     "roma":"taikou"
-  },
-  "0533":{
-    "code":"0533",
-    "name":"長野",
-    "kana":"ナガノ",
-    "hira":"ながの",
-    "roma":"nagano"
   },
   "0534":{
     "code":"0534",
