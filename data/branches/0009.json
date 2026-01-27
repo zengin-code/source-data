@@ -146,6 +146,13 @@
     "hira":"おおさかこうむぶ",
     "roma":"oosakakoumubu"
   },
+  "055":{
+    "code":"055",
+    "name":"ＰａｙＰａｙカード",
+    "kana":"ペイペイカ－ド",
+    "hira":"ぺいぺいか－ど",
+    "roma":"peipeika-do"
+  },
   "056":{
     "code":"056",
     "name":"桶川",
@@ -237,12 +244,26 @@
     "hira":"にしおぎくぼ",
     "roma":"nishiogikubo"
   },
+  "087":{
+    "code":"087",
+    "name":"ＰａｙＰａｙカード第二",
+    "kana":"ペイペイカ－ドダイニ",
+    "hira":"ぺいぺいか－どだいに",
+    "roma":"peipeika-dodaini"
+  },
   "089":{
     "code":"089",
     "name":"高円寺",
     "kana":"コウエンジ",
     "hira":"こうえんじ",
     "roma":"kouenji"
+  },
+  "091":{
+    "code":"091",
+    "name":"クローバー",
+    "kana":"クロ－バ－",
+    "hira":"くろ－ば－",
+    "roma":"kuro-ba-"
   },
   "094":{
     "code":"094",
@@ -1805,6 +1826,13 @@
     "hira":"とらんくうえすと",
     "roma":"torankuuesuto"
   },
+  "454":{
+    "code":"454",
+    "name":"ミント",
+    "kana":"ミント",
+    "hira":"みんと",
+    "roma":"minto"
+  },
   "455":{
     "code":"455",
     "name":"飾磨",
@@ -2770,6 +2798,13 @@
     "kana":"イツシヤ",
     "hira":"いつしや",
     "roma":"itsushiya"
+  },
+  "715":{
+    "code":"715",
+    "name":"つくし",
+    "kana":"ツクシ",
+    "hira":"つくし",
+    "roma":"tsukushi"
   },
   "717":{
     "code":"717",

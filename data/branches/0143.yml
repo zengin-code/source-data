@@ -515,6 +515,12 @@
   kana: ハタ
   hira: はた
   roma: hata
+'439':
+  code: '439'
+  name: 平沢出張所
+  kana: ヒラサワ
+  hira: ひらさわ
+  roma: hirasawa
 '451':
   code: '451'
   name: 福島
@@ -773,6 +779,12 @@
   kana: イガラ
   hira: いがら
   roma: igara
+'594':
+  code: '594'
+  name: 桜町
+  kana: サクラマチ
+  hira: さくらまち
+  roma: sakuramachi
 '611':
   code: '611'
   name: 東京営業部
