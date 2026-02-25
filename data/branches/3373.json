@@ -8,17 +8,10 @@
   },
   "006":{
     "code":"006",
-    "name":"中央南",
-    "kana":"チユウオウミナミ",
-    "hira":"ちゆうおうみなみ",
-    "roma":"chiyuuouminami"
-  },
-  "010":{
-    "code":"010",
-    "name":"平内",
-    "kana":"ヒラナイ",
-    "hira":"ひらない",
-    "roma":"hiranai"
+    "name":"東",
+    "kana":"ヒガシ",
+    "hira":"ひがし",
+    "roma":"higashi"
   },
   "012":{
     "code":"012",
@@ -26,13 +19,6 @@
     "kana":"カニタ",
     "hira":"かにた",
     "roma":"kanita"
-  },
-  "015":{
-    "code":"015",
-    "name":"蓬田",
-    "kana":"ヨモギタ",
-    "hira":"よもぎた",
-    "roma":"yomogita"
   },
   "016":{
     "code":"016",
