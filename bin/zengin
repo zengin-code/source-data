@@ -21,7 +21,7 @@ class ZenginCLI < Thor
   include Thor::Invocation
   include Thor::Actions
 
-  SOURCE_ARCHIVE_URL = 'http://ykaku.com/ginkokensaku/ginkositen.zip'
+  SOURCE_ARCHIVE_URL = 'http://ykaku.net/ginkokensaku/ginkositen.zip'
   ARCHIVE_PATH = File.join(ROOT_DIR, 'data', 'src.zip')
   CSV_PATH = File.join(ROOT_DIR, 'data', 'src.csv')
   JSON_OPTIONS = { mode: :compat, indent: 2 }

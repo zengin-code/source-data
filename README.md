@@ -14,7 +14,7 @@ You need zengin code on another language? [Please request to me](https://github.
 
 ## Acknowledgment
 
-Source data by http://ykaku.com/ginkokensaku/index.php
+Source data by http://ykaku.net/ginkokensaku/index.php
 
 ## License
 
