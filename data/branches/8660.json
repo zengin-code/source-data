@@ -40,5 +40,47 @@
     "kana":"セイブ",
     "hira":"せいぶ",
     "roma":"seibu"
+  },
+  "104":{
+    "code":"104",
+    "name":"吉井",
+    "kana":"ヨシイ",
+    "hira":"よしい",
+    "roma":"yoshii"
+  },
+  "112":{
+    "code":"112",
+    "name":"浮羽",
+    "kana":"ウキハ",
+    "hira":"うきは",
+    "roma":"ukiha"
+  },
+  "123":{
+    "code":"123",
+    "name":"田主丸",
+    "kana":"タヌシマル",
+    "hira":"たぬしまる",
+    "roma":"tanushimaru"
+  },
+  "204":{
+    "code":"204",
+    "name":"小郡中央",
+    "kana":"オゴオリチユウオウ",
+    "hira":"おごおりちゆうおう",
+    "roma":"ogoorichiyuuou"
+  },
+  "208":{
+    "code":"208",
+    "name":"北野中央",
+    "kana":"キタノチユウオウ",
+    "hira":"きたのちゆうおう",
+    "roma":"kitanochiyuuou"
+  },
+  "211":{
+    "code":"211",
+    "name":"大刀洗中央",
+    "kana":"タチアライチユウオウ",
+    "hira":"たちあらいちゆうおう",
+    "roma":"tachiaraichiyuuou"
   }
 }

@@ -1,22 +1,4 @@
 ---
-'004':
-  code: '004'
-  name: 小郡中央
-  kana: オゴオリチユウオウ
-  hira: おごおりちゆうおう
-  roma: ogoorichiyuuou
-'008':
-  code: '008'
-  name: 北野中央
-  kana: キタノチユウオウ
-  hira: きたのちゆうおう
-  roma: kitanochiyuuou
-'011':
-  code: '011'
-  name: 大刀洗中央
-  kana: タチアライチユウオウ
-  hira: たちあらいちゆうおう
-  roma: tachiaraichiyuuou
 '100':
   code: '100'
   name: 本店

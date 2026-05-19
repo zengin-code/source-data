@@ -13,6 +13,13 @@
     "hira":"とうきよう",
     "roma":"toukiyou"
   },
+  "030":{
+    "code":"030",
+    "name":"福島",
+    "kana":"フクシマ",
+    "hira":"ふくしま",
+    "roma":"fukushima"
+  },
   "060":{
     "code":"060",
     "name":"茨城",

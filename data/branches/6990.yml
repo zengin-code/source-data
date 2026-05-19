@@ -61,28 +61,16 @@
   roma: fukuchiyama
 '016':
   code: '016'
-  name: 亀岡中央
-  kana: カメオカチユウオウ
-  hira: かめおかちゆうおう
-  roma: kameokachiyuuou
-'019':
-  code: '019'
-  name: 亀岡西部
-  kana: カメオカセイブ
-  hira: かめおかせいぶ
-  roma: kameokaseibu
+  name: 亀岡中央保津
+  kana: カメオカチユウオウホヅ
+  hira: かめおかちゆうおうほづ
+  roma: kameokachiyuuouhodu
 '020':
   code: '020'
-  name: 亀岡大井
-  kana: カメオカオオイ
-  hira: かめおかおおい
-  roma: kameokaooi
-'022':
-  code: '022'
-  name: 保津
-  kana: ホヅ
-  hira: ほづ
-  roma: hodu
+  name: 亀岡大井西部
+  kana: カメオカオオイセイブ
+  hira: かめおかおおいせいぶ
+  roma: kameokaooiseibu
 '023':
   code: '023'
   name: 亀岡中部
@@ -107,12 +95,6 @@
   kana: ヨサノ
   hira: よさの
   roma: yosano
-'030':
-  code: '030'
-  name: 伊根
-  kana: イネ
-  hira: いね
-  roma: ine
 '031':
   code: '031'
   name: 峰山
@@ -157,10 +139,10 @@
   roma: miyadu
 '045':
   code: '045'
-  name: 宮津府中
-  kana: ミヤヅフチユウ
-  hira: みやづふちゆう
-  roma: miyadufuchiyuu
+  name: 宮津府中伊根
+  kana: ミヤヅフチユウイネ
+  hira: みやづふちゆういね
+  roma: miyadufuchiyuuine
 '047':
   code: '047'
   name: 福知山東部

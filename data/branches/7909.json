@@ -216,6 +216,27 @@
     "hira":"みた",
     "roma":"mita"
   },
+  "473":{
+    "code":"473",
+    "name":"内浦",
+    "kana":"ウチウラ",
+    "hira":"うちうら",
+    "roma":"uchiura"
+  },
+  "478":{
+    "code":"478",
+    "name":"大長",
+    "kana":"オオチヨウ",
+    "hira":"おおちよう",
+    "roma":"oochiyou"
+  },
+  "818":{
+    "code":"818",
+    "name":"中野",
+    "kana":"ナカノ",
+    "hira":"なかの",
+    "roma":"nakano"
+  },
   "824":{
     "code":"824",
     "name":"中筋",

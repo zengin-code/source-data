@@ -5354,13 +5354,6 @@
     "hira":"こまちのうきよう",
     "roma":"komachinoukiyou"
   },
-  "3917":{
-    "code":"3917",
-    "name":"うご農協",
-    "kana":"ウゴノウキヨウ",
-    "hira":"うごのうきよう",
-    "roma":"ugonoukiyou"
-  },
   "3929":{
     "code":"3929",
     "name":"大潟村農協",
@@ -7349,13 +7342,6 @@
     "hira":"ひろしまのうきよう",
     "roma":"hiroshimanoukiyou"
   },
-  "8019":{
-    "code":"8019",
-    "name":"広島ゆたか農協",
-    "kana":"ヒロシマユタカノウキヨウ",
-    "hira":"ひろしまゆたかのうきよう",
-    "roma":"hiroshimayutakanoukiyou"
-  },
   "8029":{
     "code":"8029",
     "name":"尾道市農協",
@@ -7579,20 +7565,6 @@
     "kana":"チクゼンアサクラノウキヨウ",
     "hira":"ちくぜんあさくらのうきよう",
     "roma":"chikuzenasakuranoukiyou"
-  },
-  "8653":{
-    "code":"8653",
-    "name":"にじ農協",
-    "kana":"ニジノウキヨウ",
-    "hira":"にじのうきよう",
-    "roma":"nijinoukiyou"
-  },
-  "8656":{
-    "code":"8656",
-    "name":"みい農協",
-    "kana":"ミイノウキヨウ",
-    "hira":"みいのうきよう",
-    "roma":"miinoukiyou"
   },
   "8660":{
     "code":"8660",
@@ -7971,13 +7943,6 @@
     "kana":"ホツカイドウシンギヨレン",
     "hira":"ほつかいどうしんぎよれん",
     "roma":"hotsukaidoushingiyoren"
-  },
-  "9456":{
-    "code":"9456",
-    "name":"福島県信漁連",
-    "kana":"フクシマケンシンギヨレン",
-    "hira":"ふくしまけんしんぎよれん",
-    "roma":"fukushimakenshingiyoren"
   },
   "9461":{
     "code":"9461",
