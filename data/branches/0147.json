@@ -1,10 +1,80 @@
 {
+  "002":{
+    "code":"002",
+    "name":"第二営業部",
+    "kana":"ダイニ",
+    "hira":"だいに",
+    "roma":"daini"
+  },
+  "007":{
+    "code":"007",
+    "name":"フェニックス通り",
+    "kana":"フエニツクスドオリ",
+    "hira":"ふえにつくすどおり",
+    "roma":"fuenitsukusudoori"
+  },
+  "008":{
+    "code":"008",
+    "name":"日の出",
+    "kana":"ヒノデ",
+    "hira":"ひので",
+    "roma":"hinode"
+  },
+  "009":{
+    "code":"009",
+    "name":"新田塚中央",
+    "kana":"ニツタヅカチユウオウ",
+    "hira":"につたづかちゆうおう",
+    "roma":"nitsutadukachiyuuou"
+  },
+  "010":{
+    "code":"010",
+    "name":"若杉",
+    "kana":"ワカスギ",
+    "hira":"わかすぎ",
+    "roma":"wakasugi"
+  },
+  "020":{
+    "code":"020",
+    "name":"堀の宮中央",
+    "kana":"ホリノミヤチユウオウ",
+    "hira":"ほりのみやちゆうおう",
+    "roma":"horinomiyachiyuuou"
+  },
+  "030":{
+    "code":"030",
+    "name":"成和",
+    "kana":"セイワ",
+    "hira":"せいわ",
+    "roma":"seiwa"
+  },
+  "040":{
+    "code":"040",
+    "name":"高木",
+    "kana":"タカギ",
+    "hira":"たかぎ",
+    "roma":"takagi"
+  },
   "048":{
     "code":"048",
     "name":"振込専用",
     "kana":"フリコミセンヨウ",
     "hira":"ふりこみせんよう",
     "roma":"furikomisenyou"
+  },
+  "050":{
+    "code":"050",
+    "name":"森田中央",
+    "kana":"モリタチユウオウ",
+    "hira":"もりたちゆうおう",
+    "roma":"moritachiyuuou"
+  },
+  "074":{
+    "code":"074",
+    "name":"春日中央",
+    "kana":"カスガチユウオウ",
+    "hira":"かすがちゆうおう",
+    "roma":"kasugachiyuuou"
   },
   "100":{
     "code":"100",
@@ -48,6 +118,13 @@
     "hira":"さくらどおり",
     "roma":"sakuradoori"
   },
+  "110":{
+    "code":"110",
+    "name":"春江中央",
+    "kana":"ハルエチユウオウ",
+    "hira":"はるえちゆうおう",
+    "roma":"haruechiyuuou"
+  },
   "112":{
     "code":"112",
     "name":"勝見",
@@ -89,6 +166,13 @@
     "kana":"カワニシ",
     "hira":"かわにし",
     "roma":"kawanishi"
+  },
+  "120":{
+    "code":"120",
+    "name":"三国中央",
+    "kana":"ミクニチユウオウ",
+    "hira":"みくにちゆうおう",
+    "roma":"mikunichiyuuou"
   },
   "121":{
     "code":"121",
@@ -132,6 +216,13 @@
     "hira":"ふくいしやくしよ",
     "roma":"fukuishiyakushiyo"
   },
+  "130":{
+    "code":"130",
+    "name":"金津中央",
+    "kana":"カナヅチユウオウ",
+    "hira":"かなづちゆうおう",
+    "roma":"kanaduchiyuuou"
+  },
   "131":{
     "code":"131",
     "name":"文京",
@@ -174,6 +265,13 @@
     "hira":"いたがき",
     "roma":"itagaki"
   },
+  "140":{
+    "code":"140",
+    "name":"丸岡中央",
+    "kana":"マルオカチユウオウ",
+    "hira":"まるおかちゆうおう",
+    "roma":"maruokachiyuuou"
+  },
   "141":{
     "code":"141",
     "name":"学園出張所",
@@ -208,6 +306,48 @@
     "kana":"キヨウデン",
     "hira":"きようでん",
     "roma":"kiyouden"
+  },
+  "150":{
+    "code":"150",
+    "name":"松岡中央",
+    "kana":"マツオカチユウオウ",
+    "hira":"まつおかちゆうおう",
+    "roma":"matsuokachiyuuou"
+  },
+  "160":{
+    "code":"160",
+    "name":"勝山中央",
+    "kana":"カツヤマチユウオウ",
+    "hira":"かつやまちゆうおう",
+    "roma":"katsuyamachiyuuou"
+  },
+  "170":{
+    "code":"170",
+    "name":"大野中央",
+    "kana":"オオノチユウオウ",
+    "hira":"おおのちゆうおう",
+    "roma":"oonochiyuuou"
+  },
+  "175":{
+    "code":"175",
+    "name":"社",
+    "kana":"ヤシロ",
+    "hira":"やしろ",
+    "roma":"yashiro"
+  },
+  "176":{
+    "code":"176",
+    "name":"花堂中央",
+    "kana":"ハナンドウチユウオウ",
+    "hira":"はなんどうちゆうおう",
+    "roma":"hanandouchiyuuou"
+  },
+  "177":{
+    "code":"177",
+    "name":"開発",
+    "kana":"カイホツ",
+    "hira":"かいほつ",
+    "roma":"kaihotsu"
   },
   "191":{
     "code":"191",
@@ -251,6 +391,13 @@
     "hira":"ひがしさばえ",
     "roma":"higashisabae"
   },
+  "210":{
+    "code":"210",
+    "name":"鯖江中央",
+    "kana":"サバエチユウオウ",
+    "hira":"さばえちゆうおう",
+    "roma":"sabaechiyuuou"
+  },
   "211":{
     "code":"211",
     "name":"朝日町",
@@ -271,6 +418,13 @@
     "kana":"エチゼンチヨウ",
     "hira":"えちぜんちよう",
     "roma":"echizenchiyou"
+  },
+  "217":{
+    "code":"217",
+    "name":"神明中央",
+    "kana":"シンメイチユウオウ",
+    "hira":"しんめいちゆうおう",
+    "roma":"shimmeichiyuuou"
   },
   "220":{
     "code":"220",
@@ -314,6 +468,13 @@
     "hira":"たけふきた",
     "roma":"takefukita"
   },
+  "230":{
+    "code":"230",
+    "name":"武生中央",
+    "kana":"タケフチユウオウ",
+    "hira":"たけふちゆうおう",
+    "roma":"takefuchiyuuou"
+  },
   "231":{
     "code":"231",
     "name":"河野",
@@ -349,6 +510,27 @@
     "hira":"おかもと",
     "roma":"okamoto"
   },
+  "240":{
+    "code":"240",
+    "name":"越前町中央",
+    "kana":"エチゼンチヨウチユウオウ",
+    "hira":"えちぜんちようちゆうおう",
+    "roma":"echizenchiyouchiyuuou"
+  },
+  "250":{
+    "code":"250",
+    "name":"今立中央",
+    "kana":"イマダテチユウオウ",
+    "hira":"いまだてちゆうおう",
+    "roma":"imadatechiyuuou"
+  },
+  "253":{
+    "code":"253",
+    "name":"村国中央",
+    "kana":"ムラクニチユウオウ",
+    "hira":"むらくにちゆうおう",
+    "roma":"murakunichiyuuou"
+  },
   "300":{
     "code":"300",
     "name":"大野",
@@ -363,12 +545,26 @@
     "hira":"さんばんどおり",
     "roma":"sambandoori"
   },
+  "310":{
+    "code":"310",
+    "name":"敦賀中央",
+    "kana":"ツルガチユウオウ",
+    "hira":"つるがちゆうおう",
+    "roma":"tsurugachiyuuou"
+  },
   "311":{
     "code":"311",
     "name":"勝山",
     "kana":"カツヤマ",
     "hira":"かつやま",
     "roma":"katsuyama"
+  },
+  "320":{
+    "code":"320",
+    "name":"美浜中央",
+    "kana":"ミハマチユウオウ",
+    "hira":"みはまちゆうおう",
+    "roma":"mihamachiyuuou"
   },
   "321":{
     "code":"321",
@@ -447,6 +643,20 @@
     "hira":"あわら",
     "roma":"awara"
   },
+  "350":{
+    "code":"350",
+    "name":"小浜中央",
+    "kana":"オバマチユウオウ",
+    "hira":"おばまちゆうおう",
+    "roma":"obamachiyuuou"
+  },
+  "360":{
+    "code":"360",
+    "name":"高浜中央",
+    "kana":"タカハマチユウオウ",
+    "hira":"たかはまちゆうおう",
+    "roma":"takahamachiyuuou"
+  },
   "400":{
     "code":"400",
     "name":"敦賀",
@@ -474,6 +684,13 @@
     "kana":"マツシマ",
     "hira":"まつしま",
     "roma":"matsushima"
+  },
+  "410":{
+    "code":"410",
+    "name":"小松中央",
+    "kana":"コマツチユウオウ",
+    "hira":"こまつちゆうおう",
+    "roma":"komatsuchiyuuou"
   },
   "411":{
     "code":"411",
@@ -531,6 +748,20 @@
     "hira":"たかはま",
     "roma":"takahama"
   },
+  "453":{
+    "code":"453",
+    "name":"三方中央",
+    "kana":"ミカタチユウオウ",
+    "hira":"みかたちゆうおう",
+    "roma":"mikatachiyuuou"
+  },
+  "454":{
+    "code":"454",
+    "name":"上中中央",
+    "kana":"カミナカチユウオウ",
+    "hira":"かみなかちゆうおう",
+    "roma":"kaminakachiyuuou"
+  },
   "500":{
     "code":"500",
     "name":"金沢",
@@ -580,12 +811,26 @@
     "hira":"かみあらや",
     "roma":"kamiaraya"
   },
+  "510":{
+    "code":"510",
+    "name":"舞鶴中央",
+    "kana":"マイヅルチユウオウ",
+    "hira":"まいづるちゆうおう",
+    "roma":"maiduruchiyuuou"
+  },
   "511":{
     "code":"511",
     "name":"松任",
     "kana":"マツトウ",
     "hira":"まつとう",
     "roma":"matsutou"
+  },
+  "520":{
+    "code":"520",
+    "name":"東舞鶴",
+    "kana":"ヒガシマイヅル",
+    "hira":"ひがしまいづる",
+    "roma":"higashimaiduru"
   },
   "521":{
     "code":"521",
@@ -594,12 +839,26 @@
     "hira":"こまつ",
     "roma":"komatsu"
   },
+  "530":{
+    "code":"530",
+    "name":"京都中央",
+    "kana":"キヨウトチユウオウ",
+    "hira":"きようとちゆうおう",
+    "roma":"kiyoutochiyuuou"
+  },
   "531":{
     "code":"531",
     "name":"大聖寺",
     "kana":"ダイシヨウジ",
     "hira":"だいしようじ",
     "roma":"daishiyouji"
+  },
+  "541":{
+    "code":"541",
+    "name":"金沢中央",
+    "kana":"カナザワチユウオウ",
+    "hira":"かなざわちゆうおう",
+    "roma":"kanazawachiyuuou"
   },
   "560":{
     "code":"560",
@@ -677,6 +936,13 @@
     "kana":"クサツ",
     "hira":"くさつ",
     "roma":"kusatsu"
+  },
+  "663":{
+    "code":"663",
+    "name":"大阪中央",
+    "kana":"オオサカチユウオウ",
+    "hira":"おおさかちゆうおう",
+    "roma":"oosakachiyuuou"
   },
   "750":{
     "code":"750",

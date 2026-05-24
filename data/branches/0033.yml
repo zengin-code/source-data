@@ -211,16 +211,16 @@
   roma: uoza
 '814':
   code: '814'
-  name: りゅう座
-  kana: リユウザ
-  hira: りゆうざ
-  roma: riyuuza
+  name: ＰａｙＰａｙカード
+  kana: ＰＡＹＰＡＹカ－ド
+  hira: ＰＡＹＰＡＹか－ど
+  roma: paypayka-do
 '815':
   code: '815'
-  name: はくちょう座
-  kana: ハクチヨウザ
-  hira: はくちようざ
-  roma: hakuchiyouza
+  name: ＰａｙＰａｙカード第二
+  kana: ＰＡＹＰＡＹカ－ドダイニ
+  hira: ＰＡＹＰＡＹか－どだいに
+  roma: paypayka-dodaini
 '816':
   code: '816'
   name: アンドロメダ座
