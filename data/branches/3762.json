@@ -1,17 +1,10 @@
 {
   "001":{
     "code":"001",
-    "name":"本所",
-    "kana":"ホンシヨ",
-    "hira":"ほんしよ",
-    "roma":"honshiyo"
-  },
-  "005":{
-    "code":"005",
-    "name":"花輪",
-    "kana":"ハナワ",
-    "hira":"はなわ",
-    "roma":"hanawa"
+    "name":"本店",
+    "kana":"ホンテン",
+    "hira":"ほんてん",
+    "roma":"honten"
   },
   "008":{
     "code":"008",

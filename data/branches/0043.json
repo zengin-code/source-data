@@ -55,6 +55,13 @@
     "hira":"ご－るでんげ－と",
     "roma":"go-rudenge-to"
   },
+  "009":{
+    "code":"009",
+    "name":"トゲツキョウ",
+    "kana":"トケツキヨウ",
+    "hira":"とけつきよう",
+    "roma":"toketsukiyou"
+  },
   "101":{
     "code":"101",
     "name":"グランリバー",
@@ -145,6 +152,13 @@
     "kana":"ワ－ルド",
     "hira":"わ－るど",
     "roma":"wa-rudo"
+  },
+  "213":{
+    "code":"213",
+    "name":"ユメノソラ",
+    "kana":"ユメノソラ",
+    "hira":"ゆめのそら",
+    "roma":"yumenosora"
   },
   "251":{
     "code":"251",

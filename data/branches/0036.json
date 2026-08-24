@@ -712,5 +712,40 @@
     "kana":"ラクテンシヨウケンダイヨン",
     "hira":"らくてんしようけんだいよん",
     "roma":"rakutenshiyoukendaiyon"
+  },
+  "728":{
+    "code":"728",
+    "name":"法人第二十八",
+    "kana":"ホウジンダイニジユウハチ",
+    "hira":"ほうじんだいにじゆうはち",
+    "roma":"houjindainijiyuuhachi"
+  },
+  "729":{
+    "code":"729",
+    "name":"法人第二十九",
+    "kana":"ホウジンニジユウキユウ",
+    "hira":"ほうじんにじゆうきゆう",
+    "roma":"houjinnijiyuukiyuu"
+  },
+  "730":{
+    "code":"730",
+    "name":"法人第三十",
+    "kana":"ホウジンダイサンジユウ",
+    "hira":"ほうじんだいさんじゆう",
+    "roma":"houjindaisanjiyuu"
+  },
+  "731":{
+    "code":"731",
+    "name":"法人第三十一",
+    "kana":"ホウジンサンジユウイチ",
+    "hira":"ほうじんさんじゆういち",
+    "roma":"houjinsanjiyuuichi"
+  },
+  "732":{
+    "code":"732",
+    "name":"法人第三十二",
+    "kana":"ホウジンダイサンジユウニ",
+    "hira":"ほうじんだいさんじゆうに",
+    "roma":"houjindaisanjiyuuni"
   }
 }

@@ -34,13 +34,6 @@
     "hira":"あかみ",
     "roma":"akami"
   },
-  "008":{
-    "code":"008",
-    "name":"吾妻",
-    "kana":"アヅマ",
-    "hira":"あづま",
-    "roma":"aduma"
-  },
   "011":{
     "code":"011",
     "name":"田沼",
@@ -48,33 +41,12 @@
     "hira":"たぬま",
     "roma":"tanuma"
   },
-  "012":{
-    "code":"012",
-    "name":"三好",
-    "kana":"ミヨシ",
-    "hira":"みよし",
-    "roma":"miyoshi"
-  },
-  "014":{
-    "code":"014",
-    "name":"愛村",
-    "kana":"アイソン",
-    "hira":"あいそん",
-    "roma":"aison"
-  },
   "016":{
     "code":"016",
     "name":"葛生",
     "kana":"クズウ",
     "hira":"くずう",
     "roma":"kuzuu"
-  },
-  "017":{
-    "code":"017",
-    "name":"常盤",
-    "kana":"トキワ",
-    "hira":"ときわ",
-    "roma":"tokiwa"
   },
   "100":{
     "code":"100",

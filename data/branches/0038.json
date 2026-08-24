@@ -69,6 +69,76 @@
     "hira":"きうい",
     "roma":"kiui"
   },
+  "110":{
+    "code":"110",
+    "name":"ドーナツ",
+    "kana":"ド－ナツ",
+    "hira":"ど－なつ",
+    "roma":"do-natsu"
+  },
+  "111":{
+    "code":"111",
+    "name":"クッキー",
+    "kana":"クツキ－",
+    "hira":"くつき－",
+    "roma":"kutsuki-"
+  },
+  "112":{
+    "code":"112",
+    "name":"マカロン",
+    "kana":"マカロン",
+    "hira":"まかろん",
+    "roma":"makaron"
+  },
+  "113":{
+    "code":"113",
+    "name":"パフェ",
+    "kana":"パフエ",
+    "hira":"ぱふえ",
+    "roma":"pafue"
+  },
+  "114":{
+    "code":"114",
+    "name":"チョコレート",
+    "kana":"チヨコレ－ト",
+    "hira":"ちよこれ－と",
+    "roma":"chiyokore-to"
+  },
+  "115":{
+    "code":"115",
+    "name":"アイスクリーム",
+    "kana":"アイスクリ－ム",
+    "hira":"あいすくり－む",
+    "roma":"aisukuri-mu"
+  },
+  "116":{
+    "code":"116",
+    "name":"ドラヤキ",
+    "kana":"ドラヤキ",
+    "hira":"どらやき",
+    "roma":"dorayaki"
+  },
+  "117":{
+    "code":"117",
+    "name":"ティラミス",
+    "kana":"テイラミス",
+    "hira":"ていらみす",
+    "roma":"teiramisu"
+  },
+  "118":{
+    "code":"118",
+    "name":"クレープ",
+    "kana":"クレ－プ",
+    "hira":"くれ－ぷ",
+    "roma":"kure-pu"
+  },
+  "119":{
+    "code":"119",
+    "name":"ショートケーキ",
+    "kana":"シヨ－トケ－キ",
+    "hira":"しよ－とけ－き",
+    "roma":"shiyo-toke-ki"
+  },
   "201":{
     "code":"201",
     "name":"ＪＡＬ",
