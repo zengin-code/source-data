@@ -1,14 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    bigdecimal (3.1.9)
+    bigdecimal (4.1.2)
     csv (3.3.2)
     moji (1.6)
     nkf (0.2.0)
-    oj (3.16.9)
+    oj (3.17.3)
       bigdecimal (>= 3.0)
       ostruct (>= 0.2)
-    ostruct (0.6.1)
+    ostruct (0.6.3)
     rake (13.2.1)
     romaji (0.2.4)
       rake (>= 0.8.0)
